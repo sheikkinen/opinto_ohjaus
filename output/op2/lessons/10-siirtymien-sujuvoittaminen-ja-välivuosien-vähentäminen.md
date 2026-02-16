@@ -1,86 +1,97 @@
 # OPINTO-OHJAUS — OP2
 ## Tunti 10 — Siirtymien sujuvoittaminen ja välivuosien vähentäminen
 **Vuosikello**: 2. vuosi kevät
-**Tyyppi**: Verkko-opetus
+**Tyyppi**: Verkkotunti
 
 ### Tavoitteet (LOPS 2019)
-- Opiskelija ymmärtää kokonaisvaltaisen opinto-ohjauksen merkityksen sujuvissa siirtymissä toiselta asteelta korkea-asteelle
-- Opiskelija tutustuu konkreettisiin toimenpiteisiin ja väyliin, jotka madaltavat kynnystä jatko-opintoihin (esim. OAMK Highway, Opopassi)
-- Opiskelija osaa tunnistaa omia voimavarojaan ja stressinhallintakeinojaan todistusvalinnan ja hakuprosessin aiheuttamien paineiden keskellä
-- Opiskelija saa tietoa uudistuneesta oppimisen tuesta (voimaan 1.8.2025) ja sen hyödyntämisestä omissa opinnoissaan
+- Opiskelija ymmärtää, miten lukioaikaiset valinnat vaikuttavat jatko-opintomahdollisuuksiin ja todistusvalintaan
+- Opiskelija tuntee konkreettisia keinoja madaltaa kynnystä siirtyä korkea-asteelle (esim. suorat väylät, avoimen opinnot)
+- Opiskelija osaa suunnitella sujuvaa siirtymää lukiosta jatko-opintoihin ja tunnistaa tarvittavat tukimuodot
+- Opiskelija kykenee realistiseen ja perusteltuun päätöksentekoon jatko-opinnoista ja urasuunnitelmasta
 
 ### Laaja-alainen osaaminen
-- **Hyvinvointiosaaminen** — itsetuntemuksen, voimavarojen ja selviytymisen vahvistaminen muutostilanteissa
-- **Vuorovaikutusosaaminen** — vertaistuella ja pienryhmäkeskusteluilla tuetaan sopeutumista uusiin opiskeluympäristöihin
+- **Hyvinvointiosaaminen** (tukee uskoa omiin mahdollisuuksiin ja selviytymistä siirtymävaiheessa)
+- **Yhteiskunnallinen osaaminen** (kasvattaa vastuulliseksi osaksi yhteiskuntaa ja työelämää)
 
 ### Tunnin kulku (75 min)
 
-1. **Virittäytyminen** (8 min)  
-   Opettaja esittää lyhyen videoklipin (2–3 min) todellisista lukiolaisten kokemuksista siirtymävaiheesta ja välivuosista. Tämän jälkeen avoin kysymys: *"Mitä pelkoja tai toiveita teillä on lukion jälkeisestä ajasta?"* — opiskelijat kirjoittavat anonyymisti chat-toimintoon tai padlet-alustalle.
+1. **Virittäytyminen** (10 min) — *Välivuosimyyttien murtaminen*
+   - Aloituskysely Mentimeterissä: "Mitä ajattelet välivuodesta? Mikä voisi olla syy välivuoden pitämiseen?"
+   - Nopea keskustelu chatissa: Millaisia ennakkokäsityksiä meillä on siirtymistä korkea-asteelle?
 
-2. **Työskentely** (55 min)
+2. **Työskentely** (50 min) — *Sujuvat polut korkea-asteelle*
+   
+   **A) Infopaketti (15 min) — Jaettu näyttö/tallennettu video**
+   - Todistusvalinnan uudistukset 2026 ja niiden vaikutus lukioaikaisiin valintoihin
+   - Suorat väylät korkea-asteelle: OAMK Highway, Oulun yliopiston Opopassi, avoimen väylät
+   - Jälkiohjausvelvoite ja tukiverkostot (Ohjaamo, opiskeluhuolto)
+   - Oppimisen tuen uudistus (1.8.2025) ja sen merkitys siirtymävaiheessa
+   
+   **B) Pienryhmätyöskentely Zoom-ryhmissä (25 min)**
+   
+   Ryhmät (3-4 opiskelijaa) saavat yhden seuraavista teemoista:
+   - **Ryhmä 1**: Suorat väylät — Tutustukaa OAMK Highwayhin tai vastaavaan. Mitä hyötyjä? Mitä vaatimuksia?
+   - **Ryhmä 2**: Todistusvalinta — Miten lukion kurssivalinnat vaikuttavat pisteisiin? Mitä kannattaa huomioida?
+   - **Ryhmä 3**: Välivuoden suunnittelu — Milloin välivuosi on järkevä? Miten sitä voi hyödyntää?
+   - **Ryhmä 4**: Tukiverkostot — Millaista tukea on saatavilla siirtymävaiheessa? (jälkiohjaus, Ohjaamo, opiskeluhuolto)
+   
+   Ryhmät kokoavat löydöksensä yhteiselle Padlet-seinälle.
+   
+   **C) Yhteinen purku (10 min)**
+   - Jokainen ryhmä esittelee 2 min tiivistelmän
+   - Opinto-ohjaaja täydentää ja korostaa keskeisiä pointteja
 
-   **Osa A: Siirtymien sujuvoittamisen keinot** (20 min)
-   - Opettaja esittelee diaesityksen (10 min): kokonaisvaltaisen ohjauksen merkitys, jälkiohjausvelvoite, korkeakouluyhteistyö (OAMK Highway, Opopassi), todistusvalinnan uudistukset 2026, yhteishaku 2026
-   - Interaktiivinen elementti: opiskelijat merkitsevät Mentimeter-kyselyyn, mitkä väylät tuntuvat heistä houkuttelevimmilta ja miksi
-   - Opettaja kommentoi vastauksia ja korjaa väärinkäsityksiä
-
-   **Osa B: Pienryhmätyöskentely — "Minun polkuni"** (25 min)
-   - Opiskelijat jaetaan 4–5 hengen ryhmiin (breakout rooms)
-   - Jokainen ryhmä saa yhden skenaarion (esim. "Haluan ammattikorkeakouluun ilman välivuotta", "Pelkään todistusvalintaa", "En tiedä vielä, mitä haluan")
-   - Ryhmä pohtii: Mitä tietoa tarvitaan? Mitkä väylät sopivat? Miten stressiä hallitaan? Kuka voi auttaa?
-   - Ryhmät kirjaavat tulokset yhteiseen dokumenttiin (Google Doc tai Padlet)
-   - 2–3 ryhmä esittelee tuloksensa (3–5 min)
-
-   **Osa C: Oppimisen tuen uudistus ja hyvinvointi** (10 min)
-   - Opettaja selittää uudistuneen oppimisen tuen (1.8.2025) ja sen merkityksen: matalan kynnyksen ennaltaehkäisevä tuki, tukiopetus, HOPSiin kirjaaminen
-   - Opiskelijat saavat linkin Opetushallituksen ja OAJ:n tietoihin
-   - Lyhyt keskustelu: *"Mitä tukea voitte hyödyntää omissa opinnoissanne?"*
-
-3. **Yhteenveto ja reflektio** (12 min)
-   - Opettaja kokoaa keskeiset viestit: **Siirtymät ovat suunniteltavissa, apua on saatavilla, välivuodet eivät ole epäonnistuminen**
-   - Opiskelijat täyttävät lyhyen reflektiolomakkeen (Google Form, 3–4 kysymystä):
-     - Mitä uutta opit?
-     - Mikä väylä kiinnostaa sinua eniten?
-     - Mihin haluat saada lisätietoa?
-   - Opettaja lupaa käydä vastaukset läpi ja lähettää seurantamateriaalit
+3. **Yhteenveto ja reflektio** (15 min) — *Oma polkuni*
+   - Henkilökohtainen pohdinta Flinga-taululle tai HOPSiin:
+     * "Mikä on minun suunnitelmani siirtymän sujuvoittamiseksi?"
+     * "Mitä konkreettisia askeleita otan kevään ja syksyn aikana?"
+     * "Millaista tukea tarvitsen?"
+   - Muistutus: Yksilöohjausajat kevään aikana, yhteishakuinfo ennen hakuaikaa
+   - Kotitehtävä: Tutustu yhteen korkeakouluun Opintopolku.fi:ssä ja kirjaa HOPSiin 3 kiinnostavaa hakukohdetta
 
 ### Menetelmät
-- Videomateriaali ja diaesitys
-- Interaktiivinen kyselytyökalu (Mentimeter)
-- Pienryhmätyöskentely (breakout rooms)
-- Vertaistuella pohjautuva pohdinta
-- Itsearviointi ja reflektio
+- Verkkokysely (Mentimeter)
+- Infoluento (jaettu näyttö/video)
+- Pienryhmätyöskentely (Zoom breakout rooms)
+- Yhteisöllinen dokumentointi (Padlet)
+- Henkilökohtainen reflektio (Flinga/HOPS)
+- Vertaisohjaus
 
 ### Materiaalit & Lähteet
-- **Diaesitys:** Siirtymien sujuvoittaminen (koulun intranetissa)
-- **Videoklipit:** Lukiolaisten kokemuksia (YouTube tai koulun mediapalvelu)
-- **Interaktiivinen työkalu:** Mentimeter-kysely
-- **Yhteistyötyökalut:** Google Docs, Padlet tai vastaava
-- **Reflektiolomake:** Google Form
-- **Linkit opiskelijoille:**
-  - [OAMK Highway](https://www.oamk.fi) — suora väylä ammattikorkeakouluun
-  - [Oulun yliopiston Opopassi](https://www.oulu.fi/yliopisto)
-  - [Opintopolku.fi](https://opintopolku.fi) — yhteishaku 2026, todistusvalinta
-  - [Opetushallitus: Oppimisen tuen uudistus](https://www.oph.fi/fi/koulutus-ja-tutkinnot/oppimisen-tuen-uudistus-lukiokoulutuksessa)
-  - [OAJ: Oppimisen tuki lukiossa](https://www.oaj.fi/tavoitteemme/oppimisen-tuki/oppimisen-tuki-lukiossa/)
+- **Opintopolku.fi** — Todistusvalinnan kriteerit ja hakukohteet
+- **OAMK Highway** — https://www.oamk.fi/fi/highway (tai vastaava paikallinen)
+- **Oulun yliopiston Opopassi** — https://www.oulu.fi/fi/opiskelu/opopassi
+- **Todistusvalinta 2026** — https://www.ammattikorkeakouluun.fi/hakijalle/valintatavat/todistusvalinta/
+- **Oppimisen tuen uudistus** — https://www.oph.fi/fi/koulutus-ja-tutkinnot/oppimisen-tuen-uudistus-lukiokoulutuksessa
+- **Ohjaamo-palvelut** — https://ohjaamot.fi/
+- Padlet-seinä ryhmätöille
+- Flinga tai vastaava reflektointityökalu
+- Koulun HOPS-järjestelmä
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen** — aktiivinen osallistuminen keskusteluihin ja pienryhmätyöhön (S/H)
-- **Reflektiolomake** — vastausten perusteella arvioidaan oppimisen syvyys ja omien tavoitteiden selkiintyminen
-- **HOPS-päivitys** — opiskelijat päivittävät HOPSiinsa jatko-opintoihin liittyviä tavoitteita ja tarvittavia tukitoimia tunnin jälkeen
+- **Osallistuminen**: Aktiivinen läsnäolo verkkotunnilla ja pienryhmätyöskentelyssä
+- **Ryhmätyö**: Panoksen antaminen ryhmän tehtävään ja Padlet-tuotokseen
+- **Henkilökohtainen reflektio**: Oman siirtymäsuunnitelman pohdinta ja kirjaaminen HOPSiin
+- **Kotitehtävä**: Korkeakouluun tutustuminen ja hakukohteiden kirjaaminen
+
+**Suoritusmerkintä S** edellyttää läsnäoloa, ryhmätyöhön osallistumista ja henkilökohtaisen reflektion palauttamista.
 
 ### Eriyttäminen
-- **Oppimisen tuki:** Opiskelijat, joilla on oppimisen tuen tarve, saavat etukäteen materiaalit ja voivat osallistua pienryhmään, jossa on opettajan tai erityisopettajan tuki
-- **Kielellinen eriyttäminen:** Materiaalit saatavilla selkosuomeksi tai muilla kielillä tarvittaessa
-- **Syventävä tehtävä:** Kiinnostuneet opiskelijat voivat tutustua syvemmin johonkin väylään (esim. OAMK Highway -prosessiin) ja tehdä siitä lyhyen esityksen seuraavalla tunnilla
-- **Asynkroninen osallistuminen:** Opiskelijat, joilla on teknisiä ongelmia, voivat osallistua nauhoituksen kautta ja lähettää reflektiolomakkeen myöhemmin
+- **Tekninen tuki**: Varmistetaan etukäteen, että kaikilla on toimivat laitteet ja yhteydet; tarjotaan vaihtoehtoinen osallistumistapa (esim. puhelimitse) tarvittaessa
+- **Sisällön eriyttäminen**: Pienryhmissä voidaan jakaa tehtäviä eri tasoilla (tiedonhaku vs. kriittinen analyysi)
+- **Kielellinen tuki**: Infomateriaali jaetaan etukäteen, jotta sitä voi käydä läpi omaan tahtiin; mahdollisuus käyttää käännöstyökaluja
+- **Oppimisen tuki**: Erityisopettaja voi olla mukana tukemassa tiettyjä opiskelijoita; mahdollisuus jatkaa keskustelua yksilöohjauksessa
+- **Joustava suorittaminen**: Jos opiskelija ei pääse osallistumaan reaaliaikaisesti, voi katsoa tallennetta ja tehdä vaihtoehtoisen tehtävän
 
 ### Koko koulu ohjaa — yhteistyö
-- **Ryhmänohjaaja** — seuraa opiskelijoiden hyvinvointia ja tukee stressinhallintaa
-- **Aineenopettajat** — huomioivat todistusvalintaan vaikuttavat tekijät ja tukevat opiskelijoita opinnoissa
-- **Erityisopettaja** — tukee opiskelijoita, joilla on oppimisen tuen tarve
-- **Opiskeluhuolto** (psykologi, kuraattori) — tukee siirtymävaiheeseen liittyvää ahdistusta ja stressiä
-- **Korkeakoulut** (OAMK, Oulun yliopisto) — tarjoavat tietoa väylistä ja osallistuvat tarvittaessa vierailijoina
-- **Ohjaamo** — yhteistyö valmistuneiden tukemiseksi, jos välivuosi tulee ajankohtaiseksi
-- **Rehtori** — varmistaa, että jälkiohjausvelvoite toteutetaan ja että ohjaus on kokonaisvaltaista
+- **Ryhmänohjaaja**: Tukee HOPSin päivittämistä ja jatkokeskusteluja
+- **Aineenopettajat**: Voivat kertoa, miten heidän aineensa tukee jatko-opintovalmiuksia
+- **Erityisopettaja**: Tukee oppimisvaikeuksien kanssa kamppailevia siirtymävaiheessa
+- **Opiskeluhuolto** (psykologi, kuraattori): Tukee hyvinvointia ja stressinhallintaa paineen alla
+- **Korkeakoulut**: Mahdolliset vierailijat/infot suorista väylistä (esim. OAMK Highway -koordinaattori)
+- **Ohjaamo**: Yhteistyö valmistuneiden tukemisessa
+- **Rehtori**: Varmistaa resurssit jälkiohjaukseen ja korkeakouluyhteistyöhön
+
+---
+
+**Huom!** Tunti valmistaa opiskelijoita 3. vuoden intensiivisempään jatko-ohjausvaiheeseen. Kevään aikana kannattaa sopia yksilöohjausajat ja varmistaa, että jokainen on kartalla omasta tilanteestaan ennen yhteishakua.

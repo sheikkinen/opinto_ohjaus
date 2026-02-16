@@ -1,83 +1,103 @@
 # OPINTO-OHJAUS — OP2
+
 ## Tunti 16 — Valmistautuminen lukion jälkeiseen elämään ja välivuosien suunnittelu
-**Vuosikello**: 3. vuosi, kevät
+
+**Vuosikello**: 3. vuosi kevät  
 **Tyyppi**: Luokkaopetus
 
+---
+
 ### Tavoitteet (LOPS 2019)
-- Opiskelija tekee realistisia ja perusteltuja päätöksiä jatko-opinnoistaan ja urasuunnitelmistaan
-- Opiskelija ymmärtää, miten lukioaikaiset valinnat (ainevalinnat, yo-kokeiden tasot) vaikuttavat jatko-opiskelumahdollisuuksiin
-- Opiskelija hallitsee todistusvalintaan liittyviä paineita ja näkee polkuja useita
-- Opiskelija osaa suunnitella välivuotta tai siirtymää jatko-opintoihin realistisesti
+
+- Opiskelija osaa tehdä realistisia ja perusteltuja päätöksiä jatko-opinnoistaan ja urasuunnitelmistaan
+- Opiskelija ymmärtää välivuoden mahdollisuudet ja osaa suunnitella sen tarkoituksenmukaisesti
+- Opiskelija tuntee jälkiohjauksen mahdollisuudet ja tukiverkostot lukion jälkeen
+- Opiskelija osaa hallita todistusvalinnan ja siirtymävaiheen aiheuttamia paineita
+
+---
 
 ### Laaja-alainen osaaminen
-- **Hyvinvointiosaaminen**: Itsetuntemus, voimavarat, stressinhallinta ja jaksaminen
-- **Yhteiskunnallinen osaaminen**: Vastuullinen vaikuttaja, osa työelämää, aktiivinen kansalainen
+
+- **Hyvinvointiosaaminen**: Stressinhallinta, itsetuntemus ja voimavarojen tunnistaminen siirtymävaiheessa
+- **Yhteiskunnallinen osaaminen**: Vastuullinen päätöksenteko ja oman polun rakentaminen
+
+---
 
 ### Tunnin kulku (75 min)
 
-1. **Virittäytyminen** (10 min) — *Elämän polut -visualisointi*
-   - Näytetään lyhyt video tai infografiikka erilaisista polusta lukion jälkeen (jatko-opinnot, välivuosi, työelämä, kansainvälinen vaihto)
-   - Opiskelijat pohtivat pareittain: "Mitä minä haluan tehdä lukion jälkeen ja miksi?"
+1. **Virittäytyminen** (10 min)  
+   *"Mitä lukion jälkeen?"* -ajatuskartta: Opiskelijat kirjaavat post-it-lapuille ajatuksiaan, toiveitaan ja pelkojaan lukion jälkeisestä ajasta. Laput kootaan taululle teemoittain (jatko-opinnot, työelämä, välivuosi, epävarmuus).
 
-2. **Työskentely** (50 min) — *Kolmiosainen paja*
-   - **Osio A (15 min): Jatkokoulutusvaihtoehdot ja hakuprosessit**
-     - Opinto-ohjaaja esittelee korkeakoulujen todistusvalintaa, yhteishakua ja muita hakukanavia
-     - Konkreettiset esimerkit: OAMK Highway, Oulun yliopiston Opopassi
-     - Opiskelijat merkitsevät omaan muistiinpanopohjaan kiinnostavia vaihtoehtoja
+2. **Työskentely** (50 min)  
    
-   - **Osio B (18 min): Välivuosi vai suora jatko? Henkilökohtainen pohdinta**
-     - Opiskelijat täyttävät itsearviointi-lomaketta: "Välivuosi vai ei?" (välivuoden hyödyt, haasteet, omat tavoitteet)
-     - Pienryhmäkeskustelu (3-4 henkilöä): Mitä välivuodella voisi tehdä? (työkokemus, matkustelu, avoin yliopisto, harrastukset)
-     - Opinto-ohjaaja kiertää ja kuuntelee, antaa henkilökohtaista palautetta
+   **A) Mini-luento ja keskustelu** (15 min)  
+   - Lukion jälkeiset vaihtoehdot: jatko-opinnot, työelämä, välivuosi, yhdistelmät
+   - Välivuositilastot (n. 30% lukiolaisista) ja välivuoden hyödyt
+   - Jälkiohjaus: oikeus ohjaukseen valmistumisvuotta seuraavan vuoden ajan
+   - Paineiden purkaminen: "Polkuja on monia, valintoja voi korjata"
    
-   - **Osio C (17 min): Paineiden hallinta ja urasuunnitelman päivitys**
-     - Keskustelu: "Mitä paineita tunnet? Mitä pelkoja?" (anonyymi kysymyslaatikko tai avoin puhe)
-     - Opinto-ohjaaja normalisoi epävarmuutta ja muistuttaa: "Polkuja on monia, valintoja voi korjata"
-     - Opiskelijat päivittävät omaa urasuunnitelmaansa (HOPS): mitä seuraavaksi?
+   **B) Ryhmätyö: Välivuosiskenaariot** (25 min)  
+   Ryhmät (3-4 hlöä) saavat erilaisia välivuosiskenaarioita:
+   - Ryhmä 1: Työskentely ja säästäminen
+   - Ryhmä 2: Vapaaehtoistyö/kansainvälinen vaihto
+   - Ryhmä 3: Avoimen yliopiston opinnot ja uudelleenhaku
+   - Ryhmä 4: Yhdistelmä: osa-aikatyö + matkustelu + itsensä kehittäminen
+   
+   Tehtävä: Suunnitelkaa välivuosi valitun skenaarion pohjalta (tavoitteet, aikataulu, rahoitus, hyödyt hakutilanteessa).
+   
+   **C) Ryhmien esittelyt** (10 min)  
+   Kukin ryhmä esittelee suunnitelmansa 2 minuutissa.
 
-3. **Yhteenveto ja reflektio** (15 min) — *Oma polku -kirjoitus ja jälkiohjauksen esittely*
-   - Opiskelijat kirjoittavat 5 minuutin "Minun seuraavat askeleeni" -muistiinpanon
-   - Opinto-ohjaaja korostaa jälkiohjauksen oikeutta: "Vaikka et saisi paikkaa nyt, saat ohjausta vielä vuoden ajan"
-   - Avoimet kysymykset ja yhteydenottokanavat esille (sähköposti, ajanvaraus, Opintopolku, Ohjaamo)
-   - Vapaaehtoinen jako: Muutama opiskelija jakaa ajatuksensa
+3. **Yhteenveto ja reflektio** (15 min)  
+   - Yhteinen keskustelu: Milloin välivuosi on hyvä vaihtoehto? Entä milloin ei?
+   - Henkilökohtainen pohdinta: "Oma polkuni lukion jälkeen" -lomake (täytetään itsenäisesti, toimii HOPS-materiaalina)
+   - Muistutus jälkiohjauksen mahdollisuudesta ja tukiverkostoista (Ohjaamo, Opintopolku, avoimen yliopiston opintoneuvojat)
+
+---
 
 ### Menetelmät
-- Ryhmäkeskustelu ja pienryhmätyöskentely
-- Itsearviointi ja reflektiivinen kirjoittaminen
-- Interaktiivinen esittely (infografiikka, video)
-- Anonyymi kysymyslaatikko (turvallisuus)
-- Henkilökohtainen ohjaus ja kiertävä tuki
+
+- Ajatuskartta ja visualisointi
+- Mini-luento ja vuorovaikutteinen keskustelu
+- Skenaariopohjaiset ryhmätyöt
+- Henkilökohtainen reflektio ja kirjallinen suunnittelu
+
+---
 
 ### Materiaalit & Lähteet
-- **Opinto-ohjaajan esitys**: Jatkokoulutusvaihtoehdot, hakuprosessit, KOSKI-palvelu
-- **Itsearviointi-lomake**: "Välivuosi vai ei? Minun polkuni"
-- **Infografiikka/video**: Erilaiset polut lukion jälkeen (esim. Opintopolku.fi, korkeakoulujen materiaali)
-- **Muistiinpanopohja**: Kiinnostavia jatkokoulutuspaikkoja ja hakuaikoja
-- **Linkit**:
-  - https://www.opintopolku.fi (jatkokoulutusvaihtoehtojen haku)
-  - https://www.ammattikorkeakouluun.fi/hakijalle/valintatavat/todistusvalinta/
-  - https://www.helsinki.fi/fi/hakeminen-ja-opetus/hae-kandi-ja-maisteriohjelmiin/yhteishaku/ohjeita-hyvaksytyille-ja-hylatyille/valivuosi-lukion-jalkeen
-  - https://olari.fi/valivuosi-lukion-jalkeen/
-  - https://www.hel.fi/fi/kasvatus-ja-koulutus/lukiokoulutus/mita-lukion-jalkeen
+
+- Post-it-laput ja fläppitaulu
+- Välivuosiskenaariot (tulosteet ryhmille)
+- "Oma polkuni lukion jälkeen" -lomake (HOPS-materiaali)
+- **Verkkolähteet**:
+  - [Helsingin yliopisto: Välivuosi lukion jälkeen](https://www.helsinki.fi/fi/hakeminen-ja-opetus/hae-kandi-ja-maisteriohjelmiin/yhteishaku/ohjeita-hyvaksytyille-ja-hylatyille/valivuosi-lukion-jalkeen)
+  - [Olari: Välivuosi lukion jälkeen](https://olari.fi/valivuosi-lukion-jalkeen/)
+  - [Helsingin kaupunki: Mitä lukion jälkeen?](https://www.hel.fi/fi/kasvatus-ja-koulutus/lukiokoulutus/mita-lukion-jalkeen)
+  - [Opintopolku.fi](https://opintopolku.fi) ja Ohjaamo-palvelut
+
+---
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen**: Aktiivinen osallistuminen ryhmäkeskusteluihin ja paja-työskentelyyn (S/H)
-- **Itsearviointi**: Välivuosi-lomakkeen täyttäminen ja oman polun pohdinta
-- **HOPS-päivitys**: Urasuunnitelman päivittäminen seuraavien askeleiden osalta
-- **Reflektio**: "Minun seuraavat askeleeni" -kirjoitus osoittaa tavoitteellista ajattelua
+
+- **Aktiivinen osallistuminen** ryhmätyöhön ja keskusteluun
+- **"Oma polkuni lukion jälkeen" -lomakkeen** täyttäminen ja palauttaminen (liitetään HOPS:iin)
+- Läsnäolo ja reflektiivinen työskentely
+
+---
 
 ### Eriyttäminen
-- **Oppimisen tuki**: Opiskelijat, joilla on erityistarpeita, saavat yksilöllistä ohjausta pienryhmätyöskentelyn aikana
-- **Kielellinen tuki**: Lomakkeet ja esitys saatavilla selkeällä kielellä; tulkkaus tarvittaessa
-- **Haastavat opiskelijat**: Anonyymi kysymyslaatikko mahdollistaa osallistumisen ilman paineita
-- **Kiihtyneet opiskelijat**: Mahdollisuus syventyä kansainvälisiin vaihtoehtoihin ja jatko-opintohakemuksiin
-- **Yksilöllinen aika**: Opinto-ohjaaja varaa aikaa henkilökohtaisille keskusteluille tarvittaessa
+
+- **Tuki tarvittaessa**: Opiskelijat, jotka kokevat epävarmuutta tai ahdistusta tulevaisuudesta, ohjataan henkilökohtaiseen ohjauskeskusteluun
+- **Syventävä materiaali**: Linkkejä kansainvälisiin välivuosiohjelmiin ja erikoisempiin vaihtoehtoihin (esim. WWOOFing, Au Pair)
+- **Kielellinen tuki**: Lomakkeet ja ohjeet saatavilla myös englanniksi tarvittaessa
+- **Erityisjärjestelyt**: Mahdollisuus työskennellä pienryhmässä tai itsenäisesti, jos isossa ryhmässä työskentely on haastavaa
+
+---
 
 ### Koko koulu ohjaa — yhteistyö
-- **Ryhmänohjaaja**: Tukee tunnin toteutusta, seuraa opiskelijoiden hyvinvointia
-- **Aineenopettajat**: Antavat palautetta opiskelijoiden ainevalintojen vaikutuksista jatko-opiskeluun
-- **Erityisopettaja**: Tukee opiskelijoita, joilla on oppimisen tuen tarve
-- **Opiskeluhuolto** (psykologi, kuraattori, terveydenhoitaja): Käytettävissä paineiden hallintaan ja hyvinvointiin liittyvissä asioissa
-- **Korkeakoulut** (OAMK, Oulun yliopisto): Vierailut, tutustumiskäynnit, avoimen korkeakoulun info
-- **Työelämän toimijat** (BusinessAsema): Asiantuntijavierailut urasuunnittelun tueksi
-- **Ohjaamo ja nuorisopalvelut**: Jälkiohjaus ja tuki valmistumisen jälkeen
+
+- **Ryhmänohjaaja**: Jatkokeskustelut ryhmänohjaustuokioissa
+- **Opiskeluhuolto** (psykologi, kuraattori): Tuki opiskelijoille, joilla on erityistä huolta tulevaisuudesta
+- **Erityisopettaja**: Oppimisen tuen jatkuvuuden varmistaminen siirtymävaiheessa
+- **Ohjaamo ja nuorisopalvelut**: Yhteistyö opiskelijoiden, jotka tarvitsevat tukea lukion jälkeen
+- **Alumnit**: Mahdollisuus kutsua valmistuneita kertomaan kokemuksistaan välivuodesta (voidaan toteuttaa seuraavalla kerralla)

@@ -1,61 +1,74 @@
 # OPINTO-OHJAUS — OP2
 ## Tunti 12 — Ylioppilastutkintosuunnitelman tarkentaminen ja koeaineiden valinta
 **Vuosikello**: 3. vuosi kevät
-**Tyyppi**: Työpaja
+**Tyyppi**: työpaja
 
 ### Tavoitteet (LOPS 2019)
-- Opiskelija tarkentaa ylioppilastutkintosuunnitelmaansa ja tekee perusteltuja koeainevalintoja omien vahvuuksien ja jatko-opintotavoitteiden perusteella
-- Opiskelija ymmärtää ainevalintojen ja ylioppilaskokeiden merkityksen korkeakouluhauissa, erityisesti todistusvalinnassa
-- Opiskelija syventää itsetuntemustaan ja peilaa omia arvojaan sekä kiinnostuksen kohteitaan urasuunnitteluun
-- Opiskelija saa monipuolista tietoa jatkokoulutusvaihtoehdoista ja osaa hyödyntää oppimisen tuen mahdollisuuksia
+- Opiskelija osaa tarkentaa ylioppilastutkintosuunnitelmaansa ja tehdä perusteltuja koeainevalintoja jatko-opintotavoitteidensa pohjalta
+- Opiskelija ymmärtää koeainevalintojen merkityksen todistusvalinnassa ja korkeakouluhauissa
+- Opiskelija osaa hyödyntää itsetuntemustaan ja vahvuuksiaan yo-suunnitelman laatimisessa
+- Opiskelija tunnistaa tarvittaessa oppimisen tuen mahdollisuudet suunnittelussaan
 
 ### Laaja-alainen osaaminen
-- **Hyvinvointiosaaminen** — itsetuntemuksen syventäminen, paineiden hallinta päätöksenteossa
-- **Yhteiskunnallinen osaaminen** — korkeakoulujärjestelmän ja työelämän ymmärtäminen
+- Hyvinvointiosaaminen (realistinen suunnittelu, stressinhallinta)
+- Vuorovaikutusosaaminen (vertaiskeskustelu, neuvottelutaidot)
 
 ### Tunnin kulku (75 min)
-1. **Virittäytyminen** (10 min) — Keskustelu: "Mitä olet jo päättänyt yo-tutkinnossasi? Mitkä asiat vaikuttavat valintaasi?" Opiskelijat jakavat ajatuksia pareittain, ohjaaja kokoaa teemoja.
 
-2. **Työskentely** (50 min)
-   - **Osio 1** (20 min): Interaktiivinen esitys yo-tutkinnon rakenteesta (uudistettu 2022), koeaineiden vaikutuksesta todistusvalintaan ja korkeakouluhauista. Konkreettiset esimerkit todistusvalinnan pisteistä.
-   - **Osio 2** (20 min): Pienryhmätyö (3-4 henkilöä). Jokainen ryhmä saa tapaustutkimuksen (eri opiskelijaprofiili, tavoitteet, vahvuudet). Ryhmä pohtii sopivaa ainevalintojen strategiaa ja perustelee valintoja.
-   - **Osio 3** (10 min): Ryhmät esittelevät ratkaisunsa lyhyesti. Ohjaaja korostaa erilaisten polkujen validiteettia.
+1. **Virittäytyminen** (10 min) — Nykytilan kartoitus
+   - Lyhyt kysely Mentimeterissä: "Missä vaiheessa yo-suunnitelmasi on?" ja "Mikä huolettaa eniten?"
+   - Yhteinen purku: tyypillisimmät kysymykset ja huolenaiheet näkyville
 
-3. **Yhteenveto/reflektio** (15 min) — Yksilöllinen pohdinta: Opiskelija täyttää reflektiolomakkeen ("Mitkä asiat ovat minulle tärkeitä? Mitä seuraavaksi?"). Ohjaaja tarjoaa yksilöohjauskeskustelun mahdollisuuden ja kertoo oppimisen tuen vaihtoehdoista (voimaan 1.8.2025).
+2. **Työskentely** (50 min) — Yo-suunnitelman työstäminen
+   - **Infopaketti** (15 min): Opinto-ohjaaja käy läpi yo-tutkinnon rakenteen, todistusvalinnan periaatteet ja aikataulut. Konkreettiset esimerkit eri alojen vaatimuksista.
+   - **Yksilötyöskentely** (20 min): Opiskelija täyttää yo-suunnitelman tarkistustyökalun (lomake), jossa:
+     * Nykyinen suunnitelma
+     * Jatko-opintotavoitteet
+     * Vahvuusaineet ja haasteet
+     * Todistusvalinnan kannalta tärkeät aineet
+     * Mahdolliset muutostarpeet
+   - **Parikeskustelu** (15 min): Opiskelijat jakavat suunnitelmiaan pareittain ja antavat toisilleen rakentavaa palautetta. Ohjaaja kiertää ja tukee.
+
+3. **Yhteenveto ja jatkotoimet** (15 min) — Seuraavat askeleet
+   - Yhteinen keskustelu: Mitä oivalluksia syntyi?
+   - Ohjaaja korostaa: yksilöohjausajan varaamisen tärkeys lopulliseen suunnitelmaan
+   - Muistutus HOPSin päivittämisestä ja määräajoista
+   - Reflektiokysymys Flinga-taululle: "Yksi asia, jonka haluan vielä selvittää ennen lopullista päätöstä"
 
 ### Menetelmät
-- Ryhmäkeskustelu ja parityöskentely
-- Interaktiivinen esitys (diat, konkreettiset esimerkit)
-- Pienryhmätyö tapaustutkimusten parissa
-- Itsenäinen reflektio ja kirjallinen pohdinta
-- Vertaisoppiminen
+- Digitaalinen kysely (Mentimeter/Flinga)
+- Yksilötyöskentely strukturoidulla lomakkeella
+- Vertaiskeskustelu ja paripohdinta
+- Vuorovaikutteinen luento
+- Reflektiivinen kirjoittaminen
 
 ### Materiaalit & Lähteet
-- **Diaesitys**: Yo-tutkinnon rakenne, todistusvalinta, korkeakouluhaku (Ylioppilastutkintolautakunta, Opintopolku)
-- **Tapaustutkimuslomakkeet** (4 erilaista opiskelijaprofiilia): [Liite 1]
-- **Reflektiolomake**: "Minun yo-suunnitelmani" (HOPS-päivitykseen)
-- **Linkit**: 
-  - https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/tutkinnon-rakenne
-  - https://www.ammattikorkeakouluun.fi/hakijalle/valintatavat/todistusvalinta/
-  - https://opintopolku.fi (korkeakoulutiedot)
-- **Oppimisen tuen esitteet** (uudistus 1.8.2025)
+- Yo-suunnitelman tarkistuslomake (tulostettuna ja Wilma/Teams)
+- Todistusvalinnan kriteerit eri aloille (tiivistelmä): https://www.ammattikorkeakouluun.fi/hakijalle/valintatavat/todistusvalinta/
+- Ylioppilastutkinnon rakenne: https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/tutkinnon-rakenne
+- Koulun omat yo-suunnitteluohjeet
+- Mentimeter/Flinga-linkki
+- Esimerkkitapaukset eri alojen vaatimuksista
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen** pienryhmätyöhön ja keskusteluihin (S/H)
-- **Reflektiolomakkeen** täyttäminen ja itsearviointi (S/H)
-- **HOPS-päivitys**: Opiskelija päivittää yo-suunnitelmansa ja koeainevalintansa HOPSiin tunnin jälkeen
-- Ohjaaja kirjaa osallistumisen ja antaa palautetta seuraavassa yksilöohjauskeskustelussa
+- **Osallistuminen**: Aktiivinen läsnäolo ja työskentely työpajassa
+- **Tuotos**: Täytetty yo-suunnitelman tarkistuslomake palautetaan tunnin jälkeen (voi olla keskeneräinen, mutta osoittaa pohdintaa)
+- **HOPS-päivitys**: Opiskelija varaa yksilöohjausajan kahden viikon sisällä suunnitelman viimeistelyyn
+- Hyväksytty suoritus (S) edellyttää läsnäoloa ja lomakkeen palauttamista
 
 ### Eriyttäminen
-- **Oppimisen tuki**: Opiskelijat, joilla on oppimisen haasteita, saavat ohjaajalta tukea tapaustutkimuksen työstämiseen ja voivat käydä yksilöllisen ohjaustuokion
-- **Erityisjärjestelyt**: Erityisopettaja voi osallistua ja auttaa opiskelijoita, joilla on erityisopetuksen tarve
-- **Kielellinen tuki**: Opiskelijat, joille suomi ei ole äidinkieli, saavat selkokielisen materiaalin ja tarvittaessa tulkkauspalvelun
-- **Syventävä haaste**: Kiinnostuneet opiskelijat voivat tutustua kansainvälisiin opintovaihtoehdoihin ja niiden vaatimuksiin
+- **Oppimisen tuki**: Erityistä tukea tarvitseville opiskelijoille tarjotaan mahdollisuus työskennellä erityisopettajan tai ohjaajan kanssa pienryhmässä
+- **Nopeat etenevät**: Voivat syventyä jo konkreettisiin hakuvaihtoehtoihin ja Opintopolku.fi:n hakukoneeseen
+- **Lisäaika**: Lomakkeen voi palauttaa myös seuraavana päivänä, jos 75 min ei riitä
+- **Kielellinen tuki**: Lomake saatavilla myös englanniksi, tarvittaessa tulkki
 
 ### Koko koulu ohjaa — yhteistyö
-- **Opinto-ohjaaja** — tunnin vetäjä, yksilöohjauksen koordinointi
-- **Ryhmänohjaaja** — taustatiedon antaminen opiskelijoista, jatkoyhteistyö
-- **Aineenopettajat** — ainekohtaisen tiedon jakaminen (esim. yo-kokeiden vaatimukset)
-- **Erityisopettaja** — oppimisen tuen ja erityisopetuksen mahdollisuuksien esittely
-- **Opiskeluhuollon henkilöstö** (psykologi, kuraattori) — tarvittaessa tuki päätöksenteon paineisiin ja hyvinvointiin
-- **Korkeakoulut** — tutustumiskäynnit ja "korkeakoulukurkistukset" (jatkosuunnitelma)
+- **Opinto-ohjaaja**: Vastaa tunnin toteutuksesta ja yksilöohjauksista
+- **Aineenopettajat**: Konsultointi vahvuusaineiden tunnistamisessa (opiskelija voi kysyä opettajilta näkemystä)
+- **Erityisopettaja**: Tuki oppimisen haasteiden huomioimisessa yo-suunnitelmassa
+- **Ryhmänohjaaja**: Kannustaa opiskelijoita varaamaan ohjausajan ja seuraa HOPSin päivittymistä
+- **Opiskeluhuolto**: Tuki stressin ja paineiden käsittelyssä tarvittaessa
+
+---
+
+**Huom!** Tunnin jälkeen ohjaaja analysoi Mentimeter-vastaukset ja Flinga-reflektiot tunnistaakseen yleisimmät kysymykset → voi laatia FAQ-dokumentin tai järjestää lisäinfotilaisuuden tarvittaessa.

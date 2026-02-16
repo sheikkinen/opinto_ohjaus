@@ -1,56 +1,60 @@
 # OPINTO-OHJAUS — OP2
 ## Tunti 3 — Jatkokoulutusvaihtoehdot ja kansainväliset mahdollisuudet
-**Vuosikello**: 3. vuosi, syksy
-**Tyyppi**: Pienryhmäohjaus
+**Vuosikello**: 3. vuosi syksy
+**Tyyppi**: Pienryhmätyöskentely
 
 ### Tavoitteet (LOPS 2019)
-- Opiskelijat tunnistavat kotimaiset ja kansainväliset jatkokoulutusvaihtoehdot
-- Opiskelijat ymmärtävät vaihto-opiskelu- ja kansainvälisten ohjelmien edellytykset ja mahdollisuudet
-- Opiskelijat pystyvät arvioimaan omia intressejään suhteessa erilaisiin jatkokoulutusvaihtoehdoihin
+- Opiskelija tunnistaa kotimaiset ja kansainväliset jatko-opintomahdollisuudet ja osaa hakea tietoa niistä
+- Opiskelija ymmärtää kansainvälisten opintojen ja vaihto-opiskelun mahdollisuudet osana omaa koulutuspolkuaan
+- Opiskelija osaa vertailla eri jatkokoulutusvaihtoehtoja suhteessa omiin tavoitteisiinsa
 
 ### Laaja-alainen osaaminen
-- **Kulttuurinen osaaminen ja kansainvälisyys** — kansainvälisten näkökulman ymmärtäminen
-- **Vuorovaikutus ja yhteistyö** — vertaisoppiminen ja tiedonvaihto
+- Monitieteinen ja luova osaaminen (eri koulutusvaihtoehtojen tarkastelu)
+- Kulttuurinen osaaminen ja kansainvälisyys (kansainväliset opinto- ja työmahdollisuudet)
 
 ### Tunnin kulku (75 min)
-1. **Virittäytyminen** (8 min) — Opiskelijat jakavat lyhyesti omia unelmiaan tulevaisuudesta (kotimainen vs. kansainvälinen polku). Ohjaaja kokoaa näkemykset taululle.
+1. **Virittäytyminen** (10 min) — Kartoitus: "Missä maassa haluaisit opiskella ja miksi?" -pikakyselyllä herätellään ajatuksia kansainvälisistä mahdollisuuksista. Keskustellaan lyhyesti opiskelijoiden ennakkokäsityksistä.
 
-2. **Työskentely** (50 min)
-   - **Osuus A** (20 min): Interaktiivinen esitys jatkokoulutusvaihtoehdoista (ammattikorkeakoulut, yliopistot, oppisopimuskoulutus, kansainväliset ohjelmat)
-   - **Osuus B** (15 min): Pienryhmätyö — opiskelijat jakautuvat 3-4 hengen ryhmiin ja tutustuvat eri vaihtoehtoon (AMK, yliopisto, vaihto-opiskelu, kansainväliset stipendiat)
-   - **Osuus C** (15 min): Ryhmien esittelyt ja vertailu — kukin ryhmä esittelee löydöksensä
+2. **Työskentely** (50 min) — Pienryhmät (3-4 hlöä) tutkivat eri jatkokoulutusreittejä:
+   - Ryhmä 1: Yliopisto-opinnot Suomessa ja ulkomailla
+   - Ryhmä 2: Ammattikorkeakouluopinnot ja kansainväliset AMK-ohjelmat
+   - Ryhmä 3: Vaihto-opiskelu (Erasmus+, Nordplus, muut ohjelmat)
+   - Ryhmä 4: Gap year -vaihtoehdot (au pair, vapaaehtoistyö, työskentely ulkomailla)
+   
+   Ryhmät laativat yhteisen esityksen (10 min/ryhmä) Canvalla tai Padletilla.
 
-3. **Yhteenveto/reflektio** (17 min)
-   - Opiskelijat täyttävät henkilökohtaisen reflektiolomakkeen: "Mitkä vaihtoehdot kiinnostavat minua ja miksi?"
-   - Ohjaaja korostaa seuraavia askeleita (HOPS-päivitys, tiedonhaku, yhteydenotto oppilaitoksiin)
-   - Avoin keskustelu ja kysymykset
+3. **Yhteenveto/reflektio** (15 min) — Ryhmät esittelevät löydöksensä (2-3 min/ryhmä). Lopuksi jokainen kirjaa HOPS:iin 1-3 itseään kiinnostavaa jatkovaihtoehtoa ja seuraavat konkreettiset askeleet niiden selvittämiseksi.
 
 ### Menetelmät
-- Interaktiivinen esitys
-- Pienryhmätyö ja vertaisoppiminen
-- Itsenäinen pohdinta ja reflektio
-- Keskustelu
+- Pienryhmätyöskentely
+- Vertaisoppiminen
+- Digitaaliset työkalut (Canva/Padlet)
+- Itsenäinen tiedonhaku
+- Lyhyet ryhmäesitykset
 
 ### Materiaalit & Lähteet
-- **Kotimaiset portaalit**: Opintopolku.fi, Studyinfo.fi
-- **Kansainväliset ohjelmat**: Erasmus+, AFS, YFU, IAESTE, Fulbright
-- **Pienryhmätyön työohjeet** (moniste tai digiversio)
-- **Reflektiolomake** (paperinen tai Forms/Moodle)
-- Tietokone/projektori esitystä varten
-- Listat oppilaitoksista ja hakuajoista
+- Opintopolku.fi (kotimaisten koulutusten haku)
+- Studyinfo.fi (englanninkieliset ohjelmat)
+- Studyinfinland.fi (kansainvälisille hakijoille)
+- CIMO:n sivut (vaihto-opiskelu): https://www.oph.fi/fi/kansainvalisyys
+- Eurodesk.fi (nuorten kansainväliset mahdollisuudet)
+- Erasmusplus.fi
+- Yliopistojen ja AMK:iden kansainväliset sivut
+- Tietokone/tabletti jokaiselle ryhmälle
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen** — aktiivinen osallistuminen virittäytymiseen ja pienryhmätyöhön (S/H)
-- **Reflektiolomake** — täytetty ja palautettu (S/H)
-- **HOPS-päivitys** — seuraavalla ohjauskerralla käydään läpi opiskelijoiden kiinnostuksen kohteet ja päivitetään HOPS
+- Aktiivinen osallistuminen pienryhmätyöskentelyyn
+- Oman ryhmän osuuden valmistuminen ja esittäminen
+- HOPS-merkinnän tekeminen: jatkosuunnitelmien ja selvitettävien asioiden kirjaaminen
 
 ### Eriyttäminen
-- **Oppimisen tuki**: Opiskelijoille, joilla on vaikeuksia lukemisessa, tarjotaan ääniversion materiaaleista tai pienemmän tekstimäärän versio
-- **Erityisjärjestelyt**: Opiskelijat, joilla on erityisiä tarpeita, voivat työskennellä ohjaajan kanssa yksilöllisesti tai pienemmässä ryhmässä
-- **Syventävä haaste**: Kiinnostuneet opiskelijat voivat tutustua spesifeihin kansainvälisiin ohjelmiin (esim. Erasmus Mundus -maisterit)
+- **Tuki**: Opettaja kiertää ryhmissä ja tukee tiedonhakua, tarjoaa valmiita linkkejä tarvittaessa
+- **Syventäminen**: Kiinnostuneet voivat tutustua stipendeihin ja rahoitusmahdollisuuksiin
+- **Kielellinen tuki**: Mahdollisuus käyttää suomen- tai englanninkielisiä lähteitä
+- **Erityisjärjestelyt**: Mahdollisuus työskennellä pareittain tai saada lisäaikaa HOPS-merkinnän tekemiseen
 
 ### Koko koulu ohjaa — yhteistyö
-- **Rehtori/opinto-ohjaajat**: Tiedon jakaminen oppilaitoksista ja hakuprosesseista
-- **Opettajat**: Kannustaminen kansainvälisiin projekteihin ja vaihtoihin
-- **Ulkoiset tahot**: Mahdollinen vierailija oppilaitoksesta tai vaihto-opiskelija (jos aika sallii)
-- **Vanhemmat**: Tiedote kotiin jatkokoulutusvaihtoehdoista ja tuen mahdollisuuksista
+- **Kieltenopettajat**: Kansainvälisten ohjelmien kielivaatimuksista tiedottaminen
+- **Rehtorit/kv-koordinaattori**: Koulun omat kansainväliset yhteistyöohjelmat
+- **Alumnit**: Mahdollisuus kutsua vierailevaksi puhujaksi vaihto-opiskelija tai ulkomailla opiskeleva entinen opiskelija (seuraavalle kerralle)
+- **Oppilaanohjaajat**: Jatkokoulutusinfot ja hakuaikataulu

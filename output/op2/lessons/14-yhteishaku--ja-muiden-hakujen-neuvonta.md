@@ -1,65 +1,67 @@
 # OPINTO-OHJAUS — OP2
 ## Tunti 14 — Yhteishaku- ja muiden hakujen neuvonta
 **Vuosikello**: 2. vuosi kevät
-**Tyyppi**: Vierailu + ryhmäohjaus
+**Tyyppi**: Vierailu
 
 ### Tavoitteet (LOPS 2019)
-- Opiskelija ymmärtää yhteishaun teknisen toteutuksen ja osaa käyttää Opintopolku.fi-palvelua
-- Opiskelija tutustuu valintaperusteisiin (todistusvalinta, valintakokeet) ja osaa analysoida niiden merkitystä omille valinnoilleen
-- Opiskelija saa konkreettista tietoa jatko-opintovaihtoehdoista ja osaa tehdä realistisia päätöksiä tulevaisuudestaan
-- Opiskelija oppii hallitsemaan siirtymävaiheeseen liittyviä tunteita ja painetta
+- Opiskelija saa teknistä ja sisällöllistä neuvontaa yhteishakuun ja muihin jatko-opintohakuihin liittyen
+- Opiskelija ymmärtää valintaperusteet (todistusvalinta, valintakokeet) ja osaa hyödyntää Opintopolku.fi-palvelua
+- Opiskelija kykenee tekemään realistisia ja perusteltuja päätöksiä jatko-opinnoistaan
+- Opiskelija ymmärtää, miten lukioaikaiset valinnat vaikuttavat jatko-opintomahdollisuuksiin
 
 ### Laaja-alainen osaaminen
-- **Hyvinvointiosaaminen**: Itsetuntemus, voimavarat, stressinhallinta muutoksissa
-- **Yhteiskunnallinen osaaminen**: Vastuullinen vaikuttaja, osa työelämää ja yhteiskuntaa
+- **Hyvinvointiosaaminen**: Stressinhallinta hakuprosessissa, realistinen suunnittelu
+- **Yhteiskunnallinen osaaminen**: Koulutuspolut ja yhteiskunnan rakenteet
 
 ### Tunnin kulku (75 min)
-1. **Virittäytyminen** (10 min) — Opinto-ohjaaja tervehtii ja esittelee tunnin aiheet. Lyhyt keskustelu: "Mitä tunteita yhteishaku herättää?" Paineen purkaminen: muistutetaan monista poluista ja korjausmahdollisuuksista.
 
-2. **Työskentely** (50 min)
-   - **Vierailija-osuus** (25 min): Korkeakoulun edustaja (ammattikorkeakoulu tai yliopisto) esittelee:
-     - Koulutusohjelmat ja niiden vaatimukset
-     - Valintaperusteet ja todistusvalinnan pisteytysjärjestelmä
-     - Opintopolku.fi-hakuprosessi käytännössä
-     - Konkreettisia esimerkkejä hakukohteiden valintaperusteista
-   - **Interaktiivinen osuus** (25 min): Opinto-ohjaaja ja vierailija vastaavat kysymyksiin. Opiskelijat tekevät muistiinpanoja omista kiinnostuksen kohteistaan.
+1. **Virittäytyminen** (10 min) — Opinto-ohjaaja avaa tunnin teeman ja esittelee vierailijan (esim. korkeakoulun opinto-ohjaaja, opiskelijapalvelujen edustaja tai vastavalmistunut alumni). Lyhyt kysely: "Mitä kysymyksiä sinulla on yhteishausta?"
 
-3. **Yhteenveto/reflektio** (15 min) — Opinto-ohjaaja kokoaa keskeiset asiat yhteen. Opiskelijat täyttävät lyhyen itsearviointi-lomakkeen: "Mitä opin? Mitä haluan vielä tietää?" HOPS-päivitys: opiskelijat merkitsevät tunnin jälkeen omiin HOPSiinsa seuraavat hakukohteet ja aikataulut.
+2. **Vierailijan osuus** (40 min) — Asiantuntijaluento ja vuorovaikutteinen keskustelu:
+   - Yhteishaun ja jatkuvan haun aikataulut ja prosessi
+   - Opintopolku.fi-palvelun käyttö käytännössä (live-demo)
+   - Todistusvalinnan periaatteet ja pisteytys
+   - Valintakokeet ja niiden valmistautuminen
+   - Yleisimmät virheet hakemuksissa
+   - Kysymyksiä ja vastauksia
+
+3. **Työskentely** (15 min) — Pienryhmissä (3-4 hlö): Opiskelijat etsivät Opintopolusta 2-3 itseään kiinnostavaa hakukohdetta ja tarkastelevat niiden valintaperusteita. Vertailevat todistusvalinnan ja valintakokeiden painotuksia.
+
+4. **Yhteenveto ja reflektio** (10 min) — Plenumkeskustelu: Mitä opit? Mitä jäi mietityttämään? Opinto-ohjaaja kokoaa keskeiset opit ja muistuttaa jatkotuesta (yksilöohjaus, jälkiohjaus valmistumisen jälkeen).
 
 ### Menetelmät
-- Asiantuntijavierailu (korkeakoulun edustaja)
-- Ryhmäkeskustelu ja vuorovaikutus
-- Itsenäinen pohdinta ja muistiinpanojen tekeminen
-- Opintopolku.fi-palvelun käytön demonstrointi
-- HOPS-päivitys
+- Asiantuntijavierailu ja luento
+- Live-demonstraatio (Opintopolku.fi)
+- Pienryhmätyöskentely
+- Vuorovaikutteinen keskustelu ja Q&A
+- Vertaisoppiminen
 
 ### Materiaalit & Lähteet
-- **Opintopolku.fi** — yhteishaun ja hakukohteiden tiedot (https://opintopolku.fi)
-- Vierailijan esittelymateriaali (diat, esitteet)
-- Itsearviointi-lomake (moniste tai digiversio)
-- HOPS-pohja (sähköinen tai paperinen)
-- Muistiinpanopaperi
-- **Lisätiedot opiskelijoille:**
-  - Yhteishaun aikataulut ja hakuajat
-  - Todistusvalinnan periaatteet
-  - Oppimisen tuen uudistus (1.8.2025 alkaen)
+- **Opintopolku.fi** (https://opintopolku.fi) — yhteishaun virallinen palvelu
+- **Vierailijan materiaali** (esim. diaesitys hakuprosessista)
+- **Esimerkkejä valintaperusteista** eri korkeakouluista
+- **Muistilista**: Yhteishaun tärkeimmät päivämäärät (jaetaan opiskelijoille)
+- **Oph.fi/opinto-ohjaus-lukiossa** — taustatietoa ohjauksesta
+- **Korkeakoulujen omat sivut** (esim. OAMK, Oulun yliopisto)
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen**: Aktiivinen läsnäolo ja osallistuminen keskusteluun (S/H)
-- **Itsearviointi**: Lyhyt reflektio-lomake siitä, mitä opittiin ja mitä halutaan vielä tietää
-- **HOPS-päivitys**: Opiskelijat päivittävät HOPSiinsa hakukohteet, aikataulut ja seuraavat toimenpiteet
-- **Jatkoseuranta**: Opinto-ohjaaja tarjoaa yksilöllistä ohjausta tarvittaessa
+- **Osallistuminen**: Aktiivinen läsnäolo vierailutunnilla ja pienryhmätyöskentelyssä
+- **HOPS-päivitys**: Opiskelija päivittää HOPSiinsa jatko-opintosuunnitelmiaan ja hakukohteitaan tunnin jälkeen (voidaan tehdä seuraavalla yksilöohjauksella)
+- **Itsearviointi**: Lyhyt kirjallinen reflektio Wilman kautta: "Mitä opin yhteishausta? Mitä minun tulee vielä selvittää?"
 
 ### Eriyttäminen
-- **Oppimisen tuki**: Opiskelijat, joilla on vaikeuksia Opintopolku.fi-palvelun käytössä, saavat yksilöohjausta tunnin jälkeen
-- **Erityisjärjestelyt**: Opiskelijat, joilla on erityisen tuen tarve, voivat osallistua pienemmässä ryhmässä tai saada yksilöllistä ohjausta
-- **Kielellinen tuki**: Tarvittaessa tulkkaus tai selkokielinen materiaali
-- **Syventävä ohjaus**: Opiskelijat, joilla on selkeä suunnitelma, voivat saada tietoa kansainvälisistä vaihtoehdoista ja OAMK Highway -mallista
+- **Tuen tarve**: Opiskelija, joka tarvitsee erityistä tukea hakuprosessissa, saa lisäaikaa yksilöohjauksessa. Oppimisen tuen uudistus (1.8.2025) mahdollistaa tukitoimien kirjaamisen HOPSiin.
+- **Syventävä taso**: Korkeakouluista erityisen kiinnostuneille tarjotaan lisämateriaalia (esim. OAMK Highway, avoimen yliopiston opinnot, Opopassi-työkalu).
+- **Kielellinen tuki**: Tarvittaessa käännetty materiaali tai tulkkaus S2-opiskelijoille.
+- **Tekninen tuki**: Varmistetaan, että kaikilla on pääsy tietokoneelle/tabletille Opintopolun käyttöä varten.
 
 ### Koko koulu ohjaa — yhteistyö
-- **Korkeakoulut**: Ammattikorkeakoulun tai yliopiston edustaja vierailla (esim. OAMK, Oulun yliopisto, Opopassi-yhteistyö)
-- **Ryhmänohjaaja**: Seuraa opiskelijoiden hyvinvointia ja tukee siirtymävaiheessa
-- **Erityisopettaja**: Tarvittaessa tukea oppimisen vaikeuksissa
-- **Opiskeluhuolto**: Psykologi/kuraattori tukee siirtymävaiheen stressin hallinnassa
-- **Ohjaamo**: Jälkiohjaus valmistumisen jälkeen
-- **Työelämä**: Tulevilla tunneilla asiantuntijavierailuja eri aloilta
+- **Vierailija**: Korkeakoulun opinto-ohjaaja, opiskelijapalvelujen edustaja tai alumni (esim. Oulun yliopisto, OAMK)
+- **Opinto-ohjaaja**: Järjestää vierailun, koordinoi tunnin kulkua, tarjoaa jatkotukea
+- **Aineenopettajat**: Tukevat opiskelijoita ymmärtämään, miten heidän aineensa liittyy jatko-opintoihin
+- **Rehtori**: Varmistaa resurssit vierailujen järjestämiseen
+- **Jälkiohjaus**: Yhteistyö Ohjaamon ja nuorisopalvelujen kanssa opiskelijoille, jotka valmistuvat ilman jatko-opiskelupaikkaa
+
+---
+
+**Huom!** Vierailijan varaaminen tulee tehdä hyvissä ajoin (vähintään kuukautta ennen). Varasuunnitelmana voidaan hyödyntää korkeakoulujen verkkomateriaaleja tai tallennettuja esityksiä, jos live-vierailu ei onnistu.

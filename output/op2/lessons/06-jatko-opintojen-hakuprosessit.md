@@ -1,62 +1,60 @@
 # OPINTO-OHJAUS — OP2
 ## Tunti 6 — Jatko-opintojen hakuprosessit
-**Vuosikello**: 2. vuosi, kevät
+**Vuosikello**: 2. vuosi kevät
 **Tyyppi**: Luokkaopetus
 
 ### Tavoitteet (LOPS 2019)
-- Opiskelija ymmärtää korkeakoulujen yhteishaun rakenteet ja aikataulut
-- Opiskelija osaa navigoida hakuprosessin eri vaiheissa ja tuntee hakukanavat
-- Opiskelija pystyy arvioimaan omia jatko-opintovaihtoehtojaan realistisesti
+- Opiskelija tuntee korkeakoulujen yhteishaun periaatteet ja aikataulut
+- Opiskelija osaa hakea tietoa eri hakukanavista ja ymmärtää hakuprosessin vaiheet
+- Opiskelija ymmärtää todistusten, valintakokeiden ja muiden valintaperusteiden merkityksen
+- Opiskelija osaa varautua hakuprosessiin ja suunnitella omaa aikatauluaan
 
 ### Laaja-alainen osaaminen
-- **Monitieteinen ja monikielinen osaaminen** — eri korkeakoulutyyppien ja koulutusalojen tunteminen
-- **Yhteiskuntataidot** — hakuprosessin hallinta, päätöksenteko ja vastuullisuus
+- Itsestä huolehtimisen ja arjen taitojen osaaminen (aikataulutus, suunnitelmallisuus)
+- Monitieteinen ja luova osaaminen (tiedonhaku, vaihtoehtojen vertailu)
 
 ### Tunnin kulku (75 min)
 
-1. **Virittäytyminen** (8 min) — Opiskelijoille näytetään lyhyt video tai infografiikka yhteishaun perusrakenteesta. Kysymys: "Mitä tiedätte jo yhteishauista?" Nopea brainstorm (post-it tai sähköinen)
+1. **Virittäytyminen** (10 min) — Mentimeter-kysely: "Mitä tiedät korkeakoulujen yhteishausta?" ja "Mikä hakuprosessissa jännittää eniten?" Tulosten läpikäynti ja keskustelu.
 
 2. **Työskentely** (50 min)
-   - **Osa 1** (20 min): Opinto-ohjaaja esittelee yhteishaun rakenteet
-     - Syksy- ja kevään yhteishaut, hakuajat ja -kanavat
-     - Hakukelpoisuus ja vaatimukset
-     - Kuuden hakukohteen sääntö ja strategiat
-   - **Osa 2** (20 min): Ryhmätyö (3-4 henkilön ryhmät)
-     - Jokaiselle ryhmälle jaetaan eri korkeakoulutyyppi (yliopisto, ammattikorkeakoulu, taidekorkeakoulu)
-     - Tehtävä: Etsi tietoa hakuprosessista, vaatimuksista ja hakuajoista
-     - Ryhmät täyttävät yhteisen taulukon/lomakkeen
-   - **Osa 3** (10 min): Ryhmien esittelyt (2 min/ryhmä)
+   - **Opettajan osuus** (15 min): Yhteishaun perusteet PowerPointilla: kevään ja syksyn haut, 6 hakutoiveen periaate, Opintopolku.fi-palvelu, todistusvalinta vs. valintakoe, HOPS-merkinnät
+   - **Pienryhmätyö** (20 min): Ryhmät (3-4 hlöä) tutkivat Opintopolku.fi:stä valitsemansa alan hakuprosessia: hakuajat, valintaperusteet, pisteytysjärjestelmä, todistusvalinnan kriteerit. Täyttävät yhteisen työpohjan.
+   - **Ryhmien esittelyt** (15 min): Jokainen ryhmä esittelee löydöksensä (3 min/ryhmä), vertaillaan eri alojen hakuprosesseja
 
-3. **Yhteenveto/reflektio** (17 min)
-   - Opinto-ohjaaja kokoaa pääkohdat yhteen
-   - Opiskelijat täyttävät reflektiolomakkeen: "Mikä oli minulle uutta? Mihin haluan syventää tietoa?"
-   - Seuraavien askelten esittely (yksilöohjaus, HOPS-päivitys, hakuharjoitukset)
+3. **Yhteenveto/reflektio** (15 min) — Henkilökohtainen muistilista: "Mitä minun tulee tehdä ennen hakua?" (todistusten tarkistus, valintakoevalmistautuminen, hakutoiveiden järjestys). HOPS-merkintä: oma alustava hakusuunnitelma ja aikataulu.
 
 ### Menetelmät
-- Luento/esitys
-- Ryhmätyö ja vertaisoppiminen
-- Itsenäinen pohdinta ja reflektio
-- Digitaalisten lähteiden hyödyntäminen
+- Interaktiivinen kysely (Mentimeter)
+- Opettajajohtoinen läpikäynti
+- Pienryhmätyöskentely
+- Tiedonhaku digitaalisista lähteistä
+- Vertaisoppiminen
+- Henkilökohtainen reflektio
 
 ### Materiaalit & Lähteet
-- **Virallinen lähde**: [Opintopolku.fi](https://opintopolku.fi) — yhteishaun tiedot ja hakukanavat
-- **Infografiikka/video**: Yhteishaun vaiheet (esim. Opintopolun tai Ylioppilastutkintolautakunnan materiaali)
-- **Ryhmätyölomake**: Hakuprosessin vertailutaulukko (yliopisto/amk/taidekorkeakoulu)
-- **Reflektiolomake**: Henkilökohtainen hakustrategia-pohja
+- Opintopolku.fi (https://opintopolku.fi/konfo/fi/haku/korkeakoulu)
+- PowerPoint-esitys: Yhteishaun ABC
+- Työpohja pienryhmille (PDF/tulostettava)
+- Henkilökohtainen muistilista-pohja
+- Opetushallituksen hakuoppaat
+- Korkeakoulujen omat verkkosivut
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen**: Aktiivinen osallistuminen virittäytymiseen ja ryhmätyöhön (S/H)
-- **Ryhmätyön tuotos**: Täytetty vertailutaulukko ja esitys (S/H)
-- **Reflektio**: Täytetty reflektiolomake osoittaa oppimisen ja seuraavien askelten tunnistamisen (S/H)
-- **HOPS-päivitys**: Opiskelijat päivittävät HOPS-dokumenttiin hakusuunnitelmansa
+- Aktiivinen osallistuminen pienryhmätyöskentelyyn
+- Henkilökohtaisen muistilistan laatiminen
+- HOPS-merkinnän tekeminen: alustava hakusuunnitelma ja aikataulu dokumentoitu
+- Läsnäolo ja osallistuminen keskusteluun
 
 ### Eriyttäminen
-- **Oppimisen tuki**: Opiskelijat, joilla on vaikeuksia lukemisessa, saavat valmiiksi jäsenneltyä materiaalia ja pariohjausta
-- **Erityisjärjestelyt**: Opiskelijat, joilla on erityisiä tarpeita, voivat tehdä ryhmätyön pienemmässä ryhmässä tai yksilöohjauksena
-- **Syventävä haaste**: Kiinnostuneet opiskelijat voivat tutkia kansainvälisiä hakuprosesseja tai vertailla eri hakukanavien eroja
+- **Tuki tarvitseville**: Opettaja kiertää ryhmissä ja tukee tiedonhakua, selkeytetyt ohjeet, mahdollisuus työskennellä parin kanssa
+- **Nopeille etenevät**: Voivat tutkia myös erillishakuja, avoimen väylää tai ulkomaisia hakuvaihtoehtoja
+- **Kielellinen tuki**: Keskeiset termit ja käsitteet kirjallisena, visuaaliset tukimateriaalit
+- **Digiosaaminen**: Opettaja demonstroi Opintopolun käyttöä, vertaistuki ryhmissä
 
 ### Koko koulu ohjaa — yhteistyö
-- **Rehtori/opinto-johtaja**: Tiedottaa koulun hakuprosesseista ja aikatauluista
-- **Opettajat**: Tukevat opiskelijoita hakuprosessissa ja antavat palautetta hakemuksista
-- **Korkeakoulut**: Vierailijat tai videoviestin kautta kertovat omista hakuprosesseistaan
-- **Vanhemmat**: Kutsutaan osallistumaan yksilöohjaukseen ja HOPS-keskusteluihin
+- **Opinto-ohjaaja**: Tarjoaa jatkotukea yksilöohjauksessa hakusuunnitelman laatimiseen
+- **Opettajat**: Tukevat valintakoevalmistautumista aineissaan (esim. matematiikka, äidinkieli)
+- **Rehtorit**: Todistusten ja HOPS-merkintöjen hallinnollinen tuki
+- **Vanhemmat**: Infotilaisuus keväällä hakuprosessista (linkki Wilma-viestiin)
+- **Alumnit/vierailijat**: Mahdollisuus kutsua korkeakouluopiskelijoita kertomaan kokemuksistaan (seuraavalle tunnille)

@@ -1,106 +1,79 @@
 # OPINTO-OHJAUS — OP2
 ## Tunti 11 — Urapohdinta osana kestävää kehitystä ja globaalivastuuta
-**Vuosikello**: 3. vuosi, syksy
+**Vuosikello**: 3. vuosi syksy
 **Tyyppi**: Luokkaopetus
 
 ### Tavoitteet (LOPS 2019)
-- Opiskelija pohtii omia uravalintojan ja jatko-opintojaan osana laajempaa ympäristöllistä ja yhteiskunnallista kontekstia
-- Opiskelija ymmärtää omien valintojensa eettisiä seurauksia ja ympäristövaikutuksia
-- Opiskelija kehittää muutosvalmiutta ja kestävyysosaamista epävarman tulevaisuuden edessä
-- Opiskelija tutustuu kestävän kehityksen mukaisiin urapolkuihin ja jatkokoulutusmahdollisuuksiin
+- Opiskelija osaa pohtia uravalintojaan osana laajempaa ympäristöllistä ja yhteiskunnallista kontekstia
+- Opiskelija tunnistaa omien valintojensa eettisiä seurauksia ja ympäristövaikutuksia
+- Opiskelija kehittää muutosvalmiutta ja kestävyysosaamista tulevaisuuden epävarmuudessa toimimiseen
+- Opiskelija ymmärtää vastuullisen vaikuttajan roolin yhteiskunnassa ja työelämässä
 
 ### Laaja-alainen osaaminen
-- **Eettisyys ja ympäristöosaaminen**: Ohjaus tukee kestävän tulevaisuuden rakentamista ja omien valintojensa eettisten seurausten pohtimista
-- **Globaali- ja kulttuuriosaaminen**: Näkymiä kansainvälisyyteen, vaihto-opiskeluun ja ulkomaisiin jatkokoulutusmahdollisuuksiin
-- **Yhteiskunnallinen osaaminen**: Kasvu vastuulliseksi vaikuttajaksi ja toiminta osana yhteiskuntaa ja työelämää
+- **Eettisyys ja ympäristöosaaminen**: Omien valintojen eettisten seurausten ja ympäristövaikutusten pohdinta
+- **Globaali- ja kulttuuriosaaminen**: Kansainvälisyys ja globaalivastuu osana urasuunnittelua
+- **Yhteiskunnallinen osaaminen**: Vastuullinen vaikuttajuus ja oikeudenmukaisuuden edistäminen
 
 ### Tunnin kulku (75 min)
 
-1. **Virittäytyminen** (8 min) — *Ilmastohaaste-keskustelu*
-   - Näytetään lyhyt video tai kuva tulevaisuuden haasteista (ilmastonmuutos, resurssien niukkuus)
-   - Kysymys: "Millainen rooli sinulla voisi olla näiden haasteiden ratkaisemisessa?"
+1. **Virittäytyminen** (10 min) — **Tulevaisuuden skenaariot**
+   - Näytetään lyhyt video tai kuvasarja ilmastonmuutoksen ja globaalien haasteiden vaikutuksista työelämään ja yhteiskuntaan
+   - Nopea kierros: "Mikä tulevaisuuden haaste huolestuttaa sinua eniten?"
 
-2. **Työskentely** (50 min)
-   - **Vaihe 1** (15 min): *Urapolkujen kartoitus kestävän kehityksen näkökulmasta*
-     - Opiskelijat tutustuvat esimerkkeihin ammateista/aloista, joilla on positiivinen ympäristö- tai yhteiskunnallinen vaikutus (vihreät ammatit, sosiaalinen yrittäjyys, kestävä teknologia)
-     - Ryhmäkeskustelu: Mitkä alat kiinnostavat sinua ja miksi?
-   
-   - **Vaihe 2** (20 min): *Itsearviointi ja pohdinta*
-     - Opiskelijat täyttävät työmonisteen: "Minun arvoistani ja tulevaisuudestani" (liite)
-       - Mitkä arvot ovat minulle tärkeitä? (ympäristö, oikeudenmukaisuus, luovuus, turvallisuus...)
-       - Miten nämä arvot voivat näkyä minun uravalinnassani?
-       - Mitä taitoja ja osaamista tarvitsen?
-     - Opiskelijat voivat työskennellä pareittain tai yksin
-   
-   - **Vaihe 3** (15 min): *Pienryhmäkeskustelu ja jakaminen*
-     - Opiskelijat jakautuvat 3-4 hengen ryhmiin
-     - Jokainen jakaa yhden ajatuksensa tai löydöksensä
-     - Ohjaaja korostaa: monilla poluilla voi vaikuttaa positiivisesti
+2. **Työskentely I** (25 min) — **Oma urapolku kestävyyden linssin läpi**
+   - Itsenäinen pohdinta: Opiskelija täyttää strukturoidun pohdintalomakkeen:
+     * Mitkä ovat omat jatko-opintosuunnitelmani?
+     * Miten valitsemani ala/ammatti liittyy kestävään kehitykseen?
+     * Mitä ympäristöllisiä tai yhteiskunnallisia vaikutuksia työllä voi olla?
+     * Miten voin omalla urallani edistää kestävää tulevaisuutta?
+   - Parijakotyö: Opiskelijat jakavat ajatuksiaan parin kanssa
 
-3. **Yhteenveto ja reflektio** (17 min)
-   - **Yhteenveto** (7 min): Ohjaaja kokoaa keskeiset viestit:
-     - Uravalinta on prosessi, ei kertaluonteinen päätös
-     - Kestävän kehityksen näkökulma avaa uusia mahdollisuuksia
-     - Jokaisen valinnoilla on merkitystä
-   - **Reflektio** (10 min): 
-     - Opiskelijat kirjoittavat lyhyesti: "Yksi asia, jonka opin tänään..." ja "Seuraavaksi haluan pohtia..."
-     - Vapaaehtoinen jakaminen
+3. **Työskentely II** (25 min) — **Vihreät ammatit ja tulevaisuuden osaaminen**
+   - Ryhmätyö (4-5 hengen ryhmät): Jokaiselle ryhmälle annetaan eri toimiala (esim. energia, rakentaminen, terveys, teknologia, koulutus)
+   - Tehtävä: Kartoittakaa, miten kestävä kehitys muuttaa tätä alaa ja millaista osaamista tulevaisuudessa tarvitaan
+   - Ryhmät luovat posterin tai digitaalisen esityksen (Padlet/Canva)
+
+4. **Jakaminen** (10 min) — **Ryhmien esitykset**
+   - Kukin ryhmä esittelee lyhyesti (2 min) löydöksensä
+   - Muut voivat esittää täydentäviä kysymyksiä
+
+5. **Yhteenveto ja reflektio** (5 min) — **Henkilökohtainen sitoutuminen**
+   - Opiskelija kirjoittaa HOPS:iin tai portfolioon: "Yksi konkreettinen teko, jonka teen seuraavan vuoden aikana edistääkseni kestävää tulevaisuutta opinnoissani tai uravalinnoissani"
+   - Ohjaaja kokoaa yhteen: Muutosvalmius on keskeinen taito – urapolut eivät ole suoria, ja kyky sopeutua ja toimia vastuullisesti on arvokkaampaa kuin täydellinen suunnitelma
 
 ### Menetelmät
-- Ryhmäkeskustelu ja pienryhmätyöskentely
-- Itsenäinen pohdinta ja itsearviointi
-- Moniste/työkirja
-- Videomateriaali tai kuvaesimerkki
-- Vertaisoppiminen
+- Itsenäinen pohdinta ja strukturoitu kirjoittaminen
+- Parijakotyö ja vertaisoppiminen
+- Ryhmätyö ja luova ongelmanratkaisu
+- Visuaalinen esittäminen (posterit/digitaaliset työkalut)
+- Reflektiivinen kirjoittaminen
 
 ### Materiaalit & Lähteet
-- **Moniste**: "Minun arvoistani ja tulevaisuudestani" -työkirja
-- **Videoklippi** (3-5 min): Esim. TED-puhe kestävästä kehityksestä tai nuorten urapolkuista
-- **Esimerkkiammatit**: Luettelo vihreistä ammateista ja kestävän kehityksen aloista
-- **Linkit**:
-  - Opetushallitus: https://www.oph.fi/fi/koulutus-ja-tutkinnot/oppimisen-tuen-uudistus-lukiokoulutuksessa
-  - Ammattikorkeakouluun.fi: https://www.ammattikorkeakouluun.fi/hakijalle/valintatavat/todistusvalinta/
-  - Oulun kaupungin lukioiden ohjaussuunnitelma (LOPS21)
+- Virittäytymisvideo (esim. YLE Areena: ilmastonmuutos ja työelämä, tai TED-talk tulevaisuuden työstä)
+- Pohdintalomake "Urapolkuni ja kestävyys" (moniste/digitaalinen)
+- Ryhmätyöohjeet ja toimialakortit
+- Posteripaperit ja tussit TAI pääsy Padlet/Canva-työkaluihin
+- Linkit: 
+  - [Opetushallitus: Kestävä kehitys](https://www.oph.fi/fi/koulutus-ja-tutkinnot/kestavaa-kehitysta-edistava-kasvatus)
+  - [Sitra: Kestävän kehityksen ratkaisut](https://www.sitra.fi/)
+  - [TE-palvelut: Vihreät työpaikat](https://www.te-palvelut.fi/)
+  - [Korkeakoulujen kestävyyskoulutus](https://www.ammattikorkeakouluun.fi/)
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen**: Aktiivinen osallistuminen keskusteluihin ja ryhmätyöhön (S/H)
-- **Itsearviointi**: Monisteen täyttäminen ja reflektio osoittavat omien arvojen ja tulevaisuuden pohdinnan
-- **HOPS-päivitys**: Opiskelijat voivat päivittää henkilökohtaisen opinto-ohjaussuunnitelmansa tunnin jälkeen
-- **Portfolio**: Moniste ja reflektio voidaan liittää opiskelijaportfolioon
+- **Osallistuminen**: Aktiivinen läsnäolo kaikissa työskentelyvaiheissa
+- **Itsearviointi**: Pohdintalomakkeen täyttäminen ja henkilökohtaisen sitoumuksen kirjaaminen
+- **HOPS-päivitys**: Kestävän kehityksen näkökulman integrointi omaan urasuunnitelmaan
+- **Ryhmätyö**: Osallistuminen ryhmän yhteiseen tuotokseen
 
 ### Eriyttäminen
-- **Oppimisen tuki**: Opiskelijat, joilla on vaikeuksia kirjoittamisessa, voivat täyttää monisteen suullisesti tai pareittain
-- **Erityisjärjestelyt**: Opiskelijat, joilla on diagnoosi tai erityistarpeita, saavat tarvittavat mukautukset (esim. lisäaika, yksilöllinen ohjaus)
-- **Syventävä pohdinta**: Kiinnostuneet opiskelijat voivat tutkia syvemmin yhtä ammattialaa tai jatkokoulutusmahdollisuutta
-- **Kielellinen tuki**: Opiskelijat, joille suomi ei ole äidinkieli, saavat tarvittavaa tukea ja selkokielisiä materiaaleja
+- **Tuki**: Pohdintalomakkeessa valmiita apukysymyksiä ja esimerkkejä. Mahdollisuus keskustella ohjaajan kanssa yksilöllisesti tunnin aikana
+- **Syventäminen**: Motivoituneille opiskelijoille lisätehtävä: "Tutki yhtä kestävän kehityksen uraa syvällisemmin ja kirjoita siitä lyhyt blogi tai tee video"
+- **Kielellinen tuki**: Pohdintalomake saatavilla myös englanniksi, mahdollisuus työskennellä äidinkielellä ja kääntää keskeiset ajatukset
+- **Digitaalinen/analoginen**: Ryhmätyö toteutettavissa sekä perinteisinä posterina että digitaalisilla työkaluilla opiskelijan valinnan mukaan
 
 ### Koko koulu ohjaa — yhteistyö
-- **Ryhmänohjaaja**: Tuntisuunnittelun ja toteutuksen vastuuhenkilö
-- **Aineenopettajat**: Voivat integroida kestävän kehityksen teemoja omiin opetuksiinsa (esim. biologia, yhteiskuntaoppi, ympäristötieto)
-- **Erityisopettaja**: Tukee opiskelijoita, joilla on oppimisen haasteita
-- **Opiskeluhuolto** (psykologi, kuraattori, terveydenhoitaja): Saatavilla yksilölliseen ohjaukseen ja tukeen
-- **Korkeakoulut ja työelämä**: Vierailija tai videoyhteys esim. OAMK:lta tai paikallisesta yrityksestä, joka työskentelee kestävän kehityksen parissa
-
----
-
-**Liite: Moniste "Minun arvoistani ja tulevaisuudestani"**
-
-*Nimi:* _________________ *Päivämäärä:* _________________
-
-1. **Mitkä arvot ovat minulle tärkeitä?** (valitse 3-5)
-   - ☐ Ympäristön suojelu  ☐ Oikeudenmukaisuus  ☐ Luovuus  ☐ Turvallisuus  ☐ Itsenäisyys  ☐ Yhteisöllisyys  ☐ Muu: _________
-
-2. **Miten nämä arvot voivat näkyä minun uravalinnassani?**
-   _________________________________________________________________
-
-3. **Mitkä ammatit tai alat kiinnostavat minua ja miksi?**
-   _________________________________________________________________
-
-4. **Mitä taitoja ja osaamista tarvitsen?**
-   _________________________________________________________________
-
-5. **Yksi asia, jonka opin tänään:**
-   _________________________________________________________________
-
-6. **Seuraavaksi haluan pohtia:**
-   _________________________________________________________________
+- **Ryhmänohjaaja**: Tukee HOPS-päivitystä ja jatkokeskusteluja
+- **Aineenopettajat**: Erityisesti yhteiskuntaopin, biologian, maantiedon ja filosofian opettajat voivat syventää teemoja
+- **Erityisopettaja**: Tukee tarvittaessa opiskelijoita, joilla on oppimisen haasteita
+- **Opiskeluhuolto**: Tarjoaa tukea opiskelijoille, joilla tulevaisuuden epävarmuus aiheuttaa ahdistusta
+- **Ulkopuoliset toimijat**: Mahdollisuus kutsua vierailijaksi kestävän kehityksen alan ammattilainen tai korkeakoulun edustaja (esim. OAMK Highway -yhteistyö)
