@@ -1,0 +1,109 @@
+{
+  "slots": [
+    {
+      "year": 1,
+      "semester": "syksy",
+      "module": "OP1",
+      "focus_areas": [
+        "Lukioon kiinnittyminen",
+        "Lukioyhteisöön sopeutuminen",
+        "Lukio-opintojen käytänteet ja rakenne",
+        "Itseohjautuvuus",
+        "Opiskelutaidot",
+        "Digitaalisten oppimisympäristöjen hallinta",
+        "Itsetuntemus"
+      ],
+      "key_activities": [
+        "Ryhmäytyminen",
+        "HOPSin laadinta",
+        "Valintojen tekeminen",
+        "Opiskelutaitojen ja digitaalisten välineiden haltuunotto",
+        "Oppimisvaikeuksien tunnistaminen (esim. lukitestit)"
+      ]
+    },
+    {
+      "year": 1,
+      "semester": "kevät",
+      "module": "OP1",
+      "focus_areas": [
+        "Opintojen suunnittelu",
+        "Ylioppilastutkinnon alustava pohdinta",
+        "Omien vahvuuksien ja kiinnostuksen kohteiden kartoitus"
+      ],
+      "key_activities": [
+        "Ainevalinnat seuraavalle vuodelle",
+        "Ylioppilastutkintosuunnitelman alustava pohdinta"
+      ]
+    },
+    {
+      "year": 2,
+      "semester": "syksy",
+      "module": "OP2",
+      "focus_areas": [
+        "Ylioppilastutkintosuunnitelman tarkentaminen",
+        "Korkeakoulutarjonta",
+        "Ammatit",
+        "Kansainväliset mahdollisuudet",
+        "Itsetuntemuksen syventäminen",
+        "Omien arvojen peilaaminen urasuunnitteluun"
+      ],
+      "key_activities": [
+        "Yo-suunnitelman tarkistus",
+        "Koeaineiden valinta",
+        "Tutustuminen korkeakoulutarjontaan ja ammatteihin (esim. vierailut ja asiantuntijat)",
+        "Kansainvälisten mahdollisuuksien kartoittaminen"
+      ]
+    },
+    {
+      "year": 2,
+      "semester": "kevät",
+      "module": "OP2",
+      "focus_areas": [
+        "Työelämätuntemus",
+        "Alakohtaiset hakuprosessit",
+        "Yrittäjyys",
+        "Valintojen vaikutukset jatko-opintoihin"
+      ],
+      "key_activities": [
+        "Työelämätapahtumat",
+        "Syventävä tutustuminen alakohtaisiin hakuihin",
+        "Asiantuntijavierailut"
+      ]
+    },
+    {
+      "year": 3,
+      "semester": "syksy",
+      "module": "OP2",
+      "focus_areas": [
+        "Ylioppilaskokeisiin valmistautuminen",
+        "Jatko-opintohakujen suunnittelu",
+        "Urasuunnitelman päivittäminen",
+        "Valintakokeisiin ja todistusvalintaan perehtyminen"
+      ],
+      "key_activities": [
+        "Ylioppilaskokeet",
+        "Viimeisten valintojen tekeminen",
+        "Jatko-opintohakujen esivalmistelu"
+      ]
+    },
+    {
+      "year": 3,
+      "semester": "kevät",
+      "module": "OP2",
+      "focus_areas": [
+        "Yhteishakuprosessi",
+        "Valmistuminen",
+        "Siirtymävaiheen hallinta",
+        "Tulevaisuuden polut",
+        "Jälkiohjaus"
+      ],
+      "key_activities": [
+        "Yhteishaku",
+        "Valmistuminen",
+        "Ohjaus tulevaan polkuun",
+        "Valintakokeisiin ja todistusvalinnan pisteytyksiin perehtyminen",
+        "Mahdollisten välivuosien suunnittelu"
+      ]
+    }
+  ]
+}

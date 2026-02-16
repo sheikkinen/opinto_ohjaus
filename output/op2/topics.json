@@ -1,0 +1,195 @@
+{
+  "topics": [
+    {
+      "id": "op2-01",
+      "title": "Jatko-opintojen ja urasuunnitelmien päätöksenteko",
+      "one_line_description": "Opiskelijan kyky tehdä realistisia ja perusteltuja päätöksiä jatko-opinnoista ja urasuunnitelmista.",
+      "module": "OP2",
+      "research_doc_sections": [
+        "OP2 – Jatko-opinnot, työelämä ja tulevaisuus: Katse lukion jälkeiseen elämään",
+        "Ohjauksen vuosikello: Lukio-opintojen jatkumo"
+      ]
+    },
+    {
+      "id": "op2-02",
+      "title": "Lukioaikaisten valintojen ja todistusvalinnan vaikutukset jatko-opintoihin",
+      "one_line_description": "Ymmärrys lukioaikaisten valintojen, kuten ainevalintojen ja ylioppilaskokeiden, vaikutuksesta korkeakouluhakuihin ja todistusvalintaan.",
+      "module": "OP2",
+      "research_doc_sections": [
+        "OP2 – Jatko-opinnot, työelämä ja tulevaisuus: Katse lukion jälkeiseen elämään",
+        "Moduulien vertailu",
+        "Haasteet ja tulevaisuuden näkymät lukiokoulutuksen ohjauksessa"
+      ]
+    },
+    {
+      "id": "op2-03",
+      "title": "Jatkokoulutusvaihtoehdot ja kansainväliset mahdollisuudet",
+      "one_line_description": "Monipuolisen tiedon saaminen kotimaisista ja kansainvälisistä jatkokoulutusvaihtoehdoista, mukaan lukien vaihto-opiskelu.",
+      "module": "OP2",
+      "research_doc_sections": [
+        "OP2 – Jatko-opinnot, työelämä ja tulevaisuus: Katse lukion jälkeiseen elämään",
+        "Moduulien vertailu",
+        "Ohjauksen vuosikello: Lukio-opintojen jatkumo",
+        "Laaja-alainen osaaminen ohjauksen pedagogisena ytimenä"
+      ]
+    },
+    {
+      "id": "op2-04",
+      "title": "Korkeakouluyhteistyö ja korkeakoulutarjontaan tutustuminen",
+      "one_line_description": "Tutustumiskäynnit, avoimen korkeakoulun opinnot ja asiantuntijavierailut korkeakoulutarjonnan ja ammattien ymmärtämiseksi.",
+      "module": "OP2",
+      "research_doc_sections": [
+        "OP2 – Jatko-opinnot, työelämä ja tulevaisuus: Katse lukion jälkeiseen elämään",
+        "Moduulien vertailu",
+        "Ohjauksen vuosikello: Lukio-opintojen jatkumo"
+      ]
+    },
+    {
+      "id": "op2-05",
+      "title": "Työelämätuntemus, yrittäjyys ja elinkeinoelämäyhteistyö",
+      "one_line_description": "Työelämätuntemuksen vahvistaminen, yrittäjyyteen tutustuminen ja yhteistyö elinkeinoelämän kanssa (esim. Työntaitajat-tapahtumat).",
+      "module": "OP2",
+      "research_doc_sections": [
+        "OP2 – Jatko-opinnot, työelämä ja tulevaisuus: Katse lukion jälkeiseen elämään",
+        "Moduulien vertailu",
+        "Paikallinen sovellus: Esimerkkinä Oulun kaupungin ohjausmalli",
+        "Oulun ohjausmallin erityispiirteet"
+      ]
+    },
+    {
+      "id": "op2-06",
+      "title": "Jatko-opintojen hakuprosessit",
+      "one_line_description": "Perehtyminen jatko-opintojen hakuprosesseihin ja niihin liittyviin käytänteisiin.",
+      "module": "OP2",
+      "research_doc_sections": [
+        "Moduulien vertailu"
+      ]
+    },
+    {
+      "id": "op2-07",
+      "title": "Jälkiohjausvelvoite",
+      "one_line_description": "Oikeus saada ohjausta hakeutumiseen ja urasuunnitteluun vielä valmistumisvuotta seuraavan vuoden ajan, jos jatko-opiskelupaikkaa ei ole.",
+      "module": "OP2",
+      "research_doc_sections": [
+        "Ohjauksen lainsäädännöllinen perusta ja oikeudellinen viitekehys",
+        "Ohjauksen oikeudelliset ulottuvuudet",
+        "Paikallinen sovellus: Esimerkkinä Oulun kaupungin ohjausmalli",
+        "Oulun ohjausmallin erityispiirteet",
+        "Yhteenveto ja suositukset ohjaustyön vahvistamiseksi"
+      ]
+    },
+    {
+      "id": "op2-08",
+      "title": "OAMK Highway -malli (suora väylä AMK:hon)",
+      "one_line_description": "Mahdollisuus suorittaa lukion aikana ammattikorkeakoulun opintoja, jotka takaavat opiskelupaikan ilman erillistä valintakoetta.",
+      "module": "OP2",
+      "research_doc_sections": [
+        "Paikallinen sovellus: Esimerkkinä Oulun kaupungin ohjausmalli",
+        "Oulun ohjausmallin erityispiirteet",
+        "Yhteenveto ja suositukset ohjaustyön vahvistamiseksi"
+      ]
+    },
+    {
+      "id": "op2-09",
+      "title": "Oulun yliopiston Opopassi-yhteistyö",
+      "one_line_description": "Yhteistyö Oulun yliopiston kanssa Opopassi-työkalun kautta, joka on integroitu OP2-opintojaksoon.",
+      "module": "OP2",
+      "research_doc_sections": [
+        "Paikallinen sovellus: Esimerkkinä Oulun kaupungin ohjausmalli"
+      ]
+    },
+    {
+      "id": "op2-10",
+      "title": "Siirtymien sujuvoittaminen ja välivuosien vähentäminen",
+      "one_line_description": "Toimenpiteet, joilla madalletaan kynnystä siirtyä toiselta asteelta korkea-asteelle ja vähennetään välivuosien määrää.",
+      "module": "OP2",
+      "research_doc_sections": [
+        "Paikallinen sovellus: Esimerkkinä Oulun kaupungin ohjausmalli",
+        "Yhteenveto ja suositukset ohjaustyön vahvistamiseksi"
+      ]
+    },
+    {
+      "id": "op2-11",
+      "title": "Urapohdinta osana kestävää kehitystä ja globaalivastuuta",
+      "one_line_description": "Uravalintojen ja tulevaisuuden pohdinta osana laajempaa ympäristöllistä ja yhteiskunnallista kontekstia.",
+      "module": "OP2",
+      "research_doc_sections": [
+        "Paikallinen sovellus: Esimerkkinä Oulun kaupungin ohjausmalli",
+        "Oulun ohjausmallin erityispiirteet",
+        "Haasteet ja tulevaisuuden näkymät lukiokoulutuksen ohjauksessa"
+      ]
+    },
+    {
+      "id": "op2-12",
+      "title": "Ylioppilastutkintosuunnitelman tarkentaminen ja koeaineiden valinta",
+      "one_line_description": "Ylioppilastutkintosuunnitelman päivittäminen ja koeaineiden valinta lukion toisena vuonna.",
+      "module": "OP2",
+      "research_doc_sections": [
+        "Ohjauksen vuosikello: Lukio-opintojen jatkumo"
+      ]
+    },
+    {
+      "id": "op2-13",
+      "title": "Itsetuntemuksen syventäminen ja arvojen peilaaminen urasuunnitteluun",
+      "one_line_description": "Omien arvojen ja itsetuntemuksen syventäminen urasuunnittelun tukena.",
+      "module": "OP2",
+      "research_doc_sections": [
+        "Ohjauksen vuosikello: Lukio-opintojen jatkumo"
+      ]
+    },
+    {
+      "id": "op2-14",
+      "title": "Yhteishaku- ja muiden hakujen neuvonta",
+      "one_line_description": "Tekninen ja sisällöllinen neuvonta yhteishakuun ja muihin jatko-opintohakuihin liittyen.",
+      "module": "OP2",
+      "research_doc_sections": [
+        "Ohjauksen vuosikello: Lukio-opintojen jatkumo"
+      ]
+    },
+    {
+      "id": "op2-15",
+      "title": "Valintakokeisiin ja todistusvalintaan perehtyminen",
+      "one_line_description": "Perehtyminen korkeakoulujen valintakokeisiin ja todistusvalinnan pisteytyksiin.",
+      "module": "OP2",
+      "research_doc_sections": [
+        "Ohjauksen vuosikello: Lukio-opintojen jatkumo"
+      ]
+    },
+    {
+      "id": "op2-16",
+      "title": "Valmistautuminen lukion jälkeiseen elämään ja välivuosien suunnittelu",
+      "one_line_description": "Tuki ja ohjaus lukion jälkeisen elämän suunnitteluun, mukaan lukien mahdolliset välivuodet.",
+      "module": "OP2",
+      "research_doc_sections": [
+        "Ohjauksen vuosikello: Lukio-opintojen jatkumo"
+      ]
+    },
+    {
+      "id": "op2-17",
+      "title": "Vastuullisena vaikuttajana toimiminen yhteiskunnassa ja työelämässä",
+      "one_line_description": "Kasvaminen vastuulliseksi vaikuttajaksi ja kyky toimia osana yhteiskuntaa ja työelämää.",
+      "module": "OP2",
+      "research_doc_sections": [
+        "Laaja-alainen osaaminen ohjauksen pedagogisena ytimenä"
+      ]
+    },
+    {
+      "id": "op2-18",
+      "title": "Digitaalisten urasuunnittelualustojen hyödyntäminen",
+      "one_line_description": "Verkko-ohjauksen, sähköisten portfoliojärjestelmien ja urasuunnittelualustojen käyttö ohjauksessa.",
+      "module": "OP2",
+      "research_doc_sections": [
+        "Haasteet ja tulevaisuuden näkymät lukiokoulutuksen ohjauksessa"
+      ]
+    },
+    {
+      "id": "op2-19",
+      "title": "Muutosvalmiuden ja kestävyysosaamisen vahvistaminen",
+      "one_line_description": "Opiskelijan kyvyn vahvistaminen hahmottaa monimutkaisia kokonaisuuksia ja toimia epävarmuudessa (resilienssi).",
+      "module": "OP2",
+      "research_doc_sections": [
+        "Haasteet ja tulevaisuuden näkymät lukiokoulutuksen ohjauksessa"
+      ]
+    }
+  ]
+}

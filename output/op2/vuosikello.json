@@ -1,0 +1,113 @@
+{
+  "slots": [
+    {
+      "year": 1,
+      "semester": "syksy",
+      "module": "OP1",
+      "focus_areas": [
+        "Lukio-opintojen käytänteet ja rakenne",
+        "Opiskelutaitojen kehittäminen",
+        "Itsetuntemus",
+        "Digitaalisten työkalujen hallinta",
+        "Hyvinvointiosaaminen",
+        "Vuorovaikutusosaaminen"
+      ],
+      "key_activities": [
+        "Ryhmäytyminen",
+        "Lukioyhteisöön sopeutuminen",
+        "HOPSin laadinta",
+        "Valintojen tekeminen",
+        "Opiskelutaitojen haltuunotto",
+        "Digitaalisten välineiden haltuunotto",
+        "Oppimisvaikeuksien tunnistaminen"
+      ]
+    },
+    {
+      "year": 1,
+      "semester": "kevät",
+      "module": "OP1",
+      "focus_areas": [
+        "Opintojen suunnittelu",
+        "Ylioppilastutkinnon alustava suunnittelu",
+        "Itsetuntemuksen vahvistaminen"
+      ],
+      "key_activities": [
+        "Ainevalintojen tekeminen seuraavalle vuodelle",
+        "Ylioppilaskirjoitusaineiden alustava pohdinta",
+        "HOPSin päivittäminen"
+      ]
+    },
+    {
+      "year": 2,
+      "semester": "syksy",
+      "module": "OP2",
+      "focus_areas": [
+        "Ylioppilastutkinnon suunnittelu",
+        "Jatko-opintomahdollisuudet",
+        "Työelämätuntemus",
+        "Kansainvälisyys",
+        "Urasuunnittelu",
+        "Itsetuntemuksen syventäminen"
+      ],
+      "key_activities": [
+        "Yo-suunnitelman tarkistus",
+        "Koeaineiden valinta",
+        "Tutustuminen korkeakoulutarjontaan ja ammatteihin",
+        "Kansainvälisten mahdollisuuksien kartoittaminen"
+      ]
+    },
+    {
+      "year": 2,
+      "semester": "kevät",
+      "module": "OP2",
+      "focus_areas": [
+        "Työelämätuntemus",
+        "Jatko-opintomahdollisuudet",
+        "Alakohtaiset hakuprosessit",
+        "Korkeakouluyhteistyö"
+      ],
+      "key_activities": [
+        "Työelämätapahtumiin osallistuminen",
+        "Syventävä tutustuminen alakohtaisiin hakuihin",
+        "Korkeakouluyhteistyö (esim. tutustumiskäynnit, avoimen korkeakoulun opinnot)"
+      ]
+    },
+    {
+      "year": 3,
+      "semester": "syksy",
+      "module": "OP2",
+      "focus_areas": [
+        "Jatko-opintohaut",
+        "Urasuunnitelman päivittäminen",
+        "Valintojen vaikutusten analysointi",
+        "Ylioppilaskokeisiin valmistautuminen"
+      ],
+      "key_activities": [
+        "Ylioppilaskokeisiin valmistautuminen",
+        "Viimeisten opintovalintojen tekeminen",
+        "Jatko-opintohakujen esivalmistelu",
+        "Urasuunnitelman päivittäminen"
+      ]
+    },
+    {
+      "year": 3,
+      "semester": "kevät",
+      "module": "OP2",
+      "focus_areas": [
+        "Jatko-opintohaut",
+        "Valintakokeet",
+        "Todistusvalinta",
+        "Lukion jälkeinen elämä",
+        "Jälkiohjaus",
+        "Muutosvalmius"
+      ],
+      "key_activities": [
+        "Yhteishakuun osallistuminen",
+        "Valintakokeisiin ja todistusvalintaan perehtyminen",
+        "Valmistuminen",
+        "Ohjaus tulevaan polkuun",
+        "Välivuosien suunnittelu"
+      ]
+    }
+  ]
+}

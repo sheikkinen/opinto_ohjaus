@@ -1,0 +1,243 @@
+{
+  "topics": [
+    {
+      "id": "op1-01",
+      "title": "Siirtyminen lukiokoulutukseen",
+      "one_line_description": "Tukea opiskelijan siirtymistä perusopetuksesta lukiokoulutukseen.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "OP1 – Minä opiskelijana: Perusta lukio-opinnoille",
+        "1. vuosi: Lukioon kiinnittyminen (Juniorivaihe)"
+      ]
+    },
+    {
+      "id": "op1-02",
+      "title": "Lukio-opintojen käytänteet ja rakenne",
+      "one_line_description": "Ymmärtää lukio-opintojen käytänteet, rakenne ja tavoitteet.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "OP1 – Minä opiskelijana: Perusta lukio-opinnoille",
+        "Moduulien vertailu",
+        "1. vuosi: Lukioon kiinnittyminen (Juniorivaihe)"
+      ]
+    },
+    {
+      "id": "op1-03",
+      "title": "Opiskelutaitojen kehittäminen",
+      "one_line_description": "Harjaannuttaa lukiossa vaadittaviin opiskelutaitoihin.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "OP1 – Minä opiskelijana: Perusta lukio-opinnoille",
+        "Moduulien vertailu",
+        "1. vuosi: Lukioon kiinnittyminen (Juniorivaihe)"
+      ]
+    },
+    {
+      "id": "op1-04",
+      "title": "Omien vahvuuksien ja kiinnostusten kohteiden kartoittaminen",
+      "one_line_description": "Auttaa opiskelijaa kartoittamaan omia vahvuuksiaan ja kiinnostuksen kohteitaan.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "OP1 – Minä opiskelijana: Perusta lukio-opinnoille"
+      ]
+    },
+    {
+      "id": "op1-05",
+      "title": "Henkilökohtaisen opiskelusuunnitelman (HOPS) laatiminen",
+      "one_line_description": "Laatia ja päivittää henkilökohtainen opiskelusuunnitelma (HOPS).",
+      "module": "OP1",
+      "research_doc_sections": [
+        "OP1 – Minä opiskelijana: Perusta lukio-opinnoille",
+        "Moduulien vertailu",
+        "1. vuosi: Lukioon kiinnittyminen (Juniorivaihe)"
+      ]
+    },
+    {
+      "id": "op1-06",
+      "title": "Ylioppilastutkintosuunnitelman alustava laatiminen",
+      "one_line_description": "Laatia alustava ylioppilastutkintosuunnitelma.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "OP1 – Minä opiskelijana: Perusta lukio-opinnoille",
+        "Moduulien vertailu"
+      ]
+    },
+    {
+      "id": "op1-07",
+      "title": "Jatko-opinto- ja urasuunnitelman alustava hahmottaminen",
+      "one_line_description": "Laatia alustava jatko-opinto- ja urasuunnitelma.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "OP1 – Minä opiskelijana: Perusta lukio-opinnoille"
+      ]
+    },
+    {
+      "id": "op1-08",
+      "title": "Itsetuntemuksen vahvistaminen",
+      "one_line_description": "Vahvistaa itsetuntemusta ja antaa välineitä omien ajatusten, tunteiden ja kokemusten kielentämiseen.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "OP1 – Minä opiskelijana: Perusta lukio-opinnoille",
+        "Moduulien vertailu"
+      ]
+    },
+    {
+      "id": "op1-09",
+      "title": "Elämänhallinnan taidot",
+      "one_line_description": "Tukea elämänhallinnan taitoja.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "OP1 – Minä opiskelijana: Perusta lukio-opinnoille"
+      ]
+    },
+    {
+      "id": "op1-10",
+      "title": "Vuorovaikutustaidot",
+      "one_line_description": "Kehittää vuorovaikutustaitoja.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "OP1 – Minä opiskelijana: Perusta lukio-opinnoille",
+        "Laaja-alainen osaaminen ohjauksen pedagogisena ytimenä"
+      ]
+    },
+    {
+      "id": "op1-11",
+      "title": "Vastuullinen ja eettinen toiminta",
+      "one_line_description": "Kehittää kykyä toimia vastuullisesti ja eettisesti eri tilanteissa.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "OP1 – Minä opiskelijana: Perusta lukio-opinnoille"
+      ]
+    },
+    {
+      "id": "op1-12",
+      "title": "Digitaalisten oppimisympäristöjen ja työkalujen hallinta",
+      "one_line_description": "Hallita digitaalisia oppimisympäristöjä ja työkaluja.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "OP1 – Minä opiskelijana: Perusta lukio-opinnoille",
+        "Moduulien vertailu",
+        "1. vuosi: Lukioon kiinnittyminen (Juniorivaihe)"
+      ]
+    },
+    {
+      "id": "op1-13",
+      "title": "Laaja-alaisen osaamisen tavoitteiden kytkeminen omaan oppimiseen",
+      "one_line_description": "Kytkeä laaja-alaisen osaamisen tavoitteet osaksi omaa oppimista.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "OP1 – Minä opiskelijana: Perusta lukio-opinnoille"
+      ]
+    },
+    {
+      "id": "op1-14",
+      "title": "Ryhmäytyminen ja lukioyhteisöön sopeutuminen",
+      "one_line_description": "Tukea opiskelijoiden ryhmäytymistä ja sopeutumista lukioyhteisöön.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "1. vuosi: Lukioon kiinnittyminen (Juniorivaihe)",
+        "Ohjauksen vuosikello"
+      ]
+    },
+    {
+      "id": "op1-15",
+      "title": "Oppimisvaikeuksien tunnistaminen",
+      "one_line_description": "Tunnistaa mahdolliset oppimisvaikeudet, kuten lukivaikeudet, lukion alussa.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "1. vuosi: Lukioon kiinnittyminen (Juniorivaihe)"
+      ]
+    },
+    {
+      "id": "op1-16",
+      "title": "Hyvinvointiosaaminen ja omien voimavarojen tunnistaminen",
+      "one_line_description": "Tukea opiskelijan hyvinvointiosaamista, itsetuntemusta ja omien voimavarojen tunnistamista.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "Laaja-alainen osaaminen ohjauksen pedagogisena ytimenä",
+        "Oppimisen tuki ja erityinen tuki opinto-ohjauksessa"
+      ]
+    },
+    {
+      "id": "op1-17",
+      "title": "Tekstitaitojen kehittäminen",
+      "one_line_description": "Kehittää opiskelijan tekstitaitoja.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "Laaja-alainen osaaminen ohjauksen pedagogisena ytimenä"
+      ]
+    },
+    {
+      "id": "op1-18",
+      "title": "Monitieteinen ja luova osaaminen",
+      "one_line_description": "Kannustaa opiskelijaa näkemään yhteyksiä eri oppiaineiden välillä ja hyödyntämään tätä ymmärrystä.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "Laaja-alainen osaaminen ohjauksen pedagogisena ytimenä"
+      ]
+    },
+    {
+      "id": "op1-19",
+      "title": "Yhteiskunnallinen osaaminen",
+      "one_line_description": "Edistää opiskelijan yhteiskunnallista osaamista ja kasvua vastuulliseksi vaikuttajaksi.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "Laaja-alainen osaaminen ohjauksen pedagogisena ytimenä"
+      ]
+    },
+    {
+      "id": "op1-20",
+      "title": "Eettisyys ja ympäristöosaaminen",
+      "one_line_description": "Tukea opiskelijan eettisyyttä ja ympäristöosaamista kestävän tulevaisuuden rakentamiseksi.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "Laaja-alainen osaaminen ohjauksen pedagogisena ytimenä"
+      ]
+    },
+    {
+      "id": "op1-21",
+      "title": "Globaali- ja kulttuuriosaaminen",
+      "one_line_description": "Avata näkymiä kansainvälisyyteen ja kulttuurien tuntemukseen.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "Laaja-alainen osaaminen ohjauksen pedagogisena ytimenä"
+      ]
+    },
+    {
+      "id": "op1-22",
+      "title": "Opiskelukyvyn tukeminen ja soveltuvien opiskelumenetelmien löytäminen",
+      "one_line_description": "Tukea opiskelijan opiskelukykyä ja auttaa löytämään soveltuvia opiskelumenetelmiä.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "Oppimisen tuki ja erityinen tuki opinto-ohjauksessa"
+      ]
+    },
+    {
+      "id": "op1-23",
+      "title": "Muutosvalmius ja avun hakeminen",
+      "one_line_description": "Vahvistaa opiskelijan luottamusta selviytyä muutostilanteista ja kykyä hakea apua ajoissa.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "Oppimisen tuki ja erityinen tuki opinto-ohjauksessa"
+      ]
+    },
+    {
+      "id": "op1-24",
+      "title": "Opiskelijan oikeus henkilökohtaiseen ohjaukseen",
+      "one_line_description": "Ymmärtää opiskelijan lakisääteinen oikeus henkilökohtaiseen ohjaukseen koko opintojen ajan.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "Ohjauksen lainsäädännöllinen perusta ja oikeudellinen viitekehys"
+      ]
+    },
+    {
+      "id": "op1-25",
+      "title": "Ohjauksen henkilökohtaistaminen",
+      "one_line_description": "Sovittaa opinto-ohjaus ja tuki opiskelijan yksilöllisiin tavoitteisiin ja elämäntilanteeseen.",
+      "module": "OP1",
+      "research_doc_sections": [
+        "Ohjauksen lainsäädännöllinen perusta ja oikeudellinen viitekehys"
+      ]
+    }
+  ]
+}
