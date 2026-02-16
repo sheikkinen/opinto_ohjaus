@@ -1,83 +1,79 @@
 # OPINTO-OHJAUS — OP1
 ## Tunti 1 — Siirtyminen lukiokoulutukseen
-**Vuosikello**: 1. vuosi, syksy
+**Vuosikello**: 1. vuosi syksy
 **Tyyppi**: Luokkaopetus
 
 ### Tavoitteet (LOPS 2019)
-- Opiskelija ymmärtää lukiokoulutuksen rakenteen, tavoitteet ja käytänteet
-- Opiskelija tutustuu lukioyhteisöön ja kiinnittyy siihen
-- Opiskelija alkaa kehittää itsetuntemusta ja tunnistaa omat vahvuutensa
-- Opiskelija ymmärtää opinto-ohjauksen merkityksen ja osaa hakea apua tarvittaessa
+- Opiskelija ymmärtää lukio-opintojen rakenteen ja käytänteet sekä oman roolinsa itseohjautuvana oppijana
+- Opiskelija tutustuu lukioyhteisöön ja alkaa kiinnittyä osaksi sitä
+- Opiskelija tunnistaa omia vahvuuksiaan ja opiskelutaitojaan sekä ymmärtää HOPS:n merkityksen
+- Opiskelija tiedostaa siirtymävaiheen tuomat mahdollisuudet ja haasteet
 
 ### Laaja-alainen osaaminen
-- **Hyvinvointiosaaminen**: Jaksamisen ja stressinhallintaan liittyvät pohdinnat
-- **Vuorovaikutusosaaminen**: Ryhmäytyminen ja yhteisöön kiinnittyminen
+- **Hyvinvointiosaaminen**: Siirtymävaiheen tunteiden tunnistaminen ja käsittely
+- **Vuorovaikutusosaaminen**: Uusiin ihmisiin tutustuminen ja yhteisöön kiinnittyminen
 
 ### Tunnin kulku (75 min)
 
-1. **Virittäytyminen** (10 min) — *Tervetulotoivotus ja odotuksien kartoitus*
-   - Opinto-ohjaaja tervehtii opiskelijoita ja jakaa tunnin aiheesta
-   - Nopea kysely: "Mitä odotuksia sinulla on lukiosta?" (käsi ylös -menetelmä tai Mentimeter)
-   - Tavoitteen asettaminen: "Tänään tutustumme lukion maailmaan yhdessä"
+1. **Virittäytyminen** (10 min)
+   - Tervetuloa lukioon! Ohjaajan esittäytyminen ja tunnin tavoitteiden läpikäynti
+   - Nopea kierros: "Yksi sana, joka kuvaa tunteitani lukion aloittamisesta" (jokainen vuorollaan)
 
 2. **Työskentely** (50 min)
-   - **Osuus A: Lukio-opinnot käytännössä** (20 min)
-     - Opinto-ohjaaja esittelee: lukion rakenne, opintopisteet, ainevalinnat, ylioppilastutkinto
-     - Interaktiivinen: opiskelijat kysyvät, ohjaaja vastaa
-     - Visuaalinen apuväline: lukion opintopolku -kaavio tai infografiikka
    
-   - **Osuus B: Tutustuminen lukioyhteisöön** (15 min)
-     - Pienryhmäkeskustelu (3–4 henkilön ryhmät): "Mitä haluat oppia lukiossa? Mitkä aineet kiinnostavat?"
-     - Ryhmät jakavat ajatuksia plenariin
+   **A) Perusopetuksesta lukioon – mitä muuttuu?** (15 min)
+   - Lyhyt esitys: Lukion rakenne, opintopisteet, kurssitarjonta, itsenäinen vastuu
+   - Pienryhmäkeskustelu (3-4 hlö): "Mikä tuntuu helpolta/haastavalta siirtymässä?" 
+   - Yhteinen purku: Ryhmät jakavat 1-2 ajatusta
    
-   - **Osuus C: Opinto-ohjaus ja tuki** (15 min)
-     - Opinto-ohjaaja esittelee itsensä ja opinto-ohjauksen palvelut
-     - Henkilökohtaisen opiskelusuunnitelman (HOPS) esittely: miksi se laaditaan, milloin päivitetään
-     - Oppimisen tuen uudistus (1.8.2025): tukitasot ja miten apua saa
+   **B) Minä oppijana – vahvuuksieni kartoitus** (20 min)
+   - Yksilötyö: Vahvuuskorttien tai digitaalisen työkalun (esim. Padlet) avulla opiskelija pohtii:
+     * Mitkä ovat opiskeluvahvuuteni?
+     * Missä aineissa/tilanteissa onnistun parhaiten?
+     * Mitä haluan kehittää lukiossa?
+   - Parijakotyö: Keskustelu parin kanssa omista havainnoista
+   
+   **C) HOPS – oma suunnitelmani** (15 min)
+   - Esittely: Mikä on HOPS ja miksi se on tärkeä?
+   - Käytännön info: Milloin ja miten HOPS laaditaan, miten sitä päivitetään
+   - Alustava pohdinta: "Kolme asiaa, jotka haluan saavuttaa lukiossa"
 
 3. **Yhteenveto ja reflektio** (15 min)
-   - **Itsearviointi**: Opiskelijat täyttävät lyhyen reflektiolomakkeen
-     - "Mitä opit tänään?"
-     - "Mikä jäi mieleen?"
-     - "Mihin haluat saada apua?"
-   - Opinto-ohjaaja korostaa: "Lukio on muutos, mutta et ole siinä yksin"
-   - Seuraavien tapaamisten esittely (yksilöohjaus, ryhmänohjaaja)
+   - Yhteinen keskustelu: Mitä ajatuksia tunti herätti?
+   - Loppukysely (Mentimeter/käsimerkit): "Kuinka valmiiksi tunnet itsesi lukio-opintoihin?" (asteikko 1-5)
+   - Seuraavan tapaamisen esittely ja kotitehtävä: "Pohdi kotona yhtä asiaa, jossa haluat kehittyä tänä lukuvuonna"
 
 ### Menetelmät
-- Luento ja interaktiivinen keskustelu
-- Pienryhmäkeskustelu
-- Nopea kysely/mielipidekysyntä
-- Itsearviointi ja reflektio
-- Visuaaliset apuvälineet (kaaviot, infografiikka)
+- Ryhmäkeskustelu ja pienryhmätyöskentely
+- Yksilöllinen pohdinta ja itsearviointi
+- Vuorovaikutukselliset harjoitukset (kierros, parijakotyö)
+- Digitaaliset työkalut (Mentimeter, Padlet)
+- Vahvuuskortit tai muu konkreettinen materiaali
 
 ### Materiaalit & Lähteet
-- Lukion opintopolku -kaavio (omat materiaalit tai ePerusteet)
-- Opinto-ohjauksen esittelymoniste
-- HOPS-pohja (esittely)
-- Reflektiolomake (paperinen tai digiversio)
-- Opintopolku.fi -linkki (näytölle)
-- Opetushallituksen materiaali oppimisen tuen uudistuksesta
-- Mahdollinen: Mentimeter-kysely virittäytymiseen
+- Lukion opinto-oppaat ja esitteet (painettu/digitaalinen)
+- Vahvuuskortit tai vastaava työkalu
+- HOPS-pohja (esikatselu)
+- Digitaaliset alustat: Mentimeter, Padlet
+- LOPS 2019: https://eperusteet.opintopolku.fi/
+- Opintopolku.fi – tietoa koulutuksista ja hauista
+- Opetushallitus: Opinto-ohjaus lukiossa
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen**: Aktiivinen osallistuminen keskusteluihin ja pienryhmätyöskentelyyn (S/H)
-- **Reflektio**: Reflektiolomakkeen täyttäminen osoittaa oppimisen (S/H)
-- **HOPS-prosessin aloitus**: Opiskelija ymmärtää HOPS:in merkityksen ja on valmis sen laadintaan
+- **Osallistuminen**: Aktiivinen läsnäolo ja osallistuminen keskusteluihin ja harjoituksiin
+- **Itsearviointi**: Oman oppimisen ja vahvuuksien pohdinta
+- **Kotitehtävä**: Yhden kehittämiskohteen tunnistaminen (palautetaan seuraavalla kerralla)
+- Suoritusmerkintä edellyttää läsnäoloa ja aktiivista osallistumista
 
 ### Eriyttäminen
-- **Oppimisen tuki**: Opiskelijat, joilla on kuulemisen vaikeuksia, saavat materiaalit etukäteen
-- **Erityisjärjestelyt**: Opiskelijat, joilla on diagnosoituja oppimisvaikeuksia, voivat saada tukea pienryhmässä tai yksilöohjauksessa
-- **Kielellinen tuki**: Maahanmuuttajataustaisten opiskelijoiden kanssa voidaan käyttää yksinkertaisempaa kieltä ja visuaalisia apuvälineitä
-- **Syventävä osuus**: Kiinnostuneet opiskelijat voivat saada lisätietoa ylioppilastutkinnosta ja jatko-opinto-mahdollisuuksista
+- **Tuki tarvittaessa**: Mahdollisuus keskustella ohjaajan kanssa kahden kesken tunnin jälkeen
+- **Kielellinen tuki**: Selkeä kieli, visuaaliset tukimateriaalit, mahdollisuus käyttää äidinkieltä pohdinnoissa
+- **Jännittäjät**: Mahdollisuus työskennellä tutun parin kanssa, ei pakoteta puhumaan isolle ryhmälle
+- **Nopeat oppijat**: Syventävä tehtävä – "Laadi alustava suunnitelma ensimmäisen periodin opinnoista"
 
 ### Koko koulu ohjaa — yhteistyö
-- **Opinto-ohjaaja**: Tunnin vetäjä, HOPS-prosessin koordinoija
-- **Ryhmänohjaaja**: Osallistuu tunnille, tukee ryhmäytymistä
-- **Rehtori**: Voi tervehtia opiskelijoita (valinnainen)
-- **Erityisopettaja**: Saatavilla oppimisen tuen kysymyksiin
-- **Opiskeluhuolto** (psykologi, kuraattori): Esitellään palvelut ja tavoitettavuus
-- **Perusopetuksen ohjaus**: Yhteistyö siirtymävaiheessa (tiedot opiskelijoista)
-
----
-
-**Huomio jatkoon**: Ensimmäisen tunnin jälkeen opiskelijat kutsutaan yksilöohjaukseen HOPS:in laadintaa varten. Ryhmänohjaaja tukee ryhmäytymistä ja hyvinvointia muilla tunneilla.
+- **Ryhmänohjaaja**: Tiivis yhteistyö ryhmäytymisessä ja arjen tukemisessa
+- **Aineenopettajat**: Tiedonvaihto opiskelutaidoista ja mahdollisista tuen tarpeista
+- **Erityisopettaja**: Konsultaatio mahdollisten oppimisvaikeuksien tunnistamisessa (esim. lukitestit)
+- **Opiskeluhuolto**: Yhteys kuraattoriin/psykologiin hyvinvoinnin tukemisessa
+- **Perusopetus**: Nivelvaiheyhteistyö – tiedonsiirto aiemmista ohjaussuunnitelmista

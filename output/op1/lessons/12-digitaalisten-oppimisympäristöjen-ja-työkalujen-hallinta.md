@@ -1,59 +1,66 @@
 # OPINTO-OHJAUS — OP1
 ## Tunti 12 — Digitaalisten oppimisympäristöjen ja työkalujen hallinta
-**Vuosikello**: 1. vuosi, kevät
+**Vuosikello**: 1. vuosi kevät
 **Tyyppi**: Työpaja
 
 ### Tavoitteet (LOPS 2019)
-- Opiskelijat hallitsevat lukion keskeiset digitaaliset oppimisympäristöt ja työkalut (esim. Itslearning, sähköposti, dokumentinhallinta)
-- Opiskelijat kehittävät itseohjautuvuutta ja opiskelukykyä digitaalisten välineiden avulla
-- Opiskelijat ymmärtävät vastuullisen ja eettisen toiminnan merkityksen digitaalisissa ympäristöissä
+- Opiskelija hallitsee lukion keskeiset digitaaliset oppimisympäristöt ja osaa käyttää niitä tehokkaasti opinnoissaan
+- Opiskelija kehittää itseohjautuvuuttaan digitaalisten työkalujen avulla ja ymmärtää niiden merkityksen opiskelukyvyn hallinnassa
+- Opiskelija osaa toimia vastuullisesti ja eettisesti digitaalisissa ympäristöissä
 
 ### Laaja-alainen osaaminen
-- **Hyvinvointiosaaminen**: Itseohjautuvuus ja opiskelukyvyn hallinta digitaalisissa ympäristöissä
-- **Vuorovaikutusosaaminen**: Digitaalisten viestintä- ja yhteistyövälineiden käyttö
 - **Monitieteinen ja luova osaaminen**: Digitaalisten työkalujen hyödyntäminen tiedonhankinnassa ja tuottamisessa
 - **Yhteiskunnallinen osaaminen**: Vastuullinen ja eettinen toiminta digitaalisissa ympäristöissä
 
 ### Tunnin kulku (75 min)
 
-1. **Virittäytyminen** (8 min) — Opiskelijat vastaavat nopeaan kyselyyn (Mentimeter/Kahoot) omasta digitaalisen osaamisen tasosta ja käyttämistään välineistä. Tulokset heijastetaan ja käydään läpi yhdessä.
+1. **Virittäytyminen** (10 min) — Digitaalinen kartoitus
+   - Mentimeter-kysely: "Mitä digitaalisia työkaluja käytät jo nyt opinnoissasi?" ja "Missä koet tarvitsevasi tukea?"
+   - Tulosten yhteinen tarkastelu ja tunnin tavoitteiden esittely
 
-2. **Työskentely** (55 min)
-   - **Osuus A: Oppimisympäristöjen esittely** (20 min) — Opinto-ohjaaja demonstroi live-näytöllä lukion pääasiallisen oppimisympäristön (Itslearning) rakennetta: kurssit, tehtävät, viestintä, portfoliot. Opiskelijat seuraavat omilla laitteillaan ja tekevät muistiinpanoja.
-   - **Osuus B: Pienryhmätyöskentely** (25 min) — Opiskelijat jaetaan 4-5 hengen ryhmiin. Jokaiselle ryhmälle annetaan eri tehtävä: 1) Itslearning-navigointi ja kurssille kirjautuminen, 2) Sähköpostin ja kalenterin käyttö, 3) Dokumentinhallinta ja pilvipalvelut, 4) Digitaalisen turvallisuuden ja yksityisyyden perusteet. Ryhmät tekevät tehtävät ja valmistelevat lyhyen esityksen.
-   - **Osuus C: Ryhmien esitykset ja vertaisoppiminen** (10 min) — Kukin ryhmä esittelee tuloksensa 1-2 minuutissa. Muut opiskelijat voivat esittää kysymyksiä.
+2. **Työskentely** (50 min) — Digitaalinen työkalupakki käyttöön
+   - **Kiertotyöskentely 4 pisteellä** (4 x 10 min + 10 min vapaa tutustuminen)
+     - **Piste 1**: Oppimisympäristö (esim. Wilma, Moodle, Itslearning) – tehtävien palautus, aikataulut, viestintä
+     - **Piste 2**: Tiedonhankinta ja lähteet – tietokannat, luotettavuuden arviointi, lähdeviitteet
+     - **Piste 3**: Yhteistyötyökalut – Google Workspace / Office 365, jaetut dokumentit, kalenterit
+     - **Piste 4**: Oma oppiminen – muistiinpanotyökalut, ajanhallinta-appit, opiskeluhyvinvointi
+   - Jokaisella pisteellä käytännön harjoitus ja "quick win" -vinkki
 
-3. **Yhteenveto ja reflektio** (12 min) — Opinto-ohjaaja kokoaa keskeiset viestit: digitaaliset välineet ovat opiskelun apuvälineitä, vastuullinen käyttö on tärkeää, tuki on aina saatavilla. Opiskelijat täyttävät lyhyen itsearviointi-lomakkeen (Google Form): mitä opin, mitä haluan vielä oppia, mihin tarvitsen apua.
+3. **Yhteenveto ja reflektio** (15 min) — Oma digitaalinen työkalupakki
+   - Jokainen laatii henkilökohtaisen "Top 5 digitaalisia työkalujani" -listan HOPS-kansioonsa
+   - Parijako: Yksi vinkki, jonka jaan kaverilleni
+   - Yhteinen lopetus: Mihin saan tukea, jos kohtaan ongelmia?
 
 ### Menetelmät
-- Interaktiivinen kysely (Mentimeter/Kahoot)
-- Live-demonstraatio
-- Pienryhmätyöskentely ja vertaisoppiminen
-- Ryhmäesitykset
-- Itsearviointi (digitaalinen lomake)
+- Kiertotyöskentely (learning stations)
+- Käytännön harjoitukset digitaalisilla laitteilla
+- Parijakotyöskentely
+- Itsenäinen reflektio ja dokumentointi
 
 ### Materiaalit & Lähteet
-- Tietokone ja projektori (live-demonstraatio)
-- Opiskelijoiden omat laitteet (kannettavat, tabletit)
-- Itslearning-oppimisympäristö
-- Mentimeter tai Kahoot (virittäytymiskysely)
-- Google Forms (itsearviointi)
-- Moniste: "Digitaalisten välineiden käyttöopas" (PDF, jaetaan myös sähköpostitse)
-- Opetushallituksen ePerusteet: https://www.oph.fi/fi/digiosaaminen
-- Itslearning-ohje: https://fi.itslearning.com/fi-w-uusi-opetussuunnitelma-ja-digitaaliset-oppimateriaalit
+- **Oppimisympäristöt**: Koulun käytössä olevat alustat (Wilma, Moodle/Itslearning)
+- **Digityökalut**: Mentimeter, Google Workspace / Office 365
+- **Tietokannat**: Kirjasto.fi, Nelli-portaali, koulun kirjaston resurssit
+- **Monisteet**: "Digitaalinen työkalupakki" -lomake (täytettäväksi tunnilla)
+- **Lähteet**: 
+  - Opetushallitus: https://www.oph.fi/fi/digiosaaminen
+  - Koulun IT-tuki ja ohjeet
+  - LOPS 2019 laaja-alainen osaaminen
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen**: Aktiivinen osallistuminen pienryhmätyöskentelyyn ja esityksiin (S/H)
-- **Itsearviointi**: Lomakkeen täyttäminen reflektiivisesti (S/H)
-- **HOPS-päivitys**: Opinto-ohjaaja merkitsee tunnin suorittamisen ja digitaalisen osaamisen tason opiskelijoiden HOPS-tiedostoihin
+- **Osallistuminen**: Aktiivinen työskentely kaikilla neljällä pisteellä
+- **Tuotos**: "Top 5 digitaalisia työkalujani" -listan laatiminen ja tallentaminen HOPS-kansioon
+- **Itsearviointi**: Reflektio omasta digitaalisesta osaamisesta ja kehittämistarpeista
 
 ### Eriyttäminen
-- **Oppimisen tuki**: Opiskelijat, joilla on vaikeuksia digitaalisten välineiden kanssa, saavat pienryhmässä lisäohjausta tai yksilöohjausta tunnin jälkeen
-- **Erityisjärjestelyt**: Opiskelijat, joilla on näkemisen vaikeuksia, saavat suurennetun tekstin ja kontrastoidun näytön; kuulovammaiset saavat tulkkipalvelun
-- **Haastava oppija**: Opiskelijat, jotka hallitsevat välineet hyvin, voivat auttaa muita ja saavat lisätehtäviä (esim. advanced-ominaisuuksien tutkiminen)
+- **Tuki**: IT-tukihenkilö / opettaja saatavilla koko tunnin ajan teknisiin ongelmiin
+- **Eriyttäminen taitotason mukaan**: Pisteillä sekä perus- että syventävää materiaalia; edistyneemmät voivat auttaa muita
+- **Erityisjärjestelyt**: Mahdollisuus työskennellä omaan tahtiin, selkeät kirjalliset ohjeet jokaisella pisteellä
+- **Kielellinen tuki**: Keskeiset termit ja ohjeet myös visuaalisesti
 
 ### Koko koulu ohjaa — yhteistyö
-- **Aineenopettajat**: Tiedotetaan tunnin sisällöstä; opettajat integroivat digitaalisten välineiden käytön omaan opetukseensa
-- **Erityisopettaja**: Osallistuu tarvittaessa ja tarjoaa tukea oppimisvaikeuksissa oleville opiskelijoille
-- **Ryhmänohjaaja**: Seuraa opiskelijoiden sopeutumista ja tarvittaessa ohjaa heitä lisäohjaukseen
-- **IT-tuki**: Varmistaa teknisen toimivuuden ja on saatavilla mahdollisten ongelmien varalta
+- **IT-tuki / Mediatekniikan opettaja**: Tekninen tuki tunnilla, materiaalien valmistelu
+- **Kirjastonhoitaja**: Tiedonhankinnan pisteen ohjaus, tietokantojen esittely
+- **Aineenopettajat**: Esimerkkejä digitaalisten työkalujen käytöstä eri oppiaineissa
+- **Opinto-ohjaaja**: Kokonaisuuden koordinointi ja yhteys HOPS-työhön
+- **Erityisopettaja**: Konsultointi eriyttämisessä ja tukitoimissa

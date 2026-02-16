@@ -1,76 +1,81 @@
 # OPINTO-OHJAUS — OP1
 ## Tunti 7 — Jatko-opinto- ja urasuunnitelman alustava hahmottaminen
-**Vuosikello**: 1. vuosi, syksy
-**Tyyppi**: Työpaja
+**Vuosikello**: 1. vuosi syksy
+**Tyyppi**: työpaja
 
 ### Tavoitteet (LOPS 2019)
-- Opiskelijat hahmottavat omat vahvuuksensa, kiinnostuksensa ja arvonsa
-- Opiskelijat tutustuvat jatko-opintovaihtoehtoheihin (ammattikorkeakoulu, yliopisto, ammatillinen koulutus)
-- Opiskelijat laativat alustavan jatko-opinto- ja urasuunnitelman
-- Opiskelijat ymmärtävät lukio-opintojen valintojen merkityksen tulevaisuuden kannalta
-- Opiskelijat perehtyvät yhteishaun periaatteisiin ja aikatauluihin
+- Opiskelija laatii alustavan jatko-opinto- ja urasuunnitelman osana HOPSia
+- Opiskelija tunnistaa omia vahvuuksiaan, kiinnostuksen kohteitaan ja arvojaan urasuunnittelun pohjana
+- Opiskelija ymmärtää lukioaikaisten valintojen merkityksen jatko-opintomahdollisuuksille
+- Opiskelija saa perustiedot jatkokoulutusvaihtoehdoista ja yhteishausta
 
 ### Laaja-alainen osaaminen
-- **Hyvinvointiosaaminen** — itsetuntemuksen vahvistaminen ja elämänhallinnan taidot
-- **Yhteiskunnallinen osaaminen** — koulutus- ja työelämäjärjestelmän ymmärtäminen
+- Hyvinvointiosaaminen (itsetuntemus, elämänhallinta)
+- Vuorovaikutusosaaminen (omien ajatusten kielentäminen)
+- Yhteiskunnallinen osaaminen (koulutuspolkujen ymmärtäminen)
 
 ### Tunnin kulku (75 min)
 
-1. **Virittäytyminen** (10 min) — Avoin keskustelu: "Mitä haluaisit tehdä 10 vuoden päästä?" Opiskelijat jakavat ajatuksia pareittain, jonka jälkeen muutama vapaaehtoinen kertoo luokalle. Tavoitteena herätellä pohdintaa ja luoda positiivinen ilmapiiri.
+1. **Virittäytyminen** (10 min) — Unelma-ammatti -kartoitus
+   - Nopea kirjoitusharjoitus: "Millaista työtä tekisin, jos mikä tahansa olisi mahdollista?"
+   - Muutama vapaaehtoinen jakaa ajatuksiaan
 
-2. **Työskentely** (50 min)
-   - **Vaihe 1** (15 min): Itsetuntemuksen kartoitus — Opiskelijat täyttävät **Vahvuuksien ja kiinnostusten kartoituslomakkeen** (itsenäisesti tai pareittain):
-     * Mitkä aineet kiinnostavat minua?
-     * Mitkä ovat vahvuuksiani?
-     * Mitä arvoja minulle on tärkeitä työssä/opiskelussa?
+2. **Työskentely** (50 min) — Urasuunnitelman rakentaminen
+   - **Vaihe 1** (15 min): Itsetuntemus-työpaja
+     - Vahvuuksien, kiinnostusten ja arvojen kartoitus (Opopassi-työkalu tai vastaava)
+     - Itsenäinen työskentely lomakkeella
    
-   - **Vaihe 2** (20 min): Jatko-opintovaihtoehdot — Opiskelijat tutustuvat kolmeen pääpolkuun:
-     * **Ammattikorkeakoulu** (käytännönläheinen, 3,5 vuotta)
-     * **Yliopisto** (tutkintokeskeinen, 3–6 vuotta)
-     * **Ammatillinen koulutus** (työelämäläheinen, 3 vuotta)
-     
-     Ryhmät (3–4 henkilöä) saavat kunkin polun esittelylehtisen ja tutkivat **Opintopolku.fi**-palvelua tabletilla/tietokoneella. Jokainen ryhmä tekee lyhyen muistiinpanon: koulutuksen kesto, pääsyvaatimukset, uramahdollisuudet.
+   - **Vaihe 2** (20 min): Jatko-opintovaihtoehdot
+     - Lyhyt info-osuus: yliopisto, AMK, ammatillinen koulutus, välivuosi
+     - Yhteishaku 2026 (17.2.–17.3.) ja todistusvalinnan pisteytysmuutokset
+     - Opintopolku.fi-palvelun esittely
+     - Opiskelijat tutkivat 2-3 itseään kiinnostavaa koulutusvaihtoehtoa
    
-   - **Vaihe 3** (15 min): Alustavan suunnitelman laatiminen — Opiskelijat täyttävät **Jatko-opinto- ja urasuunnitelma -lomaketta**:
-     * Ensisijainen jatko-opintokohde (koulutusala, oppilaitos)
-     * Varavaihtoehdot
-     * Mitä lukion valintoja teen, jotta pääsen sinne?
-     * Milloin haen? (yhteishaku 17.2.–17.3.2026)
+   - **Vaihe 3** (15 min): Alustavan suunnitelman laatiminen
+     - Täytetään HOPS-lomakkeen jatko-opintosuunnitelma-osio
+     - Ensisijainen vaihtoehto ja 1-2 varavaihtoehtoa
+     - Mitä lukiovalintoja tämä edellyttää?
 
-3. **Yhteenveto ja reflektio** (15 min)
-   - Opiskelijat reflektoivat itsenäisesti: "Mitä opin tänään itsestäni? Mikä oli uutta?" (5 min)
-   - Vapaaehtoisten jakaminen luokassa (5 min)
-   - Opinto-ohjaaja kokoaa tunnin pääkohdat ja muistuttaa seuraavista vaiheista: HOPS-päivitys, ylioppilastutkintokoe-suunnitelma, yksilöohjaus (5 min)
+3. **Yhteenveto/reflektio** (15 min) — Polkuni hahmottuu
+   - Pienryhmäkeskustelu (3-4 hlö): Mitä opin itsestäni? Mikä yllättää?
+   - Yhteinen purku: Suunnitelman elävä luonne – se saa ja pitää muuttua!
+   - Seuraavat askeleet: milloin päivitämme suunnitelmaa?
 
 ### Menetelmät
-- Avoin keskustelu ja parityöskentely
-- Ryhmätyö (jatko-opintovaihtoehdot)
-- Itsenäinen pohdinta ja lomakkeiden täyttäminen
-- Digitaalisten palvelujen tutustuminen (Opintopoluk.fi, Opopassi)
-- Reflektio
+- Itsenäinen pohdinta ja kirjoittaminen
+- Digitaalisten työkalujen hyödyntäminen (Opintopolku, Opopassi)
+- Pienryhmäkeskustelu
+- Ohjaajan lyhyt tietoiskut
+- HOPS-työskentely
 
 ### Materiaalit & Lähteet
-- **Vahvuuksien ja kiinnostusten kartoituslomake** (koulun oma tai Opopassi)
-- **Jatko-opinto- ja urasuunnitelma -lomake** (liitettävä HOPSiin)
-- **Jatko-opintovaihtoehdot -esittelylehtinen** (amk, yliopisto, ammatillinen)
-- Tabletit/tietokoneet: [Opintopolku.fi](https://opintopolku.fi), [Opopassi.com](https://www.opopassi.com/jatkoopintosuunnitelma)
-- Yhteishaun aikataulut ja todistusvalinnan pisteytys (päivitetty 2026)
-- Lähteet: OPH:n ohjaus, Duunitori.fi, koulun opinto-opas
+- **Opopassi**: https://www.opopassi.com/jatkoopintosuunnitelma
+- **Opintopolku.fi**: koulutushaku ja todistusvalinnan pisteytys
+- **Todistusvalinnan muutokset 2026**: https://www.ammattikorkeakouluun.fi/hakijalle/valintatavat/todistusvalinta/
+- **Yhteishaun aikataulu**: https://edusampo.fi/ajankohtaista/kevaan-yhteishaku-alkaa-17-2-2026/
+- HOPS-lomake (jatko-opintosuunnitelma-osio)
+- Itsetuntemus-kartoituslomake (vahvuudet, kiinnostukset, arvot)
+- Tietokoneet/tabletit
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen** — Aktiivinen osallistuminen työpajatöihin ja keskusteluun (S/H)
-- **Lomakkeiden täyttäminen** — Jatko-opinto- ja urasuunnitelma-lomake täytetty ja liitetty HOPSiin (S/H)
-- **Itsearviointi** — Reflektiokirjoitus omasta oppimisesta (vapaaehtoinen, voi liittää portfolioon)
-- **HOPS-päivitys** — Suunnitelma dokumentoidaan henkilökohtaiseen opiskelusuunnitelmaan
+- **Suoritusmerkintä (S)** edellyttää:
+  - Aktiivista osallistumista työpajaan
+  - Alustavan jatko-opinto- ja urasuunnitelman laatimista HOPSiin
+  - Itsearviointi: "Mitä opin itsestäni tänään?"
+- HOPS-päivitys Wilmassa/Kurssi.me:ssä
+- Suunnitelma on alustava ja sitä päivitetään säännöllisesti
 
 ### Eriyttäminen
-- **Oppimisen tuki**: Opiskelijat, joilla on vaikeuksia lukemisessa tai kirjoittamisessa, saavat lomakkeet luettavaksi ääneen tai digitaalisessa muodossa. Parityöskentely tukee yhteisöllisyyttä.
-- **Erityisjärjestelyt**: Opiskelijat, joilla on diagnoosi, voivat työskennellä erityisopettajan tai ohjaajan kanssa pienemmässä ryhmässä. Lomakkeiden täyttäminen voidaan tehdä yksilöohjauksessa.
-- **Haasteet**: Motivoituneet opiskelijat voivat syventyä Opintopolkuun ja etsiä konkreettisia opinto-ohjelmia, joihin he haluavat hakea.
+- **Tuki tarvittaessa**: Opinto-ohjaaja kiertää ja antaa yksilöllistä tukea suunnitelman laatimisessa
+- **Erityisjärjestelyt**: Mahdollisuus suulliseen reflektointiin kirjallisen sijaan
+- **Nopeille eteneminen**: Voi tutkia tarkemmin valintakoevaatimuksia tai pääsykoeuudistusta
+- **Kielellinen tuki**: Lomakkeet selkokielellä, mahdollisuus työskennellä parin kanssa
+- **Opiskeluhuollon yhteistyö**: Tarvittaessa konsultaatio psykologin/kuraattorin kanssa (esim. päätöksenteon vaikeudet)
 
 ### Koko koulu ohjaa — yhteistyö
-- **Opinto-ohjaaja** — Tunnin vetäminen, HOPS-päivitys, yksilöohjaus tarvittaessa
-- **Ryhmänohjaaja** — Taustatiedon antaminen opiskelijoista, yhteistyö motivoinnissa
-- **Aineenopettajat** — Tietoa siitä, miten heidän aineensa tukevat eri jatko-opintopolkuja
-- **Opiskeluhuolto** (psykologi, kuraattori) — Saatavilla opiskelijoille, joilla on epävarmuutta tai tukea tarvitsevia
-- **Erityisopettaja** — Tuki oppimisen tarpeiden mukaan
+- **Opinto-ohjaaja**: Suunnitelman laatimisen ohjaus, jatkotapaamisten sopiminen
+- **Ryhmänohjaaja**: Tukee suunnitelman toteutumista arjessa, kannustaa päivitykseen
+- **Aineenopettajat**: Antavat tietoa aineiden merkityksestä eri aloille hakeutumisessa
+- **Huoltajat**: Informoidaan suunnitelmasta, kutsutaan mukaan keskusteluun (esim. vanhempainilta)
+- **Opiskeluhuolto**: Tuki tarvittaessa päätöksenteossa ja tulevaisuusahdistuksessa
+- **Jatkotoimet**: Yksilöohjausajat tarjolla syksyn aikana syventävään keskusteluun

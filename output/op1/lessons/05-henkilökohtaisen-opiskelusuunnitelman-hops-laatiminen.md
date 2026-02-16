@@ -1,57 +1,66 @@
 # OPINTO-OHJAUS — OP1
 ## Tunti 5 — Henkilökohtaisen opiskelusuunnitelman (HOPS) laatiminen
-**Vuosikello**: 1. vuosi, syksy
-**Tyyppi**: Verkko-opetus
+**Vuosikello**: 1. vuosi syksy
+**Tyyppi**: verkko
 
 ### Tavoitteet (LOPS 2019)
-- Opiskelija ymmärtää lukio-opintojen rakenteen ja omien valintojen merkityksen
-- Opiskelija kehittää itsetuntemusta ja kartoittaa omat vahvuudet, kiinnostuksen kohteet ja tavoitteet
-- Opiskelija osaa laatia ja päivittää henkilökohtaisen opiskelusuunnitelman (HOPS) opinto-ohjaajan tuella
-- Opiskelija hahmottaa ylioppilastutkintosuunnitelman sekä jatko-opinto- ja urasuunnittelun alustavia linjauksia
+- Opiskelija ymmärtää HOPSin merkityksen lukio-opintojen suunnittelussa ja itseohjautuvuuden kehittämisessä
+- Opiskelija laatii alustavan henkilökohtaisen opiskelusuunnitelman, johon sisältyy ylioppilastutkintosuunnitelma sekä jatko-opinto- ja urasuunnitelman hahmottelu
+- Opiskelija tunnistaa omia vahvuuksiaan, kiinnostuksen kohteitaan ja opiskelutaitojaan osana itsetuntemuksen vahvistamista
+- Opiskelija ymmärtää HOPSin dynaamisen luonteen ja päivityksen merkityksen koko lukioajan
 
 ### Laaja-alainen osaaminen
-- **Hyvinvointiosaaminen** (itsetuntemus, voimavarat, opiskelutaidot)
-- **Yhteiskunnallinen osaaminen** (vastuullinen päätöksenteko, tulevaisuuden suunnittelu)
+- **Hyvinvointiosaaminen**: Itsetuntemuksen vahvistaminen, omien voimavarojen tunnistaminen
+- **Vuorovaikutusosaaminen**: Omien ajatusten, tunteiden ja kokemusten kielentäminen
 
 ### Tunnin kulku (75 min)
-1. **Virittäytyminen** (10 min) — Opiskelijat vastaavat lyhyeen itsearviointi-kyselyyn omista vahvuuksista, kiinnostuksista ja tulevaisuuden toiveista (Padlet tai Forms)
-2. **Työskentely** (50 min)
-   - **Osuus 1** (20 min): Opinto-ohjaaja esittelee HOPS-prosessin, sen merkityksen ja sisällön (rakenne, ylioppilastutkinto, jatko-opinnot, oppimisen tuki)
-   - **Osuus 2** (30 min): Opiskelijat täyttävät HOPS-pohjan verkkoalustalla (itsetuntemuksen kartoitus, ainevalinnat, tavoitteet, tukitarpeet); opinto-ohjaaja on saatavilla chat-tuen kautta
-3. **Yhteenveto/reflektio** (15 min) — Opiskelijat kirjoittavat lyhyen reflektiokirjoituksen: "Mitä opin HOPSista ja mitkä ovat seuraavat askeleeni?" Vapaaehtoinen jakaminen pienryhmissä
+
+1. **Virittäytyminen** (10 min) — Lyhyt videoterveisku opinto-ohjaajalta: "Mikä on HOPS ja miksi se on sinun työkalusi?" + Padlet-seinä: "Mitä haluan lukio-opinnoiltani?" (anonyymi vastausmahdollisuus)
+
+2. **Työskentely** (50 min) — Ohjattu itsenäinen työskentely digitaalisessa HOPS-lomakkeessa (esim. Wilma, Google Forms tai koulun oma järjestelmä):
+   - Osa 1: Taustiedot ja lähtötilanne (10 min)
+   - Osa 2: Vahvuudet ja kiinnostuksen kohteet - interaktiivinen kartoitus (15 min)
+   - Osa 3: Alustava kurssivalintasuunnitelma ja yo-suunnitelma (15 min)
+   - Osa 4: Jatko-opintoajatukset ja tulevaisuuden haaveet (10 min)
+   - Välissä: Taukokysymyksiä chatissa, opinto-ohjaaja vastaa reaaliajassa
+
+3. **Yhteenveto/reflektio** (15 min) — Lyhyt Mentimeter-kysely: "Mitä opin itsestäni tänään?" + Ohjaajan yhteenveto: HOPSin päivittäminen, tuen saaminen ja seuraavat askeleet. Muistutus yksilöohjausajoista.
 
 ### Menetelmät
-- Itsenäinen pohdinta ja itsearviointi
-- Verkkoalusta-pohjainen työskentely (HOPS-lomake)
-- Opinto-ohjaajan etäohjaus (chat, Q&A)
-- Reflektiivinen kirjoittaminen
-- Pienryhmäkeskustelu (vapaaehtoinen)
+- Itsenäinen pohdinta ja kirjallinen työskentely
+- Digitaaliset työkalut (HOPS-lomake, Padlet, Mentimeter)
+- Synkroninen verkkotuki (chat, mahdollisuus kysyä)
+- Itsearviointi ja reflektio
 
 ### Materiaalit & Lähteet
-- **HOPS-pohja** (verkkoalustalla, esim. Wilma, Moodle tai Google Forms)
-- **Esityskalvot**: Lukio-opintojen rakenne, ylioppilastutkinto, jatko-opinnot
-- **Itsearviointi-kyselyt** (Padlet/Forms): vahvuudet, kiinnostukset, tavoitteet
-- **Linkit opiskelijoille**:
-  - Opintopolku.fi (Osaamispolku-palvelu, julkaistaan 2026)
-  - Studyinfo.fi (yhteishaun aikataulut, kevät 2026: 17.2.–17.3.2026)
-  - Koulun ohjaussuunnitelma ja LOPS
-- **Oppimisen tuen tiedote** (uudistus 1.8.2025 alkaen)
+- Digitaalinen HOPS-lomake (koulun järjestelmä)
+- Opinto-ohjaajan videoterveisku (tallennettu, 3-5 min)
+- Padlet-seinä: https://padlet.com (jaettu linkki)
+- Mentimeter: https://www.mentimeter.com
+- Opintopolku.fi - tietoa jatko-opinnoista ja tulevasta Osaamispolku-palvelusta
+- Studyinfo.fi - yhteishaun aikataulut ja todistusvalinnan perusteet
+- Lukion opetussuunnitelman perusteet 2019 (LOPS 2019)
+- Infografiikka: "Lukio-opintojen rakenne ja yo-tutkinto" (jaettu PDF)
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen**: Aktiivinen osallistuminen tunnin aktivititeetteihin (itsearviointi, HOPS-pohjan täyttäminen)
-- **HOPS-pohjan täyttäminen**: Vähintään perusosiot täytetty (itsetuntemus, ainevalinnat, tavoitteet)
-- **Reflektio**: Lyhyt kirjoitelma osoittaa ajattelun prosessia
-- **Jatkotoimenpiteet**: Opinto-ohjaaja varaa yksilöohjausajan syventävää keskustelua varten
+- **Suoritusmerkintä (S)**: Opiskelija on laatinut alustavan HOPSin ja palauttanut sen määräaikaan mennessä
+- **Hylätty (H)**: HOPSia ei ole laadittu tai palautettu
+- Itsearviointi: Mentimeter-reflektio tunnin lopussa
+- HOPS-päivitys: Ensimmäinen versio tallennettu järjestelmään, päivitetään syksyn aikana yksilöohjauksessa
 
 ### Eriyttäminen
-- **Oppimisen tuen opiskelijat**: Opinto-ohjaaja tarjoaa yksilöllistä etäohjausta; HOPS-pohja voidaan täyttää yhdessä opinto-ohjaajan kanssa
-- **Kielellinen tuki**: Saatavilla selkokielinen versio HOPS-pohjasta; tulkkipalvelut tarvittaessa
-- **Syventävä työskentely**: Motivoituneet opiskelijat voivat laajentaa reflektioita ja tutkia jatko-opintovaihtoehtoja (Opintopolku, ammatilliset koulutukset)
-- **Tekniset haasteet**: Offline-versio HOPS-pohjasta saatavilla; opinto-ohjaaja auttaa teknisissä ongelmissa
+- **Oppimisen tuki**: Opiskelijat, jotka tarvitsevat tukea, voivat varata yksilöohjausajan HOPSin laatimiseen opinto-ohjaajan kanssa. Tukitoimet kirjataan HOPSiin opiskelijan pyynnöstä (uudistus 1.8.2025).
+- **Erityisopetus**: Erityisopettaja konsultoi tarvittaessa opiskelutaitojen ja kurssivalintojen osalta. Opiskelijoille, joilla on todettuja oppimisvaikeuksia, tarjotaan lisäaikaa ja henkilökohtaista ohjausta.
+- **Tekniset haasteet**: Varasuunnitelma teknisille ongelmille (Word/PDF-lomake sähköpostitse, mahdollisuus tehdä HOPS myöhemmin koulun koneella)
+- **Kielellinen tuki**: HOPS-lomake saatavilla myös englanniksi, mahdollisuus käyttää käännöstyökaluja
 
 ### Koko koulu ohjaa — yhteistyö
-- **Opinto-ohjaaja**: Päävastuussa HOPS-ohjauksen toteutuksesta ja seurannasta
-- **Ryhmänohjaaja**: Seuraa opintojen etenemistä ja hyvinvointia; tukee HOPS-prosessia
-- **Aineenopettajat**: Antavat palautetta ainevalinnoista ja opiskelutaidoista
-- **Erityisopettaja**: Konsultaatioavussa oppimisen tuen tarpeista
-- **Opiskeluhuolto** (psykologi, kuraattori, terveydenhoitaja): Tukee sosiaalista ja psyykkistä hyvinvointia tarvittaessa
+- **Opinto-ohjaaja**: Päävastuussa HOPSin ohjauksesta, yksilöohjausajat syksyn aikana
+- **Ryhmänohjaaja**: Seuraa opintojen etenemistä ja hyvinvointia, keskustelee HOPSista ryhmänohjaustilanteissa
+- **Aineenopettajat**: Ohjaavat oman aineen opiskelutaidoissa ja kurssivalinnoissa
+- **Erityisopettaja**: Tukee oppimisvaikeuksissa ja opiskelutaitojen kehittämisessä
+- **Opiskeluhuolto** (psykologi, kuraattori, terveydenhoitaja): Tukee sosiaalista ja psyykkistä hyvinvointia, konsultaatio tarvittaessa
+
+---
+
+**Huom!** Muistuta opiskelijoita, että HOPS on heidän oma työkalunsa ja sitä päivitetään säännöllisesti. Kannusta varaamaan yksilöohjausaika, jos kysymyksiä herää!

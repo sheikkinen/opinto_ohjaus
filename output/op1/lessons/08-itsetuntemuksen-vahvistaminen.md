@@ -1,53 +1,58 @@
 # OPINTO-OHJAUS — OP1
 ## Tunti 8 — Itsetuntemuksen vahvistaminen
-**Vuosikello**: 1. vuosi, kevät
-**Tyyppi**: Pienryhmäohjaus
+**Vuosikello**: 1. vuosi kevät
+**Tyyppi**: Pienryhmätyöskentely
 
 ### Tavoitteet (LOPS 2019)
-- Vahvistaa omaa itsetuntemusta ja itsetietoisuutta
-- Kehittää kykyä kielentää omia ajatuksia, tunteita ja kokemuksia
-- Tunnistaa omat vahvuudet, arvot ja kiinnostuksen kohteet
-- Luoda pohja omien valintojen ja tavoitteiden asettamiselle
+- Opiskelija tunnistaa ja osaa kielentää omia ajatuksiaan, tunteitaan ja kokemuksiaan
+- Opiskelija vahvistaa itsetuntemustaan ja ymmärtää sen merkityksen opintojen suunnittelussa
+- Opiskelija kehittää kykyään reflektoida omaa toimintaansa ja oppimistaan
 
 ### Laaja-alainen osaaminen
-- **Ajattelun taidot**: Reflektiivinen ajattelu, itseanalyysi
-- **Vuorovaikutus ja ilmaisu**: Oman näkökulman ilmaiseminen, kuunteleminen
+- Itsestä huolehtiminen ja arjen taidot
+- Vuorovaikutusosaaminen
 
 ### Tunnin kulku (75 min)
-1. **Virittäytyminen** (8 min) — Avoin kysymys: "Mitä sinusta tietää paremmin kuin kukaan muu?" Vapaaehtoiset jakavat ajatuksia. Tavoite: luoda turvallinen ilmapiiri.
+
+1. **Virittäytyminen** (10 min) — Tunnekorttien avulla tunnelman jakaminen: Jokainen valitsee kortin, joka kuvaa tämänhetkistä olotilaansa ja jakaa ajatuksiaan pienryhmässä (3-4 hlö).
 
 2. **Työskentely** (50 min)
-   - **Vaihe 1** (15 min): Itsetutkiskelun työväline — "Minä-kartta" tai "Vahvuuksien inventaario" (itsenäinen pohdinta, kirjoitus/piirtäminen)
-   - **Vaihe 2** (20 min): Pienryhmäkeskustelu (3-4 henkilöä) — Jaetaan valinnaisesti omia havaintoja. Ohjaaja kiertää, kuuntelee, esittää syventäviä kysymyksiä.
-   - **Vaihe 3** (15 min): Yhteinen reflektio — Mitä huomasit itsestäsi? Mitkä tunteet nousivat esiin? Miten tämä tieto voi auttaa sinua?
+   - **Osa 1: Vahvuuksieni kartoitus** (20 min) — Itsenäinen työskentely: Vahvuuskysely ja oman vahvuusprofiilin hahmottaminen. Opiskelija tunnistaa 3-5 keskeistä vahvuuttaan ja pohtii, miten ne näkyvät arjessa.
+   - **Osa 2: Pienryhmäkeskustelu** (20 min) — Vahvuuksien jakaminen pienryhmässä. Ryhmäläiset antavat toisilleen positiivista palautetta ja vahvistavat toistensa havaintoja.
+   - **Osa 3: Itsetuntemuksen yhteys opintoihin** (10 min) — Ohjaajan johdolla keskustelu siitä, miten itsetuntemus tukee opintovalintoja ja opiskelumotivaatiota.
 
-3. **Yhteenveto/reflektio** (12 min) — Jokainen kirjoittaa yhden oivalluksen tai havainnon muistiin. Vapaaehtoinen jakaminen. Ohjaaja korostaa itsetuntemuksen merkitystä tulevissa valinnoissa ja HOPS-prosessissa.
+3. **Yhteenveto/reflektio** (15 min) — Henkilökohtainen kirjallinen reflektio: "Mitä opin itsestäni tänään?" ja "Miten voin hyödyntää vahvuuksiani opinnoissani?" Vapaaehtoiset voivat jakaa ajatuksiaan koko ryhmälle.
 
 ### Menetelmät
-- Itsenäinen pohdinta ja kirjoitus/piirtäminen
-- Pienryhmäkeskustelu
-- Ohjattu reflektio
-- Aktiivinen kuuntelu
+- Pienryhmätyöskentely (3-4 hengen ryhmät)
+- Itsenäinen pohdinta ja kirjallinen reflektio
+- Ohjattu keskustelu
+- Vahvuuskorttien tai -kyselyn käyttö
+- Vertaistuki ja positiivinen palaute
 
 ### Materiaalit & Lähteet
-- **Työvälineet**: Minä-kartta -pohja tai Vahvuuksien inventaario -lomake (A4, värikynnät saatavilla)
-- **Tila**: Pienryhmähuone, jossa voi istua piirissä
-- **Lisäresurssit**: 
-  - Opintopolku.fi — tulevaisuuden suunnittelun konteksti
-  - ePerusteet (LOPS 2019) — itsetuntemuksen tavoitteet
+- Tunnekorttimateriaali (esim. Pesäpuu ry:n tunnekortteja tai vastaavia)
+- Vahvuuskysely (esim. VIA-vahvuustesti suomeksi tai Oma Polku -materiaalit)
+- Reflektiolomake (A4-moniste tai digitaalinen versio)
+- Opinto-ohjaajan tukimateriaali itsetuntemuksesta
+- Studion Itsetuntemus-materiaalit: https://www.studio.fi/
+- Wilma/Pedanet HOPS-pohja
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen**: Aktiivinen osallistuminen työskentelyn eri vaiheisiin (S = osallistuu, H = ei osallistu)
-- **Itsearviointi**: Kirjallinen oivallus tunnin lopussa
-- **HOPS-päivitys**: Havaintoja voidaan hyödyntää henkilökohtaisen opintopolun suunnittelussa
+- **Aktiivinen osallistuminen** pienryhmäkeskusteluun ja harjoituksiin
+- **Kirjallisen reflektion** palauttaminen (voi olla osa HOPS-portfoliota)
+- **Itsearviointi**: Opiskelija arvioi omaa osallistumistaan ja oppimistaan tunnin lopuksi
+- Suoritusmerkintä (S) edellyttää läsnäoloa ja reflektiotyön tekemistä
 
 ### Eriyttäminen
-- **Oppimisen tuki**: Opiskelijat, joilla on vaikeuksia kirjoittamisessa, voivat käyttää piirtämistä tai sanallista ilmaisua
-- **Erityisjärjestelyt**: Hiljaisille opiskelijoille tarjotaan mahdollisuus kirjoittaa tai piirtää ennen ryhmäkeskustelua
-- **Haastava oppiminen**: Syventävät kysymykset: "Miten nämä vahvuudet voivat auttaa sinua tulevissa valinnoissa?"
+- **Kielellinen tuki**: Vahvuuskysely ja reflektio voidaan tehdä myös äidinkielellä tai yksinkertaistetulla suomen kielellä
+- **Introverteille**: Mahdollisuus kirjalliseen jakamiseen pienryhmässä suullisen sijaan
+- **Syventävä tehtävä**: Kiinnostuneille tarjotaan laajempi vahvuusanalyysi kotitehtäväksi
+- **Tuki tarvittaessa**: Opinto-ohjaaja kiertää ryhmissä ja tukee yksilöllisesti
+- Mahdollisuus työskennellä rauhallisessa tilassa tarvittaessa
 
 ### Koko koulu ohjaa — yhteistyö
-- **Opinto-ohjaaja**: Johtaa tunnin, tukee reflektioita
-- **Luokanvalvoja**: Voi hyödyntää havaintoja luokkatyöskentelyssä
-- **Erityisopettaja**: Tarvittaessa tukea eriyttämisessä
-- **Kouluterveydenhuolto**: Voi tarvittaessa jatkaa hyvinvointikeskusteluja
+- **Ryhmänohjaajat**: Tiedon jakaminen opiskelijoiden vahvuuksista (opiskelijan luvalla) tukee ryhmänohjaustyötä
+- **Opettajat**: Itsetuntemuksen teema voidaan linkittää eri oppiaineiden opiskeluun (esim. psykologia, terveystieto)
+- **Kuraattori/psykologi**: Konsultaatiomahdollisuus, jos opiskelija tarvitsee lisätukea itsetuntemuksen työstämisessä
+- **Huoltajat**: Tiedote kotiin itsetuntemuksen merkityksestä ja mahdollisuus jatkaa keskustelua kotona

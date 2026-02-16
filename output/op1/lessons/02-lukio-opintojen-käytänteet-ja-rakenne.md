@@ -1,87 +1,63 @@
 # OPINTO-OHJAUS — OP1
 ## Tunti 2 — Lukio-opintojen käytänteet ja rakenne
-**Vuosikello**: 1. vuosi, kevät
+**Vuosikello**: 1. vuosi kevät
 **Tyyppi**: Työpaja
 
 ### Tavoitteet (LOPS 2019)
-- Ymmärtää lukio-opintojen moduulipohjaiseen rakenteeseen ja tavoitteisiin
-- Tutustua lukiossa vaadittaviin opiskelutaitoihin ja digitaalisten oppimisympäristöjen käyttöön
-- Kartoittaa omia vahvuuksia ja kiinnostuksen kohteita suhteessa lukio-opintoihin
-- Ymmärtää henkilökohtaisen opiskelusuunnitelman (HOPS) merkityksen ja oppia päivittämään sitä
+- Opiskelija ymmärtää lukio-opintojen moduulipohjaisen rakenteen ja opintopistejärjestelmän
+- Opiskelija hahmottaa lukion kolmivuotisen opintojen etenemisen ja oman paikkansa siinä
+- Opiskelija tunnistaa eri toimijoiden roolit "koko koulu ohjaa" -periaatteessa
+- Opiskelija ymmärtää oppimisen tuen kaksi tasoa ja tukimahdollisuudet
 
 ### Laaja-alainen osaaminen
-- **Hyvinvointiosaaminen** — oman oppimisen ja jaksamisen tunteminen
-- **Vuorovaikutusosaaminen** — vertaistuella ja yhteistyöllä oppiminen
+- Hyvinvointiosaaminen (oman oppimisen ja tuen tarpeiden tunnistaminen)
+- Vuorovaikutusosaaminen (yhteistyö eri toimijoiden kanssa)
 
 ### Tunnin kulku (75 min)
 
-1. **Virittäytyminen** (10 min) — *Ryhmäytyminen ja aiheeseen johdatus*
-   - Opiskelijat jakautuvat pienryhmiin (4–5 hlö)
-   - Opinto-ohjaaja esittelee tunnin tavoitteet ja työpajan kulun
-   - Nopea brainstorm: "Mitä olet kuullut lukio-opinnoista?" (post-it-seinä)
+1. **Virittäytyminen** (10 min) — Käsitekartta-aktiviteetti: Opiskelijat piirtävät pareittain mielikuvan "lukio-opinnoista" fläppitaululle. Mitä sanoja, käsitteitä ja tunteita tulee mieleen? Jaetaan muutama esimerkki.
 
-2. **Työskentely** (50 min) — *Neljä asemaa (rotaatio, 12 min/asema)*
+2. **Työskentely** (50 min)
+   - **Osa 1: Lukion rakenne visualisoituna** (20 min) — Opinto-ohjaaja esittelee interaktiivisesti lukion rakenteen: moduulit vs. vanhat kurssit, pakolliset/valinnaiset, opintopisteet, opintojaksojen muodostuminen. Opiskelijat täyttävät työkirjaan oman "lukio-aikajanansa" (1.–3. vuosi) ja merkitsevät, missä vaiheessa he ovat nyt.
    
-   **Asema 1: Lukion rakenne ja moduulit**
-   - Interaktiivinen infograafi lukion moduulipohjaisesta rakenteesta
-   - Opiskelijat tutustuvat OP1- ja OP2-moduuleihin sekä pakollisiin/valinnaisiin opintoihin
-   - Tehtävä: Merkitse omaan HOPS-pohjaan 1. vuoden moduulit
+   - **Osa 2: Kuka auttaa ja missä?** (15 min) — Pienryhmätyö (3–4 hlöä): Ryhmät saavat kortit, joissa erilaisia tilanteita (esim. "En ymmärrä matematiikkaa", "Olen stressaantunut", "Haluan vaihtaa valinnaisaineita"). Tehtävä: Miettikää, kenen puoleen kääntyisitte? (opinto-ohjaaja, ryhmänohjaaja, aineenopettaja, erityisopettaja, kuraattori, terveydenhoitaja). Ryhmät esittelevät 1–2 esimerkkiä.
    
-   **Asema 2: Opiskelutaidot ja digitaaliset välineet**
-   - Lyhyt demo: lukion oppimisympäristö (Moodle/Teams) ja muut digitaaliset työkalut
-   - Opiskelijat testaavat kirjautumista ja navigointia
-   - Tehtävä: Täytä "Opiskelutaidot-itsearviointi" -lomake
-   
-   **Asema 3: Minä opiskelijana – vahvuudet ja kiinnostukset**
-   - Interaktiivinen työskentely: "Vahvuuskortti" ja "Kiinnostuksen kartta"
-   - Opiskelijat pohtivat omia vahvuuksiaan ja tulevaisuuden tavoitteitaan
-   - Tehtävä: Kirjoita 3–4 lausetta omista vahvuuksista ja kiinnostuksista
-   
-   **Asema 4: Oppimisen tuki ja apuvälineet**
-   - Esittely: oppimisen tuki, erityisopetus ja opiskeluhuolto
-   - Opiskelijat saavat tietoiskun uudistuneesta oppimisen tuen järjestelmästä (voimaan 1.8.2025)
-   - Tehtävä: Kuka auttaa, kun tarvitsen apua? (Yhteystiedot-kortit)
+   - **Osa 3: Oppimisen tuki – mitä se tarkoittaa?** (15 min) — Lyhyt infotilaisuus oppimisen tuen kahdesta tasosta (oppimisen tuki vs. erityisopetus, voimaan 1.8.2025). Opiskelijat pohtivat yksin: "Millaista tukea olen saanut tai voisin tarvita?" Vapaaehtoisia jakoja.
 
-3. **Yhteenveto ja reflektio** (15 min) — *Palaute ja sitouttaminen*
-   - Pienryhmät kertovat yhdessä oppimastaan (2–3 min)
-   - Opinto-ohjaaja kokoaa keskeiset viestit
-   - Reflektio: "Yksi asia, jonka opin tänään" (ääneen tai kirjallisesti)
-   - Seuraavien tapaamisten esittely ja HOPS-päivityksen aikataulutus
+3. **Yhteenveto/reflektio** (15 min) — Yhteinen keskustelu: Mitä uutta opit lukion rakenteesta? Mikä asia jäi epäselväksi? Opiskelijat kirjaavat Padlet-seinälle yhden asian, jonka haluavat muistaa lukio-opinnoista. Opinto-ohjaaja kokoaa keskeiset oivallukset ja muistuttaa HOPS-päivityksestä seuraavalla kerralla.
 
 ### Menetelmät
-- Työpaja ja rotaatiotyöskentely
-- Ryhmätyö ja pienryhmäkeskustelu
-- Interaktiivinen oppiminen ja digitaaliset välineet
-- Itsearviointi ja reflektio
-- Vertaisoppiminen
+- Käsitekartta (parityö)
+- Interaktiivinen esitys ja visualisointi
+- Pienryhmätyö (ongelmanratkaisu korttien avulla)
+- Yksilöllinen pohdinta ja vapaaehtoinen jakaminen
+- Digitaalinen yhteenveto (Padlet)
 
 ### Materiaalit & Lähteet
-- **Infograafi:** Lukion moduulirakenne (LOPS 2019)
-- **HOPS-pohja:** Henkilökohtaisen opiskelusuunnitelman pohja (digitaalinen tai paperinen)
-- **Itsearviointi-lomakkeet:** Opiskelutaidot, vahvuudet ja kiinnostukset
-- **Digitaaliset välineet:** Moodle/Teams, opiskelijalaskuri.fi
-- **Yhteystiedot-kortit:** Opinto-ohjaaja, ryhmänohjaaja, erityisopettaja, opiskeluhuolto
-- **Lähteet:**
-  - Lukion opetussuunnitelman perusteet 2019 (ePerusteet)
-  - Opetushallitus: Oppimisen tuen uudistus lukiokoulutuksessa (1.8.2025)
-  - Opetushallitus: Opinto-ohjaus lukiossa
+- Fläppitaulut ja tussit (käsitekartta)
+- Työkirja: "Lukio-aikajanani" -pohja (moniste tai digitaalinen)
+- Tilannekorttipakka (15–20 erilaista skenaariota)
+- Diaesitys: Lukion rakenne, moduulit, opintopisteet, "koko koulu ohjaa" -kaavio
+- Padlet-seinä: [linkki luodaan etukäteen]
+- Opetushallitus: Lukion opetussuunnitelman perusteet 2019 (https://www.oph.fi)
+- Opetushallitus: Oppimisen tuen uudistus lukiokoulutuksessa (https://www.oph.fi/fi/koulutus-ja-tutkinnot/oppimisen-tuen-uudistus-lukiokoulutuksessa)
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen:** Aktiivinen osallistuminen työpajan asemille ja ryhmäkeskusteluihin
-- **Itsearviointi:** Vahvuuksien ja kiinnostuksien tunnistaminen sekä kirjallinen reflektio
-- **HOPS-päivitys:** Ensimmäisen vuoden moduulit merkitty ja henkilökohtaiset tavoitteet kirjattu
-- **Suoritusmerkintä S:** Opiskelija osallistui työpajaan ja täytti reflektio-tehtävät
+- Aktiivinen osallistuminen pari- ja ryhmätöihin
+- Työkirjan "lukio-aikajanani" -pohjan täyttäminen
+- Padlet-merkinnän tekeminen (reflektio)
+- Läsnäolo ja osallistuminen keskusteluihin
 
 ### Eriyttäminen
-- **Oppimisen tuki:** Opiskelijat, joilla on lukemisen tai kirjoittamisen vaikeuksia, saavat tukea asemilla (esim. ääneen lukeminen, kirjoitusapuvälineet)
-- **Erityisjärjestelyt:** Erityisopettaja tai avustaja tukee opiskelijoita, joilla on diagnosoituja oppimisvaikeuksia
-- **Kielituki:** Opiskelijat, joille suomi ei ole äidinkieli, saavat käännösapua ja selkokielisiä materiaaleja
-- **Nopeat oppijat:** Lisätehtävät: tutkia eri ainevalintojen vaikutusta jatko-opintoihin (opiskelijalaskuri.fi)
+- Visuaaliset tukimateriaalit (kaaviot, infografiikat) tukevat eri oppijoita
+- Tilannekorttitehtävässä voidaan antaa helpompia/haastavampia skenaarioita
+- Mahdollisuus kirjalliseen reflektioon suullisen jakamisen sijaan
+- Ennakkomateriaalin jakaminen (esim. lyhyt video lukion rakenteesta) niille, jotka hyötyvät valmistautumisesta
+- Tukioppilas tai erityisopettaja voi olla mukana tarvittaessa
 
 ### Koko koulu ohjaa — yhteistyö
-- **Opinto-ohjaaja:** Johtaa työpajaa ja vastaa OP1-moduulin opetuksesta
-- **Ryhmänohjaaja:** Osallistuu ja tukee omaa ryhmäänsä, seuraa HOPS-päivityksiä
-- **Aineenopettajat:** Voivat osallistua asemille ja kertoa omansa aineensa merkityksestä
-- **Erityisopettaja:** Tukee oppimisen tuen asemalla ja tunnistaa tuen tarpeessa olevia opiskelijoita
-- **Opiskeluhuolto:** Esittelee palvelunsa ja on saatavilla kysymyksille
-- **Rehtori:** Varmistaa resurssit ja tukee ohjauksen toteutusta
+- **Ryhmänohjaaja**: Jatkaa keskustelua lukio-opintojen arjesta ryhmänohjaustuokioilla
+- **Aineenopettajat**: Konkretisoivat moduulirakenteen omassa oppiaineessaan
+- **Erityisopettaja**: Konsultointi oppimisen tuen tarpeista, mahdollinen vierailu tunnilla
+- **Opiskeluhuolto**: Tiedottaa omista palveluistaan ja yhteystiedoista
+- **Opinto-ohjaaja**: Koordinoi kokonaisuuden ja tarjoaa yksilöohjausta tarvittaessa

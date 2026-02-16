@@ -1,73 +1,80 @@
 # OPINTO-OHJAUS — OP1
 ## Tunti 21 — Globaali- ja kulttuuriosaaminen
-**Vuosikello**: 1. vuosi, syksy
+**Vuosikello**: 1. vuosi syksy
 **Tyyppi**: Luokkaopetus
 
 ### Tavoitteet (LOPS 2019)
-- Opiskelija ymmärtää oman kulttuuritaustansa ja sen suhdetta globaaliin kontekstiin
-- Opiskelija rakentaa paikallisen, kansallisen ja maailmankansalaisen identiteettiään
-- Opiskelija saa tietoa kansainvälisistä mahdollisuuksista ja vaihto-opiskelusta
-- Opiskelija kehittää valmiuksia toimia vastuullisesti erilaisissa kulttuurisissa tilanteissa
+- Opiskelija tunnistaa oman kulttuuritaustansa ja ymmärtää sen suhteen globaaliin kontekstiin
+- Opiskelija hahmottaa kansainvälisyyden merkityksen omassa elämässään ja tulevaisuuden suunnitelmissaan
+- Opiskelija saa perustietoa vaihto-opiskelumahdollisuuksista ja kansainvälisistä jatkokoulutuspoluista
+- Opiskelija vahvistaa valmiuksiaan toimia vastuullisesti monikulttuurisessa maailmassa
 
 ### Laaja-alainen osaaminen
-- **Globaali- ja kulttuuriosaaminen**: Kulttuurien monimuotoisuus, kansainvälisyyden merkitys, globaali vastuu
-- **Yhteiskunnallinen osaaminen**: Eettinen toiminta, kestävä kehitys, vastuullisuus
+- Globaali- ja kulttuuriosaaminen (pääpaino)
+- Yhteiskunnallinen osaaminen
 
 ### Tunnin kulku (75 min)
 
-1. **Virittäytyminen** (8 min) — *Maailmankansalaisen identiteetti*
-   - Opiskelijat pohtivat pareittain: "Mistä olet peräisin ja mitä se merkitsee sinulle?" (2 min)
-   - Joitakin vastauksia jaetaan luokassa (3 min)
-   - Opinto-ohjaaja esittelee tunnin tavoitteet (3 min)
+1. **Virittäytyminen** (10 min) — **Identiteettikartta**
+   - Opiskelijat piirtävät A4-paperille oman "identiteettikarttansa": keskelle oma nimi, ympärille kerroksia (perhe/lähipiiri → paikkakunta → Suomi → maailma)
+   - Merkitsevät kartalle: mistä juureni ovat? Mihin tunnen kuuluvani? Mikä minussa on "suomalaista", mikä "globaalia"?
 
-2. **Työskentely** (55 min)
-   - **Osuus A: Kulttuurien monimuotoisuus** (20 min)
-     - Interaktiivinen esitys: globaalin maailman haasteet ja mahdollisuudet
-     - Pienryhmätyö (3–4 hlö): Valitaan eri maanosa/kulttuuri, tutkitaan sen erityispiirteitä (kieli, perinteet, arvot)
-     - Ryhmät esittelevät löydöksensä (2 min/ryhmä)
+2. **Työskentely** (50 min)
    
-   - **Osuus B: Kansainväliset mahdollisuudet** (20 min)
-     - Opinto-ohjaaja esittelee vaihto-opiskelun mahdollisuudet (Erasmus+, yksityiset ohjelmat)
-     - Opiskelijat tutustuvat Opintopolku.fi-palveluun ja etsivät kansainvälisiä jatko-opintoja
-     - Vapaaehtoinen: Opiskelijat merkitsevät HOPS-dokumenttiin kiinnostavia maita/ohjelmia
+   **A) Kulttuurien kohtaaminen** (20 min)
+   - Pienryhmäkeskustelu (3-4 hlö): Milloin olet kohdannut eri kulttuureja? (matkat, media, kaverit, ruoka, musiikki...)
+   - Yhteinen purku: Mitä kulttuurien monimuotoisuus tuo elämäämme?
    
-   - **Osuus C: Reflektio omasta identiteetistä** (15 min)
-     - Itsenäinen pohdinta: "Miten haluan kehittyä maailmankansalaisena?" (kirjallinen tai mentaalinen)
-     - Vapaaehtoiset jakavat ajatuksiaan
+   **B) Kansainväliset mahdollisuudet lukiossa** (30 min)
+   - Opinto-ohjaajan esitys (15 min):
+     * Vaihto-opiskelu lukioaikana (AFS, YFU, Rotary...)
+     * Kansainväliset projektit ja eTwinning
+     * Kieliopinnot ja kielikylvyt
+     * Jatko-opinnot ulkomailla (alustavasti, syvennetään OP2:ssa)
+   - Paripohdinta (10 min): Mikä kiinnostaa? Mitä haluaisin tietää lisää?
+   - Kysymykset ja keskustelu (5 min)
 
-3. **Yhteenveto/reflektio** (12 min)
-   - Opinto-ohjaaja kokoaa keskeiset viestit: identiteetti, kulttuurit, mahdollisuudet
-   - Opiskelijat arvioivat itseään: "Mitä opin tänään?" (3 min)
-   - Seuraavien askelten esittely: OP2-moduuli, aineenopettajien kanssa syventäminen (3 min)
-   - Avoin kysymysosio (3 min)
+3. **Yhteenveto ja reflektio** (15 min)
+   - Henkilökohtainen kirjallinen pohdinta (HOPS-materiaali):
+     * Miten globaali- ja kulttuuriosaaminen näkyy omassa elämässäni nyt?
+     * Mitä haluaisin oppia tai kokea kansainvälisyyteen liittyen lukioaikana?
+     * Yksi konkreettinen askel seuraavalle viikolle (esim. tutustu vaihto-ohjelmiin, katso dokumentti toisesta kulttuurista, jututtele eri taustasta tulevaa kaveria)
+   - Vapaaehtoisia jakoja
 
 ### Menetelmät
-- Interaktiivinen esitys
-- Pienryhmätyö ja vertaisoppiminen
-- Itsenäinen pohdinta ja reflektio
-- Digityökalut (Opintopolku.fi, mahdollisesti Padlet tai Google Classroom jakamiseen)
-- Keskustelu ja avoin dialogi
+- Visuaalinen työskentely (identiteettikartta)
+- Pienryhmäkeskustelu ja paripohdinta
+- Opinto-ohjaajan tietoiskutyylinen esitys
+- Henkilökohtainen reflektointi ja kirjoittaminen
 
 ### Materiaalit & Lähteet
-- **Opinto-ohjaajan esitys** (PowerPoint/Prezi): Globaali- ja kulttuuriosaaminen, vaihto-opiskelu
-- **Opintopolku.fi**: Kansainväliset jatko-opintovaihtoehdot
-- **Pienryhmätyön ohjeistus**: Maanosa-kortit tai digitaalinen tehtävä
-- **HOPS-dokumentti**: Opiskelijoiden henkilökohtainen opiskelusuunnitelma
-- **Lähdeaineisto**: LOPS 2019, Opetushallituksen kansainvälisyysmateriaali
+- A4-paperia ja värikyniä identiteettikarttaan
+- Diaesitys kansainvälisistä mahdollisuuksista
+- HOPS-pohja reflektiota varten
+- **Linkit:**
+  - [Opintopolku.fi](https://opintopolku.fi) – jatko-opintomahdollisuudet
+  - [Opetushallitus: Kansainvälisyys lukiokoulutuksessa](https://www.oph.fi/fi/funding/kansainvalisyys-lukiokoulutuksessa-2023)
+  - Vaihto-ohjelmien sivustot (AFS, YFU, Rotary)
+- Moniste: "Kansainväliset mahdollisuudet lukiossa" (tiivistelmä)
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen**: Aktiivinen osallistuminen pienryhmätyöhön ja keskusteluun (S)
-- **Itsearviointi**: Opiskelija täyttää reflektiolomakkeen tunnin lopussa
-- **HOPS-päivitys**: Opiskelija merkitsee kiinnostavia kansainvälisiä mahdollisuuksia (vapaaehtoisesti)
-- **Portfolio**: Tunnin muistiinpanot ja pohdinnat voidaan liittää opiskelijan portfolioon
+- **Aktiivinen osallistuminen** ryhmäkeskusteluihin ja tunnin aktiviteetteihin
+- **HOPS-reflektio** palautetaan seuraavaan opinto-ohjauksen tapaamiseen mennessä
+- Suoritusmerkintä (S) edellyttää läsnäoloa ja reflektiopohjan palauttamista
 
 ### Eriyttäminen
-- **Oppimisen tuki**: Opiskelijat, joilla on kielellisia haasteita, saavat tarvittaessa apua Opintopolku.fi-navigoinnissa
-- **Erityisjärjestelyt**: Pienryhmätyö mahdollistaa eri tasoilla työskentelyn; opinto-ohjaaja voi tarjota yksilöllistä ohjausta kiinnostuneille
-- **Syventävä polku**: Motivoituneet opiskelijat voivat tutkia syvemmin tiettyä maata/ohjelmaa ja jakaa löydöksensä
+- **Tuki:** Identiteettikarttaan voi merkitä myös kuvin tai symbolin, jos kirjoittaminen on haastavaa. Pienryhmät muodostetaan tukeviksi.
+- **Syventäminen:** Kiinnostuneita opiskelijoita kannustetaan tutustumaan jo nyt tarkemmin vaihto-ohjelmiin tai kansainvälisiin projekteihin
+- **Kieli:** Materiaalit saatavilla myös englanniksi tarvittaessa
+- **Oppimisen tuki:** Selkeä rakenne, visuaaliset tukimateriaalit, riittävästi aikaa pohdintaan
 
 ### Koko koulu ohjaa — yhteistyö
-- **Ryhmänohjaaja**: Tukee opiskelijan identiteetin kehitystä ja hyvinvointia
-- **Aineenopettajat** (kielet, historia, maantieto): Syventävät kulttuurien tuntemusta omassa opetuksessaan
-- **Opiskeluhuolto**: Tukee opiskelijoita, joilla on erityistarpeita kansainvälisten kokemusten yhteydessä
-- **Opetushallitus & Opintopolku.fi**: Tarjoavat tietoresurssit ja jatko-opintomahdollisuuksien tietokannat
+- **Opinto-ohjaaja:** Vastaa tunnin toteutuksesta ja kansainvälisyystiedon jakamisesta
+- **Kielten opettajat:** Voivat syventää kulttuuriteemoja omassa opetuksessaan, yhteistyömahdollisuus kielikylpyjen järjestämisessä
+- **Ryhmänohjaaja:** Tukee opiskelijan identiteetin kehitystä ja voi jatkaa teemaa ryhmänohjaustuokioissa
+- **Rehtori/kansainvälisyysvastaava:** Tiedottaa ajankohtaisista kansainvälisistä hankkeista ja mahdollisuuksista
+- **Vanhemmat:** Informoidaan Wilman kautta lukion kansainvälisistä mahdollisuuksista
+
+---
+
+**Huom!** Tunnin jälkeen opinto-ohjaaja päivittää ilmoitustaululle/Wilmaan tietoa tulevista kansainvälisyystapahtumista ja vaihto-ohjelmien hakuajoista.

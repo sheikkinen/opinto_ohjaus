@@ -1,79 +1,69 @@
 # OPINTO-OHJAUS — OP1
 ## Tunti 20 — Eettisyys ja ympäristöosaaminen
-**Vuosikello**: 1. vuosi, kevät
-**Tyyppi**: Verkko-opetus (75 min)
+**Vuosikello**: 1. vuosi kevät
+**Tyyppi**: verkko-oppitunti
 
 ### Tavoitteet (LOPS 2019)
 - Opiskelija pohtii omien valintojensa eettisiä seurauksia ja ympäristövaikutuksia
-- Opiskelija kehittää ymmärrystä ilmastonmuutoksesta ja luonnon monimuotoisuudesta
-- Opiskelija tunnistaa keinoja kestävään muutokseen ja omaa rooliaan aktiivisena vaikuttajana
-- Opiskelija kytkee eettisyyden ja ympäristöosaamisen omiin tulevaisuuden valintoihinsa (ainevalinnat, jatko-opinnot)
+- Opiskelija tutustuu tutkimustietoon ilmastonmuutoksen hillitsemisestä ja luonnon monimuotoisuuden turvaamisesta
+- Opiskelija kehittää kykyään toimia vastuullisesti ja eettisesti eri tilanteissa
+- Opiskelija ymmärtää kestävän kehityksen merkityksen omissa tulevaisuuden valinnoissaan
 
 ### Laaja-alainen osaaminen
-- **Eettisyys ja ympäristöosaaminen** — vastuullinen toimijuus ja kestävä tulevaisuus
-- **Yhteiskunnallinen osaaminen** — aktiivinen vaikuttaminen ja globaali vastuu
-- **Hyvinvointiosaaminen** — resilienssi muutostilanteissa
-- **Monitieteinen ja luova osaaminen** — ympäristöongelmien kompleksisuus
+- Eettisyys ja ympäristöosaaminen
+- Yhteiskunnallinen osaaminen
 
 ### Tunnin kulku (75 min)
 
-1. **Virittäytyminen** (8 min) — *Verkko-alusta avautuu*
-   - Lyhyt video tai infografiikka: "Nuorten ääni ilmastomuutoksesta" (2–3 min)
-   - Avoin kysymys: "Mikä ympäristöasia huolestuttaa tai innostaa sinua eniten?" (Padlet/chat)
+1. **Virittäytyminen** (10 min) — Interaktiivinen Mentimeter-kysely: "Mikä ympäristöteko on sinulle helpoin/vaikein?" ja "Mitä kestävä tulevaisuus tarkoittaa sinulle?" Tulosten yhteinen tarkastelu ja keskustelun avaus.
 
 2. **Työskentely** (50 min)
-   - **Osa A: Itsearviointi ja pohdinta** (15 min)
-     - Interaktiivinen työkalu: "Minun eettisiä valintojani" (esim. Mentimeter-kysely tai Google Form)
-     - Opiskelijat pohtivat omia päivittäisiä valintoja (kulutus, liikenne, ruoka, opinnot)
+   - **Osa 1: Oma ympäristöjalanjälki** (15 min) — Itsenäinen työskentely: Opiskelija laskee oman hiilijalanjälkensä verkkolaskurilla (esim. ilmastodieetti.fi) ja pohtii tuloksia ohjattujen kysymysten avulla.
    
-   - **Osa B: Tutkimustiedon tutustuminen** (20 min)
-     - Ohjattu verkkotutkimus: opiskelijat lukevat 2–3 lyhyttä artikkelia/infografiikkaa aiheista:
-       - Ilmastonmuutoksen hillitsemisen keinot
-       - Luonnon monimuotoisuuden turvaaminen
-       - Kestävän kehityksen tavoitteet (SDG)
-     - Linkki: [Peda.net — Eettisyys ja ympäristöosaaminen](https://peda.net/id/07de28abf73)
+   - **Osa 2: Pienryhmätyö virtuaalisissa ryhmissä** (25 min) — Breakout-huoneissa 3-4 hengen ryhmät valitsevat yhden teeman (ruoka, liikkuminen, kulutus, opiskelu) ja suunnittelevat konkreettisia kestävän kehityksen toimia omaan arkeen ja lukio-opiskeluun. Ryhmät laativat yhteisen dokumentin Padletiin.
    
-   - **Osa C: Yhteys tulevaisuuden valintoihin** (15 min)
-     - Pienryhmäkeskustelu (breakout rooms): "Miten eettisyys ja ympäristöosaaminen vaikuttavat minun ainevalintoihini ja jatko-opintosuunnitelmiini?"
-     - Esimerkki: "Kiinnostaako minua vihreä teknologia, kestävä liiketoiminta, ympäristötiede?"
-     - Huomio: Kevään 2026 yhteishaku (17.2.–17.3.2026) on ajankohtainen hetki näille pohdinnoille
+   - **Osa 3: Tulevaisuuden valinnat** (10 min) — Itsenäinen pohdinta: Miten ympäristöosaaminen ja eettisyys vaikuttavat omiin jatko-opintosuunnitelmiin ja urahaaveisiin? Kirjallinen reflektio omaan HOPS-kansioon.
 
-3. **Yhteenveto ja reflektio** (17 min)
-   - **Ryhmäkeskustelu** (10 min): Opinto-ohjaaja kokoaa pienryhmien ajatuksia
-   - **Yksilöllinen reflektio** (5 min): Opiskelijat kirjoittavat lyhyen vastauksen: "Yksi konkreettinen teko, jonka voin tehdä tänään tai tällä viikolla"
-   - **Sulkeminen** (2 min): Motivoiva viesti kestävästä tulevaisuudesta
+3. **Yhteenveto/reflektio** (15 min) — Ryhmien esittelyt (2 min/ryhmä), yhteinen keskustelu: "Mitä voin tehdä juuri nyt?" Opinto-ohjaaja kokoaa yhteisen toimintasuunnitelman ja linkittää kevään 2026 yhteishakuun: miten kestävyys voi ohjata jatko-opintojen valintaa?
 
 ### Menetelmät
-- Interaktiivinen verkko-opetus (Zoom/Teams)
-- Itsenäinen pohdinta ja itsearviointi
-- Pienryhmäkeskustelu (breakout rooms)
-- Tutkimustiedon tutustuminen
-- Digitaaliset työkalut (Padlet, Mentimeter, Google Forms)
-- Avoin dialogi ja vertaisoppiminen
+- Interaktiivinen kysely (Mentimeter)
+- Itsenäinen verkkotyöskentely
+- Virtuaalinen pienryhmätyö (Zoom/Teams breakout-huoneet)
+- Yhteisöllinen dokumentointi (Padlet)
+- Henkilökohtainen reflektio
+- Vertaisoppiminen
 
 ### Materiaalit & Lähteet
-- [Peda.net — Eettisyys ja ympäristöosaaminen](https://peda.net/id/07de28abf73)
-- [Opetushallitus — Oppimisen tuen uudistus lukiokoulutuksessa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/oppimisen-tuen-uudistus-lukiokoulutuksessa)
-- [Opintopolku — Korkeakoulujen yhteishaun opiskelijavalinnat](https://opintopolku.fi/konfo/fi/sivu/korkeakoulujen-yhteishaun-opiskelijavalinnat)
-- [Ammattiopisto Tavastia — Yhteishaku 2026](https://www.kktavastia.fi/ammattiopisto/tapahtumat/yhteishaku-2026/)
-- Infograafiikka: YK:n kestävän kehityksen tavoitteet (SDG)
-- Video: "Nuorten ääni ilmastomuutoksesta" (esim. TED-Ed, YK:n nuorten kampanja)
+- Mentimeter-kysely (opinto-ohjaaja luo etukäteen)
+- Hiilijalanjälkilaskuri: https://ilmastodieetti.fi/
+- Padlet-taulu ryhmätöille
+- HOPS-pohja reflektiota varten
+- Peda.net: Eettisyys ja ympäristöosaaminen (https://peda.net/id/07de28abf73)
+- Opintopolku: Korkeakoulujen yhteishaku (https://opintopolku.fi/konfo/fi/sivu/korkeakoulujen-yhteishaun-opiskelijavalinnat)
+- Taustatietoa: Oppimisen tuen uudistus (https://www.oph.fi/fi/koulutus-ja-tutkinnot/oppimisen-tuen-uudistus-lukiokoulutuksessa)
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen**: Aktiivinen osallistuminen keskusteluihin ja pienryhmätöihin (S/H)
-- **Itsearviointi**: Reflektiokirjoitus omista valinnoista ja konkreettisesta teosta (S/H)
-- **HOPS-päivitys**: Opiskelijat päivittävät henkilökohtaisen opintosuunnitelmansa, jos eettisyys ja ympäristöosaaminen vaikuttavat ainevalintoihin tai jatko-opintosuunnitelmiin
-- **Portfolio**: Reflektiokirjoitus voidaan liittää opiskelijan portfolioon
+- **Osallistuminen**: Aktiivinen läsnäolo verkko-oppitunnilla ja osallistuminen ryhmätyöhön
+- **Itsearviointi**: Hiilijalanjälkilaskurin tulosten pohdinta
+- **Tuotos**: Ryhmän yhteinen Padlet-dokumentti ja henkilökohtainen HOPS-reflektio
+- **Suoritusmerkintä (S)** edellyttää: Osallistumista oppituntiin, ryhmätyön tuotoksen palauttamista ja henkilökohtaisen reflektion kirjoittamista HOPS-kansioon
 
 ### Eriyttäminen
-- **Oppimisen tuki**: Opinto-ohjaaja tarjoaa yksilöllistä tukea opiskelijoille, joilla on vaikeuksia kirjoittamisessa tai keskusteluun osallistumisessa (matalan kynnyksen tuki, uudistus 1.8.2025)
-- **Erityisjärjestelyt**: Breakout rooms mahdollistavat joustavat ryhmittelyt; opiskelijat voivat osallistua omalla tavallaan (chat, ääni, video)
-- **Syventävä haaste**: Kiinnostuneet opiskelijat voivat tutkia syvemmin kestävän kehityksen tavoitteita tai paikallisia ympäristöhankkeita
-- **Saavutettavuus**: Materiaalit saatavilla tekstityksinä ja helppolukuisessa muodossa; verkko-alusta tukee eri apuvälineitä
+- **Tekninen tuki**: Varmistetaan etukäteen kaikkien opiskelijoiden pääsy verkkotyökaluihin, tarjotaan vaihtoehtoisia osallistumistapoja (esim. chat-viestit puheenvuorojen sijaan)
+- **Oppimisen tuki**: Selkeät kirjalliset ohjeet kaikkiin tehtäviin, mahdollisuus työskennellä omaan tahtiin itsenäisissä osuuksissa
+- **Saavutettavuus**: Huomioidaan oppimisen tuen uudistus (1.8.2025 alkaen) — matalan kynnyksen tuki, tarvittaessa erityisopettajan konsultointi
+- **Sisällön eriyttäminen**: Opiskelijat valitsevat itselleen merkityksellisen teeman ryhmätyössä
+- **Kielellinen tuki**: Mahdollisuus käyttää äidinkieltä reflektiossa, avustava teknologia käytettävissä
 
 ### Koko koulu ohjaa — yhteistyö
-- **Opinto-ohjaaja**: Koordinoi tunnin, fasilitoi keskusteluja, päivittää HOPS:ia
-- **Aineenopettajat** (biologia, maantiede, yhteiskuntaoppi): Integroivat eettisyyden ja ympäristöosaamisen omaan opetukseensa; voivat antaa palautetta opiskelijoiden ainevalinnoista
-- **Ryhmänohjaaja**: Tukee vastuullista toimijuutta ja kestävää käyttäytymistä ryhmässä
-- **Erityisopettaja**: Tukee oppimisen haasteissa, varmistaa saavutettavuuden
-- **Opiskeluhuolto**: Varmistaa opiskelijan kokonaisvaltaisen hyvinvoinnin, joka mahdollistaa syvällisen eettisen pohdinnan
+- **Opinto-ohjaaja**: Tunnin suunnittelu ja toteutus, HOPS-ohjaus
+- **Aineenopettajat**: Erityisesti biologian, maantiedon ja yhteiskuntaopin opettajat voivat syventää teemoja aineissaan
+- **Ryhmänohjaaja**: Tukee vastuullisen toimijuuden kehittymistä arjessa
+- **Opiskeluhuolto**: Tukee opiskelijoiden hyvinvointia, joka mahdollistaa syvällisen eettisen pohdinnan
+- **Erityisopettaja**: Konsultointi oppimisen tuen tarpeissa
+- **Yhteistyökumppanit**: Mahdollisuus kutsua vierailijaksi paikallinen ympäristöjärjestö tai kestävän kehityksen asiantuntija (tulevilla kerroilla)
+
+---
+
+**Huom!** Tunnin jälkeen opinto-ohjaaja päivittää yhteisen toimintasuunnitelman koulun intranetiin ja kannustaa opiskelijoita jatkamaan keskustelua kestävyydestä myös epävirallisissa yhteyksissä.

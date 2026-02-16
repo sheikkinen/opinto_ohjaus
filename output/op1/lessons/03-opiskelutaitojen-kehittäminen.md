@@ -1,63 +1,61 @@
 # OPINTO-OHJAUS — OP1
 ## Tunti 3 — Opiskelutaitojen kehittäminen
-**Vuosikello**: 1. vuosi, syksy
-**Tyyppi**: Pienryhmäohjaus
+**Vuosikello**: 1. vuosi syksy
+**Tyyppi**: Pienryhmätyöskentely
 
 ### Tavoitteet (LOPS 2019)
-- Harjaantua lukiossa vaadittaviin opiskelutaitoihin ja löytää itselle sopivia oppimisen tapoja
-- Kehittyä itseohjautuvaksi oppijaksi, joka osaa suunnitella, toteuttaa ja reflektoida omaa oppimistaan
-- Vahvistaa itsetuntemusta ja kykyä hallita opiskelua sekä stressiä
-- Tutustua digitaalisten oppimisympäristöjen mahdollisuuksiin ja hyödyntää niitä tehokkaasti
+- Opiskelija harjaantuu lukiossa vaadittaviin opiskelutaitoihin ja löytää itselle sopivia tapoja oppia
+- Opiskelija kehittyy itseohjautuvaksi oppijaksi, joka osaa suunnitella, toteuttaa ja reflektoida omaa oppimistaan
+- Opiskelija vahvistaa itsetuntemustaan oppijana ja tunnistaa omat vahvuutensa sekä kehittämiskohteensa
+- Opiskelija oppii hyödyntämään digitaalisia oppimisympäristöjä tehokkaasti
 
 ### Laaja-alainen osaaminen
-- **Hyvinvointiosaaminen** — ajankäyttö, stressinhallinta, jaksaminen
-- **Monitieteinen ja luova osaaminen** — erilaisten opiskelumenetelmien kokeileminen ja soveltaminen
+- Hyvinvointiosaaminen (stressinhallinta, ajankäyttö)
+- Monitieteinen ja luova osaaminen (erilaisten oppimisstrategioiden soveltaminen)
 
 ### Tunnin kulku (75 min)
 
-1. **Virittäytyminen** (10 min) — *Opiskelutaitojen kartoitus*
-   - Opiskelijat vastaavat lyhyeen kyselyyn omista opiskelutavoistaan ja haasteistaan (esim. "Mikä on sinulle helpoin oppimisen tapa?" ja "Mikä opiskelussa tuntuu vaikealta?")
-   - Yhteinen keskustelu: mitä haasteita ja vahvuuksia ryhmässä nousee esille
+1. **Virittäytyminen** (10 min) — Paripohdinta: "Mikä on ollut haastavinta lukio-opiskelussa tähän mennessä?" Parit jakavat yhden havainnon koko ryhmälle.
 
-2. **Työskentely** (50 min) — *Opiskelumenetelmien kokeileminen ja suunnittelu*
-   - **Osuus A (20 min)**: Opinto-ohjaaja esittelee 4–5 erilaista opiskelumenetelmää (esim. Cornell-muistiinpanot, Pomodoro-tekniikka, mind map, ryhmäopiskelu, digitaalisten työkalujen käyttö). Jokainen menetelmä esitellään lyhyesti käytännön esimerkillä.
-   - **Osuus B (20 min)**: Opiskelijat jaetaan pienempiin ryhmiin (2–3 hlö) ja kukin ryhmä kokeilee yhtä menetelmää käytännössä pienellä opiskelutehtävällä (esim. lyhyen tekstin opiskelu tai käsitteistön oppiminen).
-   - **Osuus C (10 min)**: Ryhmät jakavat kokemuksensa: mikä tuntui toimivalta, mikä ei, kenelle tämä menetelmä sopisi parhaiten?
+2. **Työskentely** (50 min)
+   - **Osa 1: Oppimistyylit ja -strategiat** (20 min) — Pienryhmissä (3-4 hlöä) tutustutaan erilaisiin oppimisstrategioihin (visuaalinen, auditiivinen, kinesteettinen, luku-kirjoitus). Ryhmät pohtivat: Mitkä strategiat sopivat minulle? Mitä olen jo kokeillut?
+   - **Osa 2: Opiskelutaitojen työpaja** (30 min) — Kiertotyöskentely neljässä pisteessä (ryhmät vaihtavat pistettä 7 min välein):
+     * Piste 1: Ajanhallinta ja viikko-ohjelman laatiminen
+     * Piste 2: Muistiinpanotekniikat (Cornell, mind map, digitaaliset työkalut)
+     * Piste 3: Tenttiin lukemisen strategiat
+     * Piste 4: Digitaaliset oppimistyökalut (Wilma, Teams, Quizlet, tms.)
 
-3. **Yhteenveto ja reflektio** (15 min) — *Henkilökohtainen suunnitelma*
-   - Opiskelijat täyttävät itsearviointi-lomakkeen: mitkä opiskelumenetelmät voisivat toimia heille, mitä haluavat kokeilla ensi viikolla?
-   - Opinto-ohjaaja korostaa, että eri tilanteissa voi tarvita eri menetelmiä
-   - Linkki HOPS-päivitykseen: opiskelutaitojen kehittämisen tavoitteet kirjataan henkilökohtaiseen suunnitelmaan
+3. **Yhteenveto ja reflektio** (15 min) — Yksilöllinen kirjallinen reflektio: "Valitse 2-3 opiskelutaitoa, joita haluat kehittää seuraavan kuukauden aikana. Miten aiot harjoitella niitä käytännössä?" Vapaaehtoiset jakavat ajatuksiaan. Ohjaaja kokoaa keskeiset opit ja kannustaa kokeilemaan erilaisia menetelmiä.
 
 ### Menetelmät
-- Kyselytutkimus ja itsearviointi
-- Opinto-ohjaajan esitys ja opetus
-- Pienryhmätyö ja kokeileminen
-- Vertaisoppiminen ja ryhmäkeskustelu
-- Reflektio ja jakaminen
+- Paripohdinta ja ryhmäkeskustelu
+- Pienryhmätyöskentely ja kiertotyöskentely (learning stations)
+- Yksilöllinen reflektio ja tavoitteenasettelu
+- Vertaisoppiminen
 
 ### Materiaalit & Lähteet
-- **Kyselylomake** (omista opiskelutavoista)
-- **Esittelymateriaali** (4–5 opiskelumenetelmää, diat tai infograafit)
-- **Pienryhmien harjoitustehtävät** (esim. tekstinpätkä, käsitteistö, ongelmanratkaisu)
-- **Itsearviointi-lomake** (menetelmien soveltuvuus, seuraavat askeleet)
-- **Digitaalisten työkalujen esittely**: lukion oppimisympäristö (Moodle/Teams), muistiinpanotyökalut (OneNote, Notion), ajanhallintasovellukset
-- **Lähteet**: LOPS 2019, Opetushallitus (oppimisen tuki), Savonlinnan lyseon lukio (opiskelutaidot), Theseus.fi (itseohjautuva oppija)
+- Opiskelutaitojen tarkistuslista (moniste)
+- Viikko-ohjelmapohja (tulostettuna ja digitaalisena)
+- Muistiinpanotekniikoiden esimerkit (visuaaliset mallit)
+- Digitaalisten työkalujen esittelyvideot tai linkit
+- Savonlinnan lyseon lukio: Opiskelutaidot https://savonlinnanlyseonlukio.fi/fi/opinto-ohjaus/opiskelutaidot/
+- Itseohjautuva oppija -materiaali: https://www.theseus.fi/bitstream/handle/10024/118040/ePooki+31_2016.pdf
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen** — aktiivinen osallistuminen ryhmätyöhön ja keskusteluun
-- **Itsearviointi** — täytetty ja harkittu itsearviointi-lomake
-- **HOPS-päivitys** — opiskelutaitojen kehittämisen tavoitteet ja valitut menetelmät kirjataan HOPSiin
-- **Suoritusmerkintä S** — osallistuminen ja itsearvioinnin täyttäminen riittävät
+- Aktiivinen osallistuminen pienryhmätyöskentelyyn ja kiertotyöpisteisiin
+- Kirjallisen reflektoinnin palauttaminen (voi liittää HOPSiin)
+- Itsearviointi: Opiskelija arvioi omaa osallistumistaan ja asettaa henkilökohtaiset kehittämistavoitteet
+- HOPS-päivitys: Opiskelutaitojen kehittämissuunnitelma kirjataan HOPSiin
 
 ### Eriyttäminen
-- **Oppimisen tuki**: Opiskelijat, joilla on haasteita opiskelussa, saavat yksilöllistä neuvontaa sopivista menetelmistä (esim. rakennetumpi muistiinpanojärjestelmä, pidemmät tauot)
-- **Erityisjärjestelyt**: Opiskelijat, joilla on diagnosoitu oppimisvaikeus, voivat saada apua digitaalisten työkalujen käytössä tai muistiinpanomenetelmien mukauttamisessa
-- **Haastava oppija**: Opiskelijat, jotka hallitsevat opiskelutaidot hyvin, voivat syventyä edistyneempiin menetelmiin (esim. Feynman-tekniikka, spaced repetition)
+- Oppimisen tuki: Kiertotyöpisteissä ohjaaja tai vertaistukiopiskelija tarjoaa yksilöllistä tukea tarvittaessa
+- Erityisjärjestelyt: Opiskelijat, joilla on oppimisen haasteita, voivat saada lisäaikaa reflektioon tai työskennellä pienemmässä ryhmässä
+- Lahjakkuuden tuki: Tarjotaan syventäviä materiaaleja ja mahdollisuus tutustua edistyneempiin opiskelutekniikoihin (esim. Feynman-tekniikka, spaced repetition)
+- Kielellinen tuki: Käsitteet selitetään selkokielellä, visuaalisia tukia käytetään runsaasti
 
 ### Koko koulu ohjaa — yhteistyö
-- **Ryhmänohjaaja** — tiedon välitys opiskelijoiden opiskelutaidoista ja haasteista
-- **Aineenopettajat** — palautetta siitä, mitkä opiskelumenetelmät tukevat eri aineita
-- **Erityisopettaja** — neuvonta opiskelijoille, joilla on erityisen tuen tarve
-- **Opiskeluhuolto** (psykologi, kuraattori) — stressinhallinta ja hyvinvointi opiskelun yhteydessä
-- **Opinto-ohjaaja** — HOPS-päivitys ja jatkoseuranta
+- **Aineenopettajat**: Kannustetaan opiskelijoita soveltamaan tunnilla opittuja opiskelutekniikoita omissa aineissaan
+- **Ryhmänohjaaja**: Seuraa opiskelijoiden ajankäytön ja jaksamisen haasteita, ohjaa tarvittaessa opinto-ohjaajalle
+- **Erityisopettaja**: Konsultaatio opiskelijoiden yksilöllisistä oppimisen tuen tarpeista
+- **Opiskeluhuolto** (psykologi, kuraattori): Yhteistyö opiskelijoiden kanssa, joilla on merkittäviä opiskelun tai jaksamisen haasteita
+- **Vertaistuki**: Vanhempien opiskelijoiden (2.-3. vuosi) vinkit ja kokemukset jaetaan esim. videohaastatteluina tai vierailuna

@@ -1,57 +1,65 @@
 # OPINTO-OHJAUS — OP1
 ## Tunti 9 — Elämänhallinnan taidot
-**Vuosikello**: 1. vuosi, syksy
+**Vuosikello**: 1. vuosi syksy
 **Tyyppi**: Vierailu
 
 ### Tavoitteet (LOPS 2019)
-- Vahvistaa itsetuntemusta ja omien voimavarojen tunnistamista
-- Kehittää stressinhallinta- ja ajankäyttötaitoja
-- Tukea opiskelukykyä ja jaksamista lukio-opinnoissa
-- Kasvattaa muutosvalmiutta ja resilienssiä
-- Edistää vastuullista ja eettistä toimintaa
+- Opiskelija vahvistaa itsetuntemustaan ja tunnistaa omat voimavaransa sekä stressinhallintakeinonsa
+- Opiskelija ymmärtää elämänhallinnan taitojen merkityksen opiskelukyvylle ja hyvinvoinnille
+- Opiskelija oppii tunnistamaan tuen tarpeen ja tietää, mistä hakea apua
+- Opiskelija kehittää kykyään selviytyä muutostilanteista ja toimia vastuullisesti
 
 ### Laaja-alainen osaaminen
-- **Hyvinvointiosaaminen** — oman jaksamisen ja stressinhallinnan kehittäminen
-- **Vuorovaikutusosaaminen** — vertaistuella ja yhteisöllisellä pohdinnalla vahvistaminen
+- Hyvinvointiosaaminen
+- Vuorovaikutusosaaminen
 
 ### Tunnin kulku (75 min)
-1. **Virittäytyminen** (10 min) — Opinto-ohjaaja esittelee vierailijan ja aiheen; opiskelijat pohtivat omia elämänhallinnan haasteita lukio-opinnoissa (pienryhmäkeskustelu)
 
-2. **Työskentely** (50 min) — Vierailija (esim. psykologi, kuraattori, hyvinvointiasiantuntija tai opiskelija-asiamies) jakaa käytännön kokemuksia ja konkreettisia keinoja:
-   - Stressinhallintatekniikat (ajankäyttö, prioriteetti, rentoutuminen)
-   - Omien voimavarojen tunnistaminen ja hyödyntäminen
-   - Avun hakeminen ja tukiverkkojen rakentaminen
-   - Todistusvalintauudistuksen aiheuttaman paineen käsittely
-   - Interaktiivinen osuus: opiskelijoiden kysymykset ja keskustelu
+1. **Virittäytyminen** (10 min) — Opinto-ohjaaja esittelee vierailijan (esim. opiskeluhuollon psykologi, kuraattori tai terveydenhoitaja) ja päivän teeman. Lyhyt check-in: "Miten jaksaminen tuntuu juuri nyt?" (peukalo ylös/alas/sivulle).
 
-3. **Yhteenveto/reflektio** (15 min) — Opiskelijat täyttävät reflektiolomakkeen (mitä opin, mitkä keinot kokeilen, kenen puoleen käännyn tarvittaessa); vierailija ja ohjaaja kokoavat keskeiset viestit; opiskelijat saavat yhteystiedot tukipalveluihin
+2. **Vierailijan osuus** (45 min) 
+   - Vierailija kertoo elämänhallinnan taidoista ja lukiolaisen hyvinvoinnista (20 min)
+   - Käsiteltäviä teemoja: stressi ja sen hallinta, ajankäyttö, uni ja lepo, sosiaalinen tuki, tunteiden tunnistaminen
+   - Konkreettisia työkaluja: hengitysharjoitukset, ajattelun taidot, arjen rytmitys
+   - Kysymyksiä ja keskustelua (15 min)
+   - Vierailija esittelee opiskeluhuollon palvelut ja matalan kynnyksen tuen (10 min)
+
+3. **Työskentely** (10 min) — Pienryhmissä (3-4 hlöä): "Mikä auttaa sinua jaksamaan?" Ryhmät jakavat omia keinojaan ja vinkkejään. Kirjataan post-it-lapuille.
+
+4. **Yhteenveto ja reflektio** (10 min) — Post-it-laput kootaan seinälle teemoittain. Opinto-ohjaaja kokoaa keskeiset opit ja muistuttaa tuen saatavuudesta. Opiskelija kirjaa HOPSiinsa yhden konkreettisen elämänhallintakeinon, jota aikoo kokeilla.
 
 ### Menetelmät
-- Vierailu (asiantuntija tai vertaisohjaaja)
-- Pienryhmäkeskustelu
-- Interaktiivinen dialogi
-- Reflektiivinen kirjoittaminen
-- Tietopaketti tukipalveluista
+- Asiantuntijavierailu ja luento
+- Vuorovaikutteinen keskustelu
+- Pienryhmätyöskentely
+- Vertaisoppiminen
+- Henkilökohtainen reflektio ja HOPS-kirjaus
 
 ### Materiaalit & Lähteet
-- Vierailijan esittelymateriaali (diat, handout)
-- Reflektiolomake (paperinen tai digiversio)
-- Tukipalveluiden yhteystiedot (kuraattori, psykologi, terveydenhoitaja, opinto-ohjaaja)
-- Stressinhallintavinkkejä sisältävä moniste
-- Linkit: [Opetushallitus: Opinto-ohjaus lukiossa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opinto-ohjaus-lukiossa), [Oppimisen tuen uudistus](https://www.oph.fi/fi/koulutus-ja-tutkinnot/oppimisen-tuen-uudistus-lukiokoulutuksessa)
+- Vierailijan esitysmateriaali (diat)
+- Post-it-laput ja tussit
+- Opiskeluhuollon yhteystiedot ja palveluesite (jaettava materiaali)
+- https://www.oph.fi/fi/koulutus-ja-tutkinnot/oppimisen-tuki-lukiossa
+- https://mieli.fi/nuoret/ (Mielen hyvinvointi -materiaalit)
+- https://www.jamk.fi/fi/artikkeli/lukiolaisten-hyvinvointi-kiinnostaa-oppilaitoksia
+- Opiskelijan HOPS (Wilma/Kurre)
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen** — aktiivinen läsnäolo ja osallistuminen keskusteluun
-- **Reflektiolomake** — oman oppimisen ja oivalluksien dokumentointi
-- **HOPS-päivitys** — elämänhallinnan taitojen ja tukipalveluiden kirjaaminen opiskelijan henkilökohtaiseen suunnitelmaan
+- Aktiivinen osallistuminen tunnille ja keskusteluun
+- Pienryhmätyöskentelyn toteutus
+- HOPS-merkinnän tekeminen: yhden elämänhallintakeinon kirjaaminen ja sen kokeilemisen suunnittelu
+- Läsnäolo ja osallistuminen riittävät suoritusmerkintään (S)
 
 ### Eriyttäminen
-- Opiskelijat, joilla on diagnosoitu oppimisvaikeus tai mielenterveyden haasteet, saavat yksilöllistä ohjausta ennen/jälkeen tunnin
-- Reflektiolomakkeesta voi valita kirjoittamisen, piirtämisen tai suullisen kertomisen
-- Tarvittaessa tulkkaus tai muut erityisjärjestelyt
+- Vierailija huomioi puheenvuoroissaan erilaiset oppijat ja elämäntilanteet
+- Pienryhmätyöskentely mahdollistaa osallistumisen omalla tasolla
+- Hiljaisemmille opiskelijoille tarjotaan mahdollisuus kirjalliseen reflektioon
+- Erityistä tukea tarvitsevat ohjataan henkilökohtaiseen keskusteluun opinto-ohjaajan tai opiskeluhuollon kanssa tunnin jälkeen
+- Vieraan kielen puhujille tarjotaan tarvittaessa tukimateriaalia etukäteen
 
 ### Koko koulu ohjaa — yhteistyö
-- **Vierailija**: Koulun psykologi, kuraattori, terveydenhoitaja tai ulkopuolinen hyvinvointiasiantuntija
-- **Ryhmänohjaaja**: Osallistuu tunnille, seuraa opiskelijoiden hyvinvointia jatkossa
-- **Erityisopettaja**: Tukee opiskelijoita, joilla on erityisen tuen tarve
-- **Koti**: Opiskelijat voivat jakaa oppimansa vanhemmille; ohjaaja lähettää tarvittaessa tiedon kotiin
+- **Opiskeluhuolto** (psykologi/kuraattori/terveydenhoitaja): vierailija, jatkotuen tarjoaja
+- **Ryhmänohjaaja**: seuraa opiskelijoiden jaksamista arjessa, välittää huolen tarvittaessa
+- **Erityisopettaja**: tukee oppimisvaikeuksissa ja opiskelukyvyn haasteissa
+- **Koti**: tiedotetaan Wilmassa tunnin teemasta ja kannustetaan keskustelemaan kotona hyvinvoinnista
+- **Oppilaskunta**: voi järjestää vertaistukitoimintaa ja hyvinvointitapahtumia

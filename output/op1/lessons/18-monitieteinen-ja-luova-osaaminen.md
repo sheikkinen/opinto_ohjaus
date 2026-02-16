@@ -1,104 +1,78 @@
 # OPINTO-OHJAUS — OP1
 ## Tunti 18 — Monitieteinen ja luova osaaminen
-**Vuosikello**: 1. vuosi, kevät
-**Tyyppi**: Pienryhmä (75 min)
-
----
+**Vuosikello**: 1. vuosi kevät
+**Tyyppi**: Pienryhmätyöskentely
 
 ### Tavoitteet (LOPS 2019)
-- Opiskelija näkee ja ymmärtää yhteyksiä eri oppiaineiden välillä
-- Opiskelija oppii hyödyntämään monitieteistä näkökulmaa urasuunnittelussa ja ainevalinnoissaan
-- Opiskelija syventää monilukutaitoaan ja pohtii eettisiä, esteettisiä ja ekologisia näkökulmia
-- Opiskelija kehittyy itseohjautuvaksi oppijaksi, joka yhdistää eri lähteistä saatua tietoa
-
----
+- Opiskelija tunnistaa yhteyksiä eri oppiaineiden välillä ja osaa hyödyntää tätä ymmärrystä urasuunnittelussa
+- Opiskelija syventää monilukutaitoaan ja kehittää erilaisia tiedonhankinnan ja -esittämisen tapoja
+- Opiskelija kytkee laaja-alaisen osaamisen tavoitteet osaksi omaa oppimistaan ja HOPS:ia
+- Opiskelija pohtii eettisiä, esteettisiä ja ekologisia arvolähtökohtia osana monitieteistä ajattelua
 
 ### Laaja-alainen osaaminen
-- **Monitieteinen ja luova osaaminen** — yhteyksiä eri oppiaineiden välillä, luova ajattelu
-- **Vuorovaikutusosaaminen** — ryhmäkeskustelu, ideoiden jakaminen
-- **Yhteiskunnallinen osaaminen** — urasuunnittelu, tulevaisuuden osaamisen vaatimukset
-
----
+- **Monitieteinen ja luova osaaminen** (pääpaino)
+- Vuorovaikutusosaaminen
 
 ### Tunnin kulku (75 min)
 
-1. **Virittäytyminen** (10 min)  
-   *Aktiviteetti: "Yllätysyhteydet" -peli*
-   - Näytetään kuvia/sanoja eri oppiaineiden sisällöistä (esim. matematiikka + taide, historia + biologia)
-   - Opiskelijat pohtivat pareittain, mitä yhteyksiä he näkevät
-   - Nopeita jakoja luokassa → herätellään mielenkiinto monitieteisyyteen
+1. **Virittäytyminen** (10 min) — *"Oppiaineiden risteyksissä"*
+   - Lyhyt aktiviteetti: Opiskelijat kirjaavat post-it-lapuille 3-5 oppiainetta/kurssia, joita he ovat opiskelleet tai suunnittelevat opiskelevansa
+   - Pareittain: Keskustelkaa, missä arjen tilanteissa tai ammateissa nämä aineet voisivat kohdata?
 
-2. **Työskentely** (50 min)  
-   *Pääaktiviteetti: "Minun osaamisen verkko" -työskentely*
+2. **Työskentely** (50 min) — *Monitieteinen tulevaisuuskartta*
    
-   **Vaihe 1** (15 min): Yksilöllinen pohdinta
-   - Jokainen opiskelija piirtää paperille ympyrän keskelle "Minä opiskelijana"
-   - Ympärille kirjoittaa omat vahvuudet, kiinnostuksen kohteet ja valitsemansa/harkitsemansa aineet
-   - Opinto-ohjaaja ohjaa pohtimaan: Mitä taitoja nämä aineet antavat? Miten ne voivat liittyä toisiinsa?
+   **Vaihe 1: Pienryhmätyö** (25 min, ryhmät 3-4 hlö)
+   - Kukin ryhmä valitsee yhden kiinnostavan alan/ammatin (esim. ilmastonmuutos, terveysteknologia, media, kestävä kehitys)
+   - Ryhmät kartoittavat mind map -tekniikalla:
+     * Mitä eri oppiaineiden osaamista tällä alalla tarvitaan?
+     * Miten eri aineet täydentävät toisiaan?
+     * Mitä luovia ratkaisuja syntyy, kun yhdistetään eri alojen osaamista?
+   - Hyödynnetään digitaalista alustaa (esim. Padlet, Miro) tai fläppipaperia
    
-   **Vaihe 2** (20 min): Pienryhmäkeskustelu (3-4 hlö)
-   - Opiskelijat jakavat omansa ja etsivät yhteyksiä toistensa osaamisen verkoissa
-   - Esim. "Sinulla on kemia ja kirjallisuus — miten ne voivat kohdata?"
-   - Ryhmä ideoi konkreettisia projekteja/urapolkuja, joissa monitieteinen osaaminen on hyödyllistä
-   - Opinto-ohjaaja kiertää, kuuntelee, esittää kysymyksiä, tuo esiin uraesimerkkejä
+   **Vaihe 2: Galleriakävely ja vertaisoppiminen** (15 min)
+   - Ryhmät kiertävät tutustumassa toistensa tuotoksiin
+   - Jokainen opiskelija antaa yhden "yhteyden" -tarran sellaiselle kartalle, jossa näkee erityisen mielenkiintoisen oppiaineiden yhdistelmän
    
-   **Vaihe 3** (15 min): Yhteinen jako ja reflektio
-   - 2-3 ryhmää jakaa löytöjään
-   - Opinto-ohjaaja korostaa: monitieteinen ajattelu on vahvuus, ei heikkous — myös valintakriteereissä
+   **Vaihe 3: Henkilökohtainen reflektio** (10 min)
+   - Opiskelijat palaavat omaan HOPS:iinsa (digitaalinen/paperinen)
+   - Pohtivat: Miten voin omilla ainevalinnoillani rakentaa monitieteistä osaamista? Mitä uusia yhteyksiä huomasin?
 
-3. **Yhteenveto/reflektio** (15 min)  
-   *Päätös: Itsearviointi ja HOPS-linkitys*
-   - Opiskelijat täyttävät lyhyen reflektiokaavakkeen:
-     - Mitä uutta opin monitieteisestä osaamisesta?
-     - Miten voin hyödyntää tätä ainevalintojeni perustelussa?
-     - Mitkä aineet haluaisin yhdistää tulevaisuudessa?
-   - Opinto-ohjaaja muistuttaa: "Koko koulu ohjaa" — aineenopettajat voivat näyttää yhteyksiä tunneilla
-   - Kannustus: Päivitä HOPS-luonnosta näiden pohdintojen pohjalta
-
----
+3. **Yhteenveto ja reflektio** (15 min) — *Laaja-alainen osaaminen käytännössä*
+   - Yhteinen keskustelu: Mitä oivalluksia syntyi? Miten monitieteisyys näkyy työelämässä?
+   - Ohjaaja nostaa esiin: Todistusvalinnan uudistus 2026 — tasapaino pisteiden ja laaja-alaisen osaamisen välillä
+   - Kotitehtävä: Valitse yksi oma ainevalinta ja kirjaa HOPS:iin, miten se tukee monitieteistä osaamistasi
 
 ### Menetelmät
-- Pienryhmäkeskustelu ja vertaisoppiminen
-- Visuaalinen työskentely (verkkopiirros)
-- Itsenäinen pohdinta
-- Opinto-ohjaajan ohjaus ja kysymysten esittäminen
-- Luova ongelmanratkaisu (yhteyksien löytäminen)
-
----
+- Pienryhmätyöskentely ja vertaisoppiminen
+- Mind mapping / käsitekartta
+- Galleriakävely
+- Henkilökohtainen reflektio ja HOPS-työskentely
+- Digitaaliset työkalut (Padlet/Miro) tai perinteiset menetelmät
 
 ### Materiaalit & Lähteet
-- **Työvälineet**: Paperi, värikynät, liimapuikot (verkkopiirroksen tekoon)
-- **Digitaalinen**: Mahdollisesti Padlet tai Miro, jos halutaan tallentaa ideoita
-- **Esimerkkikortit**: Eri oppiaineiden sisältöjä/urapolkuja (esim. "Kemisti + kirjoittaja = tiedelehden toimittaja")
-- **Reflektiokaavake**: Yksinkertainen PDF tai paperinen lomake
-- **Lähteet**:
-  - OPH: Monitieteinen ja luova osaaminen (oph.fi)
-  - LOPS 2019 laaja-alaisen osaamisen kuvaukset
-  - Peda.net-materiaalit monilukutaidosta ja eettisistä näkökulmista
-  - Uraesimerkkejä: Tilastokeskus, ammattinetti.fi, TE-palvelut
-
----
+- Post-it-laput, fläppipaperit ja tussit TAI digitaalinen alusta (Padlet/Miro)
+- Esimerkkejä monitieteisistä ammateista ja aloista (valmiit kortit tai kuvat)
+- HOPS-lomakkeet (digitaaliset/paperiset)
+- Taustamateriaali: [LOPS 2019 Laaja-alaiset osaamisalueet](https://blogs.helsinki.fi/luovaope/files/2021/07/LOPS-2019-Laaja-alaiset.pdf)
+- [OPH: Monitieteinen ja luova osaaminen](https://www.oph.fi/fi/koulutus-ja-tutkinnot/monitieteinen-ja-luova-osaaminen-steam-osaksi-lukion-kuvataidetta)
+- Tietoa todistusvalinnan uudistuksesta: [UTU todistusvalinta 2026](https://www.utu.fi/fi/ajankohtaista/uutinen/todistusvalinta-uudistuu-2026-pisteytysluonnos-nyt-kasittelyssa-yliopistoissa)
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen**: Aktiivinen osallistuminen ryhmäkeskusteluun ja työskentelyn vaiheisiin (S/H)
-- **Itsearviointi**: Reflektiokaavakkeen täyttäminen osoittaa ajattelun syvyyttä
-- **HOPS-päivitys**: Opiskelijat voivat liittää verkkopiirroksen tai reflektiot HOPS-dokumenttiin todisteeksi monitieteisen ajattelun kehittymisestä
-- **Havainnointi**: Opinto-ohjaaja tekee muistiinpanoja opiskelijoiden näkemyksistä ja tuen tarpeista
-
----
+- **Osallistuminen**: Aktiivinen työskentely pienryhmässä ja keskusteluissa
+- **HOPS-päivitys**: Monitieteisen osaamisen pohdinta kirjattu HOPS:iin
+- **Itsearviointi**: Opiskelija arvioi omaa osallistumistaan ja oppimistaan tunnin lopuksi (esim. lyhyt kirjallinen reflektio tai suullinen palaute)
+- Suoritusmerkintä (S) edellyttää läsnäoloa ja aktiivista osallistumista
 
 ### Eriyttäminen
-- **Oppimisen tuki**: Opiskelijat, joilla on vaikeuksia kirjoittamisessa, voivat käyttää puhumista ja piirtämistä pääasiallisina ilmaisun muotoina
-- **Haastava oppiminen**: Kehittyneille opiskelijoille voidaan esittää syvempiä kysymyksiä (esim. "Miten monitieteinen osaaminen auttaa ratkaisemaan globaaleja haasteita?")
-- **Kielellinen tuki**: Opiskelijat, joille suomi ei ole äidinkieli, saavat apua termien ymmärtämiseen; vertaistuella on merkitystä
-- **Erityisjärjestelyt**: Erityisopettaja voi osallistua tunneille tarvittaessa; työvälineitä voidaan mukauttaa (esim. digitaalinen piirto-ohjelma)
-
----
+- **Tuki**: Erityisopettajan konsultointi etukäteen opiskelijoiden, jotka tarvitsevat tukea ryhmätyöskentelyyn
+- **Vaihtoehtoiset ilmaisutavat**: Mind mapin voi toteuttaa myös visuaalisesti, sanallisesti tai digitaalisesti opiskelijan vahvuuksien mukaan
+- **Lisähaaste**: Edistyneemmät opiskelijat voivat pohtia myös eettisiä, esteettisiä ja ekologisia ulottuvuuksia valitsemallaan alalla
+- **Kielellinen tuki**: Keskeiset käsitteet kirjattuna näkyville, mahdollisuus käyttää äidinkieltä pohdinnassa
+- Huomioidaan uudistuva oppimisen tuki (voimaan 1.8.2025) yhdenvertaisten oppimismahdollisuuksien varmistamiseksi
 
 ### Koko koulu ohjaa — yhteistyö
-- **Opinto-ohjaaja** (vetäjä): Ohjaa tuntisuunnittelun, esittää kysymyksiä, linkittää HOPS-työhön
-- **Aineenopettajat**: Voivat jatkaa monitieteisen osaamisen kehittämistä omilla tunneillaan; opinto-ohjaaja voi lähettää heille yhteenvedon opiskelijoiden kiinnostuksista
-- **Ryhmänohjaaja**: Tukee ryhmäytymistä ja hyvinvointia; voi vahvistaa tunneilla käsiteltyjä teemoja
-- **Erityisopettaja**: Osallistuu tarvittaessa; varmistaa, että kaikki voivat osallistua tasavertaisesti
-- **Opiskeluhuolto**: Voi hyödyntää tunneilla saatuja tietoja opiskelijoiden hyvinvoinnin ja motivaation tukemiseen
-- **Koulun johtajisto**: Varmistaa, että monitieteinen näkökulma näkyy koko koulun toiminnassa ja ainevalintojen ohjauksessa
+- **Aineenopettajat**: Kannustetaan nostamaan esiin oppiaineiden välisiä yhteyksiä omilla tunneillaan; mahdollinen jatkokeskustelu opettajainhuoneessa
+- **Ryhmänohjaaja**: Tukee HOPS-työskentelyn jatkumista ja monitieteisen ajattelun vahvistamista
+- **Erityisopettaja**: Konsultaatio ennen tuntia, tarvittaessa tuki tunnilla tai jälkikäteen
+- **Opinto-ohjaaja**: Jatkaa keskustelua yksilöohjauksessa ainevalinnoista ja urasuunnittelusta monitieteisyyden näkökulmasta
+- **Mahdollinen jatko**: Yhteistyö aineenopettajien kanssa monitieteisten projektien suunnittelussa

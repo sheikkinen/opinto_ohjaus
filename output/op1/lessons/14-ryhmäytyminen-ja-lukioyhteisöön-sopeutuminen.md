@@ -1,62 +1,72 @@
 # OPINTO-OHJAUS — OP1
 ## Tunti 14 — Ryhmäytyminen ja lukioyhteisöön sopeutuminen
 **Vuosikello**: 1. vuosi kevät
-**Tyyppi**: Vierailu
+**Tyyppi**: vierailu
 
 ### Tavoitteet (LOPS 2019)
-- Tukea opiskelijan kiinnittymistä lukioyhteisöön ja sopeutumista uuteen opiskeluympäristöön
-- Vahvistaa itsetuntemusta ja tunnistaa omia vahvuuksia sekä kiinnostuksen kohteita
-- Kehittää vuorovaikutus- ja sosiaalisia taitoja vertaisryhmässä
-- Tutustua lukion käytänteisiin, opiskelutaitoihin ja tukipalveluihin
+- Vahvistaa opiskelijan kiinnittymistä lukioyhteisöön ja kokemusta yhteisöön kuulumisesta
+- Tukea sosiaalisten suhteiden muodostumista ja vertaissuhteiden kehittymistä
+- Edistää opiskelijan hyvinvointia ja jaksamista lukio-opintojen aikana
+- Kehittää vuorovaikutus- ja yhteistyötaitoja erilaisissa tilanteissa
 
 ### Laaja-alainen osaaminen
-- **Hyvinvointiosaaminen**: Itsetuntemus, voimavarojen tunnistaminen, jaksaminen ja stressinhallinta
-- **Vuorovaikutusosaaminen**: Yhteisöllinen toiminta, vertaissuhteet ja kommunikaatiotaidot
+- Hyvinvointiosaaminen (itsetuntemus, voimavarojen tunnistaminen, jaksaminen)
+- Vuorovaikutusosaaminen (sosiaalisten taitojen kehittäminen, vertaistuki)
 
 ### Tunnin kulku (75 min)
-1. **Virittäytyminen** (10 min) — Tervetuloa-puhe ja tunnin tavoitteiden esittely. Opinto-ohjaaja tai ryhmänohjaaja esittelee vierailun tarkoituksen ja osallistujat (esim. tuutorit, opiskeluhuollon edustajat, opiskelijapalvelut).
 
-2. **Työskentely** (50 min) — 
-   - **Vierailun pääosat** (esim. 3–4 pienryhmäkierros à 10–12 min):
-     - *Tutustumiskierros lukion tiloihin* (kirjasto, opiskelijapalvelut, ruokalat, harrastustilat)
-     - *Vertaisohjaajien (tuutorien) esittely ja ryhmäytymisleikki* — interaktiivinen toiminta, jossa tutustutaan toisiinsa
-     - *Opiskeluhuollon esittely* — psykologi, kuraattori, terveydenhoitaja kertovat tukipalveluista
-     - *Lukion käytänteistä ja opiskelutaidoista* — opinto-ohjaaja tai aineenopettaja käsittelee aikatauluja, arviointia, digitaalisia välineitä
+1. **Virittäytyminen** (10 min) — Kokoontuminen ja vierailijan esittely
+   - Opinto-ohjaaja toivottaa tervetulleeksi vanhemman vuosikurssin tuutorit (3–4 opiskelijaa)
+   - Tuutorit esittäytyvät lyhyesti: nimi, vuosikurssi, oma lukiopolku
 
-3. **Yhteenveto/reflektio** (15 min) — 
-   - Palaute ja kysymykset (avoin keskustelu)
-   - Itsearviointi: "Mitä opin tänään? Mihin minulla on kysymyksiä?" (kirjallinen tai suullinen)
-   - Seuraavien askelten esittely (HOPS-prosessi, ryhmänohjaajan rooli, tukipalveluihin hakeutuminen)
+2. **Työskentely** (50 min) — Tuutoreiden ohjaamat ryhmäytymisaktiviteetit
+   - **Pienryhmäkeskustelut** (20 min): Ryhmä jaetaan 3–4 pienryhmään, jokaisessa oma tuutori
+     - Aiheita: lukion arki, opiskelutaidot, vapaa-aika, harrastukset, jaksaminen
+     - Tuutorit jakavat omia kokemuksiaan ja vastaavat kysymyksiin
+   - **Yhteinen ryhmäytymisleikki/-harjoitus** (15 min): Tuutorit ohjaavat
+     - Esim. "Ihmisten bingo", "Yhteinen nimittäjä" tai muu toiminnallinen harjoitus
+   - **Vertaistuen merkitys** (15 min): Keskustelu koko ryhmän kanssa
+     - Tuutorit kertovat vertaistuen merkityksestä omassa lukioajassaan
+     - Keskustelu: Miten voi pyytää ja tarjota apua? Keneltä saa tukea?
+
+3. **Yhteenveto/reflektio** (15 min) — Oivallukset ja kiitos
+   - Opiskelijat jakavat yhden oivalluksen tai ajatuksen tunnista (esim. "ympyräkierros")
+   - Tuutorit kertovat, miten heihin voi olla yhteydessä jatkossa
+   - Opinto-ohjaaja kokoaa yhteen: lukio on yhteisö, jossa jokainen on tärkeä
+   - Muistutus: Apua on aina saatavilla (opinto-ohjaaja, ryhmänohjaaja, opiskeluhuolto)
 
 ### Menetelmät
-- Vierailu ja tutustumiskierros
-- Vertaisohjaus ja tuutorointi
-- Ryhmäytymisleikki ja interaktiivinen toiminta
-- Avoin keskustelu ja kysymysten käsittely
-- Itsearviointi
+- Vierailija (tuutorit)
+- Pienryhmäkeskustelut
+- Vertaisohjaus
+- Toiminnalliset ryhmäytymisharjoitukset
+- Reflektoiva keskustelu
 
 ### Materiaalit & Lähteet
-- Lukion opiskelijapalvelut (esitteet, infot)
-- Opinto-ohjaajan materiaali (HOPS-pohja, opiskelutaidot)
-- Tuutorien esittelymateriaali
-- Opetushallitus: *Ryhmätilanteet ja ryhmäytyminen tunnetyöskentelynä* (https://www.oph.fi/fi/opettajat-ja-kasvattajat/ryhmatilanteet-ja-ryhmaytyminen-tunnetyoskentelyna)
-- Lukion sisäinen info (aikataulut, käytännöt, digitaaliset välineet)
+- Tuutoreille etukäteen jaettu ohjeistus ja keskusteluteemat
+- Ryhmäytymisharjoituksen välineet (tarvittaessa)
+- Yhteystiedot: tuutorit, opinto-ohjaaja, opiskeluhuolto
+- **Lähteet:**
+  - Opetushallitus: [Ryhmätilanteet ja ryhmäytyminen tunnetyöskentelynä](https://www.oph.fi/fi/opettajat-ja-kasvattajat/ryhmatilanteet-ja-ryhmaytyminen-tunnetyoskentelyna)
+  - LOPS 2019: Opinto-ohjauksen tavoitteet
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen**: Aktiivinen osallistuminen vierailun aktivititeetteihin ja keskusteluun
-- **Itsearviointi**: Opiskelijan reflektio oppimisesta ja heränneet kysymykset
-- **Havainnointi**: Ryhmänohjaajan ja opinto-ohjaajan havainnot ryhmäytymisestä ja sopeutumisesta
-- **Seuranta**: Jatkoyhteydenpito ja HOPS-prosessin aloittaminen
+- **Osallistuminen**: Aktiivinen läsnäolo ja osallistuminen keskusteluihin ja harjoituksiin
+- **Itsearviointi**: Opiskelija pohtii omaa kokemustaan yhteisöön kuulumisesta
+- **HOPS-päivitys**: Kirjataan mahdollisia ajatuksia vertaistuesta ja tuen tarpeesta
 
 ### Eriyttäminen
-- **Oppimisen tuki**: Opiskelijat, joilla on sopeutumisen haasteita, saavat erityistä huomiota ryhmänohjaajalta ja opiskeluhuollolta
-- **Erityisjärjestelyt**: Liikkumisen tai kommunikaation vaikeuksista johtuvat muutokset kierrokseen (esim. lyhyemmät etäisyydet, viittomakielentulkki)
-- **Pienryhmät**: Kierrokset pienryhmissä mahdollistavat yksilöllisen huomion ja turvallisen ilmapiirin
+- Pienryhmät mahdollistavat erilaisten osallistumistapojen (hiljaisemmat/aktiivisemmat)
+- Tuutorit ohjeistettu huomioimaan kaikki ryhmäläiset
+- Mahdollisuus osallistua omalla tavallaan (kuuntelu, aktiivinen keskustelu)
+- Tarvittaessa opiskelija voi keskustella opinto-ohjaajan kanssa kahden kesken tunnin jälkeen
 
 ### Koko koulu ohjaa — yhteistyö
-- **Ryhmänohjaaja**: Lähiohjaus ja ryhmän sopeutumisen seuranta
-- **Opinto-ohjaaja**: Vierailun koordinointi ja HOPS-prosessin aloittaminen
-- **Tuutorit** (vertaisopiskelijat): Ryhmäytymisen edistäminen ja vertaistuki
-- **Opiskeluhuolto**: Psykologi, kuraattori, terveydenhoitaja — tukipalveluiden esittely
-- **Aineenopettajat**: Osallistuminen tarvittaessa opiskelutaitojen esittelyyn
-- **Opiskelijapalvelut**: Käytännön asioiden esittely (ruokailu, kirjasto, harrastukset)
+- **Tuutorit** (vanhemmat opiskelijat): Vertaisohjaus ja kokemusten jakaminen
+- **Ryhmänohjaaja**: Jatkaa ryhmäytymistyötä omissa ryhmänohjaustuokioissaan
+- **Opiskeluhuolto**: Tukena jaksamisen ja hyvinvoinnin kysymyksissä
+- **Opinto-ohjaaja**: Koordinoi tuutoritoimintaa ja tarjoaa jatkotukea tarvittaessa
+
+---
+
+**Huom!** Tuutorit valmistellaan tehtäväänsä etukäteen erillisessä tapaamisessa, jossa käydään läpi tunnin tavoitteet, menetelmät ja ryhmänohjauksen periaatteet.

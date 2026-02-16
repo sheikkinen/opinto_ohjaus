@@ -1,53 +1,62 @@
 # OPINTO-OHJAUS — OP1
 ## Tunti 10 — Vuorovaikutustaidot
-**Vuosikello**: 1. vuosi, kevät
-**Tyyppi**: Verkko-oppitunti
+**Vuosikello**: 1. vuosi kevät
+**Tyyppi**: verkko-oppitunti
 
 ### Tavoitteet (LOPS 2019)
-- Kehittää omien ajatusten, tunteiden ja kokemusten kielentämisen taitoja
-- Vahvistaa kykyä toimia vastuullisesti ja eettisesti eri vuorovaikutustilanteissa
-- Tunnistaa vuorovaikutustaitojen merkitys opiskelun ja tulevaisuuden kannalta
-- Harjoitella aktiivisen kuuntelun ja palautteen antamisen taitoja
+- Opiskelija kehittää kykyään kielentää omia ajatuksiaan, tunteitaan ja kokemuksiaan
+- Opiskelija ymmärtää vuorovaikutustaitojen merkityksen opiskelussa, hyvinvoinnissa ja tulevaisuudessa
+- Opiskelija harjoittelee rakentavaa vuorovaikutusta erilaisissa tilanteissa
 
 ### Laaja-alainen osaaminen
-- **Vuorovaikutusosaaminen** — Ilmaisu, kuuntelu, yhteistyö
-- **Hyvinvointiosaaminen** — Sosiaaliset suhteet, osallisuus, jaksaminen
+- **Vuorovaikutusosaaminen** (pääpaino)
+- Hyvinvointiosaaminen
 
 ### Tunnin kulku (75 min)
-1. **Virittäytyminen** (10 min) — Verkkoympäristöön kirjautuminen ja avoin kysymys: "Mikä on sinulle hyvä vuorovaikutus?" (Padlet tai chat)
+
+1. **Virittäytyminen** (10 min) — Aloituskysely Padletissa: "Mikä vuorovaikutustilanteissa on sinulle helppoa/haastavaa?" Opiskelijat jakavat ajatuksiaan anonyymisti tai nimellä.
+
 2. **Työskentely** (50 min)
-   - Lyhyt opetusvideointi vuorovaikutustaitojen merkityksestä (10 min)
-   - Pienryhmätyö breakout-huoneissa: Vuorovaikutustilanteiden analyysi ja roolipelit (20 min)
-   - Itsenäinen pohdinta: Oman vuorovaikutustyylin tunnistaminen (työkirja/lomake) (10 min)
-   - Palaute vertaisille: Aktiivisen kuuntelun harjoittelu (10 min)
-3. **Yhteenveto/reflektio** (15 min) — Yhteinen pohdinta: "Mitä opin tänään?" + HOPS-päivitys (tavoitteet ja kehittämisalueet)
+   - **Osuus 1** (15 min): Lyhyt videomateriaali vuorovaikutustaitojen merkityksestä + itsenäinen pohdinta: "Millaisissa tilanteissa tarvitsen vuorovaikutustaitoja lukiossa ja vapaa-ajalla?"
+   - **Osuus 2** (20 min): Pienryhmätyö (breakout rooms 3-4 hlö): Käytännön skenaarioiden käsittely (esim. erimielisyys ryhmätyössä, avun pyytäminen opettajalta, uusiin ihmisiin tutustuminen). Ryhmät pohtivat: Mitä taitoja tarvitaan? Miten toimisit?
+   - **Osuus 3** (15 min): Ryhmien jakavat oivalluksensa yhteisessä tilassa. Ohjaaja kokoaa yhteen keskeisiä vuorovaikutustaitoja (kuuntelu, empatia, selkeä ilmaisu, rakentava palaute).
+
+3. **Yhteenveto/reflektio** (15 min) — Henkilökohtainen reflektio Flinga-taululle tai HOPS-alustalle: "Yksi vuorovaikutustaito, jota haluan kehittää keväällä" + konkreettinen toimenpide. Vapaaehtoinen jakaminen.
 
 ### Menetelmät
-- Pienryhmätyö (breakout-huoneet)
-- Roolipelit ja tilanteiden analyysi
-- Itsenäinen pohdinta ja itsearviointi
-- Vertaispalautteen antaminen
-- Interaktiivinen chat/Padlet-keskustelu
+- Digitaalinen yhteistyö (Padlet/Flinga)
+- Pienryhmäkeskustelu (breakout rooms)
+- Itsenäinen pohdinta ja reflektio
+- Skenaariotyöskentely
+- Vertaisoppiminen
 
 ### Materiaalit & Lähteet
-- Opetusvideointi: "Vuorovaikutustaidot lukiossa" (OPH/koulun sisäinen)
-- Työkirja/pohdintakaavake (PDF, jaettu Moodlessa)
-- Breakout-huoneiden roolipeliskenaariot (3-4 erilaista tilannetta)
-- Padlet tai Teams-chat virittäytymiseen
-- Lähde: https://www.oph.fi/fi/koulutus-ja-tutkinnot/vuorovaikutusosaaminen-lops2021-perusteet
+- Padlet tai Flinga aloituskyselyyn ja reflektioon
+- Videomateriaali vuorovaikutustaidoista (esim. OPH:n materiaalit tai TED-Ed)
+- Skenaariokortit (jaettu etukäteen tai chatissa)
+- HOPS-alusta reflektioiden tallentamiseen
+- Taustamateriaali: https://www.oph.fi/fi/koulutus-ja-tutkinnot/vuorovaikutusosaaminen-lops2021-perusteet
+- Lisälukemista: https://peda.net/kauhava/lukiokoulutus/kauhavanlukio/lops2019/loo/v
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen** — Aktiivinen osallistuminen pienryhmätyöhön ja keskusteluun
-- **Itsearviointi** — Pohdintakaavakkeen täyttäminen omista vuorovaikutustaidoista
-- **HOPS-päivitys** — Vuorovaikutustaitojen kehittämisen tavoitteiden kirjaaminen henkilökohtaiseen opintosuunnitelmaan
+- **Osallistuminen**: Aktiivinen läsnäolo verkko-oppitunnilla ja pienryhmätyöskentelyssä
+- **Itsearviointi**: Henkilökohtainen reflektio omista vuorovaikutustaidoista
+- **HOPS-päivitys**: Kehittämistavoitteen kirjaaminen
+- Suoritusmerkintä (S) edellyttää osallistumista ja reflektoinnin palauttamista
 
 ### Eriyttäminen
-- **Oppimisen tuki**: Opiskelijat, joilla on vaikeuksia ilmaisussa, saavat etukäteen roolipeliskenaariota ja valmistautumisaikaa
-- **Erityisjärjestelyt**: Mahdollisuus osallistua yksilöllisesti tai pienemmässä ryhmässä; chat-pohjainen osallistuminen niille, joille puhuminen on haastavaa
-- **Syventävä haaste**: Opiskelijoille, jotka hallitsevat perustaidot, tehtävä: "Analysoi ja kehitä vuorovaikutustaitoja eri kulttuurisissa konteksteissa"
+- **Tekninen tuki**: Vaihtoehtoinen osallistumistapa (esim. chat-pohjainen) kamera-ahdistuksesta kärsiville
+- **Kielellinen tuki**: Skenaariokortit saatavilla etukäteen, mahdollisuus käyttää äidinkieltä reflektoinnissa
+- **Sosiaaliset haasteet**: Mahdollisuus työskennellä tutussa parissa tai itsenäisesti, jos ryhmätyö tuntuu ahdistavalta
+- **Syventävä tehtävä**: Kiinnostuneille tarjotaan lisämateriaalia (esim. podcast vuorovaikutustaidoista työelämässä)
 
 ### Koko koulu ohjaa — yhteistyö
-- **Ryhmänohjaaja** — Osallistuu tunneille, tukee opiskelijoita breakout-huoneissa
-- **Aineenopettajat** — Saavat tiedon opiskelijoiden vuorovaikutustaitojen kehittämistarpeista
-- **Erityisopettaja** — Konsultaatio opiskelijoille, joilla on erityisiä tarpeita
-- **Opiskeluhuolto** — Tarvittaessa jatkotuella varustetut opiskelijat
+- **Opinto-ohjaaja**: Tunnin suunnittelu ja toteutus
+- **Ryhmänohjaaja**: Tukee vuorovaikutustaitojen harjoittelua arjessa, voi hyödyntää samoja skenaarioita
+- **Aineenopettajat**: Ryhmätöiden ohjaus, rakentavan palautteen mallit
+- **Opiskeluhuolto**: Tuki opiskelijoille, joilla merkittäviä haasteita vuorovaikutuksessa
+- **Vertaisohjaajat**: Voivat toimia pienryhmien tukena tai jakaa omia kokemuksiaan
+
+---
+
+**Huom!** Muistuta opiskelijoita, että vuorovaikutustaidot kehittyvät harjoittelemalla. Kannusta heitä hyödyntämään tunnilla opittuja taitoja arjessa ja hakemaan tukea tarvittaessa.

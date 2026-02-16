@@ -1,70 +1,74 @@
 # OPINTO-OHJAUS — OP1
 ## Tunti 24 — Opiskelijan oikeus henkilökohtaiseen ohjaukseen
 **Vuosikello**: 1. vuosi kevät
-**Tyyppi**: Vierailu (opinto-ohjaus + opiskeluhuolto)
+**Tyyppi**: Vierailu
 
 ### Tavoitteet (LOPS 2019)
-- Ymmärtää opiskelijan lakisääteinen oikeus henkilökohtaiseen ohjaukseen koko lukio-opintojen ajan (Lukiolaki 714/2018)
-- Tuntea ohjauspalveluiden sisältö ja saatavilla olevat tukimuodot (oppimisen tuki, erityisopetus, opiskeluhuolto)
-- Osata hakea apua ja ohjausta omiin tarpeisiin soveltuvasti
-- Vahvistaa luottamusta omiin mahdollisuuksiin ja itsetuntemusta
+- Opiskelija ymmärtää lakisääteisen oikeutensa henkilökohtaiseen ohjaukseen koko lukio-opintojen ajan (Lukiolaki 714/2018, 25 §)
+- Opiskelija tunnistaa ohjauksen eri muodot ja tukipalvelut, jotka ovat hänen käytettävissään
+- Opiskelija oppii, miten ja milloin hakea apua sekä ymmärtää jälkiohjausvelvoitteen merkityksen
+- Opiskelija tutustuu oppimisen tuen ja erityisopetuksen mahdollisuuksiin (voimaan 1.8.2025)
 
 ### Laaja-alainen osaaminen
-- **Hyvinvointiosaaminen** — itsetuntemus, voimavarojen tunnistaminen, elämänhallinta
-- **Vuorovaikutusosaaminen** — luottamuksellinen keskustelu, avun hakeminen
-- **Yhteiskunnallinen osaaminen** — oikeuksien ja velvollisuuksien ymmärtäminen
+- Hyvinvointiosaaminen (itsetuntemus, voimavarat, oikeus tukeen)
+- Vuorovaikutusosaaminen (avun hakeminen, luottamuksellinen keskustelu)
 
 ### Tunnin kulku (75 min)
 
-1. **Virittäytyminen** (8 min) — Opinto-ohjaaja esittelee tunnin aiheet ja vierailijoita. Opiskelijat pohtivat pareittain: *Mitä ohjaus on minulle tähän mennessä merkinnyt?* Muutama pari jakaa ajatuksensa.
+1. **Virittäytyminen** (10 min) — Mielikuvaharjoitus: "Mitä ohjaus on sinulle?"
+   - Opiskelijat kirjoittavat post-it-lapuille sanoja tai lauseita siitä, mitä ohjaus heille merkitsee
+   - Laput kerätään taululle ja muodostetaan yhteinen käsitekartta
 
-2. **Työskentely** (50 min)
-   - **Osuus 1** (20 min): Opinto-ohjaaja kertoo opiskelijan lakisääteisestä oikeudesta ohjaukseen, henkilökohtaisen opiskelusuunnitelman (HOPS) merkityksestä ja ohjauspalveluiden rakenteesta lukiossa.
-   - **Osuus 2** (15 min): Vierailijoiden esittelyt (2–3 min kukin):
-     * **Erityisopettaja** — oppimisen tuki ja erityisopetus (uudet säännökset 1.8.2025)
-     * **Kuraattori tai psykologi** — opiskeluhuollon palvelut ja hyvinvointituki
-     * **Ryhmänohjaaja** (tai opinto-ohjaaja) — moniammatillinen yhteistyö
-   - **Osuus 3** (15 min): Interaktiivinen Q&A — opiskelijat esittävät kysymyksiä vierailijoille. Vierailijoiden yhteystiedot ja aukioloajat jaetaan.
+2. **Vierailijan esittely ja alustus** (20 min) — Opiskeluhuollon moniammatillinen tiimi vieraana
+   - Vierailijat: opinto-ohjaaja, kuraattori/psykologi, erityisopettaja
+   - Lyhyt esittely: kuka on kuka ja mitä kukin tekee
+   - Alustus: Opiskelijan lakisääteinen oikeus ohjaukseen (Lukiolaki 25 §)
+   - Ohjauksen eri muodot: henkilökohtainen ohjaus, ryhmäohjaus, oppimisen tuki, erityisopetus
 
-3. **Yhteenveto & reflektio** (17 min)
-   - Opinto-ohjaaja kokoaa keskeiset viestit: oikeus, velvollisuus, saatavilla olevat palvelut.
-   - Opiskelijat täyttävät lyhyen reflektiomonisteen: *Mihin ohjaukseen tai tukeen haluan tulevaisuudessa turvautua? Kenen puoleen käännyn?*
-   - Vapaaehtoinen jakaminen. Muistutus: ohjaus on jatkuva prosessi, ei kertaluonteinen tapahtuma.
+3. **Vuorovaikutteinen työskentely** (30 min) — Kiertotyöskentely pienryhmissä
+   - Opiskelijat jaetaan 3-4 pienryhmään, jotka kiertävät vierailijoiden "pisteillä"
+   - Jokaisella pisteellä 10 min keskustelua + kysymyksiä:
+     * **Piste 1 (opinto-ohjaaja)**: HOPS, jatko-ohjaus, jälkiohjausvelvoite
+     * **Piste 2 (kuraattori/psykologi)**: Elämänhallinta, kriisitilanteet, luottamuksellisuus
+     * **Piste 3 (erityisopettaja)**: Oppimisen tuki, erityisopetus, opiskelumenetelmät
+
+4. **Yhteenveto ja reflektio** (15 min) — Ohjauksen polku ja toimintaohjeet
+   - Vierailijat vastaavat yhteisiin kysymyksiin
+   - Jaetaan materiaali: "Keneen otan yhteyttä ja milloin?" (yhteystiedot, ajanvaraus)
+   - Loppureflektio: Yksi asia, jonka opin tänään ja jonka haluan muistaa
 
 ### Menetelmät
-- Vierailu (moniammatillinen panel)
-- Luento ja vuorovaikutteinen keskustelu
-- Paripohdinta
-- Kysymys–vastaus-sessio
-- Itsearviointi ja reflektio
+- Vierailijaluento ja vuorovaikutteinen keskustelu
+- Kiertotyöskentely pienryhmissä (learning café -tyylinen)
+- Yhteistoiminnallinen käsitekartan rakentaminen
+- Henkilökohtainen reflektio
 
 ### Materiaalit & Lähteet
-- **Moniste**: Ohjauspalvelut lukiossa — yhteystiedot, aukioloajat, palveluiden kuvaukset
-- **Diapresentaatio**: Lukiolain 25 § ja opiskelijan oikeudet (yksinkertainen infograafi)
-- **Reflektiomoniste**: "Minun ohjauspolkuni" (A5-koko, jaetaan tunnin lopussa)
-- **Lähteet**:
-  - Lukiolaki (714/2018), 25 § — https://www.finlex.fi/fi/lainsaadanto/2018/714
-  - Opetushallitus: Oppimisen tuki ja erityisopetus lukiossa — https://www.oph.fi/fi/koulutus-ja-tutkinnot/oppimisen-tuki-ja-erityisopetus-lukiossa
-  - Koulun ohjauspalveluiden esitteet ja HOPS-pohja
+- **Vierailijat**: Opiskeluhuollon moniammatillinen tiimi (opinto-ohjaaja, kuraattori/psykologi, erityisopettaja)
+- **Jaettava materiaali**: "Ohjaus ja tuki lukiossa" -esite (yhteystiedot, ajanvarausohjeet)
+- Post-it-laput, fläppitaulu
+- **Linkit opiskelijoille**:
+  - Lukiolaki: https://www.finlex.fi/fi/lainsaadanto/2018/714
+  - OPH:n sivut oppimisen tuesta: https://www.oph.fi/fi/koulutus-ja-tutkinnot/oppimisen-tuki-ja-erityisopetus-lukiossa
+- **Opettajan taustamateriaalit**: Lukiolaki 714/2018, 25 §; LOPS 2019 opinto-ohjauksen tavoitteet
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen** — aktiivinen läsnäolo, osallistuminen keskusteluun ja Q&A-sessioon
-- **Reflektiomoniste** — täytetty ja palautettu tunnin lopussa (osoittaa ymmärryksen ja itsetuntemusta)
-- **HOPS-päivitys** — opinto-ohjaaja merkitsee tunnin suorittamisen HOPS-dokumenttiin ja muistuttaa seuraavista ohjaustapaamisista
+- **Osallistuminen**: Aktiivinen läsnäolo ja osallistuminen kiertotyöskentelyyn
+- **Reflektio**: Loppureflektio kirjallisena (voi olla osa HOPS-päivitystä)
+- **HOPS-päivitys**: Opiskelija päivittää HOPS:iin yhteystiedot ja muistiinpanot ohjauspalveluista
 
 ### Eriyttäminen
-- **Oppimisen tuki**: Opiskelijat, joilla on vaikeuksia lukemisessa tai keskittymisessä, saavat monisteen etukäteen tai digitaalisessa muodossa
-- **Erityisjärjestelyt**: Tulkkipalvelut tai muut tarvittavat apuvälineet järjestetään etukäteen
-- **Syventävä polku**: Kiinnostuneet opiskelijat voivat varata yksilöllisen ohjausajan opinto-ohjaajalle tai vierailijoille
-- **Kielellinen tuki**: Moniste saatavilla selkokielellä tai muilla kielillä tarvittaessa
+- **Kielellinen tuki**: Vierailijat käyttävät selkokieltä ja konkreettisia esimerkkejä
+- **Vuorovaikutuksen tuki**: Pienryhmätyöskentely mahdollistaa erilaisten osallistumistapojen (kysymykset, kuuntelu)
+- **Erityisjärjestelyt**: Mahdollisuus esittää kysymyksiä etukäteen kirjallisesti tai tunnin jälkeen henkilökohtaisesti
+- **Monikulttuurisuus**: Huomioidaan erilaiset kulttuuriset käsitykset avun hakemisesta
 
 ### Koko koulu ohjaa — yhteistyö
-- **Opinto-ohjaaja** — tunnin vetäjä, lainsäädännön selittäjä
-- **Erityisopettaja** — oppimisen tuen ja erityisopetuksen esittely
-- **Kuraattori/psykologi** — opiskeluhuollon palvelut ja hyvinvointituki
-- **Ryhmänohjaaja** — moniammatillisen yhteistyön kuvaus
-- **Rehtori/opinto-johtaja** — voi osallistua johdanto-osuuteen, vahvistaa koulun sitoutumisen ohjaukseen
+- **Opiskeluhuollon moniammatillinen tiimi**: Vierailijat ja jatkuva yhteistyö
+- **Ryhmänohjaaja**: Tiedottaa tunnista ja kannustaa opiskelijoita osallistumaan
+- **Aineenopettajat**: Tukevat opiskelijan ohjautumista tukipalveluihin tarvittaessa
+- **Rehtorin tuki**: Resurssien varmistaminen ohjauspalveluille
 
 ---
 
-**Huomio**: Tunti on suunniteltu ensimmäisen vuoden opiskelijoille, jotka ovat vasta tutustumassa lukion ohjauspalveluihin. Vierailijoiden osallistuminen tekee tunnista konkreettisen ja luottamusta herättävän. Reflektiomoniste toimii myös välineenä opinto-ohjaajalle seuraavien yksilöllisten ohjausten suunnittelussa.
+**Huom!** Vierailijoiden saatavuus varmistetaan hyvissä ajoin. Mikäli kaikkia vierailijoita ei ole saatavilla, voidaan toteuttaa hybridinä (osa paikan päällä, osa videoyhteyden kautta) tai vaihtoehtoisesti paneelikeskusteluna, jossa 1-2 vierailijaa vastaa kysymyksiin yhdessä opinto-ohjaajan kanssa.

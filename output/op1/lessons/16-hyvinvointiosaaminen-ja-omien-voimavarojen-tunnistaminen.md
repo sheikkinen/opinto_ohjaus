@@ -1,92 +1,83 @@
 # OPINTO-OHJAUS — OP1
 ## Tunti 16 — Hyvinvointiosaaminen ja omien voimavarojen tunnistaminen
-**Vuosikello**: 1. vuosi, kevät
+**Vuosikello**: 1. vuosi kevät
 **Tyyppi**: Luokkaopetus
 
----
-
 ### Tavoitteet (LOPS 2019)
-- Opiskelija tunnistaa omat vahvuutensa, kiinnostuksensa ja voimavaransa
+- Opiskelija tunnistaa omat voimavaransa ja vahvuutensa sekä oppii kielentämään niitä
 - Opiskelija vahvistaa uskoa omiin mahdollisuuksiinsa ja kykyyn selviytyä muutostilanteista
-- Opiskelija kehittää stressinhallinta- ja ajanhallintotaitoja realistisen opiskelusuunnitelman pohjaksi
-- Opiskelija harjaantuu itsetuntemukseen ja omien arvojen sekä tavoitteiden pohtimiseen
-
----
+- Opiskelija ymmärtää hyvinvoinnin ja jaksamisen merkityksen opiskelun onnistumiselle
+- Opiskelija tietää, mistä hakea apua ja tukea tarvittaessa
 
 ### Laaja-alainen osaaminen
-- **Hyvinvointiosaaminen**: Omien voimavarojen tunnistaminen, uskon vahvistaminen omiin mahdollisuuksiin, muutostilanteista selviytyminen
-- **Vuorovaikutusosaaminen**: Elämänhallinnan taidot, vastuullinen itsearviointi ja oman kehityksen pohdinta
-
----
+- **Hyvinvointiosaaminen**: omien voimavarojen tunnistaminen, usko omiin mahdollisuuksiin, selviytyminen muutostilanteista
+- **Vuorovaikutusosaaminen**: elämänhallinnan taidot, vastuullinen toiminta
 
 ### Tunnin kulku (75 min)
 
-1. **Virittäytyminen** (10 min) — *"Minä tänään"*
-   - Opiskelijat kirjoittavat kolme sanaa, jotka kuvaavat heidän tuntemuksiaan tänään (anonyyminä)
-   - Sanat kerätään ja luetaan ääneen → keskustelu: Mitä tuntemuksia lukioon liittyy?
-   - Tavoite: Turvallisen ilmapiirin luominen, omien tunteiden tunnistaminen
+1. **Virittäytyminen** (10 min) — *Voimavarapuu-visualisointi*
+   - Ohjaaja näyttää kuvan puusta ja kysyy: "Mitä puu tarvitsee kasvaakseen vahvaksi?" (juuret, vesi, valo, ravinteet)
+   - Yhteys ihmisen voimavaroihin: "Mitä sinä tarvitset voidaksesi ja jaksaaksesi hyvin?"
+   - Lyhyt keskustelu pareittain
 
-2. **Työskentely** (50 min)
-   - **Osuus A: Voimavarojen kartoitus** (20 min)
-     - Opiskelijat täyttävät "Voimavarakartta" -työkalua itsenäisesti: vahvuudet, kiinnostukset, taidot, tukiverkko
-     - Pienryhmät (3–4 hlö) jakavat valitsemansa voimavaran ja perustelevat sen merkitystä
+2. **Työskentely** (50 min) — *Oma voimavarakartta*
    
-   - **Osuus B: Stressinhallinta ja jaksaminen** (15 min)
-     - Opinto-ohjaaja esittelee stressisykliä ja jaksamisen merkitystä lukio-opinnoissa
-     - Interaktiivinen keskustelu: Mitä aiheuttaa stressiä? Mitkä keinot auttavat?
-     - Käytännön vinkkejä: ajanhallinta, rentoutuminen, avun hakeminen
+   **Osa A: Voimavarojen tunnistaminen** (25 min)
+   - Itsenäinen työskentely: Opiskelija täyttää voimavarakartan (moniste tai digitaalinen pohja)
+     * Fyysiset voimavarat (uni, liikunta, ravinto, terveys)
+     * Psyykkiset voimavarat (vahvuudet, kiinnostuksen kohteet, onnistumiset)
+     * Sosiaaliset voimavarat (ystävät, perhe, harrastukset, yhteisöt)
+     * Henkiset voimavarat (arvot, merkitykset, toivo)
+   - Ohjaaja kiertää ja tukee yksilöllisesti
    
-   - **Osuus C: Henkilökohtainen pohdinta** (15 min)
-     - Opiskelijat kirjoittavat reflektiokorttiin: "Minun voimavarani ovat..." ja "Haluan kehittyä..."
-     - Vapaaehtoinen jakaminen pareittain
-     - Tavoite: Itsetuntemuksen syventäminen ja omien tavoitteiden selkiyttäminen
+   **Osa B: Jaksamisen haasteet ja tuen lähteet** (15 min)
+   - Pienryhmäkeskustelu (3-4 hlöä): "Mikä vie voimia lukio-opinnoissa?"
+   - Yhteinen listaus taululle: tyypillisiä kuormitustekijöitä (stressi, aikapaine, todistusvalinnan paine, univaje...)
+   - Ohjaaja esittelee koulun tukiverkostoa: ryhmänohjaaja, opinto-ohjaaja, opiskeluhuolto (kuraattori, psykologi, terveydenhoitaja), erityisopettaja
+   - Painotus: Avun hakeminen on vahvuus, ei heikkous!
+   
+   **Osa C: Henkilökohtainen hyvinvointisuunnitelma** (10 min)
+   - Opiskelija kirjaa itselleen 2-3 konkreettista toimenpidettä hyvinvoinnin ylläpitämiseksi kevään aikana
+   - Esim. "Nukun vähintään 7h/yö arkisin", "Liikun 3x viikossa", "Puhun jollekin, jos huoli painaa"
 
-3. **Yhteenveto ja reflektio** (15 min)
-   - Opinto-ohjaaja kokoaa keskeiset viestit: voimavarat ovat olemassa, niitä voi vahvistaa, apua saa
-   - Opiskelijat antavat palautteen: Mikä oli hyödyllistä? Mitä haluaisit vielä tietää?
-   - Yhteys HOPSiin: "Nämä voimavarat ja tavoitteet kirjataan henkilökohtaiseen opiskelusuunnitelmaanne"
-   - Avoin kutsu: "Tule puhumaan minulle yksilöohjaukseen, jos haluat syventää pohdintaa"
-
----
+3. **Yhteenveto ja reflektio** (15 min) — *Voimavarapuu-metafora palaa*
+   - Vapaaehtoiset jakavat yhden voimavaran tai oivalluksen
+   - Ohjaaja kokoaa: "Voimavarat ovat kuin puun juuret – niitä pitää hoitaa, jotta puu kestää myrskyt"
+   - Muistutus: HOPS-keskusteluissa voidaan palata näihin teemoihin
+   - Kotitehtävä: Toteuta yksi hyvinvointisuunnitelmasi toimenpide tällä viikolla ja reflektoi, miltä tuntui
 
 ### Menetelmät
-- Itsenäinen pohdinta ja kirjoittaminen
-- Pienryhmäkeskustelu
-- Interaktiivinen luokkahuonekeskustelu
-- Työkalut: Voimavarakartta, reflektiokortti
-- Opinto-ohjaajan esitys (stressinhallinta, jaksaminen)
-
----
+- Visualisointi ja metafora (voimavarapuu)
+- Itsenäinen pohdinta ja kirjallinen työskentely
+- Parityöskentely ja pienryhmäkeskustelu
+- Yhteinen reflektio ja kokemusten jakaminen
 
 ### Materiaalit & Lähteet
-- **Voimavarakartta** -työkalupohja (jaetaan tulostettuna tai digiversiona)
-- **Reflektiokortti** (A6-koko, värilliset)
-- Liitutaulu/smartboard: stressisyklin visualisointi
+- **Voimavarakartta-moniste** (tai digitaalinen lomake, esim. Google Forms / Padlet)
+- **Koulun tukipalvelut -diaesitys** (yhteystiedot, vastaanotoajat)
 - **Opetushallitus**: Oppimisen tuen uudistus (https://www.oph.fi/fi/oppimisen-tuen-uudistus)
-- **Opintopolku.fi**: Tiedot yhteishausta 2026 ja todistusvalinnasta
-- Koulun opiskeluhuollon yhteystiedot (psykologi, kuraattori, terveydenhoitaja)
-
----
+- **Mielenterveystalo.fi**: Nuorten hyvinvointi ja stressinhallinta
+- **LOPS 2019**: OP1-moduulin tavoitteet
 
 ### Arviointi (suoritusmerkintä S/H)
-- **Osallistuminen**: Aktiivinen osallistuminen keskusteluihin ja työskentely ryhmässä
-- **Itsearviointi**: Reflektiokortin täyttäminen osoittaa itsetuntemuksen kehittymistä
-- **Portfolio**: Voimavarakartta ja reflektiokortti säilytetään opiskelijan HOPSin liitteenä
-- **HOPS-päivitys**: Tunnin jälkeen opinto-ohjaaja päivittää HOPSiin opiskelijan tunnistamia voimavaroja ja tavoitteita
-
----
+- **Osallistuminen**: Aktiivinen läsnäolo ja työskentely tunnilla
+- **Voimavarakartan täyttäminen**: Itsearviointi omista voimavaroista (ei arvostella sisältöä, vaan prosessia)
+- **Hyvinvointisuunnitelman laatiminen**: 2-3 konkreettista toimenpidettä kirjattu
+- **HOPS-päivitys**: Voimavarakartta ja hyvinvointisuunnitelma voidaan liittää osaksi HOPSia opiskelijan suostumuksella
 
 ### Eriyttäminen
-- **Oppimisen tuki**: Opiskelijat, joilla on lukemisen tai kirjoittamisen haasteita, voivat täyttää voimavarakartan digitaalisesti tai suullisesti
-- **Erityisjärjestelyt**: Erityisopettaja tai avustaja voi tukea tarvittaessa ryhmätyössä
-- **Syventävä taso**: Kiinnostuneet opiskelijat voivat laajentaa pohdintaa: "Miten voimavarani tukevat jatko-opintovalintojani?"
-- **Kielellinen tuki**: Opiskelijat, joille suomi on toinen kieli, saavat käsitteiden selitykset ja malliesimerkit
+- **Oppimisen tuki**: Voimavarakartta voidaan täyttää myös suullisesti ohjaajan kanssa tai visuaalisesti piirtäen
+- **Kielellinen tuki**: Selkokielinen moniste, mahdollisuus käyttää äidinkieltä pohdinnoissa
+- **Herkät aiheet**: Ohjaaja huomioi, että hyvinvointi voi olla vaikea aihe – tarjotaan mahdollisuus henkilökohtaiseen keskusteluun tunnin jälkeen
+- **Erityisjärjestelyt**: Rauhallinen työskentelytila, lisäaika, tukihenkilön läsnäolo tarvittaessa
+
+### Koko koulu ohjaa — yhteistyö
+- **Ryhmänohjaaja**: Seuraa opiskelijoiden hyvinvointia arjessa, välittää huolet opinto-ohjaajalle
+- **Aineenopettajat**: Tukevat opiskelutaitoja ja huomioivat kuormitusta
+- **Erityisopettaja**: Tarjoaa tukea oppimisvaikeuksissa ja opiskelustrategioissa
+- **Opiskeluhuolto** (psykologi, kuraattori, terveydenhoitaja): Tukee sosiaalista ja psyykkistä hyvinvointia, tarjoaa ammatillista apua
+- **Opinto-ohjaaja**: Koordinoi ohjausta, HOPS-keskustelut, yhteys huoltajiin tarvittaessa
 
 ---
 
-### Koko koulu ohjaa — yhteistyö
-- **Ryhmänohjaaja**: Seuraa opiskelijan hyvinvointia ja välittää tietoa opinto-ohjaajalle
-- **Aineenopettajat**: Tukevat opiskelutaitoja (ajanhallinta, stressinhallinta) omissa tunneissaan
-- **Erityisopettaja**: Tukee oppimisvaikeuksissa ja osallistuu tarvittaessa tunnin eriyttämiseen
-- **Opiskeluhuolto** (psykologi, kuraattori, terveydenhoitaja): Tarjoaa syventävää tukea jaksamisen ja mielenterveyden kysymyksissä
-- **Opinto-ohjaaja**: Päävastuu ohjauksen järjestämisestä, HOPSin päivittämisestä ja yksilöohjauksen tarjoamisesta
+**Huom!** Tunnin jälkeen ohjaaja seuraa, tarvitseeko joku opiskelija lisätukea. Voimavarakartta voi paljastaa huolen aiheita, jotka vaativat jatkokeskustelua tai ohjaamista opiskeluhuoltoon.
