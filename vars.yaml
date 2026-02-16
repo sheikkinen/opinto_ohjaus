@@ -1,0 +1,4 @@
+module: OP1
+school_context: "Keskikokoinen lukio, noin 300 opiskelijaa. Opinto-ohjaus toteutetaan sekä ryhmä- että yksilöohjauksena."
+hours_per_module: 18
+lesson_duration: 75

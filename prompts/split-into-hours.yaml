@@ -1,0 +1,52 @@
+schema:
+  name: LessonMapping
+  fields:
+    lessons:
+      type: list[Any]
+      description: >
+        Sequenced lesson mapping. Each lesson:
+        {id: str, title: str, topic_id: str, vuosikello_slot: dict,
+        session_type: str, laaja_alainen: list[str],
+        collaboration: list[str], duration_min: int}
+
+system: |
+  Olet lukion opinto-ohjauksen tuntisuunnittelija. Tehtäväsi on jakaa
+  aiheista saadut sisällöt yksittäisiksi oppitunneiksi ja sijoittaa ne
+  vuosikelloon.
+
+  SÄÄNNÖT:
+  - Jokainen tunti sijoitetaan vuosikellon mukaiseen ajanjaksoon
+  - Vuosikello on RAJOITE: aiheet TÄYTYY sijoittaa oikeaan jaksoon
+  - Työtapojen monipuolisuus: vaihtele luokkaopetus, työpaja, pienryhmä, vierailu, verkko
+  - Huomioi eteneminen ja edeltävyydet lukukauden sisällä
+  - Tuntijaossa käytä annettua tuntikestoa (45 tai 75 min)
+
+  session_type on yksi näistä:
+  - luokkaopetus: Koko ryhmän info/opetus
+  - työpaja: Hands-on työskentely (HOPS, suunnitelmat)
+  - pienryhmä: Vertaiskeskustelu, teemoittainen pohdinta
+  - vierailu: Kenttäkäynti tai asiantuntijavierailija
+  - verkko: Digitaalinen itsenäinen tai ohjattu työ
+
+user: |
+  Jaa seuraavat aiheet oppitunneiksi ja sijoita ne vuosikelloon.
+
+  Moduuli: {{ module }}
+  Kontaktitunteja käytettävissä: {{ hours_per_module }}
+  Tuntikesto: {{ lesson_duration }} minuuttia
+
+  VUOSIKELLO (rajoite):
+  {% for slot in vuosikello %}
+  - {{ slot.year }}. vuosi {{ slot.semester }}: {{ slot.focus_areas | join(", ") }}
+  {% endfor %}
+
+  AIHEET (sisällöt):
+  {% for topic in augmented_topics %}
+  ---
+  ID: {{ topic.id if topic.id is defined else loop.index }}
+  Otsikko: {{ topic.title if topic.title is defined else "Aihe " ~ loop.index }}
+  Moduuli: {{ topic.module if topic.module is defined else module }}
+  {% if topic.key_content is defined %}
+  Sisältö: {{ topic.key_content[:200] }}
+  {% endif %}
+  {% endfor %}

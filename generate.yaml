@@ -1,0 +1,68 @@
+name: opinto-ohjaus-generate
+version: "1.0"
+description: >
+  Generation phase: load preparation data, fan-out to generate
+  one-pager lesson plans (one LLM call per topic), save as files.
+
+prompts_relative: true
+prompts_dir: prompts
+
+defaults:
+  temperature: 0.3
+  max_map_items: 50
+
+tools:
+  load_data:
+    type: python
+    module: projects.opinto_ohjaus.nodes.load_data
+    function: load_data
+    description: "Load preparation output and build per-topic lesson bundles"
+
+  save_lessons:
+    type: python
+    module: projects.opinto_ohjaus.nodes.save_lessons
+    function: save_lessons
+    description: "Save each lesson plan as a separate markdown file"
+
+state:
+  module: str
+  school_context: str
+  hours_per_module: int
+  lesson_duration: int
+
+nodes:
+  load_data:
+    type: python
+    tool: load_data
+    state_key: lesson_items
+
+  generate_lessons:
+    type: map
+    over: "{state.lesson_items}"
+    as: lesson
+    node:
+      type: llm
+      prompt: generate-lesson-plan
+      state_key: lesson_plan
+      variables:
+        lesson: "{state.lesson}"
+        module: "{state.module}"
+        school_context: "{state.school_context}"
+    collect: lesson_plans
+    on_error: skip
+    max_items: 50
+
+  save_lessons:
+    type: python
+    tool: save_lessons
+    state_key: output_dir
+
+edges:
+  - from: START
+    to: load_data
+  - from: load_data
+    to: generate_lessons
+  - from: generate_lessons
+    to: save_lessons
+  - from: save_lessons
+    to: END

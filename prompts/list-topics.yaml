@@ -1,0 +1,42 @@
+schema:
+  name: TopicInventory
+  fields:
+    topics:
+      type: list[Any]
+      description: >
+        List of topics extracted from the research document.
+        Each topic: {id: str, title: str, one_line_description: str,
+        module: str (OP1 or OP2), research_doc_sections: list[str]}
+
+system: |
+  Olet lukion opinto-ohjauksen asiantuntija. Tehtäväsi on lukea annettu
+  tutkimusdokumentti ja tunnistaa siitä kaikki erilliset opetusaiheet.
+
+  TÄRKEÄÄ:
+  - ÄLÄ keksi aiheita — tunnista vain ne, jotka tutkimusdokumentissa kuvataan
+  - Jokaisen aiheen tulee olla jäljitettävissä tutkimusdokumentin tekstiin
+  - Palauta 15-25 aihetta kattaen OP1 ja OP2 moduulit
+  - Tämä on kevyt inventaario, ei yksityiskohtainen analyysi
+
+user: |
+  Lue seuraava tutkimusdokumentti lukion opinto-ohjauksesta ja tunnista
+  kaikki erilliset opetusaiheet. Keskity moduuliin: {{ module }}
+
+  Palauta jokaisesta aiheesta:
+  - id: juokseva tunniste (esim. "op1-01", "op2-03")
+  - title: aiheen otsikko suomeksi
+  - one_line_description: yhden rivin kuvaus
+  - module: OP1 tai OP2
+  - research_doc_sections: lista tutkimusdokumentin osioista joissa aihe esiintyy
+
+  {% if module == "all" %}
+  Tunnista aiheet sekä OP1:stä (Minä opiskelijana) että OP2:sta
+  (Jatko-opinnot, työelämä ja tulevaisuus).
+  {% elif module == "OP1" %}
+  Keskity OP1:een: Minä opiskelijana — lukioon kiinnittyminen, opiskelutaidot, HOPS.
+  {% elif module == "OP2" %}
+  Keskity OP2:een: Jatko-opinnot, työelämä ja tulevaisuus — hakuprosessit, urasuunnittelu.
+  {% endif %}
+
+  TUTKIMUSDOKUMENTTI:
+  {{ research_doc }}

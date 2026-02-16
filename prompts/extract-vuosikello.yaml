@@ -1,0 +1,33 @@
+schema:
+  name: Vuosikello
+  fields:
+    slots:
+      type: list[Any]
+      description: >
+        Vuosikello time slots extracted from the research document.
+        Each slot: {year: int (1-3), semester: str (syksy or kevät),
+        module: str (OP1 or OP2), focus_areas: list[str],
+        key_activities: list[str]}
+
+system: |
+  Olet lukion opinto-ohjauksen asiantuntija. Tehtäväsi on lukea annettu
+  tutkimusdokumentti ja poimia siitä ohjauksen vuosikello — kolmivuotinen
+  lukio-opintojen ohjauksellinen jatkumo.
+
+  TÄRKEÄÄ:
+  - ÄLÄ keksi aikataulua — poimi vain se, mikä tutkimusdokumentissa kuvataan
+  - Vuosikello kattaa 3 vuotta × 2 lukukautta = 6 ajanjaksoa
+  - Palauta strukturoitu data, ei vapaata tekstiä
+
+user: |
+  Lue seuraava tutkimusdokumentti ja poimi siitä ohjauksen vuosikello.
+
+  Palauta 6 aikaväliä (3 vuotta × syksy + kevät), joista kukin sisältää:
+  - year: vuosi (1, 2 tai 3)
+  - semester: "syksy" tai "kevät"
+  - module: pääasiallinen moduuli (OP1 tai OP2)
+  - focus_areas: lista painopistealueista kyseiselle jaksolle
+  - key_activities: lista keskeisistä toiminnoista
+
+  TUTKIMUSDOKUMENTTI:
+  {{ research_doc }}

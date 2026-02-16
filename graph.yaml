@@ -1,0 +1,104 @@
+version: "1.0"
+name: opinto-ohjaus-pipeline
+description: >
+  Generate one-pager lesson plans for lukio opinto-ohjaus (OP1/OP2).
+  Research-doc-driven: LLM extracts from research document, augments with
+  web search, cross-checks against vuosikello, generates lesson plans.
+
+prompts_relative: true
+prompts_dir: prompts
+
+defaults:
+  temperature: 0.3
+  max_map_items: 50
+
+tools:
+  websearch:
+    type: python
+    module: examples.shared.websearch
+    function: search_web
+    description: "Search the web for current information"
+
+state:
+  module: str
+  school_context: str
+  hours_per_module: int
+  lesson_duration: int
+  research_doc: str
+
+nodes:
+  list_topics:
+    type: llm
+    prompt: list-topics
+    variables:
+      research_doc: "{state.research_doc}"
+      module: "{state.module}"
+    state_key: topic_inventory
+
+  extract_vuosikello:
+    type: llm
+    prompt: extract-vuosikello
+    variables:
+      research_doc: "{state.research_doc}"
+    state_key: vuosikello
+
+  extract_and_augment:
+    type: map
+    over: "{state.topic_inventory.topics}"
+    as: topic
+    node:
+      type: agent
+      tools: [websearch]
+      prompt: extract-and-augment-topic
+      state_key: augmented
+      max_iterations: 3
+      variables:
+        research_doc: "{state.research_doc}"
+        topic: "{state.topic}"
+    collect: augmented_topics
+    on_error: skip
+    max_items: 30
+
+  split_into_hours:
+    type: llm
+    prompt: split-into-hours
+    variables:
+      augmented_topics: "{state.augmented_topics}"
+      vuosikello: "{state.vuosikello}"
+      hours_per_module: "{state.hours_per_module}"
+      lesson_duration: "{state.lesson_duration}"
+      module: "{state.module}"
+    state_key: lesson_mapping
+
+  generate_lessons:
+    type: map
+    over: "{state.lesson_mapping.lessons}"
+    as: lesson
+    node:
+      type: llm
+      prompt: generate-lesson-plan
+      state_key: lesson_plan
+      variables:
+        lesson: "{state.lesson}"
+        augmented_topics: "{state.augmented_topics}"
+        module: "{state.module}"
+        school_context: "{state.school_context}"
+    collect: lesson_plans
+    on_error: skip
+    max_items: 50
+
+edges:
+  - from: START
+    to: list_topics
+  - from: START
+    to: extract_vuosikello
+  - from: list_topics
+    to: extract_and_augment
+  - from: extract_and_augment
+    to: split_into_hours
+  - from: extract_vuosikello
+    to: split_into_hours
+  - from: split_into_hours
+    to: generate_lessons
+  - from: generate_lessons
+    to: END
