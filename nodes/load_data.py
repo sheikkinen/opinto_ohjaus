@@ -36,7 +36,7 @@ def load_data(state: dict) -> dict:
         Dict with 'lesson_items' (list of dicts, one per topic).
     """
     module = state.get("module", "unknown").lower()
-    project_dir = Path(state.get("project_dir", "projects/opinto_ohjaus"))
+    project_dir = Path(state["project_dir"])
     out_dir = project_dir / "output" / module
 
     topics = json.loads((out_dir / "topics.json").read_text(encoding="utf-8"))["topics"]

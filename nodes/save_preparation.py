@@ -58,7 +58,7 @@ def save_preparation(state: dict) -> dict:
       - augmented_topics.json: clean text per topic (signatures stripped)
     """
     module = state.get("module", "unknown").lower()
-    project_dir = Path(state.get("project_dir", "projects/opinto_ohjaus"))
+    project_dir = Path(state["project_dir"])
     out_dir = project_dir / "output" / module
     out_dir.mkdir(parents=True, exist_ok=True)
 
