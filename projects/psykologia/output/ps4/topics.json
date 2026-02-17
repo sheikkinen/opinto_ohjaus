@@ -1,0 +1,103 @@
+{
+  "topics": [
+    {
+      "id": "ps4_1",
+      "title": "Psyykkinen itsesäätely",
+      "one_line_description": "Opiskelija oppii ymmärtämään psyykkisen itsesäätelyn mekanismeja ja merkitystä.",
+      "module": "PS4",
+      "research_doc_sections": [
+        "PS4: Tunteet ja mielenterveys – Psyykkinen tasapaino ja resilienssi"
+      ]
+    },
+    {
+      "id": "ps4_2",
+      "title": "Psyykkinen hyvinvointi",
+      "one_line_description": "Moduuli ohjaa opiskelijaa ymmärtämään ja ylläpitämään omaa psyykkistä hyvinvointiaan.",
+      "module": "PS4",
+      "research_doc_sections": [
+        "PS4: Tunteet ja mielenterveys – Psyykkinen tasapaino ja resilienssi"
+      ]
+    },
+    {
+      "id": "ps4_3",
+      "title": "Emootioiden syntymekanismit",
+      "one_line_description": "Emootioiden syntymekanismeja tarkastellaan monesta näkökulmasta, sisältäen sosiaalisen tiedonkäsittelyn hermostollisen perustan.",
+      "module": "PS4",
+      "research_doc_sections": [
+        "PS4: Tunteet ja mielenterveys – Psyykkinen tasapaino ja resilienssi"
+      ]
+    },
+    {
+      "id": "ps4_4",
+      "title": "Sosiaalisen tiedonkäsittelyn hermostollinen perusta",
+      "one_line_description": "Tutkitaan sosiaalisen tiedonkäsittelyn hermostollista perustaa osana emootioiden syntymekanismeja.",
+      "module": "PS4",
+      "research_doc_sections": [
+        "PS4: Tunteet ja mielenterveys – Psyykkinen tasapaino ja resilienssi"
+      ]
+    },
+    {
+      "id": "ps4_5",
+      "title": "Mielenterveyshäiriöiden syvällinen käsittely",
+      "one_line_description": "Opiskelija syventyy perusteellisemmin yhteen valittuun mielenterveyshäiriöön sen eri ulottuvuuksien kautta.",
+      "module": "PS4",
+      "research_doc_sections": [
+        "PS4: Tunteet ja mielenterveys – Psyykkinen tasapaino ja resilienssi"
+      ]
+    },
+    {
+      "id": "ps4_6",
+      "title": "Mielenterveyshäiriöiden oireet",
+      "one_line_description": "Käsitellään valitun mielenterveyshäiriön oireita biopsykososiaalisena kokonaisuutena.",
+      "module": "PS4",
+      "research_doc_sections": [
+        "PS4: Tunteet ja mielenterveys – Psyykkinen tasapaino ja resilienssi"
+      ]
+    },
+    {
+      "id": "ps4_7",
+      "title": "Mielenterveyshäiriöiden syyt",
+      "one_line_description": "Tutkitaan valitun mielenterveyshäiriön syitä biopsykososiaalisesta näkökulmasta.",
+      "module": "PS4",
+      "research_doc_sections": [
+        "PS4: Tunteet ja mielenterveys – Psyykkinen tasapaino ja resilienssi"
+      ]
+    },
+    {
+      "id": "ps4_8",
+      "title": "Mielenterveyshäiriöiden hoitomuodot",
+      "one_line_description": "Perehdytään valitun mielenterveyshäiriön erilaisiin hoitomuotoihin, kuten psykoterapioihin.",
+      "module": "PS4",
+      "research_doc_sections": [
+        "PS4: Tunteet ja mielenterveys – Psyykkinen tasapaino ja resilienssi"
+      ]
+    },
+    {
+      "id": "ps4_9",
+      "title": "Resilienssi (psyykkinen sitkeys)",
+      "one_line_description": "Resilienssiä tarkastellaan ominaisuutena, jota voi kehittää ja vahvistaa psyykkisenä sitkeytenä.",
+      "module": "PS4",
+      "research_doc_sections": [
+        "PS4: Tunteet ja mielenterveys – Psyykkinen tasapaino ja resilienssi"
+      ]
+    },
+    {
+      "id": "ps4_10",
+      "title": "Itsetuntemus",
+      "one_line_description": "Moduuli tarjoaa välineitä itsetuntemuksen lisäämiseen.",
+      "module": "PS4",
+      "research_doc_sections": [
+        "PS4: Tunteet ja mielenterveys – Psyykkinen tasapaino ja resilienssi"
+      ]
+    },
+    {
+      "id": "ps4_11",
+      "title": "Oman psyykkisen hyvinvoinnin ylläpitäminen",
+      "one_line_description": "Opiskelija oppii ylläpitämään omaa psyykkistä hyvinvointiaan stressaavissakin elämäntilanteissa.",
+      "module": "PS4",
+      "research_doc_sections": [
+        "PS4: Tunteet ja mielenterveys – Psyykkinen tasapaino ja resilienssi"
+      ]
+    }
+  ]
+}

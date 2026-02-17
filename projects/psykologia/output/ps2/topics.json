@@ -1,0 +1,139 @@
+{
+  "topics": [
+    {
+      "id": "1",
+      "title": "Kehityksen jatkuvuus ja yksilölliset polut",
+      "one_line_description": "Kehityksen tarkastelu dynaamisena ja yksilöllisenä prosessina perinteisten vaiheteorioiden sijaan.",
+      "module": "PS2",
+      "research_doc_sections": [
+        "2"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Perimän ja ympäristön vuorovaikutus kehityksessä",
+      "one_line_description": "Perimän ja ympäristön monimutkaisen vuorovaikutuksen ymmärtäminen ihmisen kehityksessä.",
+      "module": "PS2",
+      "research_doc_sections": [
+        "2"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Kehityspsykologian vaiheteoriat",
+      "one_line_description": "Perinteisten kehityspsykologisten vaiheteorioiden, kuten Piaget'n ja Eriksonin mallien, tarkastelu.",
+      "module": "PS2",
+      "research_doc_sections": [
+        "2"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Identiteetin muodostuminen",
+      "one_line_description": "Identiteetin kehitysprosessin ymmärtäminen ja siihen vaikuttavat tekijät.",
+      "module": "PS2",
+      "research_doc_sections": [
+        "2"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Sukupuoli-identiteetti",
+      "one_line_description": "Sukupuoli-identiteetin muodostumisen ja moninaisuuden käsittely.",
+      "module": "PS2",
+      "research_doc_sections": [
+        "2"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Seksuaali-identiteetti",
+      "one_line_description": "Seksuaali-identiteetin muodostumisen ja moninaisuuden käsittely.",
+      "module": "PS2",
+      "research_doc_sections": [
+        "2"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Etninen identiteetti",
+      "one_line_description": "Etnisen identiteetin muodostumisen ja moninaisuuden käsittely.",
+      "module": "PS2",
+      "research_doc_sections": [
+        "2"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Kulttuuri-identiteetti",
+      "one_line_description": "Kulttuuri-identiteetin muodostumisen ja moninaisuuden käsittely.",
+      "module": "PS2",
+      "research_doc_sections": [
+        "2"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Kiintymyssuhteet",
+      "one_line_description": "Kiintymyssuhteiden merkitys kehityksen perustana ja niiden vaikutus myöhempiin ihmissuhteisiin.",
+      "module": "PS2",
+      "research_doc_sections": [
+        "8"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Hermoston muovautuvuus ja elinikäinen kehitys",
+      "one_line_description": "Hermoston plastisuuden ja sen yhteyden tarkastelu ihmisen elinikäiseen kehitykseen.",
+      "module": "PS2",
+      "research_doc_sections": [
+        "6"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Kehityspsykologian tutkimusmenetelmät",
+      "one_line_description": "Kehityspsykologian erityisten tutkimusmenetelmien yleiskuvaus.",
+      "module": "PS2",
+      "research_doc_sections": [
+        "2"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Pitkittäistutkimus",
+      "one_line_description": "Pitkittäistutkimuksen käyttö kehityksen jatkuvuuden ja muutoksen seuraamiseen ajan kuluessa.",
+      "module": "PS2",
+      "research_doc_sections": [
+        "2"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Poikittaistutkimus",
+      "one_line_description": "Poikittaistutkimuksen käyttö kehityspsykologiassa.",
+      "module": "PS2",
+      "research_doc_sections": [
+        "2"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Kaksostutkimukset",
+      "one_line_description": "Kaksostutkimusten käyttö perimän ja ympäristön vaikutusten selvittämisessä kehityksessä.",
+      "module": "PS2",
+      "research_doc_sections": [
+        "2"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Havainnointi ja haastattelut kehityspsykologiassa",
+      "one_line_description": "Havainnoinnin ja haastattelujen merkitys tiedonkeruumenetelminä lapsuuden ja nuoruuden kehityksestä.",
+      "module": "PS2",
+      "research_doc_sections": [
+        "8"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "topics": [
+    {
+      "id": "1",
+      "title": "Persoonallisuus",
+      "one_line_description": "Yksilölliset erot temperamentin, piirteiden, motivaation ja toimintatyylien kautta.",
+      "module": "PS5",
+      "research_doc_sections": [
+        "PS5: Yksilöllinen ja yhteisöllinen ihminen – Persoonallisuus ja sosiaalinen maailma",
+        "17"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Temperamentti",
+      "one_line_description": "Osa persoonallisuutta, joka kuvaa yksilöllisiä reaktiotapoja.",
+      "module": "PS5",
+      "research_doc_sections": [
+        "PS5: Yksilöllinen ja yhteisöllinen ihminen – Persoonallisuus ja sosiaalinen maailma",
+        "17"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Persoonallisuuden piirteet (Big Five -malli)",
+      "one_line_description": "Yksi keskeisimmistä persoonallisuuden piirreteorioista, joka kuvaa ihmisen persoonallisuutta viiden pääpiirteen kautta.",
+      "module": "PS5",
+      "research_doc_sections": [
+        "PS5: Yksilöllinen ja yhteisöllinen ihminen – Persoonallisuus ja sosiaalinen maailma",
+        "17"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Motivaatio (persoonallisuuden osana)",
+      "one_line_description": "Yksilölliset syyt ja voimat, jotka ohjaavat ja ylläpitävät ihmisen toimintaa.",
+      "module": "PS5",
+      "research_doc_sections": [
+        "PS5: Yksilöllinen ja yhteisöllinen ihminen – Persoonallisuus ja sosiaalinen maailma",
+        "17"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Yksilölliset tulkinta- ja toimintatyylit",
+      "one_line_description": "Miten yksilöt havaitsevat, käsittelevät tietoa ja reagoivat eri tilanteisiin.",
+      "module": "PS5",
+      "research_doc_sections": [
+        "PS5: Yksilöllinen ja yhteisöllinen ihminen – Persoonallisuus ja sosiaalinen maailma",
+        "17"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Älykkyys",
+      "one_line_description": "Ihmisen kognitiivinen kyky oppia, ymmärtää, ratkaista ongelmia ja soveltaa tietoa.",
+      "module": "PS5",
+      "research_doc_sections": [
+        "PS5: Yksilöllinen ja yhteisöllinen ihminen – Persoonallisuus ja sosiaalinen maailma",
+        "2"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Luovuus",
+      "one_line_description": "Kyky tuottaa uusia, omaperäisiä ja arvokkaita ideoita tai ratkaisuja.",
+      "module": "PS5",
+      "research_doc_sections": [
+        "PS5: Yksilöllinen ja yhteisöllinen ihminen – Persoonallisuus ja sosiaalinen maailma",
+        "2"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Sosiaalinen identiteetti",
+      "one_line_description": "Yksilön käsitys itsestään ryhmän jäsenenä ja siihen liittyvät tunteet sekä arvostus.",
+      "module": "PS5",
+      "research_doc_sections": [
+        "PS5: Yksilöllinen ja yhteisöllinen ihminen – Persoonallisuus ja sosiaalinen maailma",
+        "6"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Ryhmädynamiikka",
+      "one_line_description": "Ryhmien sisäiset prosessit, vuorovaikutus ja kehitys, jotka vaikuttavat ryhmän toimintaan.",
+      "module": "PS5",
+      "research_doc_sections": [
+        "PS5: Yksilöllinen ja yhteisöllinen ihminen – Persoonallisuus ja sosiaalinen maailma",
+        "6"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Roolit (ryhmässä)",
+      "one_line_description": "Yksilöiden odotetut käyttäytymismallit ja tehtävät ryhmän sisällä.",
+      "module": "PS5",
+      "research_doc_sections": [
+        "PS5: Yksilöllinen ja yhteisöllinen ihminen – Persoonallisuus ja sosiaalinen maailma",
+        "6"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Konformisuus",
+      "one_line_description": "Ryhmän toimintaa ohjaava tekijä, jossa yksilö mukautuu ryhmän normiin tai paineeseen.",
+      "module": "PS5",
+      "research_doc_sections": [
+        "PS5: Yksilöllinen ja yhteisöllinen ihminen – Persoonallisuus ja sosiaalinen maailma",
+        "6"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Kulttuurin ulottuvuudet",
+      "one_line_description": "Eri kulttuurien väliset erot ja niiden vaikutus ihmisen toimintaan ja ajatteluun.",
+      "module": "PS5",
+      "research_doc_sections": [
+        "PS5: Yksilöllinen ja yhteisöllinen ihminen – Persoonallisuus ja sosiaalinen maailma",
+        "6"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Akkulturaatioprosessit",
+      "one_line_description": "Kulttuurien kohtaamiseen ja sopeutumiseen liittyvät ilmiöt, kun yksilöt tai ryhmät ovat vuorovaikutuksessa eri kulttuurien kanssa.",
+      "module": "PS5",
+      "research_doc_sections": [
+        "PS5: Yksilöllinen ja yhteisöllinen ihminen – Persoonallisuus ja sosiaalinen maailma",
+        "6"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Stereotypiat",
+      "one_line_description": "Yksinkertaistettuja ja yleistettyjä käsityksiä ihmisryhmistä, jotka voivat olla sekä positiivisia että negatiivisia.",
+      "module": "PS5",
+      "research_doc_sections": [
+        "PS5: Yksilöllinen ja yhteisöllinen ihminen – Persoonallisuus ja sosiaalinen maailma",
+        "6"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Ennakkoluulot",
+      "one_line_description": "Negatiivisia asenteita tai tunteita tiettyjä ihmisryhmiä kohtaan, usein ilman riittävää tietoa.",
+      "module": "PS5",
+      "research_doc_sections": [
+        "PS5: Yksilöllinen ja yhteisöllinen ihminen – Persoonallisuus ja sosiaalinen maailma",
+        "6"
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Stereotypioiden ja ennakkoluulojen vähentämiskeinot",
+      "one_line_description": "Menetelmät ja strategiat, joilla pyritään purkamaan ennakkoluuloja ja stereotypioita yhteiskunnassa.",
+      "module": "PS5",
+      "research_doc_sections": [
+        "PS5: Yksilöllinen ja yhteisöllinen ihminen – Persoonallisuus ja sosiaalinen maailma",
+        "6"
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Kypsä psykologinen ajattelu",
+      "one_line_description": "Kyky sietää tiedon ristiriitaisuutta ja muodostaa kokonaiskuva ihmisen toiminnasta eri konteksteissa.",
+      "module": "PS5",
+      "research_doc_sections": [
+        "PS5: Yksilöllinen ja yhteisöllinen ihminen – Persoonallisuus ja sosiaalinen maailma",
+        "19"
+      ]
+    }
+  ]
+}

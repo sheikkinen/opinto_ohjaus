@@ -1,0 +1,168 @@
+{
+  "topics": [
+    {
+      "id": "1",
+      "title": "Ihmisen tiedonkäsittely",
+      "one_line_description": "Syventyminen ihmisen tiedonkäsittelyyn ja sen ilmiöihin.",
+      "module": "PS3",
+      "research_doc_sections": [
+        "PS3: Tietoa käsittelevä ihminen – Kognitiivinen psykologia ja neurotiede"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Tiedonkäsittelyn biologinen perusta",
+      "one_line_description": "Ihmisen tiedonkäsittelyn taustalla olevat biologiset mekanismit ja hermostollinen perusta.",
+      "module": "PS3",
+      "research_doc_sections": [
+        "PS3: Tietoa käsittelevä ihminen – Kognitiivinen psykologia ja neurotiede"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Havaitseminen (näönvarainen)",
+      "one_line_description": "Havaintoprosessien, erityisesti näönvaraisen havaitsemisen, tarkastelu.",
+      "module": "PS3",
+      "research_doc_sections": [
+        "PS3: Tietoa käsittelevä ihminen – Kognitiivinen psykologia ja neurotiede"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Näönvaraisen havaitsemisen hermostollinen perusta",
+      "one_line_description": "Näköaistin ja näönvaraisen havaitsemisen hermostollisten mekanismien ymmärtäminen.",
+      "module": "PS3",
+      "research_doc_sections": [
+        "PS3: Tietoa käsittelevä ihminen – Kognitiivinen psykologia ja neurotiede"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Daniel Kahnemanin kaksoisprosessointiteoria",
+      "one_line_description": "Ajattelun jakaminen nopeaan, intuitiiviseen ja hitaaseen, analyyttiseen systeemiin.",
+      "module": "PS3",
+      "research_doc_sections": [
+        "PS3: Tietoa käsittelevä ihminen – Kognitiivinen psykologia ja neurotiede"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Kognitiiviset vinoumat",
+      "one_line_description": "Järjestelmälliset virheet ajattelussa ja päätöksenteossa.",
+      "module": "PS3",
+      "research_doc_sections": [
+        "PS3: Tietoa käsittelevä ihminen – Kognitiivinen psykologia ja neurotiede"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Heuristiikat",
+      "one_line_description": "Mielenterveydelliset oikopolut ja säännöt, joita käytetään päätöksenteossa ja ongelmanratkaisussa.",
+      "module": "PS3",
+      "research_doc_sections": [
+        "PS3: Tietoa käsittelevä ihminen – Kognitiivinen psykologia ja neurotiede"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Kriittinen ajattelu",
+      "one_line_description": "Kyky arvioida tietoa ja päätöksentekoa kognitiivisten vinoumien ja heuristiikkojen valossa.",
+      "module": "PS3",
+      "research_doc_sections": [
+        "PS3: Tietoa käsittelevä ihminen – Kognitiivinen psykologia ja neurotiede"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Päätöksenteko",
+      "one_line_description": "Ihmisen päätöksentekoprosessien ymmärtäminen ja siihen vaikuttavat tekijät.",
+      "module": "PS3",
+      "research_doc_sections": [
+        "PS3: Tietoa käsittelevä ihminen – Kognitiivinen psykologia ja neurotiede"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Kieli korkeampana kognitiivisena toimintona",
+      "one_line_description": "Kielen rooli ja merkitys ihmisen monimutkaisessa tiedonkäsittelyssä.",
+      "module": "PS3",
+      "research_doc_sections": [
+        "PS3: Tietoa käsittelevä ihminen – Kognitiivinen psykologia ja neurotiede"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Tarkkaavaisuus",
+      "one_line_description": "Tarkkaavaisuuden eri osa-alueet ja niiden hermostolliset verkostot.",
+      "module": "PS3",
+      "research_doc_sections": [
+        "PS3: Tietoa käsittelevä ihminen – Kognitiivinen psykologia ja neurotiede"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Muisti",
+      "one_line_description": "Muistin eri osa-alueet ja niiden hermostolliset verkostot.",
+      "module": "PS3",
+      "research_doc_sections": [
+        "PS3: Tietoa käsittelevä ihminen – Kognitiivinen psykologia ja neurotiede"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Muistin parantaminen",
+      "one_line_description": "Strategiat ja tekniikat muistin toiminnan tehostamiseksi.",
+      "module": "PS3",
+      "research_doc_sections": [
+        "PS3: Tietoa käsittelevä ihminen – Kognitiivinen psykologia ja neurotiede"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Tarkkaavaisuushäiriöt",
+      "one_line_description": "Tarkkaavaisuuden ongelmien ja häiriöiden ymmärtäminen.",
+      "module": "PS3",
+      "research_doc_sections": [
+        "PS3: Tietoa käsittelevä ihminen – Kognitiivinen psykologia ja neurotiede"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Kokeellinen tutkimus (suunnittelu ja toteutus)",
+      "one_line_description": "Kokeellisen tutkimuksen periaatteet, suunnittelu ja käytännön toteutus.",
+      "module": "PS3",
+      "research_doc_sections": [
+        "PS3: Tietoa käsittelevä ihminen – Kognitiivinen psykologia ja neurotiede",
+        "Tutkimusmenetelmien integrointi opetukseen"
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Muuttujien hallinta",
+      "one_line_description": "Muuttujien kontrollointi ja manipulointi kokeellisessa tutkimuksessa.",
+      "module": "PS3",
+      "research_doc_sections": [
+        "PS3: Tietoa käsittelevä ihminen – Kognitiivinen psykologia ja neurotiede",
+        "Tutkimusmenetelmien integrointi opetukseen"
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Muuttujien operationalisointi",
+      "one_line_description": "Käsitteiden muuttaminen mitattaviksi suureiksi tutkimuksessa.",
+      "module": "PS3",
+      "research_doc_sections": [
+        "Tutkimusmenetelmien integrointi opetukseen"
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Syy-seuraussuhteiden todentaminen",
+      "one_line_description": "Kokeellisen tutkimuksen avulla syy-seuraussuhteiden osoittaminen.",
+      "module": "PS3",
+      "research_doc_sections": [
+        "Tutkimusmenetelmien integrointi opetukseen"
+      ]
+    }
+  ]
+}
