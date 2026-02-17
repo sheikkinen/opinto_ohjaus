@@ -1,161 +1,144 @@
-# TUNTISUUNNITELMA: Aivojen plastisuus
+# TUNTISUUNNITELMA: AIVOJEN PLASTISUUS
 
-**Moduuli:** PS1 - Toimiva ja oppiva ihminen | **Kesto:** 75 min | **Työtapa:** Vierailu | **Vuosikello:** 1. vuosi kevät
+**Moduuli:** PS1 – Toimiva ja oppiva ihminen  
+**Kesto:** 75 minuuttia  
+**Työtapa:** Vierailu  
+**Kohderyhmä:** 1. vuoden opiskelijat (syksy)
 
 ---
 
 ## TAVOITTEET
 
-**Moduulikohtaiset tavoitteet (PS1):**
-- Opiskelija ymmärtää ihmisen toiminnan biopsykososiaalisena kokonaisuutena
-- Opiskelija hahmottaa oppimisen biologisia perusteita ja aivojen roolia oppimisprosessissa
-- Opiskelija tunnistaa unen ja ympäristön merkityksen oppimiselle
-
-**Tunnin tavoitteet:**
-- Opiskelija ymmärtää neuroplastisuuden käsitteen ja sen merkityksen oppimiselle
-- Opiskelija osaa selittää, miten aivot muuttuvat kokemusten ja oppimisen myötä
-- Opiskelija kykenee soveltamaan tietoa aivojen plastisuudesta omaan oppimiseensa
-- Opiskelija kehittää kriittistä ajattelua arvioimalla aivotutkimuksen menetelmiä ja tuloksia
+Tunnin jälkeen opiskelija:
+- Ymmärtää aivojen plastisuuden (neuroplastisuuden) käsitteen ja sen merkityksen oppimiselle
+- Osaa selittää, miten aivot muovautuvat kokemusten ja oppimisen myötä
+- Näkee yhteyden aivojen plastisuuden, unen ja oppimisen välillä
+- Pystyy soveltamaan neuroplastisuuden tietoa omaan oppimiseensa ja hyvinvointiinsa
+- Ymmärtää biopsykososiaalisen näkökulman aivojen toimintaan
 
 ---
 
 ## TUNNIN KULKU
 
-### 1. ORIENTAATIO (10 min) - Luokassa ennen vierailua
-- **Aktivointi:** Nopea ajatuskartta: "Mitä tiedät aivoista ja oppimisesta?"
-- **Ennakkokysymykset:** Voivatko aivot muuttua aikuisiällä? Miten harjoittelu vaikuttaa aivoihin?
-- **Vierailun briefaus:** Esittely vierailukohteesta (Oulun yliopiston aivotutkimusyksikkö/psykologian laitos), käytännön järjestelyt, havainnointi- ja kysymystehtävät
+### 1. JOHDANTO (10 min)
 
-### 2. VIERAILU (50 min) - Oulun yliopisto
-**Rakenne:**
-- **Tervetuloa ja johdanto (5 min):** Asiantuntijan esittäytyminen, päivän ohjelma
-- **Luento/esitys (20 min):** 
-  - Neuroplastisuuden perusteet: synapsien muodostuminen ja vahvistuminen
-  - Aivojen muovautuminen eri elämänvaiheissa
-  - Oppimisen hermostollinen perusta
-  - Tutkimusesimerkkejä (esim. taksinkuljettajien hippokampus, muusikoiden aivot)
-- **Demonstraatio/tutustuminen (15 min):**
-  - Aivotutkimuksen menetelmät (EEG, fMRI - kuvat/videot)
-  - Mahdollisuuksien mukaan: aivomallit, tutkimusvälineet
-- **Kysymykset ja keskustelu (10 min):**
-  - Opiskelijoiden kysymykset asiantuntijalle
-  - Käytännön sovellukset: miten hyödyntää tietoa omassa oppimisessa?
+**Tavoite:** Herätä mielenkiinto ja aktivoida esitietoja
 
-### 3. PURKU JA REFLEKTIO (15 min) - Luokassa vierailun jälkeen
-- **Pienryhmäkeskustelu (8 min):** Ryhmät (3-4 hlö) jakavat havaintoja ja vastaavat kysymyksiin:
-  - Mikä oli yllättävintä/mielenkiintoisinta?
-  - Miten neuroplastisuus näkyy omassa oppimisessasi?
-  - Mitä käytännön vinkkejä sait oppimisesi tueksi?
-- **Yhteenveto (7 min):** 
-  - Keskeiset oivallukset
-  - Yhteys PS1-moduulin muihin teemoihin (oppimisstrategiat, unen merkitys, metakognitio)
-  - Kotitehtävän jako
+- **Avaus:** "Voiko aivomme muuttua? Entä voimmeko vaikuttaa siihen, miten aivomme kehittyvät?"
+- **Nopea brainstorm:** Opiskelijat pohtivat pareittain, mitä he tietävät aivoista ja oppimisesta (2 min)
+- **Käsitteen esittely:** Neuroplastisuus = aivojen kyky muovautua ja muuttua kokemusten myötä
+- **Konteksti:** Yhdistetään PS1-moduulin teemaan (toimiva ja oppiva ihminen) – tämä on biologinen perusta oppimiselle
+
+### 2. VIERAILU / ASIANTUNTIJALUENTO (35–40 min)
+
+**Sisältö ja rakenne:**
+
+Vierailija (esim. Oulun yliopiston neurotieteilijä, opetuspsykologi tai aivotutkija) käsittelee:
+
+1. **Aivojen plastisuuden perusmekanismit** (8–10 min)
+   - Hermosolut ja synapsit
+   - Kuinka hermoyhteykset vahvistuvat tai heikkenevät
+   - Toiminnallinen ja rakenteellinen plastisuus
+
+2. **Plastisuus ja oppiminen** (8–10 min)
+   - Kuinka uuden tiedon oppiminen muuttaa aivojen rakennetta
+   - Muistin muodostumisen biologinen perusta
+   - Esimerkkejä: kielten oppiminen, uusien taitojen harjoittelu
+
+3. **Unen merkitys** (5–7 min)
+   - Uni ja muistin konsolidointi
+   - Hermoyhteyksiä vahvistava ja heikentävä prosessi unen aikana
+   - Yhteys oppimisen tehokkuuteen
+
+4. **Käytännön sovellukset** (5–7 min)
+   - Kognitiiviset harjoitukset
+   - Mindfulness ja stressinhallinta
+   - Elinikäinen oppiminen
+
+**Interaktiivinen elementti:**
+- Vierailija näyttää aivojen kuvamateriaalia tai animaatioita
+- Opiskelijat voivat esittää kysymyksiä (3–5 min)
+
+### 3. AKTIIVINEN HARJOITUS (15 min)
+
+**Vaihtoehto A: Tutkimusaineiston analyysi**
+- Opiskelijat saavat lyhyen tutkimusraportin tai infografiikin aivojen plastisuudesta
+- Pareittain analysoivat: Mitä tutkimus osoittaa? Miten se liittyy omaan oppimiseensa?
+- Jokainen pari kirjoittaa yhden keskeisen löydöksen
+
+**Vaihtoehto B: Tapaustutkimus**
+- Opiskelijat saavat esimerkkejä (esim. "Musiikkiharjoittelu ja aivojen muutos", "Kielten oppiminen ja plastisuus")
+- Pohtivat: Miten plastisuus selittää näitä muutoksia?
+- Keskustelu luokassa
+
+**Vaihtoehto C: Reflektiivinen kirjoitus**
+- Opiskelijat kirjoittavat 5 minuuttia: "Miten voin hyödyntää aivojen plastisuutta omassa oppimisessani?"
+- Vapaaehtoisia jakaa ajatuksia
+
+### 4. YHTEENVETO JA SIIRTYMINEN (10 min)
+
+- **Vierailija tai opettaja tiivistää** keskeiset käsitteet
+- **Yhteys muihin moduuleihin:** Plastisuus liittyy PS2:een (kehitys läpi elämän) ja PS1:n muihin aiheisiin (uni, oppimisstrategiat)
+- **Kotitehtävä/jatko:** Opiskelijat pohtivat, miten he voivat edistää omaa neuroplastisuuttaan seuraavalla viikolla
 
 ---
 
-## MENETELMÄT
+## MATERIAALIT JA RESURSSIT
 
-- **Vierailu yliopistoon:** Autenttinen oppimisympäristö, asiantuntijakontakti
-- **Aktiivinen havainnointi:** Strukturoidut havainnointitehtävät vierailulla
-- **Dialoginen oppiminen:** Vuorovaikutus asiantuntijan kanssa, kysymysten esittäminen
-- **Reflektiivinen oppiminen:** Kokemusten ja tiedon kytkeminen omaan oppimiseen
-- **Yhteistoiminnallinen oppiminen:** Pienryhmäkeskustelut
+**Vierailija:**
+- Oulun yliopiston neurotieteilijä tai psykologi
+- Tai opettaja, joka on perehtynyt aiheeseen
 
----
+**Digitaaliset materiaalit:**
+- Aivojen kuvamateriaalia (esim. MRI-kuvat, animaatiot synapsien muutoksista)
+- Infografiikat neuroplastisuudesta
+- Lyhyt video (5–7 min) aivojen plastisuudesta
 
-## MATERIAALIT
+**Fyysinen ympäristö:**
+- Luokkahuone tai auditorio, jossa vierailija voi esitellä materiaalia
+- Projektori/näyttö
+- Mahdollisuus ryhmätyöskentelyyn
 
-**Ennen vierailua:**
-- Ennakkotehtävä: Lue lyhyt artikkeli neuroplastisuudesta (esim. Mielenihmeet.fi)
-- Havainnointilomake vierailua varten (keskeiset käsitteet, kysymykset)
-
-**Vierailulla:**
-- Muistiinpanovälineet
-- Kamera (luvalla) dokumentointiin
-
-**Vierailun jälkeen:**
-- Digitaalinen oppimisalusta (esim. Peda.net) reflektioiden jakamiseen
-- Linkit lisämateriaaleihin (videot, artikkelit)
+**Lähteet:**
+- https://mielenihmeet.fi/aivojen-plastisuus-ominaisuudet-ja-tyypit/
+- https://mybrainrewired.com/neuroplasticity/neuroplasticity-role-in-learning/
+- https://www.verywellmind.com/what-is-brain-plasticity-2794886
 
 ---
 
 ## ARVIOINTI
 
-**Formatiivinen arviointi:**
-- Havainnointi: Opiskelijoiden aktiivisuus vierailulla (kysymykset, osallistuminen)
-- Pienryhmäkeskustelujen seuranta: Ymmärryksen taso ja soveltaminen
-- Suullinen palaute: Mitä opittiin, mikä jäi epäselväksi?
+**Formatiivinen arviointi (tunnin aikana):**
+- Opiskelijoiden osallistuminen keskusteluun ja kysymyksiin
+- Harjoituksessa näkyvä ymmärrys (analyysi, reflektio)
+- Käsitteistön käyttö oikein
 
-**Summatiivinen arviointi (liittyy moduulin kokonaisarviointiin):**
-- **Kotitehtävä (palautus viikon sisällä):** Kirjoita 1-2 sivun reflektio:
-  1. Selitä neuroplastisuuden käsite ja sen merkitys oppimiselle
-  2. Analysoi yhtä vierailulla esiteltyä tutkimusesimerkkiä
-  3. Sovella: Miten voit hyödyntää tietoa aivojen plastisuudesta omassa opiskelussasi? Anna 3 konkreettista esimerkkiä.
-
-**Arviointikriteerit:**
-- Käsitteiden ymmärtäminen ja täsmällinen käyttö
-- Kyky analysoida tutkimustietoa kriittisesti
-- Soveltaminen omaan oppimiseen (metakognitio)
-- Biopsykososiaalisen näkökulman huomioiminen
+**Summatiivinen arviointi (myöhemmin):**
+- Aivojen plastisuuden käsite sisältyy PS1-moduulin kokeeseen
+- Opiskelijat voivat soveltaa tietoa muissa oppimisen ja kehityksen tehtävissä
 
 ---
 
 ## ERIYTTÄMINEN
 
-**Tuki:**
-- Selkeät havainnointitehtävät strukturoidulla lomakkeella
-- Mahdollisuus työskennellä parin kanssa vierailulla
-- Kotitehtävässä voi käyttää visuaalisia elementtejä (kaaviot, kuvat) tekstin tukena
-- Ennakkomateriaali helppolukuisessa muodossa
-
-**Syventäminen:**
-- Lisäkysymykset asiantuntijalle (etukäteen mietittynä)
-- Kotitehtävässä voi analysoida useampia tutkimusesimerkkejä
-- Mahdollisuus tutustua tutkimusartikkeleihin (esim. Wikipedia-lähde englanniksi)
-- Yhteyden rakentaminen PS2-moduulin kehityspsykologiaan
+- **Syventäminen:** Kiinnostuneet opiskelijat voivat tutustua tutkimusartikkeleihin neuroplastisuudesta
+- **Tuki:** Opiskelijat, jotka tarvitsevat tukea, saavat selkokielisen yhteenvedon keskeisistä käsitteistä
+- **Kielellinen tuki:** Käsitteistö selitetään ja kirjoitetaan näkyville
 
 ---
 
 ## LAAJA-ALAINEN OSAAMINEN
 
-- **Hyvinvointiosaaminen:** Unen merkitys aivojen plastisuudelle ja oppimiselle, aivojen terveyden ylläpitäminen
-- **Vuorovaikutusosaaminen:** Sosiaalisen ympäristön vaikutus aivojen kehitykseen, yhteistyö vierailulla
-- **Globaali- ja kulttuuriosaaminen:** Erilaisten oppimisympäristöjen vaikutus aivojen muovautumiseen
-- **Monitieteinen osaaminen:** Psykologian ja neurotieteen yhdistäminen
+- **Hyvinvointiosaaminen:** Unen merkitys, aivojen terveys, oppimisen tehokkuus
+- **Vuorovaikutusosaaminen:** Sosiaalisen ympäristön vaikutus oppimiseen
+- **Globaali- ja kulttuuriosaaminen:** Erilaisten oppimisympäristöjen vaikutus aivojen kehitykseen
 
 ---
 
-## YHTEYDET MUIHIN SISÄLTÖIHIN
+## HUOMIOITA OPETTAJALLE
 
-**PS1-moduulissa:**
-- Oppimisen psykologia (ehdollistuminen, muisti)
-- Unen merkitys oppimiselle
-- Metakognitio ja oppimisstrategiat
-
-**Muissa moduuleissa:**
-- PS2: Hermoston muovautuvuus ja elinikäinen kehitys
-- PS3: Muistin hermostolliset verkostot
-
----
-
-## VINKIT OPETTAJALLE
-
-**Vierailun valmistelu:**
-- Ota yhteyttä Oulun yliopiston psykologian laitokseen/aivotutkimusyksikköön hyvissä ajoin (vähintään kuukausi etukäteen)
-- Sovi selkeä aikataulu ja sisältö asiantuntijan kanssa
-- Varmista kuljetukset ja luvat (alaikäisten opiskelijoiden huoltajaluvat)
-- Varaudu plan B:hen (etävierailu Teamsin kautta, jos paikan päällä vierailu ei onnistu)
-
-**Turvallisuus ja käytännöt:**
-- Käy läpi yliopiston tilaturvallisuusohjeet
-- Varmista, että kaikilla on yhteystiedot
-- Sovi kokoontumispaikat
-
-**Jatkotoimet:**
-- Jaa vierailun dokumentaatio (kuvat, muistiinpanot) yhteiselle alustalle
-- Hyödynnä kokemuksia seuraavilla tunneilla
-- Kerää opiskelijapalautetta vierailusta kehittämistä varten
-
----
-
-**Yhteistyötaho:** Oulun yliopisto, Psykologian laitos / Aivotutkimusyksikkö
+- Varmista vierailijan saapuminen ajoissa ja teknisten välineiden toiminta
+- Valmistele opiskelijat etukäteen: mitä odottaa, mitkä ovat keskeisiä käsitteitä
+- Säilytä interaktiivinen ilmapiiri – älä anna luennon muuttua passiiviseksi kuunteluksi
+- Yhdistä aihe opiskelijoiden omaan elämään (oppiminen, uni, harrastukset)
+- Dokumentoi tunti valokuvilla tai muistiinpanoilla seuraavaa tuntia varten

@@ -1,210 +1,204 @@
-# TUNTISUUNNITELMA: Erilaiset oppimiskulttuurit
+# TUNTISUUNNITELMA: ERILAISET OPPIMISKULTTUURIT
 
-**Moduuli:** PS1 - Toimiva ja oppiva ihminen | **Kesto:** 75 min | **Työtapa:** Työpaja  
-**Kohderyhmä:** Lukion 3. vuosi, syksy | **Opiskelijamäärä:** ~20-25
+**Moduuli:** PS1 – Toimiva ja oppiva ihminen | **Aihe-ID:** 17 | **Kesto:** 75 min | **Työtapa:** Työpaja
 
 ---
 
 ## TAVOITTEET
 
-**Moduulikohtaiset tavoitteet:**
-- Opiskelija ymmärtää oppimisen sosiokulttuurisen luonteen ja kulttuurin vaikutuksen psykologisiin prosesseihin
-- Opiskelija osaa analysoida erilaisia oppimiskäytäntöjä biopsykososiaalisesta näkökulmasta
-- Opiskelija kehittää globaali- ja kulttuuriosaamistaan sekä kriittistä tiedonhallintaa
+**Moduulin tavoitteet:**
+- Ymmärtää ihmisen toimintaa biopsykososiaalisena kokonaisuutena
+- Hallita psykologisen käsitteistön (erityisesti oppimisen sosiaalisuus ja kulttuurillisuus)
+- Kehittää kriittistä tiedonhallintaa
 
-**Laaja-alainen osaaminen:**
-- Globaali- ja kulttuuriosaaminen (kulttuurinen moninaisuus, yksilöiden välinen erilaisuus)
-- Vuorovaikutusosaaminen (ryhmätyöskentely, eri näkökulmien kuunteleminen)
-- Hyvinvointiosaaminen (oman oppimisen ymmärtäminen)
-
----
-
-## TUNNIN KULKU
-
-### 1. ALOITUS JA ORIENTOITUMINEN (10 min)
-
-**Aktivoiva aloitus:**
-- Opiskelijan oma kokemus: "Mieti hetki omaa oppimistasi. Missä opit parhaiten? Miten opit parhaiten? Miksi?"
-- Nopea parijakaminen (2 min)
-- Muutama esimerkki ääneen → kirjataan fläppitaululle
-
-**Tunnin tavoitteiden esittely:**
-- Tänään tutkimme, miten kulttuuri muokkaa oppimista
-- Työpajassa tutustumme erilaisiin oppimiskulttuureihin maailmalta
-- Tavoitteena ymmärtää oppimisen moninaisuus ja oma oppimiskulttuurimme
+**Tunnin tavoitteet – Opiskelija:**
+- Ymmärtää, miten kulttuuri vaikuttaa oppimiskäytäntöihin ja -ympäristöihin
+- Tunnistaa erilaisia oppimiskulttuureita ja niiden piirteitä
+- Reflektoi omaa oppimiskulttuuria ja sen taustalla vaikuttavia tekijöitä
+- Kehittää globaali- ja kulttuuriosaamista sekä vuorovaikutusosaamista
 
 ---
 
-### 2. TEORIAPOHJA (15 min)
+## TUNNIN KULKU (75 min)
 
-**Lyhyt luento + keskustelu:**
+### 1. JOHDANTO (10 min)
 
-**Biopsykososiaalinen näkökulma oppimiseen:**
-- Oppiminen = biologinen (aivot) + psykologinen (motivaatio, tunteet) + sosiaalinen (vuorovaikutus) + kulttuurinen (arvot, käytännöt)
-- Kulttuuri vaikuttaa siihen, MITEN jäsennämme tietoa, MITÄ pidämme tärkeänä, MITEN vuorovaikutamme
+**Aktivointi ja konteksti:**
+- Opettaja näyttää lyhyen videon tai kuvia eri oppimisympäristöistä maailmalta (esim. perinteinen luokkahuone, ryhmäopiskelu, verkko-opiskelu, luontoympäristö)
+- Kysymys: *"Mitä eroja näette näissä oppimisympäristöissä? Mikä vaikuttaa siihen, miten opiskellaan?"*
+- Opettaja esittelee tunnin tavoitteet ja työpajan rakenne
 
-**Kulttuurin vaikutus oppimiseen (esimerkkejä):**
-- Yksilökeskeinen vs. yhteisöllinen oppiminen
-- Opettajakeskeinen vs. oppijakeskeinen pedagogiikka
-- Kilpailu vs. yhteistyö
-- Suullinen vs. kirjallinen traditio
-- Virheisiin suhtautuminen
-
-**Visuaalinen tuki:** PowerPoint-dia tai Padlet-taulu keskeisistä käsitteistä
+**Käsitteistö:**
+- Oppimiskulttuuri = kulttuuriset arvot, uskomukset ja käytännöt, jotka muovaavat sitä, miten oppiminen tapahtuu
+- Biopsykososiaalinen näkökulma = psyykkiset prosessit vuorovaikutuksessa biologian ja sosiokulttuurisen ympäristön kanssa
 
 ---
 
-### 3. TYÖPAJATYÖSKENTELY: OPPIMISKULTTUURIEN TUTKIMUS (35 min)
+### 2. TIETOPOHJAN RAKENTAMINEN (15 min)
 
-**Ryhmäjako:** 4-5 hengen ryhmät (5 ryhmää)
+**Opettajan miniluento + interaktiivinen keskustelu:**
 
-**Jokaiselle ryhmälle oma oppimiskulttuuri tutkittavaksi:**
-1. **Suomalainen oppimiskulttuuri** (vertailukohta)
-2. **Itä-Aasian oppimiskulttuuri** (esim. Japani, Etelä-Korea)
-3. **Pohjoisamerikkalainen oppimiskulttuuri** (esim. USA)
-4. **Afrikkalainen oppimiskulttuuri** (esim. Ubuntu-filosofia)
-5. **Alkuperäiskansojen oppimiskulttuuri** (esim. saamelaiset, aboriginaalit)
+**Kulttuurin vaikutus oppimiseen:**
+- Kulttuuri muokkaa sitä, miten ihmiset jäsentävät ja luokittelevat tietoa
+- Eri kulttuureissa erilaisia painotuksia: yhteisöllinen vs. yksilöllinen oppiminen
+- Esimerkki: Länsimaissa usein korostetaan yksilöllistä kilpailua ja itsenäistä ajattelua; monissa muissa kulttuureissa yhteisöllinen oppiminen ja ryhmän hyvinvointi
 
-**Ryhmän tehtävä (25 min):**
+**Oppimiskulttuurin elementit:**
+- Opettajan rooli (auktoriteetti vs. fasilitaattori)
+- Tiedon luonne (absoluuttinen vs. suhteellinen)
+- Vuorovaikutuksen tapa (suora vs. epäsuora)
+- Palaute ja arviointi (yksilöllinen vs. ryhmäpohjainen)
+- Oppimisen konteksti (muodollinen vs. epämuodollinen)
 
-Tutkikaa annettua oppimiskulttuuria seuraavien kysymysten avulla:
-
-1. **Arvot ja tavoitteet:** Mitä oppimisessa arvostetaan? (esim. yksilön menestys vs. yhteisön hyvinvointi)
-2. **Opetusmenetelmät:** Miten opetetaan? (esim. luennot, tekemällä oppiminen, tarinankerronta)
-3. **Opettajan rooli:** Millainen on opettajan ja oppijan suhde?
-4. **Vuorovaikutus:** Miten opiskelijat toimivat keskenään?
-5. **Arviointi:** Miten oppimista mitataan ja arvioidaan?
-6. **Ympäristö:** Missä oppiminen tapahtuu?
-
-**Materiaalit ryhmille:**
-- Tulostetut artikkelit/tekstikatkelmat kulttuurista
-- Linkit videoihin (esim. YouTube-dokumentit)
-- Tutkimusartikkeleiden tiivistelmiä
-- Tabletit/kannettavat lisätiedon hakuun
-
-**Tuotos:** Ryhmä valmistaa lyhyen esityksen (max 3 min) + visuaalisen posterin (A3)
+**Psykologinen näkökulma:**
+- Kulttuuriympäristö vaikuttaa tiedonkäsittelyyn, havaitsemiseen ja ajatteluun
+- Kulttuurivinoumat tutkimuksessa: länsimaalainen psykologia ei ole universaali
 
 ---
 
-### 4. RYHMIEN ESITYKSET JA REFLEKTIO (12 min)
+### 3. TYÖPAJA: OPPIMISKULTTUURIEN TUTKIMINEN (40 min)
 
-**Esitykset:** Jokainen ryhmä esittelee oppimiskulttuurinsa (3 min/ryhmä)
+**Ryhmätyö (3–4 hengen ryhmät, 5–6 ryhmää):**
 
-**Opettajan rooli:**
-- Nostaa esiin yhtäläisyyksiä ja eroja
-- Kytkee havaintoja biopsykososiaaliseen malliin
-- Korostaa: ei "parempia" tai "huonompia" kulttuureita, vaan erilaisia tapoja
+Jokainen ryhmä saa yhden oppimiskulttuurin tapaustutkimukseksi:
 
----
+1. **Perinteinen itämainen oppimiskulttuuri** (esim. Japani, Kiina)
+2. **Skandinaavinen oppimiskulttuuri** (esim. Suomi, Ruotsi)
+3. **Yhdysvaltalainen oppimiskulttuuri**
+4. **Afrikkalaiset oppimiskulttuurit** (esim. yhteisöllinen oppiminen)
+5. **Digitaalinen/verkon oppimiskulttuuri**
+6. **Oman koulun oppimiskulttuuri**
 
-### 5. KRIITTINEN ANALYYSI JA SOVELTAMINEN (10 min)
+**Tehtävä (25 min):**
+Ryhmä analysoi saamaansa oppimiskulttuuria seuraavien kysymysten avulla:
+- Mitkä arvot ja uskomukset ohjaavat oppimista tässä kulttuurissa?
+- Kuka on opettaja ja mikä on hänen roolinsa?
+- Miten tieto nähdään (absoluuttinen vai suhteellinen)?
+- Miten opiskelijat vuorovaikuttavat keskenään?
+- Miten oppimista arvioidaan?
+- Mitkä ovat vahvuudet ja haasteet?
 
-**Yhteinen keskustelu:**
+**Materiaalit:**
+- Tutkimusartikkelit/case-kuvaukset (opettaja jakaa)
+- Videoleikkeet oppimisympäristöistä
+- Kuvamateriaalit
+- Ryhmän käytössä: A3-paperi, värit, post-it-lappu
 
-**Pohdintakysymykset:**
-- Miten oma kulttuuritaustasi vaikuttaa siihen, miten opit?
-- Mitä vahvuuksia näet suomalaisessa oppimiskulttuurissa? Entä kehityskohteita?
-- Miten globalisoituva maailma vaikuttaa oppimiskulttuureihin?
-- Voiko yksilö hyödyntää eri oppimiskulttuureista opittua omassa oppimisessaan?
+**Ryhmän tuotos:**
+- Visuaalinen esitys oppimiskulttuurin piirteistä (mindmap, infografiikka tai julistepohja)
 
-**Kriittinen tiedonhallinta:**
-- Miten tutkimme oppimiskulttuureita? (havainnointi, haastattelut, kulttuurienväliset vertailut)
-- Mitä haasteita kulttuurien tutkimiseen liittyy? (stereotypiat, yleistäminen, kulttuurivinoumat)
-
----
-
-### 6. YHTEENVETO JA KOTITEHTÄVÄ (3 min)
-
-**Yhteenveto:**
-- Oppiminen on aina kulttuurisesti värittynyttä
-- Kulttuuri vaikuttaa siihen, miten ajattelemme, havaitsemme ja käsittelemme tietoa
-- Erilaisten oppimiskulttuurien ymmärtäminen auttaa toimimaan monikulttuurisessa maailmassa
-
-**Kotitehtävä (vapaaehtoinen syventävä):**
-Kirjoita 1-2 sivun reflektio: "Miten oma kulttuuritaustani ja oppimiskokemukseni ovat muokanneet minua oppijaksi? Mitä voisin oppia muista oppimiskulttuureista?"
+**Esittäminen (15 min):**
+- Jokainen ryhmä esittelee tuloksensa 2–3 minuutissa
+- Muut ryhmät tekevät muistiinpanoja ja esittävät kysymyksiä
 
 ---
 
-## MENETELMÄT
+### 4. REFLEKTIO JA YHDISTÄMINEN (8 min)
 
-- **Työpajatyöskentely:** Aktiivinen, tutkiva oppiminen pienryhmissä
-- **Aineistopohjainen analyysi:** Videoiden, artikkeleiden ja tutkimusten käyttö
-- **Vertaileva tarkastelu:** Eri kulttuurien rinnakkainen tutkiminen
-- **Reflektiivinen keskustelu:** Oman oppimisen ja kulttuurin pohdinta
-- **Visuaalinen työskentely:** Postereiden luominen tiedon jäsentämiseksi
+**Ohjattu keskustelu:**
+- *"Mitä yhteistä näillä oppimiskultuureilla on? Mitä eroja?"*
+- *"Miten nämä kulttuuriset erot vaikuttavat oppimisen tehokkuuteen?"*
+- *"Onko yksi oppimiskulttuuri parempi kuin toinen?"*
+
+**Yksilöllinen reflektio (kirjallinen):**
+Opiskelijat vastaavat lyhyesti (3–5 lausetta):
+- *"Mikä on sinun oppimiskulttuurisi? Mistä se tulee (perhe, koulu, ystävät, kulttuuri)?"*
+- *"Miten se vaikuttaa siihen, miten opit psykologiaa?"*
 
 ---
 
-## MATERIAALIT
+### 5. YHTEENVETO JA KOTITEHTÄVÄ (2 min)
 
-**Opettajalle:**
-- PowerPoint-esitys (biopsykososiaalinen malli, keskeiset käsitteet)
-- Työpajaohje ryhmille (tulostettu)
-- Ajastin
+**Opettajan yhteenveto:**
+- Kulttuuri muokkaa oppimista monella tasolla
+- Biopsykososiaalinen näkökulma: psyykkiset prosessit eivät ole irrallaan kulttuurista
+- Ymmärrys erilaista oppimiskultuureista kehittää globaali- ja kulttuuriosaamista
 
-**Opiskelijoille:**
-- Tulostetut artikkelit/tekstikatkelmat (5 eri kulttuuria)
-- A3-paperit ja tussit postereihin
-- Tabletit/kannettavat (1-2 per ryhmä)
-- Linkit videoihin ja lisämateriaaleihin (jaettu Wilmassa/Teamsissa etukäteen)
+**Kotitehtävä:**
+Kirjoita 1–2 sivun reflektio: *"Miten eri oppimiskulttuurit näkyvät omassa lukiossasi? Mitä oppimiskulttuuria koulu edistää ja mitä jää vähemmälle?"*
 
-**Suositellut lähteet:**
-- Opetushallituksen materiaalit LOPS 2021 psykologiasta
-- Psykologi-lehden artikkelit kulttuuripsykologiasta
-- YouTube: dokumentit erilaisista koulutusjärjestelmistä
-- Tutkimusartikkelit (esim. Hofsteden kulttuuriulottuvuudet)
+---
+
+## MENETELMÄT & PEDAGOGINEN LÄHESTYMISTAPA
+
+| Menetelmä | Toteutus |
+|-----------|----------|
+| **Aineistopohjainen työskentely** | Videoiden, artikkeleiden ja case-kuvausten analysointi |
+| **Ryhmätyöskentely** | Yhteisöllinen oppiminen, vuorovaikutusosaaminen |
+| **Reflektiivisyys** | Oman oppimiskulttuurin pohtiminen |
+| **Kriittinen ajattelu** | Oppimiskulttuurien vahvuuksien ja haasteiden analysointi |
+| **Visuaalinen oppiminen** | Mindmap, infografiikka, julisteet |
+
+---
+
+## MATERIAALIT & RESURSSIT
+
+**Opettajan materiaalit:**
+- Johdantovideo tai kuvat eri oppimisympäristöistä
+- Tutkimusartikkelit/case-kuvaukset kustakin oppimiskulttuurista
+- Videoleikkeet (esim. YouTube: "Learning in Japan", "Finnish education system")
+
+**Opiskelijoiden materiaalit:**
+- A3-paperi, värit, post-it-laput
+- Tutkimusmateriaali (jaettu ryhmittäin)
+- Reflektio-lomake (kirjallinen tai digitaalinen)
+
+**Digitaaliset resurssit:**
+- Opettajan esitys (PowerPoint/Prezi)
+- Linkit tutkimusartikkeleihin ja videoihin
 
 ---
 
 ## ARVIOINTI
 
-**Formatiivinen arviointi (prosessin aikainen):**
-- Havainnointi ryhmätyöskentelystä: osallistuminen, vuorovaikutus
-- Kysymykset ryhmille työskentelyn aikana
-- Välipalaute: "Mitä olet oppinut tähän mennessä?"
+**Formatiivinen arviointi (tunnin aikana):**
+- Opettaja havainnoi ryhmätyöskentelyä: osallistuminen, yhteistyö, kriittinen ajattelu
+- Ryhmän esityksen laatu: ymmärrys oppimiskulttuurin piirteistä, selkeys
+- Kysymykset ja keskustelu: syvällisyys, reflektiivisyys
 
-**Summatiivinen arviointi (oppimisen arviointi):**
-- Ryhmän esitys ja posteri: psykologisen käsitteistön käyttö, analyysitaidot
-- Osallistuminen keskusteluun: kriittinen ajattelu, soveltaminen
-- Kotitehtävä (jos annettu): reflektiotaidot, itsetuntemus
+**Summatiivinen arviointi (kotitehtävä):**
+- Reflektio-kirjoitelman laatu: itsetuntemus, yhteys teoriaan, kriittisyys
+- Käsitteistön käyttö
 
-**Arviointikriteerit (moduulin tavoitteiden mukaan):**
-- Ymmärtääkö opiskelija kulttuurin vaikutuksen oppimiseen?
-- Osaako opiskelija käyttää biopsykososiaalista mallia analyysissa?
-- Kehittyykö kriittinen tiedonhallinta ja globaaliosaaminen?
+**Arviointiperusteet:**
+- Psykologisen käsitteistön hallinta (oppimiskulttuuri, biopsykososiaalinen näkökulma)
+- Analyysitaidot (erilaisten oppimiskulttuurien tunnistaminen ja vertailu)
+- Soveltaminen (yhteys omaan oppimiseen ja koulun kontekstiin)
+- Globaali- ja kulttuuriosaaminen (ymmärrys kulttuurisesta moninaisuudesta)
 
 ---
 
 ## ERIYTTÄMINEN
 
-**Tuki tarvittaessa:**
-- Selkeät kirjalliset ohjeet jokaiselle ryhmälle
-- Opettaja kiertää ryhmissä ja tukee tarvittaessa
-- Mahdollisuus käyttää suomenkielisiä lähteitä
-- Visuaaliset tukimateriaalit (kuvat, videot)
+**Tukea tarvitsevat opiskelijat:**
+- Valmiit kysymysrunko ryhmätyöhön
+- Opettajan tuki ryhmätyön aikana
+- Lyhyempi reflektio-kirjoitus
 
-**Haastetta kaipaaville:**
-- Syvällisempi tutkimusartikkeli analysoitavaksi
-- Tehtävä: "Vertaile kahta oppimiskulttuuria psykologisen tutkimuksen näkökulmasta"
-- Kriittinen pohdinta: kulttuurivinoumat psykologisessa tutkimuksessa
-
-**Joustavuus:**
-- Ryhmätyö mahdollistaa eri vahvuuksien hyödyntämisen
-- Esitysmuoto voi vaihdella (suullinen, visuaalinen, kirjallinen)
+**Syventävät opiskelijat:**
+- Lisäkysymys: *"Miten kulttuurivinoumat vaikuttavat psykologiseen tutkimukseen?"*
+- Mahdollisuus tutkia omaa kulttuuria syvemmin
+- Yhteys muihin PS1-aiheisiin (esim. oppimisstrategiat, metakognitio)
 
 ---
 
-## YHTEYDET MUIHIN MODUULEIHIN
+## LAAJA-ALAINEN OSAAMINEN
 
-- **PS2 (Kehittyvä ihminen):** Kulttuurin vaikutus identiteetin muodostumiseen
-- **PS5 (Yksilöllinen ja yhteisöllinen ihminen):** Kulttuuriulottuvuudet, akkulturaatio
-- **Laaja-alaisesti:** Historia (kulttuurihistoria), yhteiskuntaoppi (globalisaatio), kielet (kulttuurien kohtaaminen)
+| Osaamisen alue | Toteutus |
+|---|---|
+| **Globaali- ja kulttuuriosaaminen** | Erilaisten oppimiskulttuurien tutkiminen, kulttuurisen moninaisuuden ymmärtäminen |
+| **Vuorovaikutusosaaminen** | Ryhmätyöskentely, keskustelu, esittäminen |
+| **Hyvinvointiosaaminen** | Oman oppimiskulttuurin reflektio, itsetuntemus |
 
 ---
 
-**Opettajan muistilista:**
-✓ Varmista tekniikat (videot, nettiyhteys)  
-✓ Tulosta materiaalit etukäteen  
-✓ Valmistele ryhmäjako (heterogeeniset ryhmät)  
-✓ Varaa A3-paperit ja tussit  
-✓ Lataa videot varmuuden vuoksi paikallisesti  
+## HUOMIOITA OPETTAJALLE
+
+- **Kulttuurisensitiiivisyys:** Varmista, että esitykset eri kulttuureista ovat kunnioittavia ja stereotypioita välttäviä
+- **Osallisuus:** Kannusta opiskelijoita jakamaan omia kokemuksiaan (mikäli he haluavat)
+- **Yhteys käytäntöön:** Linkitä aihe opiskelijoiden omaan koulukontekstiin ja psykologian opiskeluun
+- **Aika:** Varmista, että ryhmillä on riittävästi aikaa työskennellä; tarvittaessa jatka esitykset seuraavalle tunnille
+
+---
+
+**Opettaja:** [Nimi] | **Pvm:** [Päivämäärä] | **Luokka:** [Luokka]

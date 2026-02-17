@@ -1,159 +1,225 @@
 # TUNTISUUNNITELMA: Tieteellinen tieto vs. arkipsykologia
 
-**Moduuli:** PS1 – Toimiva ja oppiva ihminen | **Kesto:** 75 min | **Työtapa:** Pienryhmätyöskentely  
-**Kohderyhmä:** Lukion 3. vuosi, kevät | **Opiskelijamäärä:** n. 20-25
+**Moduuli:** PS1 – Toimiva ja oppiva ihminen  
+**Kesto:** 75 minuuttia  
+**Työtapa:** Pienryhmä (3–4 henkilöä)  
+**Kohderyhmä:** 1. vuoden opiskelijat (syksy)  
+**Konteksti:** Keskikokoinen lukio, noin 300 opiskelijaa
 
 ---
 
 ## TAVOITTEET
 
-**Moduulikohtaiset tavoitteet (PS1):**
-- Opiskelija ymmärtää psykologian tieteenluonteen ja osaa erottaa tieteellisen tiedon arkipsykologiasta
-- Opiskelija kehittää kriittistä tiedonhallintaa ja osaa arvioida tietolähteiden luotettavuutta
-- Opiskelija ymmärtää empiirisen tutkimuksen merkityksen psykologisessa tiedonmuodostuksessa
+### Oppimistavoitteet
+Tunnin jälkeen opiskelija:
+- **Ymmärtää** tieteellisen tiedon ja arkipsykologian perustavanlaatuiset erot
+- **Osaa tunnistaa** arkipsykologisia väitteitä ja tieteellisiä väitteitä erilaisista lähteistä
+- **Kykenee arvioimaan** tiedon luotettavuutta ja pätevyyttä kriittisesti
+- **Ymmärtää** tieteellisen ajattelun merkityksen psykologisessa tutkimuksessa
+- **Osaa perustella** väitteensä tieteellisen näytön avulla
 
-**Tunnin oppimistavoitteet:**
-- Opiskelija osaa nimetä tieteellisen tiedon ja arkipsykologian keskeiset erot
-- Opiskelija tunnistaa kognitiivisia vinoumia ja arkipsykologian sudenkuoppia
-- Opiskelija osaa arvioida väitteiden tieteellisyyttä käytännön esimerkkien avulla
-
-**Laaja-alainen osaaminen:**
-- Hyvinvointiosaaminen (kriittinen ajattelu), Vuorovaikutusosaaminen (ryhmätyö), Eettisyys (tutkimusetiikka), Globaali- ja kulttuuriosaaminen (kulttuuristen uskomusten tunnistaminen)
+### Laaja-alaisen osaamisen kehittäminen
+- **Hyvinvointiosaaminen:** Itsetuntemuksen ja kriittisen ajattelun kehittäminen
+- **Vuorovaikutusosaaminen:** Tieteellisen keskustelun harjoittelu pienryhmässä
+- **Eettisyys:** Tutkimuseettisten näkökohtien arviointi
+- **Globaali- ja kulttuuriosaaminen:** Kulttuuristen uskomusten ja arkipsykologian suhde
 
 ---
 
 ## TUNNIN KULKU
 
-### 1. ALOITUS – Aktivointi (10 min)
+### 1. JOHDANTO (10 min)
 
-**Menetelmä:** Think-Pair-Share + Plenum-keskustelu
+**Menetelmä:** Interaktiivinen keskustelu + aivoriihityöskentely
 
-- **Yksilöpohdinta (2 min):** Opiskelijat kirjoittavat ylös 2-3 "psykologista totuutta", joita he ovat kuulleet (esim. "Käytämme vain 10% aivoistamme", "Vastakohdat vetävät puoleensa")
-- **Parikeskustelu (3 min):** Opiskelijat jakavat ajatuksiaan parin kanssa
-- **Yhteinen purku (5 min):** Kerätään esimerkkejä taululle → Herätellään kysymys: "Mistä tiedämme, onko tämä totta?"
+**Sisältö:**
+- Opettaja esittää arkipäiväisiä väitteitä ihmisen psyykkisestä toiminnasta:
+  - *"Olemme vasemman tai oikean aivopuoliskon ihmisiä"*
+  - *"Käytämme vain 10 % aivoistamme"*
+  - *"Stressiä voi lievittää kuuntelemalla Mozartia"*
+  - *"Intuitio on aina oikea"*
 
-**Tavoite:** Aktivoida esiymmärrys ja luoda tarve tieteellisen tiedon kriteereille
-
----
-
-### 2. TIEDON RAKENTAMINEN – Pienryhmätyöskentely (35 min)
-
-**Menetelmä:** Jigsaw-tekniikka (asiantuntijaryhmät)
-
-**Ryhmäjako (4 ryhmää, 5-6 opiskelijaa/ryhmä):**
-
-**Ryhmä 1: Tieteellisen tiedon tunnusmerkit**
-- Materiaali: Lyhyt artikkeli tieteellisestä menetelmästä (https://blogs.tuni.fi/taju/teema1/mista-tieteellinen-ajattelu-koostuu/)
-- Tehtävä: Listatkaa 5 keskeistä piirrettä, jotka tekevät tiedosta tieteellistä
-
-**Ryhmä 2: Arkipsykologian luonne**
-- Materiaali: Artikkeli arkipsykologiasta (https://blogs.helsinki.fi/med-viikonjuttu/2020/10/19/arkipsykologia-ja-tieteellinen-psykologia/)
-- Tehtävä: Tunnistakaa arkipsykologian lähteet ja rajoitteet
-
-**Ryhmä 3: Kognitiiviset vinoumat**
-- Materiaali: Esimerkkejä kognitiivisista vinoumista (vahvistusharha, saatavuusheuristiikka)
-- Tehtävä: Analysoikaa, miten vinoumat vaikuttavat arkipsykologiseen ajatteluun
-
-**Ryhmä 4: Tutkimusetiikka ja kriittisyys**
-- Materiaali: Esimerkkejä pseudotieteestä ja epäluotettavista lähteistä
-- Tehtävä: Laatikaa tarkistuslista tiedon luotettavuuden arviointiin
-
-**Aikataulu:**
-- Asiantuntijaryhmätyö: 20 min
-- Kotipesäryhmät (jokaisesta asiantuntijaryhmästä 1 edustaja): 15 min
-  - Jokainen jakaa oman ryhmänsä opit muille
+- Opiskelijat äänestävät, uskovatko he väitteisiin (kädessä ylös/alas)
+- Opettaja esittää kysymyksen: *"Mistä tiedämme, mitkä näistä ovat totta?"*
+- Johdanto johtaa tunnin keskeiseen teemaan: **Miten erotamme tieteellisen tiedon arkipsykologiasta?**
 
 ---
 
-### 3. SOVELTAMINEN – Väittämien analysointi (20 min)
+### 2. KÄSITTEELLINEN PERUSTA (15 min)
 
-**Menetelmä:** Pienryhmätyö + Galleriatyöskentely
+**Menetelmä:** Opettajajohtoisesti esitettävä sisältö + visuaalinen apuväline
 
-**Tehtävä:** Ryhmät saavat 3-4 väittämää analysoitavaksi (esim. "Unessa oppiminen toimii", "Miesten ja naisten aivot toimivat eri tavalla", "Positiivinen ajattelu parantaa terveyttä")
+**Sisältö:**
 
-**Analyysikehys (A3-paperille):**
-1. Onko väittämä tieteellinen vai arkipsykologinen? Perustele.
-2. Mitä todisteita väittämän tueksi/vastaan löytyy?
-3. Mitkä kognitiiviset vinoumat voisivat tukea tämän uskomista?
-4. Miten väittämää voisi tutkia tieteellisesti?
+**Tieteellinen psykologia:**
+- Perustuu järjestelmälliseen, empiiriseen tutkimukseen
+- Käyttää tieteenalan kieltä ja käsitteistöä
+- Kriittinen arviointi: tutkimusten luotettavuus, pätevyys, eettisyys
+- Tavoitteena selittää ihmisen toimintaa biopsykososiaalisena kokonaisuutena
+- Tieteellinen ajattelu on **harjoiteltava taito**
 
-**Galleriakävely (10 min):** Ryhmät kiertävät tutustumassa toisten analyyseihin ja antavat post-it-palautetta
+**Arkipsykologia:**
+- Perustuu henkilökohtaisiin kokemuksiin ja yleiseen mielipiteeseen
+- Hyödyllinen arjessa, mutta ei välttämättä yleistettävissä
+- Voi sisältää kognitiivisia vinoumia ja virheellisiä päätelmiä
+- Esim. perimätieto, kulttuuriset uskomukset, intuitio
 
----
-
-### 4. YHTEENVETO JA REFLEKTIO (10 min)
-
-**Menetelmä:** Strukturoitu loppukeskustelu
-
-- **Opettajan yhteenveto (5 min):** Kootaan keskeiset opit visuaaliseksi taulukoksi (tieteellinen tieto vs. arkipsykologia)
-- **Exit ticket (5 min):** Opiskelijat kirjoittavat:
-  1. Yksi asia, jonka opin tänään
-  2. Yksi kysymys, joka jäi mieleen
-  3. Yksi esimerkki arjesta, jossa voin soveltaa tätä tietoa
+**Visuaalinen apuväline:** Opettaja näyttää Venn-diagrammin, jossa näkyy tieteellisen tiedon ja arkipsykologian päällekkäisyydet ja erot.
 
 ---
 
-## MATERIAALIT
+### 3. PIENRYHMÄTYÖSKENTELY – AINEISTOANALYYSI (35 min)
 
-**Digitaaliset:**
-- Artikkelit (jaettu etukäteen sähköisesti tai tulostettuina)
-- Kognitiivisten vinoumien esimerkkivideot (esim. YouTube, 3-5 min)
-- Väittämäkortit (digitaalisesti tai tulostettuina)
+**Menetelmä:** Aineistopohjainen työskentely pienryhmissä
 
-**Fyysiset:**
-- A3-paperit ryhmätöihin (4 kpl)
-- Post-it-laput galleriakävelyyn
-- Tussit/kynät
+**Järjestely:**
+- Opiskelijat jaetaan 3–4 henkilön ryhmiin
+- Jokaiselle ryhmälle annetaan **erilainen aineisto** (alla olevista vaihtoehdoista)
 
-**Verkkolähteet:**
+**Aineistovaihtoehdot:**
+
+| Ryhmä | Aineisto | Tehtävä |
+|-------|----------|---------|
+| **1** | Uutisartikkeli: *"Uusi tutkimus: Kahvi parantaa muistia"* (populaaritiede) | Tunnista arkipsykologiset väitteet ja tieteelliset väitteet. Mitä tietoa puuttuu? |
+| **2** | Tiivistelmä tieteellisestä tutkimuksesta: Kahvin vaikutuksesta muistiin (abstrakti + metodologia) | Analysoi, miten tutkimus eroaa populaariartikkelista. Mitkä tekijät tekevät siitä tieteellisen? |
+| **3** | Sosiaalisen median postaus: *"Stressiä voi lievittää meditaatiolla – minulla se auttoi!"* | Tunnista arkipsykologian piirteet. Miksi tämä ei ole tieteellistä tietoa? Mitä tutkimusta tarvittaisiin? |
+| **4** | Tutkimusartikkeli: Meditaation vaikutuksesta stressiin (vertaisarvioitu) | Analysoi tutkimuksen rakennetta. Mitkä elementit tekevät siitä tieteellisen? |
+
+**Ryhmän tehtävät (25 min työskentely):**
+1. Lue aineisto huolellisesti
+2. Täytä **analyysitaulukko** (jaettu):
+   - Mitkä väitteet ovat arkipsykologiaa?
+   - Mitkä väitteet perustuvat tutkimukseen?
+   - Mitä tutkimusmenetelmiä käytettiin (jos tieteellinen)?
+   - Mitä tietoa puuttuu?
+   - Kuinka luotettava lähde on?
+3. Valmistaudu esittelemään tulokset (2 min per ryhmä)
+
+**Opettajan rooli:** Kiertää ryhmissä, esittää ohjailsevia kysymyksiä, tukee analyysia.
+
+---
+
+### 4. RYHMIEN ESITTELYT JA VERTAILU (12 min)
+
+**Menetelmä:** Ryhmäesittelyt + vertaileva keskustelu
+
+**Sisältö:**
+- Kukin ryhmä esittelee tuloksensa (2 min)
+- Opettaja korostaa eroja ryhmien välillä
+- Yhteinen havainto: **Tieteellinen tieto on systemaattisesti hankittua ja kriittisesti arvioitua**
+
+**Keskustelukysymykset:**
+- *"Miksi arkipsykologia voi olla harhaanjohtavaa?"*
+- *"Missä tilanteissa arkipsykologia on hyödyllistä?"*
+- *"Miten voimme oppia arvioimaan tiedon luotettavuutta?"*
+
+---
+
+### 5. YHTEENVETO JA SOVELTAMINEN (3 min)
+
+**Menetelmä:** Opettajajohtoisesti esitettävä yhteenveto
+
+**Sisältö:**
+- Tieteellinen ajattelu on **harjoiteltava taito**, jota kehitetään koko PS1-moduulin ajan
+- Psykologian opinnot opettavat erottamaan tutkitun tiedon mututuntumasta
+- Tämä taito on hyödyllinen myös muilla elämän osa-alueilla
+
+**Kotitehtävä:**
+Etsi yksi arkipsykologinen väite (sosiaalisesta mediasta, perheeltä tai ystäviltä) ja kirjoita lyhyt analyysi (½ sivu):
+- Miksi se on arkipsykologia?
+- Mitä tieteellistä tutkimusta tarvittaisiin väitteen testaamiseksi?
+- Mitä tutkimusmenetelmiä käytettäisiin?
+
+---
+
+## MATERIAALIT JA VÄLINEET
+
+### Opettajan materiaalit
+- PowerPoint-esitys (Venn-diagrammi, käsitteellinen perusta)
+- Aineistopaketti (4 erilaista aineistoa)
+- Analyysitaulukko (jaettava)
+- Liitutaulu tai smartboard
+
+### Opiskelijoiden materiaalit
+- Aineistopaketti (ryhmäkohtainen)
+- Analyysitaulukko (tulostettu tai digitaalinen)
+- Muistiinpanovälineet
+
+### Digitaaliset resurssit
 - https://blogs.helsinki.fi/med-viikonjuttu/2020/10/19/arkipsykologia-ja-tieteellinen-psykologia/
 - https://blogs.tuni.fi/taju/teema1/mista-tieteellinen-ajattelu-koostuu/
-
----
-
-## ARVIOINTI
-
-**Formatiivinen arviointi (tunnin aikana):**
-- Havainnointi ryhmätyöskentelystä (osallistuminen, argumentointi)
-- Galleriakävelyn palautteet (vertaisarviointi)
-- Exit ticket -vastaukset (ymmärryksen tarkistus)
-
-**Summatiivinen arviointi (jatkossa):**
-- Väittämäanalyysi voi toimia pohjana laajemmalle kirjalliselle tehtävälle
-- Arvioidaan kykyä erottaa tieteellinen tieto arkipsykologiasta, perustella väitteitä ja soveltaa kriittistä ajattelua
-
-**Arviointikriteerit (PS1-moduuli):**
-- Psykologisen käsitteistön hallinta (tieteellinen menetelmä, empiirinen näyttö, kognitiiviset vinoumat)
-- Analyysitaidot (kyky eritellä tiedon lähteitä ja luotettavuutta)
-- Kriittinen arviointi (tutkimusten ja väitteiden pätevyyden pohdinta)
+- Vertaisarvioitu tutkimusartikkeli (esim. PubMed tai Google Scholar)
 
 ---
 
 ## ERIYTTÄMINEN
 
-**Tuki tarvittaessa:**
-- Selkeät roolit ryhmätöissä (kirjuri, puheenjohtaja, aikavahti, esittelijä)
-- Valmiit analyysikehykset ja apukysymykset
-- Opettajan kiertäminen ryhmissä ja ohjaus tarvittaessa
+### Tukea tarvitsevat opiskelijat
+- Yksinkertaistettu analyysitaulukko (vähennetty määrä kysymyksiä)
+- Opettajan tai vertaistuutoreiden tuki ryhmätyössä
+- Selkeämpi aineisto (esim. populaaritiede arkipsykologian esimerkiksi)
 
-**Syventävät tehtävät:**
-- Lisätehtävä: Etsi yksi pseudotieteellinen väite mediasta ja analysoi se kriittisesti (esim. mainokset, some-postaukset)
-- Tutkimuseettisten periaatteiden syvempi tarkastelu (esim. historiallisten tutkimusten etiikka)
-
-**Hybridiopetus (Oulun eLukio):**
-- Ryhmätyöt toteutettavissa etäyhteyksin (esim. Zoom breakout rooms)
-- Digitaaliset yhteistyöalustat (Padlet, Google Docs) galleriakävelyyn
+### Syventävät tehtävät
+- Etsi vertaisarvioitu tutkimus ja analysoi sen metodologiaa
+- Vertaile kahta eri lähteistä saatua väitettä samasta aiheesta
+- Pohdi: *"Miksi arkipsykologia on niin vakuuttavaa meille?"* (kognitiivisten vinoumien näkökulma)
 
 ---
 
-## JATKOTOIMENPITEET
+## ARVIOINTI
 
-**Kotitehtävä:** Valitse yksi "psykologinen myytti" ja kirjoita 1-sivuinen analyysi: Miksi ihmiset uskovat siihen? Mitä tieteellinen tutkimus sanoo? (Valmistautuminen seuraavaan tuntiin)
+### Formatiivinen arviointi (tunnin aikana)
+- Opettajan havainnot ryhmätyöskentelystä
+- Analyysitaulukoiden täydellisyys ja syvyys
+- Ryhmäesitysten laatu ja perustelut
+- Osallistuminen keskusteluun
 
-**Yhteys seuraavaan tuntiin:** Syvennytään tutkimusmenetelmiin ja empiirisen tutkimuksen suunnitteluun
+### Summatiivinen arviointi (myöhemmin)
+- Kotitehtävän analyysi
+- Seuraavien tunnin tehtävät, joissa sovelletaan tieteellistä ajattelua
 
-**Yhteistyömahdollisuudet:** Vierailu Oulun yliopiston psykologian laitokselle tai etäluento tutkijalta (yhteistyö Avoimen yliopiston kanssa)
+### Arviointiperusteet
+- **Tieteellisen tiedon ja arkipsykologian eron ymmärtäminen** (keskeinen tavoite)
+- **Kriittinen ajattelu** (kyky arvioida lähteen luotettavuutta)
+- **Perustelut** (kyky selittää, miksi jokin on tieteellistä tai arkipsykologiaa)
 
 ---
 
-**Opettajan muistiinpanot:** Varmista, että ryhmätyöt pysyvät aikataulussa. Jigsaw-tekniikka vaatii selkeät ohjeet ja aktiivista fasilitointia. Varaa aikaa teknisten ongelmien varalle, jos käytetään digitaalisia materiaaleja.
+## HUOMIOITAVAA
+
+### Opettajan valmistautuminen
+- Varmista, että aineistot ovat saatavilla ja tulostettavissa
+- Testaa digitaaliset resurssit etukäteen
+- Valmistele analyysitaulukko ja Venn-diagrammi
+
+### Ryhmätyöskentelyn hallinta
+- Aseta selkeät aikarajat (25 min työskentely)
+- Kiertävä opettaja varmistaa, että kaikki ryhmät ovat tehtävän ymmärtäneet
+- Kannusta kaikkia osallistumaan
+
+### Tunnin jälkeen
+- Kerää palaute opiskelijoilta (esim. "Mikä oli hyödyllistä? Mitä olisi voinut parantaa?")
+- Säilytä analyysitaulukot seuraavien tunnin referenssiksi
+- Käytä kotitehtäviä seuraavan tunnin johdantona
+
+---
+
+## YHTEYS OPETUSSUUNNITELMAAN
+
+Tämä tunti luo perustan **PS1-moduulin** keskeisille tavoitteille:
+- ✓ Psykologia tieteenä (tieteellisen ajattelun perusta)
+- ✓ Tieteellisen tiedon rakentuminen tutkimuksen kautta
+- ✓ Kriittinen tiedonhallinta
+- ✓ Tutkimuseettisten näkökohtien arviointi
+
+Tunti tukee myös **laaja-alaisen osaamisen** kehittämistä:
+- ✓ Hyvinvointiosaaminen (itsetuntemuksen ja kriittisen ajattelun kautta)
+- ✓ Vuorovaikutusosaaminen (pienryhmätyöskentely)
+- ✓ Eettisyys (tutkimusetiikka)
+- ✓ Globaali- ja kulttuuriosaaminen (kulttuuristen uskomusten ymmärtäminen)
+
+---
+
+**Opettaja:** [Nimi]  
+**Pvm:** [Päivämäärä]  
+**Huomautuksia:** Tunti toimii hyvin johdantona PS1-moduuliin ja luo pohjan seuraavien tunnin teemoille (tutkimusmenetelmät, ei-tietoinen, motiivit, oppiminen).

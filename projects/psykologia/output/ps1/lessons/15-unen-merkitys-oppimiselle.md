@@ -1,177 +1,193 @@
-# TUNTISUUNNITELMA: Unen merkitys oppimiselle
+# TUNTISUUNNITELMA: UNEN MERKITYS OPPIMISELLE
 
-**Moduuli:** PS1 – Toimiva ja oppiva ihminen | **Kesto:** 75 min | **Työtapa:** Verkko-opetus | **Vuosikello:** 2. vuosi syksy
+**Moduuli:** PS1 – Toimiva ja oppiva ihminen | **Aihe-ID:** 15 | **Kesto:** 75 min | **Työtapa:** Verkko
 
 ---
 
 ## TAVOITTEET
 
-**Moduulikohtaiset tavoitteet:**
-- Opiskelija ymmärtää unen biologisen merkityksen oppimisprosesseissa ja muistin konsolidaatiossa
-- Opiskelija osaa selittää, miten uni vaikuttaa kognitiivisiin toimintoihin (tarkkaavaisuus, muisti, ongelmanratkaisu)
-- Opiskelija kykenee arvioimaan omia unitottumuksiaan ja niiden vaikutusta oppimiseen
+**Moduulin yleiset tavoitteet:**
+- Ymmärtää ihmisen toimintaa biopsykososiaalisena kokonaisuutena
+- Hallita psykologisen käsitteistön (muistin konsolidaatio, kognitiiviset toiminnot)
+- Kehittää itsetuntemusta ja kriittistä tiedonhallintaa
 
-**Laaja-alainen osaaminen:**
-- Hyvinvointiosaaminen: itsetuntemus ja oman hyvinvoinnin ylläpitäminen
-- Kriittinen tiedonhallinta: tutkimustiedon soveltaminen omaan elämään
-
----
-
-## TUNNIN KULKU
-
-### 1. ALOITUS JA ORIENTOITUMINEN (10 min)
-
-**Aktivoiva kysymys (chat/Padlet):**
-"Kuinka monta tuntia nukuit viime yönä? Miltä tuntuu tänään opiskella?"
-
-**Tavoitteiden esittely:**
-- Jaetaan tunnin agenda ja tavoitteet näytöllä
-- Lyhyt keskustelu: Mitä opiskelijat jo tietävät unesta ja oppimisesta?
+**Tunnin spesifiset tavoitteet – Opiskelija:**
+- Ymmärtää unen biologisen merkityksen oppimisprosesseissa
+- Osaa selittää muistin konsolidaation käsitteen ja unen roolin siinä
+- Tunnistaa unenpuutteen vaikutukset kognitiivisiin toimintoihin ja oppimiskykyyn
+- Kykenee soveltamaan tietoa omiin oppimisstrategioihinsa ja hyvinvointiinsa
+- Arvioi tutkimustietoa kriittisesti
 
 ---
 
-### 2. TEORIAOSUUS: Uni ja muistin konsolidaatio (20 min)
+## TUNNIN KULKU (75 min)
 
-**Opettajan esitys (jaettu näyttö + videomateriaali):**
+### 1. JOHDANTO & AKTIVOINTI (10 min)
+**Menetelmä:** Interaktiivinen kysely ja reflektio
 
-**Keskeiset käsitteet:**
-- **Muistin konsolidaatio**: lyhytaikaisten muistojen siirtyminen pitkäkestoiseen muistiin
-- **Unen vaiheet**: REM-uni ja syvä uni muistin kannalta
-- **Aivojen plastisuus**: unen aikana tapahtuvat hermostolliset muutokset
+- **Verkko-oppimisympäristön avaus** (Moodle/Teams): Tervetuloviesti ja tunnin rakenne
+- **Herättelykysymykset (Padlet tai vastaava):**
+  - "Kuinka monta tuntia nukuit viime yönä? Miten se vaikutti tämän päivän oppimiseesi?"
+  - "Mitä tapahtuu aivoissa nukkuessa?"
+- **Tavoitteen asettaminen:** "Tänään opimme, miksi uni on supervoima oppimiselle"
+- **Opiskelijoiden omien kokemusten aktivointi** → kriittisen ajattelun pohja
 
-**Tutkimusnäyttö:**
-- Esitellään kokeellisia tutkimuksia: hyvin nukkuneet vs. univelkaiset
-- Konkreettiset esimerkit: tenttioppiminen, taitojen harjoittelu
+### 2. TIETOPAKETTI: UNEN BIOLOGIA JA OPPIMINEN (20 min)
+**Menetelmä:** Ohjattu videomateriaali + interaktiivinen infografiikka
 
-**Materiaali:**
-- Lyhyt video unen vaiheista (3-5 min, esim. TED-Ed tai vastaava)
-- Infografiikka muistin konsolidaatiosta
-
----
-
-### 3. RYHMÄTYÖ: Aineistoanalyysi (25 min)
-
-**Tehtävänanto (jaetaan breakout-huoneisiin 3-4 hlö ryhmät):**
-
-Analysoi annettu tutkimusartikkeli tai uutinen unen vaikutuksesta oppimiseen:
-1. Mitä tutkimuksessa selvitettiin?
-2. Mitkä olivat keskeiset tulokset?
-3. Miten tulokset tukevat tai haastavat omia kokemuksiasi?
-4. Mitkä ovat tutkimuksen vahvuudet ja rajoitukset?
+**Sisältö:**
+- **Unen vaiheet:** REM-uni ja NREM-uni (N1, N2, N3)
+- **Muistin konsolidaatio:** Lyhytaikaisen muistin siirtyminen kestomuistiin
+  - Hippokampuksen rooli
+  - Unen aikaiset hermostolliset prosessit
+- **Kognitiiviset hyödyt:** Tarkkaavaisuus, ongelmanratkaisu, luovuus
+- **Unenpuutteen haitat:** Keskittymiskyvyn heikkeneminen, muistin häiriöt, väsymys
 
 **Materiaalit:**
-- Artikkeli 1: Unen puutteen vaikutus nuorten kognitiivisiin toimintoihin
-- Artikkeli 2: REM-unen merkitys luovalle ongelmanratkaisulle
-- Artikkeli 3: Unen laadun yhteys akateemiseen suoriutumiseen
+- Lyhyt video (5–7 min): "Sleep and Learning" (esim. TED-Ed tai vastaava)
+- Interaktiivinen infografiikka unen vaiheiden ja muistin konsolidaation suhteesta
+- Lähde: https://opiskelukoulu.fi/nukkuminen/, https://mieli.fi/vahvista-mielenterveyttasi/
 
-**Tuotos:** Yhteinen dokumentti (Google Docs) tai Padlet-postaus
+**Vuorovaikutus:** Inline-kysymykset videoon integroituna (esim. "Mikä on muistin konsolidaatio?")
+
+### 3. TUTKIMUSNÄYTTÖ & KRIITTINEN ANALYYSI (20 min)
+**Menetelmä:** Aineistopohjainen työskentely pienryhmissä (3–4 hlö)
+
+**Tehtävä:** Tutkimusartikkelin analyysi
+- Opiskelijat saavat **yhden tutkimusraportin abstraktin** (esim. "Role of Sleep in Memory and Learning")
+- **Analyysitehtävä:**
+  1. Mikä oli tutkimuksen tutkimuskysymys?
+  2. Mitä menetelmää käytettiin? (kokeellinen, havainnointitutkimus?)
+  3. Mitkä olivat päätulosten?
+  4. Kuinka luotettava tutkimus on? (otoskoko, kontrolliryhmä, jne.)
+  5. Miten tulokset liittyvät omaan oppimiseesi?
+
+**Työskentely:** Verkko-yhteistyötyökalu (Jamboard, Miro tai Google Docs)
+- Ryhmät dokumentoivat analyysinsä
+- Opettaja antaa reaaliaikaista palautetta
+
+**Tavoite:** Kehittää kriittisen tiedonhallintaa ja tutkimuseettisen ajattelun taitoja
+
+### 4. SOVELTAMINEN: OMAT OPPIMISSTRATEGIAT (15 min)
+**Menetelmä:** Reflektiivinen harjoitus + vertaispalautteen jakaminen
+
+**Tehtävä:** "Minun uneni ja oppimiseni -suunnitelma"
+- Opiskelijat täyttävät **interaktiivisen työkirjan:**
+  - Nykyinen unirytmi ja sen vaikutus oppimiseen
+  - Mitkä kognitiiviset toiminnot kärsivät unenpuutteesta?
+  - Konkreettiset keinot parantaa unen laatua (esim. säännöllinen nukkumisaika, ruutuaika ennen nukkumista)
+  - Tavoite seuraavalle viikolle
+
+**Vertaispalautteen jakaminen:**
+- Opiskelijat kommentoivat 1–2 vertaisen suunnitelmaa (Padlet-kommentit)
+- Opettaja korostaa hyvinvointiosaamisen merkitystä
+
+**Tavoite:** Itsetuntemuksen ja resilienssin kehittäminen
+
+### 5. YHTEENVETO & REFLEKTIO (10 min)
+**Menetelmä:** Interaktiivinen quiz + päätösreflektio
+
+**Sisältö:**
+- **Kahden minuutin quiz** (Kahoot tai Moodle-testi):
+  - "Mikä unen vaihe on tärkein muistin konsolidaatiolle?"
+  - "Kuinka unenpuute vaikuttaa oppimiskykyyn?"
+  - "Mitä on muistin konsolidaatio?"
+
+**Päätösreflektio (Padlet):**
+- "Yksi asia, jonka opin tänään unen merkityksestä:"
+- "Yksi konkreettinen muutos, jonka teen omaan unirytmiini:"
+
+**Opettajan yhteenveto:** Unen merkitys biopsykososiaalisen kokonaisuuden osana
 
 ---
 
-### 4. PURKU JA YHTEENVETO (15 min)
+## MATERIAALIT & RESURSSIT
 
-**Ryhmien esitykset:**
-- Kukin ryhmä esittelee 2-3 minuutissa keskeiset havainnot
-- Opettaja kokoaa yhteen biologisen, psyykkisen ja sosiaalisen näkökulman
+| Materiaali | Lähde | Käyttötarkoitus |
+|-----------|-------|-----------------|
+| Video: "Sleep and Learning" | TED-Ed tai YouTube | Tietopaketti |
+| Infografiikka: Unen vaiheet | Canva/Piktochart | Visuaalinen oppiminen |
+| Tutkimusartikkelin abstrakti | https://medium.com/@housseinrizk3/role-of-sleep-in-memory-and-learning | Kriittinen analyysi |
+| Interaktiivinen työkirja | Google Forms/Moodle | Soveltaminen |
+| Quiz | Kahoot/Moodle | Arviointi |
+| Padlet/Jamboard | Verkkotyökalut | Yhteistyö & reflektio |
 
-**Kriittinen pohdinta:**
-- Miten tutkimustulokset ovat yleistettävissä?
-- Mitkä tekijät vaikuttavat unen laatuun (stressi, ruutuaika, kofeiini)?
-
----
-
-### 5. SOVELTAMINEN: Henkilökohtainen reflektio (5 min)
-
-**Yksilötehtävä (palautetaan oppimisalustalle):**
-
-Kirjoita lyhyt reflektio (150-200 sanaa):
-- Arvioi omia unitottumuksiasi viimeisen viikon ajalta
-- Miten unesi on vaikuttanut opiskeluusi ja keskittymiseesi?
-- Mitkä ovat 2-3 konkreettista toimenpidettä, joilla voisit parantaa unesi laatua?
-
----
-
-## MENETELMÄT
-
-- **Verkko-opetus:** Zoom/Teams, jaettu näyttö, breakout-huoneet
-- **Aineistopohjainen analyysi:** Tutkimusartikkeleiden kriittinen tarkastelu
-- **Reflektiivinen oppiminen:** Teorian kytkeminen omaan kokemukseen
-- **Yhteisöllinen oppiminen:** Ryhmäkeskustelut ja vertaisoppiminen
-
----
-
-## MATERIAALIT
-
-**Digitaaliset työkalut:**
-- Zoom/Teams (breakout-huoneet)
-- Padlet tai Flinga (yhteinen ideataulu)
-- Google Docs (ryhmätyödokumentit)
-- Oppimisalusta (Moodle/Wilma) tehtävien palautukseen
-
-**Sisältömateriaalit:**
-- Video: "The Role of Sleep in Learning and Memory" (TED-Ed)
-- 3 tutkimusartikkelia/uutista (jaetaan etukäteen)
-- Infografiikka: Unen vaiheet ja muistin konsolidaatio
-- Linkit: opiskelukoulu.fi/nukkuminen, mieli.fi (unen tehtävät)
-
----
-
-## ARVIOINTI
-
-**Formatiivinen arviointi (tunnin aikana):**
-- Osallistuminen ryhmäkeskusteluun ja aineistoanalyysiin
-- Kysymysten esittäminen ja aktiivinen pohdinta
-
-**Summatiivinen arviointi (palautettava tehtävä):**
-- Henkilökohtainen reflektio (arvioidaan osana moduulin kokonaissuoritusta)
-- Arviointikriteerit: käsitteiden hallinta, teorian soveltaminen, kriittinen ajattelu
-
-**Palaute:**
-- Opettaja antaa kirjallisen palautteen reflektioista 3-5 päivän kuluessa
-- Vertaispalaute ryhmätöistä (vapaaehtoinen)
+**Verkkoympäristö:** Moodle/Teams (keskikokoisen lukion standardi)
 
 ---
 
 ## ERIYTTÄMINEN
 
-**Tuki tarvittaessa:**
-- Selkokieliset artikkelivaihtoehdot
-- Mahdollisuus työskennellä pienemmässä ryhmässä
-- Lisäaika reflektion kirjoittamiseen
+**Syventävät tehtävät (nopeammat opiskelijat):**
+- Tutkimusartikkelin koko tekstin analyysi
+- Vertailu: Unen merkitys eri ikäryhmille (lapset vs. nuoret vs. aikuiset)
+- Pohdinta: Kuinka teknologia (älypuhelimet, sosiaalinen media) vaikuttaa nuorten uneen?
 
-**Syventävät tehtävät:**
-- Tutki unihäiriöiden (esim. uniapnea, insomnia) vaikutusta oppimiseen
-- Vertaile eri ikäryhmien unitarpeita ja niiden yhteyttä kognitiivisiin toimintoihin
-- Suunnittele pieni kokeellinen tutkimus unen vaikutuksesta muistiin
+**Tukea tarvitsevat opiskelijat:**
+- Valmiiksi täytetty analyysirunko tutkimusartikkelille
+- Lyhyempi video tai teksti-versio tietopakettista
+- Opettajan yksilöllinen ohjaus verkko-office-hourseilla
 
-**Verkko-opetuksen erityispiirteet:**
-- Teknisen tuen saatavuus (chat-kanava)
-- Nauhoitettu teoria-osuus katsottavaksi jälkikäteen
-- Joustavat ryhmätyöajat (mahdollisuus jatkaa asynkronisesti)
-
----
-
-## KOTITEHTÄVÄ / JATKOTEHTÄVÄ
-
-**Valinnainen syventävä tehtävä:**
-Pidä 5 päivän "unipäiväkirjaa": kirjaa nukkumisajat, unen laatu (asteikko 1-5) ja seuraavan päivän kognitiivinen suorituskyky. Analysoi yhteyksiä lyhyessä raportissa (1 sivu).
-
-**Valmistautuminen seuraavaan tuntiin:**
-Lue oppikirjan luku "Oppimisen sosiaalisuus" ja pohdi, miten sosiaalinen vuorovaikutus tukee oppimista.
+**Kielellinen tuki:**
+- Sanastolista (muistin konsolidaatio, REM-uni, hippokampus)
+- Tekstitykset videoille
 
 ---
 
-## YHTEYDET MUIHIN SISÄLTÖIHIN
+## ARVIOINTI
 
-- **PS1:** Aivojen plastisuus, muisti, oppimisstrategiat
-- **PS3:** Muistin eri osa-alueet ja hermostolliset verkostot
-- **PS4:** Unen yhteys mielenterveyteen ja psyykkiseen hyvinvointiin
-- **Laaja-alainen osaaminen:** Hyvinvointiosaaminen kaikissa oppiaineissa
+**Formatiivinen arviointi (prosessin aikana):**
+- Inline-kysymykset videoon (automaattinen palaute)
+- Opettajan kommentit Jamboardissa/Google Docsissa
+- Vertaispalautteen laatu Padletissa
+
+**Summatiivinen arviointi (tunnin jälkeen):**
+- Quiz-tulokset (ymmärryksen taso)
+- Tutkimusartikkelin analyysin laatu (kriittinen ajattelu)
+- Oppimisstrategiasuunnitelman konkreettisuus (soveltaminen)
+
+**Arviointikriteerit:**
+- **Hyvä (8–9):** Ymmärtää muistin konsolidaation, osaa analysoida tutkimusta kriittisesti, soveltaa tietoa omaan elämään
+- **Kiitettävä (9–10):** Edellisten lisäksi pohtii syvällisesti unen ja oppimisen yhteyttä, kytkee biopsykososiaaliseen näkökulmaan
 
 ---
 
-**Opettajan muistiinpanot:**
-- Varmista, että kaikilla on pääsy artikkeleihin etukäteen
-- Testaa breakout-huoneiden toimivuus ennen tuntia
-- Varaa aikaa teknisille ongelmille (5 min puskuri)
-- Kannusta opiskelijoita jakamaan omia kokemuksiaan turvallisessa ilmapiirissä
+## LAAJA-ALAINEN OSAAMINEN
+
+- **Hyvinvointiosaaminen:** Itsetuntemus (oman unirytmin arviointi), tunteiden säätely (unen vaikutus mielialaan), resilienssi (keinot parantaa hyvinvointia)
+- **Vuorovaikutusosaaminen:** Pienryhmätyöskentely, vertaispalautteen antaminen
+- **Eettisyys:** Tutkimusetiikan pohdinta (tutkimusten luotettavuus, osallistujien suojelu)
+
+---
+
+## JÄLKITYÖSKENTELY
+
+- **Kotitehtävä:** Opiskelijat pitävät **unikirjaa 3 päivää** ja raportoivat, miten uni vaikutti oppimiseen
+- **Seuraava tunti:** Tulosten jakaminen ja vertailu → oppimisstrategioiden kehittäminen
+- **Linkitys muihin moduuleihin:** PS4 (tunteet ja mielenterveys) – unen merkitys psyykkiselle hyvinvoinnille
+
+---
+
+## TEKNISET VAATIMUKSET (Verkko-opetus)
+
+- Toimiva internet-yhteys
+- Pääsy Moodleen/Teamsiin
+- Zoom/Teams-linkki opettajan tukitunneille
+- Mikrofoni ja kamera (ryhmätyöskentelyn helpottamiseksi)
+- Selain, joka tukee interaktiivisia työkaluja (Kahoot, Jamboard, Padlet)
+
+---
+
+## OPETTAJAN VALMISTAUTUMINEN
+
+- [ ] Videoiden lataaminen/linkkien testaaminen
+- [ ] Tutkimusartikkelin valinta ja abstraktin muokkaaminen
+- [ ] Interaktiivisen työkirjan luominen
+- [ ] Ryhmien muodostaminen (3–4 hlö)
+- [ ] Padlet/Jamboard-alustan perustaminen
+- [ ] Kahoot-quizin luominen
+- [ ] Opiskelijoille lähetetään materiaalilinkit 24 h ennen tuntia
+
+---
+
+**Tuntisuunnitelma tukee PS1-moduulin tavoitteita: biopsykososiaalinen näkökulma, tieteellinen ajattelu, itsetuntemus ja kriittinen tiedonhallinta.**

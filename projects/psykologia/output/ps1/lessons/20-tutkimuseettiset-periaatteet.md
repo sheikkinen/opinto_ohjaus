@@ -1,146 +1,194 @@
-# TUNTISUUNNITELMA: Tutkimuseettiset periaatteet
+# TUNTISUUNNITELMA: TUTKIMUSEETTISET PERIAATTEET
 
-**Moduuli:** PS1 - Toimiva ja oppiva ihminen  
-**Kesto:** 75 min | **Työtapa:** Verkko-opetus | **Vuosikello:** 1. vuosi kevät
+**Moduuli:** PS1 – Toimiva ja oppiva ihminen  
+**Kesto:** 75 minuuttia (verkko-opetus)  
+**Kohderyhmä:** 1. vuoden opiskelijat (syksy)  
+**Työtapa:** Asynkroninen verkko-opetus + synkroninen keskustelu
 
 ---
 
 ## TAVOITTEET
 
-**Moduulikohtaiset tavoitteet:**
-- Opiskelija ymmärtää psykologian tieteenalan luonteen ja tiedon rakentumisen tutkimuksen kautta
-- Opiskelija osaa arvioida tutkimusten luotettavuutta, pätevyyttä ja eettisyyttä
-- Opiskelija kehittää kriittistä tiedonhallintaa
-
-**Tunnin tavoitteet:**
-- Opiskelija tunnistaa keskeiset tutkimuseettiset periaatteet (tietoinen suostumus, luottamuksellisuus, vahingon välttäminen)
-- Opiskelija osaa arvioida konkreettisten tutkimusesimerkkien eettisyyttä
-- Opiskelija ymmärtää eettisten periaatteiden merkityksen tutkittavien suojelussa
-
-**Laaja-alainen osaaminen:** Eettisyys ja ympäristöosaaminen, Hyvinvointiosaaminen, Vuorovaikutusosaaminen
+Opiskelija
+- **Ymmärtää** psykologisen tutkimuksen keskeiset eettiset periaatteet (tietoon perustuva suostumus, luottamuksellisuus, vahingon välttäminen, hyödyn maksimointi, rehellisyys)
+- **Osaa soveltaa** tutkimuseettiset periaatteet arvioidessaan olemassa olevia tutkimuksia ja suunnitellessaan omia pieniä tutkimuksia
+- **Kehittää** kriittistä tiedonhallintaa ja kykyä tunnistaa eettisesti ongelmallisia tutkimuskäytäntöjä
+- **Omaksuu** vastuullisen tiedonhankinnan ja ihmisarvon kunnioittamisen periaatteet
 
 ---
 
-## TUNNIN KULKU
+## TUNNIN RAKENNE (75 min)
 
-### 1. ALOITUS JA MOTIVOINTI (10 min)
+### 1. JOHDANTO JA KONTEKSTUALISOINTI (10 min)
+**Tavoite:** Herätä mielenkiinto ja yhdistää aihe opiskelijoiden omaan elämään
 
-**Herättelyvideo + keskustelu:**
-- Jaetaan linkki lyhyeen videoon tai uutisartikkeliin kuuluisasta eettisesti ongelmallisesta tutkimuksesta (esim. Stanford-vankilakokeesta tai Milgramin tottelevaisuuskokeesta)
-- Chat-keskustelu: "Mitä ajatuksia video herätti? Oliko tutkimus mielestäsi hyväksyttävä?"
-- Opettaja kokoaa yhteen: Miksi tarvitsemme eettisiä ohjeita?
-
-### 2. KESKEISET KÄSITTEET (20 min)
-
-**Interaktiivinen esitys + Mentimeter:**
-- Jaetaan digitaalinen materiaali (esitys/infografiikka) viidestä keskeisestä periaatteesta:
-  1. **Tietoinen suostumus** - mitä tutkittavan on tiedettävä?
-  2. **Luottamuksellisuus** - miten tiedot suojataan?
-  3. **Vahingon välttäminen** - mitä riskejä on arvioitava?
-  4. **Hyödyn maksimointi** - kenen etua tutkimus palvelee?
-  5. **Rehellisyys** - miten tuloksia raportoidaan?
-
-- Mentimeter-kysely: "Järjestä periaatteet tärkeysjärjestykseen" → keskustelu tuloksista
-
-### 3. RYHMÄTYÖSKENTELY (25 min)
-
-**Tapaustutkimukset pienryhmissä (breakout rooms 3-4 hlö):**
-- Jokaiselle ryhmälle jaetaan erilainen tutkimussuunnitelma/case
-  - **Ryhmä 1:** Nuorten sosiaalisen median käyttö ja mielenterveys
-  - **Ryhmä 2:** Muistitutkimus vanhuksilla
-  - **Ryhmä 3:** Stressinhallintainterventio opiskelijoilla
-  - **Ryhmä 4:** Lasten kiintymyssuhteiden havainnointi
-
-**Tehtävä:** Arvioikaa Google Docissa:
-- Mitkä eettiset kysymykset nousevat esiin?
-- Miten tietoinen suostumus hankitaan?
-- Miten luottamuksellisuus varmistetaan?
-- Mitä riskejä on ja miten ne minimoidaan?
-- Onko tutkimus eettisesti hyväksyttävä? Miksi/miksi ei?
-
-### 4. YHTEINEN PURKU (15 min)
-
-**Ryhmien esittelyt:**
-- Kukin ryhmä esittelee casensakin ja keskeisimmät havainnot (3 min/ryhmä)
-- Opettaja täydentää ja korostaa:
-  - Erityisryhmät (alaikäiset, haavoittuvat ryhmät)
-  - TENKin ja Psykologiliiton rooli Suomessa
-  - Eettiset toimikunnat tutkimuslupien myöntäjinä
-
-### 5. SOVELTAMINEN JA REFLEKTIO (5 min)
-
-**Padlet-tehtävä:**
-"Kuvittele suunnittelevasi omaa pientä tutkimusta lukiossasi. Kirjoita yksi konkreettinen toimenpide, jolla varmistaisit tutkimuksesi eettisyyden."
+**Toiminnot:**
+- **Avausvideo** (3 min): "Miksi tutkimuseettiset periaatteet ovat tärkeitä?" – Lyhyt animaatio tai dokumentaarinen kliippi, joka esittelee historiallisen esimerkin (esim. Stanford-vankilakoe tai Milgramin kokeilu) ja sen seurauksia
+- **Reflektio-tehtävä** (7 min): Opiskelijat vastaavat Padletissa tai Mentimeterissa kysymykseen: *"Mitä mieltä olet siitä, että tutkija voi tehdä mitä tahansa tieteellisen tiedon nimissä? Miksi rajat ovat tarpeen?"*
+  - Opettaja lukee muutaman vastauksen ääneen ja kommentoi niitä
 
 ---
 
-## MENETELMÄT
+### 2. OPETUSSISÄLTÖ: KUUSI KESKEISTÄ PERIAATETTA (35 min)
 
-- **Verkko-opetus:** Zoom/Teams, breakout-ryhmät
-- **Interaktiiviset työkalut:** Mentimeter (äänestys), Padlet (reflektio), Google Docs (ryhmätyö)
-- **Tapausperustainen oppiminen:** Autenttiset tutkimusesimerkit
-- **Vertaisoppiminen:** Ryhmäkeskustelut ja -esitykset
-- **Reflektiivinen työskentely:** Oman ajattelun peilaaminen
+**Tavoite:** Opiskelijat oppivat ja ymmärtävät tutkimuseettiset periaatteet syvällisesti
+
+**Toiminnot:**
+
+**A) Interaktiivinen diaesitys + infografiikka (15 min)**
+- Opettaja esittelee kuusi periaatetta visuaalisesti:
+  1. **Tietoon perustuva suostumus** – infografiikka: "Mitä tutkittavan on tiedettävä?"
+  2. **Luottamuksellisuus ja yksityisyyden suoja** – kuvitus: lukittu kansio, salasana
+  3. **Vahingon välttäminen** – esimerkki: psyykkisen kuormituksen minimointi
+  4. **Hyödyn maksimointi** – tasapainovaaka: hyödyt vs. riskit
+  5. **Rehellisyys ja puolueettomuus** – symboli: oikeudenmukainen tuomari
+  6. **Tutkimusaineiston hallinta** – prosessi: kerääminen → säilyttäminen → hävittäminen
+
+- Jokaisen periaatteen kohdalla **konkreettinen esimerkki** psykologian tutkimuksesta (esim. muistikokeilu, kyselytutkimus, haastattelut)
+
+**B) Interaktiivinen case-study (20 min)**
+- **Skenario:** "Tutkija haluaa tutkia nuorten stressiä ja ahdistusta sosiaalisen median käytön yhteydessä. Hän suunnittelee kyselyn, jossa kysytään henkilökohtaisia tietoja."
+- Opiskelijat jaetaan **kolmeen ryhmään** (verkossa breakout-rooms):
+  - **Ryhmä A:** Tunnista eettiset ongelmat tässä tutkimussuunnitelmassa
+  - **Ryhmä B:** Ehdota parannuksia tietoon perustuvan suostumuksen osalta
+  - **Ryhmä C:** Ehdota parannuksia yksityisyyden suojan osalta
+- Jokainen ryhmä raportoi 2 minuutissa (yhteensä 6 min)
+- Opettaja kokoaa yhteen ja yhdistää teoriaan (4 min)
 
 ---
 
-## MATERIAALIT
+### 3. KRIITTINEN ANALYYSI: TUTKIMUKSEN ARVIOINTI (15 min)
 
-**Digitaaliset materiaalit:**
-- Esitysmateriaali tutkimuseettisistä periaatteista (PowerPoint/Canva)
-- 4 tapaustutkimusta (PDF-muodossa)
-- Herättelyvideo (YouTube-linkki)
-- Infografiikka eettisistä periaatteista
+**Tavoite:** Opiskelijat soveltavat periaatteita olemassa olevaan tutkimukseen
 
-**Verkkolähteet:**
-- [Suomen Psykologiliiton tutkimuseettiset periaatteet](https://www.psyli.fi/neuvoja-ja-ohjeita/psykologin-ammatillinen-tyoskentely/ammattikaytantoihin-liittyvat-ohjeet-ja-suositukset/ammattieettisen-lautakunnan-suositukset/tutkimuseettiset-periaatteet/)
-- [TENKin eettiset periaatteet](https://www.tenk.fi/sites/tenk.fi/files/eettisetperiaatteet.pdf)
+**Toiminnot:**
 
-**Työkalut:**
-- Mentimeter (ilmainen tili)
-- Padlet (jaettu linkki)
-- Google Docs (ryhmätyöpohjat)
+**A) Ohjattu analyysi (8 min)**
+- Opettaja jakaa **lyhyen tutkimusraportin abstraktin** (1–2 sivua) psykologisesta tutkimuksesta
+- Yhdessä luetaan ja analysoidaan:
+  - Miten tutkijat hankkivat suostumuksen?
+  - Miten he suojaavat osallistujien yksityisyyttä?
+  - Mitkä riskit tutkimukseen liittyy?
+  - Ovatko hyödyt suurempia kuin riskit?
+- Opettaja mallintaa kriittisen ajattelun prosessia
+
+**B) Itsenäinen harjoitus (7 min)**
+- Opiskelijat saavat **toisen tutkimusabstraktin** ja täyttävät **arviointilomakkeen** (Google Form tai PDF):
+  - Tietoon perustuva suostumus: ✓ / ✗ / epäselvä
+  - Yksityisyyden suoja: ✓ / ✗ / epäselvä
+  - Vahingon välttäminen: ✓ / ✗ / epäselvä
+  - Avoin palaute: "Mitkä eettiset näkökulmat puuttuvat?"
+- Opettaja kerää vastaukset ja antaa palautetta seuraavalla tunnilla
 
 ---
 
-## ARVIOINTI
+### 4. SOVELTAMINEN: OMAN TUTKIMUKSEN SUUNNITTELU (10 min)
 
-**Formatiivinen arviointi (tunnin aikana):**
-- Mentimeter-vastausten seuranta → käsitysten kartoitus
-- Ryhmätöiden havainnointi breakout-huoneissa
-- Padlet-reflektioiden lukeminen → ymmärryksen tarkistus
+**Tavoite:** Opiskelijat soveltavat periaatteita käytäntöön
 
-**Arviointikriteerit (liittyy moduulin kokonaisarviointiin):**
-- **Käsitteellinen ymmärrys:** Tunnistaa ja määrittelee keskeiset eettiset periaatteet
-- **Analyysitaidot:** Osaa soveltaa periaatteita konkreettisiin tutkimustilanteisiin
-- **Kriittinen arviointi:** Perustelee näkemyksensä eettisyydestä monipuolisesti
-- **Vuorovaikutus:** Osallistuu rakentavasti ryhmäkeskusteluun
+**Toiminnot:**
 
-**Jatkotehtävä (vapaaehtoinen syventävä):**
-Etsi uutisartikkeli psykologisesta tutkimuksesta ja arvioi sen eettisyyttä oppitunnilla opittujen periaatteiden valossa (palautus Moodleen).
+**Tehtävä:** "Suunnittele pieni tutkimus, jossa tutkisit opiskelijoiden oppimisstrategioita. Kirjoita lyhyesti (200–300 sanaa):"
+- Miten hankkisit tietoon perustuvan suostumuksen?
+- Miten suojaisit osallistujien yksityisyyttä?
+- Mitkä riskit tutkimukseen liittyy ja miten minimoisit ne?
+- Mitkä hyödyt tutkimuksella olisi?
+
+**Toimintamuoto:**
+- Opiskelijat kirjoittavat **yksin tai pareittain** (valinta)
+- Lähettävät vastauksen opettajalle (Moodle, Google Classroom tai sähköposti)
+- Opettaja antaa palautetta seuraavalla tunnilla tai kirjallisesti
+
+---
+
+### 5. YHTEENVETO JA REFLEKTIO (5 min)
+
+**Tavoite:** Vahvistaa oppiminen ja yhdistää aihe laajempaan kontekstiin
+
+**Toiminnot:**
+- **Opettajan yhteenveto** (2 min): Kuusi periaatetta tiivistetysti, niiden merkitys psykologiassa ja yhteiskunnassa
+- **Reflektio-kysymys** (3 min): Opiskelijat vastaavat Padletissa tai Mentimeterissa:
+  - *"Mikä tutkimuseettiset periaatteista oli sinulle uutta tai yllättävää?"*
+  - *"Miten nämä periaatteet vaikuttavat siihen, miten luotat psykologiseen tutkimukseen?"*
+- Opettaja lukee muutaman vastauksen ja kommentoi
+
+---
+
+## MATERIAALIT JA RESURSSIT
+
+### Opettajan materiaalit:
+- Interaktiivinen diaesitys (PowerPoint/Prezi) kuvin ja infografiikoin
+- Kaksi tutkimusabstraktia (valmiit tai opettajan kokoamat)
+- Arviointilomake (Google Form tai PDF)
+- Lyhyt historiallinen video (Stanford-vankilakoe tai vastaava)
+
+### Opiskelijoiden materiaalit:
+- Diaesitys (jaettu)
+- Tutkimusabstraktit (PDF)
+- Arviointilomake (linkki)
+- Suunnittelutehtävän ohje (PDF tai teksti)
+- Lisälukemisto: Suomen Psykologiliiton ja TENKin ohjeet (linkit)
+
+### Digitaaliset työkalut:
+- **Padlet** tai **Mentimeter** (reflektio ja osallistuminen)
+- **Breakout rooms** (Zoom/Teams) ryhmätyölle
+- **Google Forms** (arviointilomake)
+- **Moodle/Google Classroom** (tehtävien palautus)
 
 ---
 
 ## ERIYTTÄMINEN
 
-**Tuki tarvittaessa:**
-- Selkeät kirjalliset ohjeet kaikkiin tehtäviin
-- Opettaja kiertää breakout-huoneissa tukemassa
-- Mahdollisuus työskennellä pareittain ryhmän sijaan
-- Valmiit kysymyspohjat ryhmätyöhön
+**Tukea tarvitsevat opiskelijat:**
+- Yksinkertaistettu arviointilomake (vain 3 periaatetta)
+- Esimerkki-vastaus suunnittelutehtävään
+- Opettajan kanssa 1:1 keskustelu ennen tehtävää
 
-**Syventävä haaste:**
-- Lisätehtävä: "Vertaile suomalaisia ja kansainvälisiä eettisiä ohjeita"
-- Pohdinta: "Miten kulttuurierot vaikuttavat tutkimusetiikkaan?"
-- Tutustuminen TENKin todellisiin eettisilausuntoihin
-
-**Verkko-opetuksen erityishuomiot:**
-- Teknisten ongelmien varalle varasuunnitelma (chat-pohjainen työskentely)
-- Selkeä aikataulu ja väliotsikot näkyvissä koko ajan
-- Taukojen pitäminen silmien lepuuttamiseksi
+**Haastetta hakevat opiskelijat:**
+- Syvempi analyysi: vertaa kahta tutkimusabstraktia eettisesti
+- Tutkimussuunnitelma laajemmaksi: sisällytä myös tutkimusaineiston hallintasuunnitelma
+- Lisätehtävä: tutki historiallista tapausta (esim. Tuskegee-tutkimus) ja analysoi sen eettisiä ongelmia
 
 ---
 
-## TUNNIN ANTI
+## ARVIOINTI
 
-Tunnin päätteeksi opiskelijat ymmärtävät, että tutkimusetiikka ei ole vain byrokraattinen muodollisuus, vaan keskeinen osa vastuullista tiedontuotantoa ja ihmisarvon kunnioittamista. He osaavat jatkossa arvioida kriittisesti psykologisia tutkimuksia eettisestä näkökulmasta ja ymmärtävät oman vastuunsa tulevina tiedon käyttäjinä ja mahdollisina tuottajina.
+### Formatiivinen arviointi (prosessin aikana):
+- Padlet/Mentimeter-vastausten seuranta (osallistuminen, ajattelun syvyys)
+- Ryhmätyön havainnointi (breakout rooms)
+- Arviointilomakkeen vastausten tarkastelu
+
+### Summatiivinen arviointi (jälkikäteen):
+- Suunnittelutehtävän arviointi kriteerien mukaan:
+  - Tutkimuseettiset periaatteet tunnistettu ja sovellettu (40 %)
+  - Konkreettisten ratkaisujen ehdottaminen (40 %)
+  - Kirjoituksen selkeys ja rakenne (20 %)
+
+### Palautteen antaminen:
+- Kirjallinen palaute suunnittelutehtävään (seuraavalla tunnilla tai sähköpostitse)
+- Ryhmäpalautteen antaminen breakout-room-keskusteluista
+
+---
+
+## LAAJA-ALAINEN OSAAMINEN
+
+- **Eettisyys ja ympäristöosaaminen:** Ihmisarvon kunnioittaminen, vastuullinen toiminta, eettiset periaatteet
+- **Hyvinvointiosaaminen:** Tutkittavien hyvinvoinnin suojaaminen, vahingon välttäminen
+- **Vuorovaikutusosaaminen:** Ryhmätyö, keskustelu, toisten näkökulmien ymmärtäminen
+
+---
+
+## JATKO JA YHTEYDET
+
+- **Seuraavalla tunnilla:** Tutkimusmenetelmät (kokeellinen tutkimus, havainnointi, haastattelut) – eettiset periaatteet sovelletaan käytäntöön
+- **Myöhemmillä moduuleilla:** Tutkimuseettiset periaatteet integroidaan kaikkeen tutkimustyöhön (PS2–PS5)
+- **Yhteys opiskelijoiden omaan tutkimukseen:** Kun opiskelijat suunnittelevat omia pieniä tutkimuksia, he noudattavat näitä periaatteita
+
+---
+
+## HUOMIOITA VERKKO-OPETUKSESTA
+
+- **Synkronisuus:** Breakout-room-tehtävä ja yhteenveto vaativat synkronista osallistumista; muut osat voidaan tehdä asynkronisesti
+- **Osallistumisen varmistaminen:** Padlet/Mentimeter-tehtävät kannustavat kaikkia osallistumaan anonyymisti
+- **Tekniikka:** Varmista, että kaikilla opiskelijoilla on pääsy materiaaleihin ja työkaluihin
+- **Tuki:** Tarjoa mahdollisuus yksittäisiin neuvotteluihin tekniikan tai sisällön kanssa

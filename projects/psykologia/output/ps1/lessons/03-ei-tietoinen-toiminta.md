@@ -1,169 +1,95 @@
-# TUNTISUUNNITELMA: Ei-tietoinen toiminta
+# TUNTISUUNNITELMA: EI-TIETOINEN TOIMINTA
 
-**Moduuli:** PS1 - Toimiva ja oppiva ihminen | **Kesto:** 75 min | **Työtapa:** Pienryhmätyöskentely
-**Kohderyhmä:** Lukion 2. vuosi, syksy | **Opiskelijamäärä:** ~25
+**Moduuli:** PS1 – Toimiva ja oppiva ihminen | **Kesto:** 75 min | **Työtapa:** Pienryhmä | **Vuosikello:** 1. vuosi syksy
 
 ---
 
 ## TAVOITTEET
 
-**Moduulikohtaiset tavoitteet:**
-- Opiskelija ymmärtää ihmisen toiminnan biopsykososiaalisena kokonaisuutena
-- Opiskelija hallitsee keskeisen psykologisen käsitteistön ja osaa perustella väitteensä tieteenalan näkökulmista
-- Opiskelija kehittää itsetuntemustaan ja ymmärrystään omasta toiminnastaan
-
-**Tunnin tavoitteet:**
+**Oppimistavoitteet:**
 - Opiskelija ymmärtää ei-tietoisen toiminnan käsitteen ja sen eron tietoiseen toimintaan
-- Opiskelija tunnistaa ei-tietoisen toiminnan ilmenemismuotoja arjessa
-- Opiskelija osaa selittää automatisoitumisen prosessin ja sen merkityksen
-- Opiskelija kykenee arvioimaan kriittisesti ei-tietoisten prosessien vaikutusta omaan käyttäytymiseensä
+- Opiskelija tunnistaa ei-tietoisten prosessien merkityksen arkipäivän toiminnassa
+- Opiskelija osaa analysoida omia kokemuksiaan psykologisen käsitteistön avulla
+- Opiskelija kehittää kriittistä ajattelua tutkimustiedon arvioinnissa
 
-**Laaja-alainen osaaminen:** Hyvinvointiosaaminen (itsetuntemus), Eettisyys ja ympäristöosaaminen (arvot, maailmankuvat)
+**Laaja-alainen osaaminen:**
+- Hyvinvointiosaaminen (itsetuntemus)
+- Eettisyys ja ympäristöosaaminen (arvot, maailmankuvat)
 
 ---
 
 ## TUNNIN KULKU
 
-### 1. ALOITUS JA MOTIVOINTI (10 min)
-
-**Herättelevä harjoitus:** "Automaattipilotti arjessa"
-- Opiskelijat kirjoittavat 2 min yksilöllisesti: Mitä teit tänä aamuna heräämisen ja koulumatkalle lähdön välillä? Yritä muistaa mahdollisimman tarkasti.
-- Parijakauma: Kuinka moni asia tapahtui "automaattisesti" ilman tietoista ajattelua?
-- Yhteinen keskustelu: Miksi emme muista kaikkea? Mitä hyötyä on siitä, että kaikki ei vaadi tietoista huomiota?
-
-**Tunnin tavoitteiden esittely:** Käsitteen "ei-tietoinen" määrittely ja sen merkitys psykologiassa.
-
-### 2. KÄSITTEEN RAKENTAMINEN (15 min)
-
-**Lyhyt luento + vuorovaikutus:**
-- **Käsitteellinen muutos:** LOPS 2021 "ei-tietoinen" vs. vanha "tiedostamaton" → neutraalimpi, kognitiivisen tieteen ja neurobiologian näkökulma
-- **Määritelmä:** Ei-tietoinen toiminta = kaikki mielen prosessit ja toiminnot, joista ihminen ei ole tietoinen
-- **Esimerkkejä:** 
-  - Automaattiset reaktiot (käden vetäminen kuumalta)
-  - Implisiittinen muisti (pyöräilyn taito)
-  - Ennakkoluulot ja stereotypiat
-  - Tunteiden automaattinen syntyminen
-  
-**Visuaalinen tuki:** Jäävuorimalli (tietoinen mieli = huippu, ei-tietoinen = valtava osa pinnan alla)
-
-**Tarkistuskysymykset:** Mikä ero on tietoisella ja ei-tietoisella toiminnalla? Anna esimerkki kummastakin.
-
-### 3. PIENRYHMÄTYÖSKENTELY: Automatisoitumisen tutkiminen (25 min)
-
-**Ryhmäjako:** 4-5 hengen ryhmät (5-6 ryhmää)
-
-**Tehtävänanto:** Jokaiselle ryhmälle yksi teema:
-1. **Motoriset taidot** (esim. kirjoittaminen, soittaminen, urheilu)
-2. **Sosiaaliset tilanteet** (esim. tervehtiminen, small talk, kohteliaisuudet)
-3. **Ajattelu ja päätöksenteko** (esim. ensivaikutelmat, intuitio, "gut feeling")
-4. **Tunteet ja reaktiot** (esim. pelko, ilo, ärtymys)
-5. **Oppiminen ja muisti** (esim. lukeminen, laskeminen, kielitaito)
-
-**Ryhmän tehtävät:**
-1. Tunnistakaa 3-4 konkreettista esimerkkiä teemastanne, joissa ei-tietoinen toiminta on keskeistä
-2. Pohtikaa: Miten nämä taidot/reaktiot ovat alun perin opittu? Mikä on automatisoitumisen prosessi?
-3. Mitä hyötyä on siitä, että nämä toiminnot ovat automatisoituneet?
-4. Mitä haittoja voi olla siitä, että toimimme "automaattipilotilla"?
-5. Valmistakaa lyhyt (2-3 min) esittely muille
-
-**Opettajan rooli:** Kiertää ryhmissä, ohjaa keskustelua, varmistaa että kaikki osallistuvat
-
-### 4. RYHMIEN ESITTELYT JA SYNTEESI (20 min)
-
-**Esittelyt:** Kukin ryhmä esittelee havaintonsa (2-3 min/ryhmä)
-
-**Yhteinen synteesi:** Opettaja kokoaa yhteen:
-- Ei-tietoisen toiminnan laajuus ja monimuotoisuus
-- Automatisoitumisen edut: vapautuu kognitiivista kapasiteettia, nopeus, tehokkuus
-- Mahdolliset haitat: joustamattomuus, ennakkoluulot, "sokeita pisteitä"
-- Yhteys neuroplastisuuteen ja oppimiseen (linkki aiempiin PS1-sisältöihin)
-
-### 5. SOVELTAMINEN JA REFLEKTIO (10 min)
-
-**Yksilötehtävä:** "Ei-tietoisen toiminnan päiväkirja"
-Opiskelijat kirjoittavat:
-1. Yksi esimerkki omasta elämästäsi, jossa ei-tietoinen toiminta on hyödyllistä
-2. Yksi esimerkki, jossa haluaisit tuoda jotain ei-tietoista tietoisemmaksi (esim. tapa, reaktio, ajattelumalli)
-3. Miten voisit harjoitella tietoisuutta tästä asiasta?
-
-**Vapaaehtoinen jakaminen:** Muutama opiskelija voi halutessaan jakaa ajatuksiaan
-
-### 6. YHTEENVETO JA KOTITEHTÄVÄ (5 min)
-
-**Yhteenveto:**
-- Ei-tietoinen toiminta on laaja ja merkittävä osa ihmisen psyykkistä toimintaa
-- Automatisoituminen on oppimisen tulos ja mahdollistaa tehokkaan toiminnan
-- Itsetuntemus edellyttää myös ei-tietoisten prosessien tunnistamista
-
-**Kotitehtävä:** 
-"Ei-tietoisen toiminnan havainnointi" - Valitse yksi päivä ensi viikolla. Kirjaa ylös 5 tilannetta, joissa huomaat toimivasi "automaattipilotilla". Analysoi: Mikä laukaisi toiminnan? Olisiko tietoinen toiminta ollut parempi? Miksi/miksi ei? (Palautus seuraavalle tunnille, 1 sivu)
-
-**Linkki seuraavaan tuntiin:** Seuraavalla kerralla syvennymme tarkkaavaisuuteen ja siihen, miten voimme ohjata tietoista huomiotamme.
+| **VAIHE** | **AIKA** | **SISÄLTÖ & MENETELMÄT** | **MATERIAALIT** |
+|-----------|---------|------------------------|-----------------|
+| **1. Johdanto & aktivointi** | 5 min | Opettaja esittää arkipäivän esimerkkejä: "Miten ajat pyörällä samalla kun puhumme? Miten tietää, milloin on nälkä?" Opiskelijat pohtivat pareittain: mitä prosesseja tapahtuu ilman tietoista ajattelua? | Liitutaulu/smartboard |
+| **2. Käsitteen esittely** | 10 min | Opettaja selittää termin "ei-tietoinen" (korvaa "tiedostamattoman"), sen neurobiologisen perustan ja eron tietoiseen toimintaan. Esitys sisältää: automatisoitumisen, implisiittisen muistin, ennakkoluulot, aistihavaintojen esikäsittelyn. | PowerPoint-esitys, kuvia aivoista |
+| **3. Tutkimusesimerkki** | 10 min | Opettaja esittelee klassisen tutkimuksen (esim. Stroop-testi tai implisiittisen assosiaation testi). Opiskelijat pohtivat: mitä tutkimus paljastaa ei-tietoisista prosesseista? Miten tutkimus on toteutettu? | Video/interaktiivinen demo, tutkimusraportin ote |
+| **4. Pienryhmätyöskentely** | 35 min | **Ryhmät (3–4 hlö) saavat eri skenaariot:** <br>• Ryhmä 1: Automatisoituminen (oppiminen → automaatio) <br>• Ryhmä 2: Ennakkoluulot ja stereotypiat <br>• Ryhmä 3: Tunteiden automaattinen synty <br>• Ryhmä 4: Päätöksenteko ilman tietoista harkintaa <br><br>**Tehtävä:** Etsi omasta elämästä esimerkki, analysoi sen avulla ryhmän teemaa, pohdi tutkimusnäyttöä. Valmistele 2 min esitys. | Työohjeet (A4), tutkimusartikkelit/linkit, muistiinpanopohjat |
+| **5. Ryhmäesitykset & keskustelu** | 12 min | Kukin ryhmä esittelee löydöksensä (2 min × 4 ryhmää). Opettaja ohjaa kriittistä keskustelua: Miten voimme tietää, että prosessi on todella ei-tietoinen? Miksi tämä tieto on tärkeää? | Liitutaulu muistiinpanoille |
+| **6. Yhteenveto & reflektio** | 3 min | Opettaja kokoaa keskeiset ajatukset. Opiskelijat kirjoittavat 1–2 lauseen vastauksen: "Mikä ei-tietoisesta toiminnasta oli minulle yllättävää?" | Muistiinpanot |
 
 ---
 
-## MENETELMÄT
+## MENETELMÄT & PEDAGOGISET RATKAISUT
 
-- **Reflektiivinen kirjoittaminen** (aloitus, lopetus)
-- **Pienryhmätyöskentely** (päätyömuoto)
-- **Vertaisopetus** (ryhmien esittelyt)
-- **Lyhyt luento** (käsitteen rakentaminen)
-- **Aineistopohjainen työskentely** (esimerkkien analysointi)
-
----
-
-## MATERIAALIT
-
-- **Diaesitys:** Ei-tietoisen toiminnan määritelmä, jäävuorimalli, esimerkit
-- **Ryhmätyöohjeet:** Tulostetut tehtäväkortit kullekin ryhmälle
-- **Kirjoitusvälineet:** Fläppipaperit/tussit ryhmille (esittelyä varten)
-- **Digitaalinen alusta:** Kotitehtävän palautus (esim. Moodle, Wilma)
-
-**Verkkolähteet opettajalle:**
-- Peda.net: PS1-6 Tietoinen ja ei-tietoinen toiminta
-- Quizlet: LOPS 2021 psykologian käsitteet
+✓ **Empiirinen tutkimustieto:** Klassisen tutkimuksen esittely konkretisoi käsitteen  
+✓ **Reflektiivisyys:** Opiskelijat kytkevät teorian omaan kokemusmaailmaansa  
+✓ **Kriittinen tiedonhallinta:** Ryhmät arvioivat tutkimusten luotettavuutta  
+✓ **Pienryhmätyöskentely:** Mahdollistaa syvemmän analyysin ja vertaisoppimisen  
+✓ **Aineistopohjainen lähestyminen:** Tutkimusraporttien ja videoiden analysointi  
 
 ---
 
-## ARVIOINTI
+## MATERIAALIT & RESURSSIT
 
-**Formatiivinen arviointi tunnilla:**
-- Havainnointi ryhmätyöskentelystä: Osallistuvatko kaikki? Käytetäänkö käsitteitä oikein?
-- Tarkistuskysymykset: Ymmärretäänkö ero tietoisen ja ei-tietoisen välillä?
-- Ryhmien esittelyt: Esimerkkien relevanssi ja analyysin syvyys
-
-**Summatiivinen arviointi:**
-- Kotitehtävä: Arvioidaan kykyä soveltaa käsitettä omaan elämään ja analysoida kriittisesti (asteikko: erinomainen/hyvä/tyydyttävä/täydennettävä)
-- Osana moduulin loppuarviointia: Ei-tietoisen toiminnan ymmärtäminen ja kyky selittää sitä biopsykososiaalisesta näkökulmasta
-
-**Arviointikriteerit (moduulikohtaiset):**
-- Psykologisen käsitteistön hallinta (täsmällinen käyttö)
-- Analyysitaidot (biopsykososiaalisten tekijöiden tunnistaminen)
-- Soveltaminen (kytkentä omaan elämään ja uusiin tilanteisiin)
-- Kriittinen arviointi (eri näkökulmien pohdinta)
+- PowerPoint-esitys (ei-tietoisen toiminnan määritelmä, aivojen rakenne)
+- Stroop-testi tai implisiittisen assosiaation testi (video/interaktiivinen demo)
+- Tutkimusartikkelit (yksinkertaistetut versiot tai tiivistelmät):
+  - Automatisoitumisesta: Schneider & Shiffrin (1977)
+  - Ennakkoluuloista: Implicit Association Test (Greenwald et al., 1998)
+  - Tunteiden automaatiosta: LeDoux (2012)
+- Ryhmätyön työohjeet (A4-muodossa)
+- Muistiinpanopohjat
 
 ---
 
 ## ERIYTTÄMINEN
 
-**Tuki tarvittaessa:**
-- Ryhmätyössä varmistetaan, että jokaisella on selkeä rooli
-- Tehtäväkortit sisältävät apukysymyksiä ja esimerkkejä
-- Opettaja tarjoaa lisätukea kierrellessään ryhmiä
-- Kotitehtävässä voi käyttää esimerkkipohjaa
-
-**Syventävät tehtävät:**
-- Ryhmät voivat tutkia myös neurobiologista perustaa (mitkä aivoalueet?)
-- Kotitehtävässä voi vertailla omia havaintoja tutkimustietoon
-- Voi lukea lisämateriaalia Daniel Kahnemanin kaksoisprosessointiteoriasta (linkki PS3-moduuliin)
-
-**Hybridiopetus:** Materiaali ja tehtävät saatavilla digitaalisesti (esim. Oulun eLukio), mahdollistaa etäosallistumisen tarvittaessa
+| **TASO** | **SOVELTAMINEN** |
+|---------|-----------------|
+| **Syventävä** | Ryhmille 2–3 lisäkysymys: "Miten voisimme testata tätä hypoteesia?" tai "Mitä eettisiä kysymyksiä tämä herättää?" |
+| **Tukeva** | Valmiit esimerkit, strukturoidumpi työohje, opettajan tuki ryhmätyöhön |
+| **Kielellinen tuki** | Käsitesanasto etukäteen, visualisointi, vertaistuella |
 
 ---
 
-## YHTEYDET MUIHIN SISÄLTÖIHIN
+## ARVIOINTI
 
-- **PS1:** Oppimisen psykologia (automatisoituminen), aivojen plastisuus
-- **PS3:** Tietoa käsittelevä ihminen (Kahnemanin teoria, heuristiikat)
-- **PS4:** Tunteet (emootioiden automaattinen syntyminen)
-- **PS5:** Stereotypiat ja ennakkoluulot (ei-tietoiset asenteet)
+**Formatiivinen (tunnin aikana):**
+- Opettajan havainnointi ryhmätyöskentelystä (osallistuminen, analyysitaidot)
+- Ryhmäesitysten sisältö ja perustelut
+
+**Summatiivinen (jatko):**
+- Seuraavalla tunnilla lyhyt kirjallinen tehtävä: "Analysoi omaa päivääsi: mitkä toiminnot olivat ei-tietoisia ja miksi?"
+- Moduulin lopussa ei-tietoisen toiminnan sisällyttäminen kokeeseen
+
+**Arviointikohteet:**
+- Käsitteen ymmärtäminen ja käyttö
+- Analyysitaidot (teorian soveltaminen esimerkkeihin)
+- Kriittinen ajattelu (tutkimusten arviointi)
+
+---
+
+## KOTITEHTÄVÄ / JATKO
+
+Opiskelijat kirjoittavat päiväkirjamerkinnän (½ sivua): "Dokumentoi kolme ei-tietoista prosessia omasta päivästäsi. Miksi ne ovat ei-tietoisia? Miten ne vaikuttavat käyttäytymiseesi?"
+
+---
+
+## HUOMIOITAVAA
+
+- **Pienryhmän dynamiikka:** Varmista, että kaikki osallistuvat; kierrä ryhmissä
+- **Aika:** 75 min on tiukka; priorisoi ryhmätyö ja esitykset
+- **Tekniikka:** Testaa videot/demot etukäteen
+- **Turvallisuus:** Ennakkoluulot-ryhmä voi herätellä tunteita → opettaja johdattaa kunnioittavasti

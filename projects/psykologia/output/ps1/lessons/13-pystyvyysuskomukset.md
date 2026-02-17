@@ -1,171 +1,177 @@
-# TUNTISUUNNITELMA: Pystyvyysuskomukset
+# TUNTISUUNNITELMA: PYSTYVYYSUSKOMUKSET
 
-**Moduuli:** PS1 - Toimiva ja oppiva ihminen | **Kesto:** 75 min | **Työtapa:** Pienryhmätyöskentely
+**Moduuli:** PS1 – Toimiva ja oppiva ihminen | **Aihe:** Pystyvyysuskomukset | **Kesto:** 75 min | **Työtapa:** Pienryhmä | **Vuosikello:** 1. vuosi, syksy
 
 ---
 
 ## TAVOITTEET
 
-**Moduulikohtaiset tavoitteet:**
-- Opiskelija ymmärtää pystyvyysuskomusten merkityksen oppimiselle ja motivaatiolle
-- Opiskelija osaa tunnistaa omia pystyvyysuskomuksiaan ja niiden vaikutuksia
-- Opiskelija kykenee analysoimaan pystyvyysuskomusten yhteyttä metakognitioon ja tavoiteorientaatioihin
+**Oppimistavoitteet:**
+- Opiskelija ymmärtää pystyvyysuskomusten määritelmän ja merkityksen oppimiselle
+- Opiskelija tunnistaa omia pystyvyysuskomuksiaan ja niiden vaikutusta oppimiseen
+- Opiskelija osaa selittää pystyvyysuskomusten yhteyttä motivaatioon, sinnikkyyyteen ja tavoiteorientaatioihin
+- Opiskelija ymmärtää biopsykososiaalisen näkökulman pystyvyysuskomusten muodostumiseen
 
-**Laaja-alainen osaaminen:**
-- Hyvinvointiosaaminen: Itsetuntemuksen ja psyykkisen hyvinvoinnin edistäminen
-- Vuorovaikutusosaaminen: Sosiaalisen tuen merkitys pystyvyysuskomusten muodostumisessa
+**Laaja-alaisen osaamisen alueet:**
+- Hyvinvointiosaaminen (itsetuntemuksen ja psyykkisen hyvinvoinnin edistäminen)
+- Vuorovaikutusosaaminen (vaikutus sosiaaliseen toimintaan ja oppimiseen ryhmissä)
 
 ---
 
 ## TUNNIN KULKU
 
-### 1. ALOITUS JA MOTIVOINTI (10 min)
+### 1. JOHDANTO (10 min)
 
-**Henkilökohtainen reflektio:**
-- Opiskelijat kirjoittavat 3 minuuttia: "Ajattele tilannetta, jossa onnistuit odotuksiasi paremmin. Mitä ajattelit itsestäsi ennen ja jälkeen tilanteen?"
-- Vapaaehtoisia jakamisia (ei pakko)
+**Aktivointi ja kontekstualisointi:**
+- Opettaja näyttää lyhyen videon tai kuvaa tilanteesta, jossa opiskelija kohtaa haastavan tehtävän (esim. vaikea matematiikan tehtävä, urheilusuoritus, sosiaalinen tilanne)
+- Kysymys: "Mitä ajatuksia ja tunteita tällaisessa tilanteessa herää? Miten ne vaikuttavat siihen, mitä teet seuraavaksi?"
+- Opettaja johdattelee käsitteeseen: "Nämä ajatukset omasta kyvystään ovat pystyvyysuskomuksia."
 
-**Käsitteen esittely:**
-- Pystyvyysuskomukset ≠ todellinen kyky, vaan usko omaan kyvykkyyteen
-- Lyhyt video tai esimerkki (esim. urheilija ennen kilpailua, opiskelija ennen koetta)
+**Tavoitteiden esittäminen:**
+- Opettaja selittää tunnin tavoitteet ja merkityksen omalle oppimiselle
 
-### 2. TEORIAOSUUS (15 min)
+---
 
-**Keskeiset käsitteet:**
-- Pystyvyysuskomusten määritelmä ja Albert Banduran teoria
-- Neljä pystyvyysuskomusten lähdettä:
-  1. Omat suorituskokemukset (tärkein)
-  2. Mallioppiminen (muiden havainnointi)
-  3. Sosiaalinen vakuuttelu (palaute, kannustus)
-  4. Fysiologiset ja emotionaaliset tilat
+### 2. KÄSITTEEN MÄÄRITTELY JA TEORIATAUSTA (15 min)
 
-**Yhteys oppimiseen:**
-- Korkeat pystyvyysuskomukset → suurempi motivaatio, sinnikkyys, parempi stressinhallinta
-- Matalat pystyvyysuskomukset → välttämiskäyttäytyminen, vähäinen ponnistelu
+**Opettajan miniluento + interaktiivinen keskustelu:**
 
-**Biopsykososiaalinen näkökulma:**
-- Psyykkinen: Uskomukset ja ajattelumallit
-- Biologinen: Aivojen plastisuus, stressivaste
-- Sosiaalinen: Kulttuuriset odotukset, vertaistuki, palautteen laatu
+**Pystyvyysuskomukset – mitä ne ovat?**
+- Määritelmä: Yksilön uskomus omasta kyvystään suoriutua tietyistä tehtävistä tai saavuttaa tavoitteita
+- Keskeinen ero: Pystyvyysuskomukset ≠ todellinen kyky, vaan *uskomus* kyvystä
+- Esimerkki: Opiskelija voi olla matemaattisesti lahjakas, mutta jos hän uskoo olevansa huono matematiikassa, hänen pystyvyysuskomuksensa on matala
 
-### 3. PIENRYHMÄTYÖSKENTELY (35 min)
+**Merkitys oppimiselle:**
+- Korkeat pystyvyysuskomukset → lisää motivaatiota, sinnikkyyttä, sitoutumista
+- Matalat pystyvyysuskomukset → välttelyä, luovuttamista, ahdistusta
+- Vaikutus: Kuinka paljon vaivaa nähdään, miten toivutaan vastoinkäymisistä, tavoitteiden asettaminen
 
-**Ryhmien muodostus:** 3-4 hengen ryhmät
+**Yhteys muihin käsitteisiin:**
+- Metakognitio: Oman oppimisen tiedostaminen ja säätely
+- Tavoiteorientaatiot: Oppimisorientaatio vs. suoritusorientaatio
+- Nämä muodostavat kokonaisuuden, joka selittää oppimista
 
-**Tehtävä 1: Tapausanalyysi (20 min)**
+---
 
-Jokaiselle ryhmälle jaetaan yksi seuraavista skenaarioista:
+### 3. PIENRYHMÄTYÖSKENTELY – REFLEKTIO JA ANALYYSI (30 min)
 
-**Skenaario A - Matemaatikka:**
-"Liisa on aina ajatellut, ettei ole 'matemaattinen'. Hän jännittää kokeita ja luovuttaa helposti vaikeiden tehtävien kohdalla. Viime kokeessa hän sai yllättäen hyvän arvosanan."
+**Ryhmien muodostaminen:** 4–5 hengen pienryhmät (3–4 ryhmää)
 
-**Skenaario B - Liikunta:**
-"Mikko ei ole koskaan pitänyt itseään urheilullisena. Kaveriporukka pyytää hänet mukaan salille. Aluksi hän epäröi, mutta päättää kokeilla."
+**Tehtävä 1: Omat pystyvyysuskomukset (15 min)**
 
-**Skenaario C - Esiintyminen:**
-"Sara pelkää puhumista ryhmän edessä. Hänellä on tulossa esitelmä, ja hän harkitsee sairaslomaa."
+Jokainen opiskelija pohtii hiljaa (5 min):
+- Missä asiassa sinulla on korkeat pystyvyysuskomukset? (esim. urheilu, kielten opiskelu, sosiaaliset tilanteet)
+- Missä asiassa sinulla on matalat pystyvyysuskomukset?
+- Miten nämä uskomukset vaikuttavat siihen, miten lähestyt näitä tilanteita?
 
-**Ryhmän tehtävät:**
-1. Tunnistakaa henkilön pystyvyysuskomukset (korkeat/matalat)
-2. Analysoi, mitkä tekijät ovat muokanneet näitä uskomuksia
-3. Ehdottakaa konkreettisia keinoja vahvistaa pystyvyysuskomuksia
-4. Pohtikaa, miten metakognitio voisi auttaa tässä tilanteessa
+Ryhmässä jaetaan kokemuksia (10 min):
+- Jokainen kertoo yhden esimerkin
+- Ryhmä pohtii yhdessä: Mistä nämä uskomukset voivat johtua? (menestykset, epäonnistumiset, palautteen laatu, vertaisvertailu, opettajien odotukset, kulttuuriset tekijät)
 
-**Tehtävä 2: Oma sovellus (15 min)**
+**Tehtävä 2: Tapausanalyysi (15 min)**
 
-Ryhmät valitsevat yhden jäsenen todellisen oppimistilanteen (anonyymisti) ja:
-- Kartoittavat hänen pystyvyysuskomuksiaan kyseisellä alueella
-- Suunnittelevat konkreettisen toimintasuunnitelman uskomusten vahvistamiseksi
-- Huomioivat kaikki neljä pystyvyysuskomusten lähdettä
+Opettaja jakaa ryhmille tapausesimerkin (esim. tekstimuodossa tai videona):
 
-### 4. RYHMIEN ESITYKSET JA KESKUSTELU (12 min)
+*"Kari aloitti lukion ja valitsi fysiikan. Ensimmäisellä tunnilla hän ei ymmärtänyt mitään. Opettaja sanoi: 'Fysiikka ei ole kaikille.' Kari ajatteli: 'Minulla ei ole kykyä fysiikkaan.' Nyt hän välttää fysiikan tehtäviä ja ajattelee luovuttavansa kurssin."*
 
-- Kukin ryhmä esittelee tapausanalyysinsä (2-3 min/ryhmä)
-- Opettaja kokoaa yhteen keskeisiä havaintoja
-- Yhteinen keskustelu: Miten pystyvyysuskomukset näkyvät lukio-opiskelussa?
+Ryhmä analysoi:
+- Mitkä tekijät vaikuttivat Karin pystyvyysuskomuksiin?
+- Miten hänen uskomuksensa vaikuttavat hänen käyttäytymiseensä?
+- Mitä voitaisiin tehdä tilanteen muuttamiseksi?
 
-### 5. PÄÄTÖS JA KOTITEHTÄVÄ (3 min)
+Ryhmät kirjoittavat lyhyet vastaukset tai valmistelevat lyhyen esityksen.
 
-**Yhteenveto:**
-- Pystyvyysuskomukset ovat muokattavissa
-- Ne vaikuttavat merkittävästi oppimiseen ja hyvinvointiin
-- Tietoinen reflektio auttaa tunnistamaan ja vahvistamaan niitä
+---
+
+### 4. RYHMIEN ESITYKSET JA YHTEINEN KESKUSTELU (12 min)
+
+**Esitykset:**
+- Kukin ryhmä esittelee tapausanalyysinsa löydökset (2–3 min per ryhmä)
+
+**Opettajan johtama keskustelu:**
+- Mitkä tekijät nousivat esiin? (palautteen laatu, vertaisvertailu, opettajan odotukset, aiemmat kokemukset)
+- Biopsykososiaalinen näkökulma: Miten biologiset (esim. unen merkitys, aivojen plastisuus), psyykkiset (ajatukset, tunteet) ja sosiokulttuuriset tekijät (ympäristö, kulttuuri, vertaisryhmä) vaikuttavat?
+- Miten pystyvyysuskomuksia voidaan vahvistaa? (positiivinen palaute, realistiset tavoitteet, onnistumisen kokemukset, mallintaminen)
+
+---
+
+### 5. SOVELTAMINEN OMAAN OPPIMISEEN (5 min)
+
+**Reflektiivinen tehtävä:**
+- Opettaja jakaa jokaisen opiskelijan omaan oppimiseen liittyvän reflektiokaavakkeen:
+  - "Mitkä ovat omat pystyvyysuskomukseni psykologian opiskelussa?"
+  - "Miten voin vahvistaa niitä tämän kurssin aikana?"
+  - "Kenen tai minkä avulla voin saada tukea?"
+
+- Opiskelijat kirjoittavat lyhyesti (ei kerätä, vaan henkilökohtainen reflektio)
+
+---
+
+### 6. YHTEENVETO JA KOTITEHTÄVÄ (3 min)
+
+**Opettajan yhteenveto:**
+- Pystyvyysuskomukset ovat uskomuksia omasta kyvystä, eivät todellisuutta
+- Ne vaikuttavat motivaatioon, sinnikkyyyteen ja oppimiseen
+- Niitä voidaan vahvistaa positiivisen palautteen, onnistumisen kokemusten ja realististen tavoitteiden avulla
+- Biopsykososiaalinen näkökulma: Uskomukset muodostuvat biologisten, psyykkisten ja sosiokulttuuristen tekijöiden vuorovaikutuksessa
 
 **Kotitehtävä:**
-"Pystyvyysuskomuspäiväkirja" (1 viikko):
-- Valitse yksi oppimisalue, jolla haluat kehittyä
-- Kirjaa päivittäin: mitä teit, miten onnistuit, mitä ajattelit itsestäsi
-- Tunnista, mitkä tekijät vahvistivat/heikensivät pystyvyysuskomuksiasi
-- Palauta reflektio seuraavalle tunnille
+- Lue oppikirjan osio pystyvyysuskomuksista (tai opettajan jakama materiaali)
+- Etsi yksi uutisartikkeli tai tutkimusraportti, joka liittyy pystyvyysuskomuksiin tai oppimismotivaatioon
+- Valmistaudu seuraavalla tunnilla jakamaan löydös ja analysoimaan sitä psykologian näkökulmasta
 
 ---
 
-## MENETELMÄT
+## MATERIAALIT JA RESURSSIT
 
-- **Henkilökohtainen reflektio:** Yhteys omaan kokemusmaailmaan
-- **Tapausanalyysi:** Teorian soveltaminen käytäntöön
-- **Pienryhmätyöskentely:** Vuorovaikutusosaamisen kehittäminen
-- **Vertaisoppiminen:** Eri näkökulmien jakaminen
-- **Metakognitiivinen harjoittelu:** Oman ajattelun tiedostaminen
-
----
-
-## MATERIAALIT
-
-- **Diat/Fläppitaulu:** Teorian esittely, keskeiset käsitteet
-- **Skenaariot:** Tulostetut tapausesimerkit ryhmille
-- **Työpohja:** Analyysirunko ryhmätyöhön
-- **Video:** Lyhyt esimerkki pystyvyysuskomuksista (3-5 min)
-- **Digitaalinen alusta:** Kotitehtävän palautus (esim. Moodle, Teams)
-
-**Verkkolähteet:**
-- Studeo: PS1-materiaalit pystyvyysuskomuksista
-- Otavan Oivallus-sarja: Lisätehtävät ja syventävä materiaali
-
----
-
-## ARVIOINTI
-
-**Formatiivinen arviointi tunnilla:**
-- Havainnointi ryhmätyöskentelystä: Osallistuminen, analyysitaidot
-- Suullinen palaute esityksistä: Teorian soveltaminen
-- Kysymykset ja keskustelu: Käsitteiden ymmärtäminen
-
-**Summatiivinen arviointi:**
-- Pystyvyysuskomuspäiväkirja (kotitehtävä):
-  * Reflektoinnin syvyys
-  * Teorian soveltaminen omaan elämään
-  * Metakognitiivinen tietoisuus
-  * Konkreettiset havainnot ja johtopäätökset
-
-**Arviointikriteerit:**
-- **Psykologisen tiedon hallinta:** Pystyvyysuskomusten määritelmä ja lähteet
-- **Analyysitaidot:** Kyky tunnistaa ja eritellä uskomuksia eri tilanteissa
-- **Soveltaminen:** Teorian kytkeminen omaan oppimiseen
-- **Kriittinen pohdinta:** Uskomusten muokattavuuden ymmärtäminen
+| Materiaali | Kuvaus | Käyttö |
+|-----------|--------|--------|
+| Video/kuva | Aktivoiva johdanto-tilanne | Johdanto (1 min) |
+| Tapausesimerkki | Kari-tapaus tai vastaava | Pienryhmätyö |
+| Reflektiokaavake | Omaan oppimiseen liittyvä | Soveltaminen |
+| Oppikirja/digitaalinen materiaali | Pystyvyysuskomuksista | Kotitehtävä |
+| Liitutaulu/smartboard | Keskustelun visualisointi | Koko tunti |
 
 ---
 
 ## ERIYTTÄMINEN
 
-**Tuki tarvittaessa:**
-- Valmiit kysymykset tapausanalyysin tueksi
-- Opettajan kiertäminen ryhmissä ja ohjaus
-- Mahdollisuus työskennellä pareittain isomman ryhmän sijaan
-- Visuaaliset tukimateriaalit (kaaviot, kuvat)
-
-**Syventävät tehtävät:**
-- Tutkimusartikkelin lukeminen Banduran alkuperäisestä tutkimuksesta
-- Pystyvyysuskomusten yhteyden tutkiminen kulttuurisiin eroihin
-- Oman oppimisstrategian suunnittelu pystyvyysuskomusten vahvistamiseksi
-
-**Hybridiopetus:**
-- Mahdollisuus osallistua etänä (esim. Oulun eLukio)
-- Digitaaliset ryhmätyökalut (Padlet, Jamboard)
-- Tallennettu teoria-osuus katsottavaksi etukäteen
+- **Tukea tarvitsevat:** Opettaja voi tarjota valmiita vastausvaihtoehtoja tapausanalyysiin tai yksinkertaisemman version reflektiokaavakkeesta
+- **Syventävät:** Opiskelijat voivat etsiä tutkimusartikkeleita pystyvyysuskomuksista ja analysoida niitä kriittisesti
+- **Kielellinen tuki:** Käsitteistö kirjoitetaan näkyville, käytetään konkreettisia esimerkkejä
 
 ---
 
-## YHTEYS SEURAAVAAN TUNTIIN
+## ARVIOINTI
 
-Seuraavalla tunnilla käsitellään **tavoiteorientaatioita** (oppimisorientaatio vs. suoritusorientaatio) ja niiden yhteyttä pystyvyysuskomuksiin. Pystyvyysuskomuspäiväkirjat toimivat pohjana keskustelulle siitä, miten erilaiset tavoitteet vaikuttavat oppimiskokemukseen.
+**Formatiivinen arviointi (tunnin aikana):**
+- Opettaja havainnoi ryhmäkeskusteluja: Ymmärtävätkö opiskelijat pystyvyysuskomusten määritelmän ja merkityksen?
+- Tapausanalyysin laatu: Osaavatko opiskelijat tunnistaa vaikuttavia tekijöitä?
+- Reflektiokaavakkeen vastaukset: Osaavatko opiskelijat soveltaa käsitettä omaan oppimiseensa?
+
+**Summatiivinen arviointi (myöhemmin):**
+- Kotitehtävän analyysi: Osaavatko opiskelijat analysoida uutisartikkelia/tutkimusta pystyvyysuskomusten näkökulmasta?
+- Moduulin lopussa: Kirjallinen tai suullinen koe, jossa arvioidaan pystyvyysuskomusten ymmärtäminen ja soveltaminen
+
+---
+
+## LIITTYVÄT KÄSITTEET JA JATKO
+
+- **Seuraavalla tunnilla:** Tavoiteorientaatiot (oppimisorientaatio vs. suoritusorientaatio)
+- **Myöhemmin PS1:ssä:** Metakognitio, oppimisstrategiat, aivojen plastisuus
+- **PS4-moduulissa:** Resilienssi ja psyykkinen sitkeys (liittyy pystyvyysuskomuksiin)
+- **PS5-moduulissa:** Persoonallisuus ja yksilölliset erot pystyvyysuskomuksissa
+
+---
+
+## HUOMIOITA OPETTAJALLE
+
+✓ Korostaa omaa kokemusmaailmaa ja reflektiivisyyttä – opiskelijat oppivat paremmin, kun he voivat liittää käsitteet omaan elämäänsä
+
+✓ Pienryhmätyöskentely mahdollistaa vertaisoppimisen ja sosiaalisen vuorovaikutuksen
+
+✓ Biopsykososiaalinen näkökulma: Muistuta, että pystyvyysuskomukset eivät ole vain "ajatuksia", vaan niillä on biologisia, psyykkisiä ja sosiaalisia ulottuvuuksia
+
+✓ Turvallinen ilmapiiri: Opiskelijoiden on voitava jakaa omia kokemuksiaan ilman pelkoa tuomiosta
+
+✓ Yhteys omaan oppimiseen: Opiskelijat ymmärtävät paremmin, kun näkevät, miten pystyvyysuskomukset vaikuttavat heidän omaan psykologian opiskeluun

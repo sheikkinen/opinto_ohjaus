@@ -1,211 +1,160 @@
-# TUNTISUUNNITELMA: Sisäiset mallit
+# TUNTISUUNNITELMA: SISÄISET MALLIT (PS1)
 
-**Moduuli:** PS1 - Toimiva ja oppiva ihminen | **Kesto:** 75 min | **Työtapa:** Vierailu | **Vuosikello:** 2. vuosi, syksy
+**Opettaja:** Psykologian opettaja | **Moduuli:** PS1 – Toimiva ja oppiva ihminen | **Kesto:** 75 min | **Vuosikello:** 1. vuosi, syksy
 
 ---
 
 ## TAVOITTEET
 
-**Moduulikohtaiset tavoitteet:**
-- Opiskelija osaa eritellä oppimiseen vaikuttavia tekijöitä, erityisesti sisäisten mallien roolia
-- Opiskelija ymmärtää, miten kognitiiviset rakenteet ohjaavat havaitsemista, ajattelua ja toimintaa
-- Opiskelija kehittää itsetuntemustaan ja metakognitiivisia taitojaan
+**Moduulin tavoitteet (PS1):**
+- Ymmärtää ihmisen toimintaa biopsykososiaalisena kokonaisuutena
+- Hallita keskeisen psykologisen käsitteistön (sisäiset mallit/skeemat)
+- Perustella väitteensä tieteenalan näkökulmista
 
-**Tunnin oppimistavoitteet:**
-- Opiskelija osaa määritellä sisäiset mallit (skeemat) ja selittää niiden syntymisen
-- Opiskelija tunnistaa sisäisten mallien vaikutuksen omassa arjessaan ja oppimisessaan
-- Opiskelija ymmärtää, miten sisäiset mallit voivat sekä auttaa että rajoittaa toimintaa
-
-**Laaja-alainen osaaminen:**
-- Hyvinvointiosaaminen (itsetuntemus, minäkäsityksen muodostuminen)
-- Vuorovaikutusosaaminen (omien sisäisten mallien vaikutus vuorovaikutukseen)
-- Globaali- ja kulttuuriosaaminen (kulttuuristen skeemojen ymmärtäminen)
+**Tunnin tavoitteet:**
+Opiskelija osaa:
+- Määritellä sisäiset mallit (skeemat) ja selittää niiden syntymekanismin
+- Analysoida, miten sisäiset mallit ohjaavat havaitsemista, ajattelua ja toimintaa
+- Soveltaa käsitettä omaan kokemusmaailmaansa ja arkitilanteisiin
+- Ymmärtää sisäisten mallien roolin oppimisessa ja muistissa
 
 ---
 
-## TUNNIN KULKU
+## TUNNIN RAKENNE (75 min)
 
-### 1. ALOITUS JA ORIENTOINTI (10 min)
+### 1. JOHDANTO (10 min)
 
-**Virittäytyminen:**
-- Lyhyt aktiviteetti: "Mitä näet?" - Näytetään monitulkintainen kuva (esim. ankka-jänis-illuusio)
-- Keskustelu: Miksi eri ihmiset näkevät eri asioita? → Johdatus sisäisiin malleihin
+**Menetelmä:** Interaktiivinen keskustelu + visuaalinen herätys
 
-**Tunnin tavoitteiden ja rakenteen esittely:**
-- Kerrotaan vierailun yhteys aiheeseen
-- Jaetaan havainnointitehtävät vierailua varten
+- **Avaus:** Näytetään kuva tai video, joka herää tulkintaa (esim. kaksoisnäkö-kuva, jossa näkyy joko nuori nainen tai vanha nainen). Opiskelijoita pyydetään kuvaamaan, mitä he näkevät.
+- **Kysymys:** "Miksi näemme eri asioita samasta kuvasta? Mistä tulkintamme tulevat?"
+- **Yhteys:** Johdataan sisäisiin malleihin: "Tämä liittyy siihen, miten meidän aiemmat kokemukset ja tiedot ohjaavat sitä, mitä näemme ja miten tulkitsemme maailmaa."
 
-### 2. TEORIAOSUUS (15 min)
+**Tavoite:** Herätä uteliaisuus ja kytkeytyä opiskelijoiden omaan kokemukseen.
 
-**Sisäisten mallien perusteet:**
-- **Määritelmä:** Mielen kognitiiviset rakenteet, jotka syntyvät kokemuksista, uskomuksista ja tiedoista
-- **Synonyymi:** Skeemat (schema)
-- **Toiminta:** Ohjaavat havaitsemista, ajattelua ja toimintaa
+---
 
-**Sisäisten mallien tehtävät:**
-1. Tiedon järjestäminen ja pelkistäminen
-2. Uuden tiedon tulkinta ja integrointi
-3. Havaitsemisen ja tarkkaavaisuuden ohjaaminen (Neisserin havaintokehä)
-4. Minäkäsityksen ja maailmankuvan muokkaaminen
-5. Toiminnan ohjaaminen uusissa tilanteissa
+### 2. KÄSITTEEN MÄÄRITTELY JA TEOREETTINEN PERUSTA (15 min)
 
-**Esimerkkejä:**
-- Ravintolaskeema (mitä odotat ravintolassa tapahtuvan?)
-- Koulupäiväskeema
-- Stereotypiat sosiaalisina skeemoina
+**Menetelmä:** Opettajan selitys + visuaalinen tuki (PowerPoint/taulu)
 
-### 3. VIERAILU (35 min)
+**Sisältö:**
+- **Sisäiset mallit (skeemat):** Mielen kognitiivisia rakenteita, jotka syntyvät kokemuksista, opituista uskomuksista ja tiedoista
+- **Syntymekanismi:** Hermoverkkoihin tallentuneita valmiuksia, jotka kehittyvät kokemuksen myötä
+- **Neljä keskeistä funktiota:**
+  1. Tiedon järjestäminen (informaation pelkistäminen)
+  2. Uuden tiedon ymmärtäminen (integrointi olemassa oleviin malleihin)
+  3. Havaitsemisen ja tarkkaavaisuuden ohjaaminen (Neisserin havaintokehä)
+  4. Minäkäsityksen ja maailmankuvan muodostaminen
 
-**Vierailukohde:** [Esim. paikallinen museo, kirjasto, yritys tai oppilaitoksen toinen osasto]
+**Visuaalinen tuki:** Havaintokehä-kaavio, joka osoittaa, miten sisäiset mallit ja havaintojen välillä on kaksisuuntainen vuorovaikutus.
 
-**Havainnointitehtävät (jaettu etukäteen):**
+**Tavoite:** Luoda yhteinen käsitteellinen pohja.
 
-**Ryhmä 1: Tilan havainnointi**
-- Miten sisäiset mallisi vaikuttavat siihen, mitä huomaat tilassa?
-- Mitkä asiat kiinnittävät huomiosi ensimmäisenä ja miksi?
-- Miten aiemmat kokemuksesi vastaavista tiloista vaikuttavat havaintoihisi?
+---
 
-**Ryhmä 2: Toiminnan havainnointi**
-- Miten ihmiset toimivat tilassa? Mitä sisäisiä malleja he mahdollisesti käyttävät?
-- Miten omat sisäiset mallisi vaikuttavat siihen, miten tulkitset ihmisten toimintaa?
+### 3. KÄYTÄNNÖN ESIMERKIT JA ANALYSOINTI (20 min)
 
-**Ryhmä 3: Oppimisen havainnointi**
-- Miten uusi tieto integroituu olemassa oleviin sisäisiin malleihisi?
-- Haastaavatko jotkut havainnot aiempia käsityksiäsi?
-- Miten sisäiset mallisi auttavat tai haittaavat uuden oppimista?
+**Menetelmä:** Aineistopohjainen työskentely + ryhmäkeskustelu
 
-**Vierailun aikana:**
-- Opiskelijat tekevät muistiinpanoja havainnointitehtävistään
-- Opettaja kiertää ja tukee havainnointia kysymyksillä
+**Esimerkki 1 – Stereotypiat ja ennakkoluulot:**
+- Näytetään lyhyt video tai kuva tilanteesta, jossa ihmisen käyttäytyminen tulkitaan eri tavoin riippuen henkilön näkyvistä piirteistä (esim. etnisyys, sukupuoli, ikä)
+- **Analyysi:** "Mitä sisäisiä malleja tässä tilanteessa aktivoituu? Miten ne vaikuttavat tulkintaamme?"
 
-### 4. PURKU JA REFLEKTIO (12 min)
+**Esimerkki 2 – Oppiminen ja muisti:**
+- Opiskelijoille annetaan teksti, joka käsittelee tuttua aihetta (esim. koulu, ystävyys) ja teksti, joka käsittelee vierasta aihetta
+- **Tehtävä:** Vertaa, kumpi on helpompi ymmärtää ja muistaa. Miksi?
+- **Johtopäätös:** Olemassa olevat sisäiset mallit helpottavat uuden tiedon omaksumista.
 
-**Ryhmäkeskustelut:**
-- Kukin ryhmä jakaa havaintonsa (3-4 min/ryhmä)
-- Yhteiset havainnot: Miten sisäiset mallit vaikuttivat kokemukseenne?
+**Esimerkki 3 – Minäkäsitys:**
+- Opiskelijoita pyydetään pohtimaan, miten heidän sisäinen malli itsestään (minäkäsitys) vaikuttaa siihen, mitä haasteita he ottavat vastaan tai välttävät
 
-**Teorian ja käytännön yhdistäminen:**
-- Miten vierailulla havaitut ilmiöt liittyvät sisäisten mallien teoriaan?
-- Konkreettiset esimerkit sisäisten mallien toiminnasta
+**Tavoite:** Konkretisoida käsite ja kytkeytyä opiskelijoiden elämään.
 
-### 5. SYVENTÄMINEN JA SOVELTAMINEN (8 min)
+---
 
-**Paripohdinta:**
-- Miten sisäiset mallit vaikuttavat omaan oppimiseesi lukiossa?
-- Voivatko sisäiset mallit joskus haitata oppimista? Miten?
-- Miten voit tietoisesti muokata sisäisiä mallejasi?
+### 4. VIERAILU / AKTIIVINEN OSUUS (20 min)
 
-**Yhteys metakognitioon:**
-- Sisäisten mallien tiedostaminen = metakognitiivinen taito
-- Omien ajattelumallien tunnistaminen auttaa oppimisessa
+**Menetelmä:** Vierailu (esim. psykologian laboratorio, neurotutkimuskeskus tai yhteistyötaho)
 
-### 6. YHTEENVETO JA KOTITEHTÄVÄ (5 min)
+**Vaihtoehto A – Laboratoriovierailu (jos saatavilla):**
+- Vierailun aikana opiskelijat näkevät, miten sisäisiä malleja tutkitaan (esim. silmän liikkeiden seuranta, reaktioaikamittaukset)
+- Opiskelijat osallistuvat pieneen kokeeseen, joka osoittaa sisäisten mallien vaikutusta havaitsemiseen
 
-**Keskeiset opit:**
-- Sisäiset mallit ovat kognitiivisia rakenteita, jotka ohjaavat toimintaamme
-- Ne syntyvät kokemuksista ja voivat muuttua
-- Niiden tiedostaminen parantaa itsetuntemusta ja oppimista
+**Vaihtoehto B – Asiantuntija-vierailu:**
+- Psykologi tai neurotutkija kertoo, miten sisäiset mallit vaikuttavat ammattialallaan (esim. kliininen psykologi ja potilaan tulkinta oireista)
+
+**Vaihtoehto C – Virtuaalinen vierailu:**
+- Etäyhteys tutkimusryhmään tai asiantuntijaan, joka esittelee tutkimusta sisäisistä malleista
+
+**Tavoite:** Yhdistää teoria käytäntöön ja osoittaa, miten psykologiaa tutkitaan.
+
+---
+
+### 5. REFLEKTIO JA SOVELTAMINEN (8 min)
+
+**Menetelmä:** Yksilöllinen reflektio + parihaastattelu
+
+**Tehtävä:**
+- Opiskelijat kirjoittavat tai keskustelevat pareittain: "Millä tavalla omat sisäiset mallini vaikuttavat siihen, miten tulkitsen muita ihmisiä tai tilanteita? Anna konkreettinen esimerkki."
+- Vapaaehtoisia jakaa ajatuksia ryhmälle
+
+**Tavoite:** Syventää itsetuntemusta ja yhdistää teoria omaan elämään.
+
+---
+
+### 6. YHTEENVETO JA KOTITEHTÄVÄ (2 min)
+
+**Yhteenveto:**
+- Sisäiset mallit ovat kognitiivisia rakenteita, jotka syntyvät kokemuksesta ja ohjaavat havaitsemista, ajattelua ja toimintaa
+- Ne ovat oppimisen kannalta keskeisiä, mutta voivat myös johtaa virheellisiin tulkintoihin (stereotypiat)
+- Niiden ymmärtäminen auttaa itsetuntemuksessa ja muiden ymmärtämisessä
 
 **Kotitehtävä:**
-Kirjoita oppimispäiväkirjamerkintä (n. 200 sanaa):
-1. Tunnista yksi oma sisäinen mallisi (esim. liittyen kouluun, harrastukseen tai sosiaalisiin tilanteisiin)
-2. Analysoi: Mistä se on syntynyt? Miten se ohjaa toimintaasi?
-3. Pohdi: Onko se hyödyllinen vai rajoittava? Haluaisitko muuttaa sitä?
+- Opiskelijat havainnollistavat omaa sisäistä mallia piirtämällä tai kirjoittamalla: "Minkälainen sisäinen malli minulla on [valitusta aiheesta, esim. matematiikka, urheilu, jokin ammatti]? Mistä se on peräisin?"
+- Tai: Etsi uutisesta tai sosiaalisesta mediasta esimerkki, jossa sisäiset mallit/stereotypiat vaikuttavat ihmisten tulkintoihin
 
 ---
 
-## MENETELMÄT
+## MATERIAALIT JA RESURSSIT
 
-- **Kokeellinen havainnointi:** Monitulkintainen kuva tunnin alussa
-- **Vierailu:** Autenttinen oppimisympäristö teorian soveltamiseen
-- **Strukturoitu havainnointi:** Selkeät havainnointitehtävät ryhmille
-- **Reflektiivinen keskustelu:** Kokemusten jakaminen ja analysointi
-- **Paripohdinta:** Syventävä keskustelu sovelluksista
-- **Oppimispäiväkirja:** Henkilökohtainen reflektio ja soveltaminen
-
----
-
-## MATERIAALIT
-
-**Opettajalle:**
-- Monitulkintainen kuva (esim. ankka-jänis, nuori-vanha nainen)
-- PowerPoint-esitys sisäisten mallien teoriasta
-- Havainnointitehtävälomakkeet (3 eri versiota)
-- Vierailukohteen yhteystiedot ja käytännön järjestelyt
-
-**Opiskelijoille:**
-- Havainnointitehtävälomake
-- Muistiinpanovälineet
-- Oppimispäiväkirja (digitaalinen tai paperinen)
-
-**Digitaaliset resurssit:**
-- Quizlet-kortit kertaukseen: https://quizlet.com/fi/605016360/
-- Mielikartta: https://coggle.it/diagram/ZBshW0GwolWeiSfv/t/psykologia
-
----
-
-## ARVIOINTI
-
-**Formatiivinen arviointi (tunnin aikana):**
-- Havainnointi: Opettaja seuraa opiskelijoiden osallistumista ja havainnointia vierailulla
-- Suullinen palaute: Ryhmäkeskustelujen laatu ja syvyys
-- Kysymykset: Opiskelijoiden esittämät kysymykset ja kommentit
-
-**Summatiivinen arviointi:**
-- Oppimispäiväkirjamerkintä arvioidaan seuraavilla kriteereillä:
-  * Sisäisten mallien käsitteen ymmärtäminen ja soveltaminen (0-3 p.)
-  * Oman esimerkin analysoinnin syvyys (0-3 p.)
-  * Reflektiivinen pohdinta ja kriittinen ajattelu (0-2 p.)
-  * Psykologisen käsitteistön käyttö (0-2 p.)
-
-**Arviointikriteerit (numeroarvosana 4-10):**
-- **Erinomainen (9-10):** Syvällinen ymmärrys sisäisistä malleista, kyky analysoida niiden vaikutusta monipuolisesti, kriittinen ja reflektiivinen ote, täsmällinen käsitteistön käyttö
-- **Hyvä (7-8):** Hyvä ymmärrys käsitteestä, kyky soveltaa teoriaa omaan elämään, selkeä analyysi, asianmukainen käsitteistön käyttö
-- **Tyydyttävä (5-6):** Perustason ymmärrys, jonkin verran soveltamista, pinnallisempi analyysi
-- **Välttävä (4):** Suppea ymmärrys, vähäistä soveltamista, puutteellinen analyysi
+| Materiaali | Kuvaus |
+|-----------|--------|
+| **PowerPoint/taulu** | Havaintokehä-kaavio, määritelmät, esimerkit |
+| **Video/kuva** | Kaksoisnäkö-kuva, stereotypioita käsittelevä video |
+| **Teksti** | Tuttu ja vieras teksti muistin testaamiseen |
+| **Vierailu** | Laboratorio, asiantuntija tai virtuaalinen yhteys |
+| **Muistiinpanovälineet** | Opiskelijoiden reflektioita varten |
 
 ---
 
 ## ERIYTTÄMINEN
 
-**Tuki tarvittaessa:**
-- Selkeämmät, rajatummat havainnointitehtävät
-- Parituki vierailulla
-- Oppimispäiväkirjaan apukysymykset ja kirjoitusrunko
-- Mahdollisuus suulliseen reflektioon kirjallisen sijaan
-
-**Syventävät tehtävät:**
-- Lisätehtävä: Analysoi, miten kulttuuriset erot vaikuttavat sisäisten mallien muodostumiseen
-- Tutustu Neisserin havaintokehään syvällisemmin
-- Pohdi sisäisten mallien yhteyttä kognitiivisiin vinoumiin (linkki PS3-moduuliin)
-
-**Kielellinen tuki:**
-- Käsitteiden selitykset suomeksi ja englanniksi (schema/skeema)
-- Visuaaliset tukimateriaalit (kaaviot, kuvat)
-- Sanasto jaettuna etukäteen
+- **Syventävä:** Opiskelijat, jotka haluavat syvemmän ymmärryksen, voivat tutustua Jean Piagetin skeemateoriaan tai tutkimusartikkeleihin sisäisistä malleista
+- **Tukea tarvitsevat:** Konkreettiset esimerkit, visuaalinen tuki, parityöskentely
+- **Kiinnostuneet:** Voivat tutkia, miten sisäiset mallit vaikuttavat esim. median tulkintaan tai kulttuurisiin eroihin
 
 ---
 
-## YHTEYDET MUIHIN MODUULEIHIN
+## ARVIOINTI
 
-- **PS2 (Kehittyvä ihminen):** Sisäisten mallien kehittyminen elämänkaaren aikana
-- **PS3 (Tietoa käsittelevä ihminen):** Yhteys kognitiivisiin vinoumiin ja heuristiikkoihin
-- **PS4 (Tunteet ja mielenterveys):** Negatiivisten sisäisten mallien yhteys mielenterveyteen
-- **PS5 (Yksilöllinen ja yhteisöllinen ihminen):** Stereotypiat sosiaalisina skeemoina
+**Formatiivinen (tunnin aikana):**
+- Havainnointi: Osallistuuko opiskelija keskusteluihin? Ymmärtääkö käsitteen?
+- Esimerkkien analysointi: Pystyykö opiskelija soveltamaan käsitettä?
 
----
-
-## TURVALLISUUS JA KÄYTÄNNÖN JÄRJESTELYT
-
-- Vierailukohteen turvallisuusohjeet käyty läpi etukäteen
-- Ryhmäkoot ja valvonta varmistettu
-- Yhteystiedot ja aikataulu jaettu opiskelijoille
-- Varasuunnitelma: Jos vierailu peruuntuu, korvataan virtuaalivierailulla tai luokkahuoneaktiviteetilla (esim. "Lukion ensimmäinen päivä" -skenaario, jossa analysoidaan sisäisten mallien vaikutusta)
+**Summatiivinen (kotitehtävä):**
+- Kotitehtävän perusteella arvioidaan, pystyykö opiskelija tunnistamaan omia sisäisiä malleja ja ymmärtämään niiden alkuperää
 
 ---
 
-**Opettajan muistiinpanot:**
-- Varmista vierailukohteen sopivuus ja saatavuus hyvissä ajoin
-- Valmistele opiskelijat vierailuun: odotukset, käyttäytyminen, tavoitteet
-- Ota valokuvia/videoita vierailusta (luvat!) myöhempää reflektointia varten
-- Varaa aikaa seuraavalle tunnille vierailun syvällisempään purkuun tarvittaessa
+## LAAJA-ALAINEN OSAAMINEN
+
+- **Hyvinvointiosaaminen:** Itsetuntemus (minäkäsitys), omien uskomusten ja mallien tunnistaminen
+- **Vuorovaikutusosaaminen:** Ymmärrys siitä, miten sisäiset mallit vaikuttavat toisten tulkintaan ja vuorovaikutukseen
+- **Globaali- ja kulttuuriosaaminen:** Kulttuuristen skeemojen ja stereotypioiden ymmärtäminen
+
+---
+
+## JATKO
+
+Seuraavalla tunnilla voidaan syventää sisäisten mallien roolia muistissa, oppimisstrategioissa ja metakognitiossa. Voidaan myös käsitellä, miten sisäiset mallit muuttuvat oppimisen myötä (plastisuus).

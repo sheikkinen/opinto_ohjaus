@@ -1,127 +1,193 @@
-# TUNTISUUNNITELMA: Metakognitio
+# TUNTISUUNNITELMA: METAKOGNITIO
 
 **Moduuli:** PS1 – Toimiva ja oppiva ihminen  
-**Kesto:** 75 min | **Työtapa:** Luokkaopetus | **Vuosikurssi:** 3. vuosi, syksy
+**Aihe:** Metakognitio – oman oppimisen ja ajattelun tiedostaminen ja säätely  
+**Kesto:** 75 minuuttia | **Työtapa:** Luokkaopetus | **Vuosikello:** 1. vuosi, syksy
 
 ---
 
 ## TAVOITTEET
 
-**Moduulikohtaiset tavoitteet:**
-- Opiskelija ymmärtää metakognition käsitteen ja sen merkityksen tehokkaalle oppimiselle
-- Opiskelija osaa tunnistaa ja nimetä omia metakognitiivisia prosessejaan
-- Opiskelija kehittää kykyään suunnitella, seurata ja arvioida omaa oppimistaan
+**Oppimistavoitteet:**
+- Opiskelija ymmärtää metakognition käsitteen ja sen merkityksen oppimisessa
+- Opiskelija oppii tunnistamaan omia kognitiivisia prosessejaan (suunnittelu, seuranta, arviointi)
+- Opiskelija kehittää tietoisuutta omista oppimisstrategioistaan ja niiden tehokkuudesta
+- Opiskelija kykenee soveltamaan metakognitiivisia taitoja omaan oppimiseensa
 
 **Laaja-alainen osaaminen:**
-- Hyvinvointiosaaminen: itsetuntemuksen ja itsesäätelyn vahvistaminen
-- Vuorovaikutusosaaminen: erilaisten oppimistyylien ymmärtäminen
+- Hyvinvointiosaaminen: itsetuntemus, oman ajattelun ja oppimisen säätely
+- Vuorovaikutusosaaminen: erilaisten oppimistyylien ymmärtäminen vertaisissa
 
 ---
 
-## TUNNIN KULKU
+## TUNNIN KULKU (75 min)
 
-**1. Aloitus ja motivointi (10 min)**
-- Lyhyt case-esimerkki: "Miksi jotkut opiskelevat tehokkaasti ja toiset eivät?"
-- Kysymys opiskelijoille: "Miten tiedät, että olet oppinut jotain?"
-- Metakognition määrittely: "Ajattelun ajatteleminen"
+### 1. JOHDANTO JA AKTIVOINTI (10 min)
 
-**2. Metakognition teoria (20 min)**
-- Metakognition kaksi pääkomponenttia:
-  * Metakognitiivinen tieto (tietoisuus omasta ajattelusta)
-  * Metakognitiivinen säätely (suunnittelu, seuranta, arviointi)
-- Yhteys pystyvyysuskomuksiin ja tavoiteorientaatioihin
-- Tutkimusnäyttö: metakognition vaikutus akateemiseen suoriutumiseen
-- Konkreettiset esimerkit: muistin seuranta, ymmärryksen tarkistaminen
+**Menetelmä:** Interaktiivinen keskustelu ja reflektio
 
-**3. Käytännön harjoitus: Oman oppimisen analyysi (25 min)**
-- Yksilötyö (10 min): Opiskelija täyttää "Metakognitiivisen oppimispäiväkirjan"
-  * Mitä opiskelin viime viikolla?
-  * Mitä strategioita käytin?
-  * Miten tiesin, että opin?
-  * Mikä toimi, mikä ei?
-- Parikeskustelu (10 min): Jaetaan havaintoja ja vertaillaan strategioita
-- Yhteinen purku (5 min): Keskeisten havaintojen kokoaminen
+- **Opettaja esittää ongelman:** "Miksi jotkut opiskelijat oppivat helpommin kuin toiset, vaikka tekisivät saman verran töitä?"
+- **Opiskelijat pohtivat pareittain:** Mitä eroja on omassa oppimisessa? Miten tiedät, että olet ymmärtänyt jotain?
+- **Yhteinen keskustelu:** Kerätään ajatuksia liitutaululle (3–4 min)
+- **Opettajan johdanto:** "Tänään tutustumme metakognition käsitteeseen – siihen, miten voimme tiedostaa ja ohjata omaa ajatteluamme."
 
-**4. Metakognitiiviset strategiat (15 min)**
-- Esitellään konkreettisia työkaluja:
-  * SQ3R-menetelmä (Survey, Question, Read, Recite, Review)
-  * Itsearviointikysymykset oppimisen aikana
-  * Ajatuskartat ja käsitekartat
-  * Opitun selittäminen toiselle
-- Opiskelijat valitsevat yhden uuden strategian kokeiltavaksi
-
-**5. Yhteenveto ja reflektio (5 min)**
-- Keskeiset oivallukset: Mitä metakognitio on ja miksi se on tärkeää?
-- Kotitehtävä: Sovella yhtä uutta metakognitiivista strategiaa seuraavan viikon aikana ja kirjaa kokemukset
+**Materiaali:** Liitutaulu, liidut
 
 ---
 
-## MENETELMÄT
+### 2. METAKOGNITION KÄSITE JA TEORIA (15 min)
 
-- **Aktivoiva luento:** Teoria esitetään vuorovaikutteisesti esimerkkien ja kysymysten avulla
-- **Reflektiivinen kirjoittaminen:** Oman oppimisen tiedostaminen päiväkirjan avulla
-- **Vertaisoppiminen:** Parikeskustelut erilaisten strategioiden jakamiseksi
-- **Konkretisointi:** Käytännön työkalujen esittely ja soveltaminen
+**Menetelmä:** Opettajajohtoisesti opetus + visuaalinen esitys
+
+**Opettaja selittää:**
+- **Metakognition määritelmä:** "Meta" = itsensä yli, "kognitio" = ajattelu → ajattelun ajatteleminen
+- **Kolme pääkomponenttia:**
+  1. **Metakognitiivinen tieto:** Tietämys omista kognitiivisista prosesseista (muisti, ajattelu, oppiminen)
+  2. **Metakognitiivinen seuranta:** Kyky seurata omaa ymmärtämistä ja edistymistä ("Ymmärrän tämän?")
+  3. **Metakognitiivinen säätely:** Kyky muuttaa strategioita, jos ne eivät toimi
+
+- **Yhteys oppimiseen:** Metakognitio auttaa valitsemaan oikeat oppimisstrategiat ja arvioimaan niiden tehokkuutta
+
+**Visuaalinen esitys:** PowerPoint-kalvo tai piirros kolmesta komponentista
+
+**Esimerkki:** "Kun luet psykologian oppikirjaa ja huomaat, ettet ymmärrä kappaletta, se on metakognitiivinen seuranta. Kun päätät lukea sen uudelleen hitaammin tai etsiä muita lähteitä, se on metakognitiivinen säätely."
+
+**Materiaali:** Esitysvälineet, kalvot
 
 ---
 
-## MATERIAALIT
+### 3. OPPIMISSTRATEGIAT JA PYSTYVYYSUSKOMUKSET (12 min)
 
-- PowerPoint-esitys metakognition teoriasta
-- "Metakognitiivisen oppimispäiväkirjan" lomake (digitaalinen/tulostettu)
-- Oppimisstrategioiden tukimateriaali (esim. SQ3R-ohje)
-- Tutkimusartikkeli metakognition vaikutuksesta (valinnainen syventävä materiaali)
-- Linkki Studeon PS1-materiaaliin ja OPH:n opetussuunnitelman kuvaukseen
+**Menetelmä:** Aineistopohjainen työskentely + ryhmäkeskustelu
+
+**Opettaja jakaa lyhyen tekstin tai taulukon:**
+- Erilaisia oppimisstrategioita (muistaminen, ymmärtäminen, soveltaminen, kriittinen arviointi)
+- Esimerkkejä: "Oppimisorientaatio" (haluan oppia) vs. "Suoritusorientaatio" (haluan saada hyvän arvosanan)
+
+**Opiskelijat työskentelevät pienryhmissä (3–4 henkilöä):**
+- Pohditaan, mitä strategioita kukin käyttää eri oppiaineissa
+- Miten pystyvyysuskomukset ("Pystyn tähän" vs. "En pysty") vaikuttavat oppimiseen?
+- Ryhmä valitsee yhden esimerkin, jonka esittelee luokalle (2 min)
+
+**Yhteinen pohdinta:** Miten positiiviset pystyvyysuskomukset ja oppimisorientaatio tukevat metakognitiivisten taitojen kehittymistä?
+
+**Materiaali:** Jaettu teksti/taulukko, liitutaulu
 
 ---
 
-## ARVIOINTI
+### 4. KÄYTÄNNÖN HARJOITUS: OMAN OPPIMISEN ANALYSOINTI (20 min)
 
-**Formatiivinen arviointi tunnilla:**
-- Havainnointi: Osallistuminen keskusteluun ja pariharjoitukseen
-- Oppimispäiväkirjan täyttäminen: Kyvykkyys reflektoida omaa oppimista
-- Suulliset vastaukset: Metakognition käsitteiden ymmärtäminen
+**Menetelmä:** Reflektiivinen harjoitus + itsearviointi
 
-**Summatiivinen arviointi (myöhemmin):**
-- Kotitehtävä: Metakognitiivisen strategian soveltaminen ja raportointi
-- Moduulin loppukoe: Metakognition teorian ja soveltamisen hallinta
+**Vaihe 1 (8 min) – Yksilöllinen reflektio:**
+Opiskelijat täyttävät "Metakognition reflektio -lomakkeen":
+- Valitse yksi oppiaine, jossa sinulla menee hyvin
+- Mitä strategioita käytät? (esim. muistiinpanot, yhteenveto, harjoitukset)
+- Miten seuraat omaa ymmärtämistään?
+- Mitä teet, jos et ymmärrä jotain?
 
-**Arviointikriteerit:**
-- Psykologisen käsitteistön täsmällinen käyttö
-- Kyky analysoida omaa oppimista metakognition näkökulmasta
-- Metakognitiivisten strategioiden soveltaminen käytäntöön
+**Vaihe 2 (7 min) – Parityöskentely:**
+- Opiskelijat jakavat ajatuksensa pareittain
+- Vertailevat strategioita ja pohditaan, mitä voisi ottaa toiselta
+
+**Vaihe 3 (5 min) – Luokkakeskustelu:**
+- Opettaja kerää esimerkkejä tehokkaista strategioista
+- Korostetaan, että erilaisia strategioita on olemassa ja ne toimivat eri ihmisille
+
+**Materiaali:** Jaettu reflektio-lomake, kynät
+
+---
+
+### 5. KRIITTINEN TIEDONHALLINTA JA METAKOGNITIO (10 min)
+
+**Menetelmä:** Aineistopohjainen analyysi
+
+**Opettaja esittää lyhyen uutisartikkelin tai tutkimusraportin otteen:**
+- Esim. artikkeli väitteestä "Kaikki oppivat parhaiten visuaalisesti"
+
+**Opiskelijat analysoivat metakognitiivisesti:**
+- Mitä väitettä artikkelissa esitetään?
+- Mitä näyttöä sille annetaan?
+- Onko väite luotettava? Puuttuuko jotain?
+- Miten tämä liittyy omaan oppimiseesi?
+
+**Opettajan johtopäätös:** Metakognitio auttaa myös arvioimaan tiedon luotettavuutta ja ymmärtämään eri näkökulmia.
+
+**Materiaali:** Jaettu artikkeli/tutkimusote
+
+---
+
+### 6. YHTEENVETO JA SOVELTAMINEN (6 min)
+
+**Menetelmä:** Opettajajohtoisesti yhteenveto + kotitehtävä
+
+**Opettaja kokoaa tunnin pääkohdat:**
+- Metakognitio = ajattelun ajatteleminen
+- Se sisältää tiedon, seurannan ja säätelyn
+- Se auttaa valitsemaan oikeat strategiat ja arvioimaan niiden tehokkuutta
+- Se tukee itsetuntemusta ja hyvinvointia
+
+**Kotitehtävä (reflektiivinen):**
+"Seuraa omaa oppimistasi seuraavan viikon ajan. Kirjoita lyhyt päiväkirja (3–4 merkintää), jossa pohdit:
+- Mitä strategioita käytit?
+- Toimivatko ne?
+- Mitä muuttaisit?"
+
+**Materiaali:** Kotitehtävän ohje (jaetaan tai kirjoitetaan taululle)
+
+---
+
+## MATERIAALIT JA RESURSSIT
+
+| Materiaali | Käyttö | Huomautus |
+|-----------|--------|----------|
+| PowerPoint/esitysvälineet | Teorian esittäminen | Kolmen komponentin visuaalisointi |
+| Liitutaulu ja liidut | Aktivointi, yhteenveto | Opiskelijoiden ajatuksien kerääminen |
+| Jaetut tekstit/artikkelit | Aineistopohjainen työskentely | Oppimisstrategiat, kriittinen analyysi |
+| Reflektio-lomake | Yksilöllinen harjoitus | Oman oppimisen analysointi |
+| Digitaaliset lähteet | Taustatiedot | Peda.net, Studeo, OPH:n materiaali |
 
 ---
 
 ## ERIYTTÄMINEN
 
-**Tuki tarvittaessa:**
-- Selkeät, strukturoidut lomakkeet oppimispäiväkirjaan
-- Mallivastaukset ja esimerkit metakognitiivisista strategioista
-- Opettajan tuki pariharjoituksessa
-
-**Syventävät tehtävät:**
-- Tutustu tutkimusartikkeliin metakognition ja akateemisen menestyksen yhteydestä
-- Vertaile eri oppimisstrategioiden tehokkuutta tieteellisen tutkimuksen valossa
-- Suunnittele oma metakognitiivinen kehittämisohjelma seuraavalle kuukaudelle
-
-**Hybridiopetus:**
-- Materiaali saatavilla Peda.netissä tai Moodlessa
-- Mahdollisuus osallistua etänä ja tehdä harjoitukset digitaalisesti
+- **Tukea tarvitsevat:** Strukturoidumpi reflektio-lomake, opettajan tuki parityöskentelyyn
+- **Syventävät:** Tutkimusartikkelin syvempi analyysi, metakognition yhteys muihin oppimisen tekijöihin (muisti, tarkkaavaisuus)
+- **Kiinnostuneet:** Kotitehtävän laajentaminen, yhteys tavoiteorientaatioihin ja resiliensiin
 
 ---
 
-## KOTITEHTÄVÄ
+## ARVIOINTI
 
-Valitse yksi uusi metakognitiivinen strategia (esim. SQ3R, itsearviointikysymykset, opitun selittäminen). Sovella sitä yhden viikon ajan opiskellessasi jotain ainetta. Kirjaa lyhyt reflektio (n. 200 sanaa):
-- Mitä strategiaa käytit ja miten?
-- Miten se vaikutti oppimiseesi?
-- Jatkaisitko sen käyttöä? Miksi/miksi ei?
+**Formatiivinen arviointi (tunnin aikana):**
+- Opettajan havainnot ryhmäkeskusteluista ja parityöskentelystä
+- Reflektio-lomakkeen sisältö
+- Opiskelijoiden aktiivisuus ja osallistuminen
+
+**Summatiivinen arviointi (myöhemmin):**
+- Kotitehtävän reflektio-päiväkirja
+- Metakognition soveltaminen myöhemmissä oppimistilanteissa
+
+**Arviointikriteerit:**
+- Ymmärtää metakognition käsitteen
+- Tunnistaa omia kognitiivisia prosessejaan
+- Kykenee arvioimaan strategioiden tehokkuutta
+- Soveltaa metakognitiivisia taitoja käytäntöön
 
 ---
 
-## YHTEYDET MUIHIN AIHEISIIN
+## LIITTYMINEN MODUULIN KOKONAISUUTEEN
 
-- **PS1:** Oppimisen psykologia (ehdollistuminen, muisti, oppimisstrategiat)
-- **PS3:** Tiedonkäsittely ja tarkkaavaisuus
-- **Laaja-alaiset taidot:** Sovellettavissa kaikkiin oppiaineisiin
+Metakognitio on keskeinen osa PS1-moduulia "Toimiva ja oppiva ihminen". Se tukee:
+- **Oppimisen psykologiaa:** Yhdessä muistin, ehdollistumisen ja oppimisstrategioiden kanssa
+- **Itsetuntemusta ja hyvinvointia:** Auttaa opiskelijaa ymmärtämään omaa ajatteluaan ja kehittämään resilienssiä
+- **Kriittistä tiedonhallintaa:** Metakognitio on edellytys tiedon luotettavuuden arvioimiselle
+
+---
+
+## JATKO-OPETUS
+
+Seuraavilla tunneilla voidaan syventää:
+- Metakognition yhteys muistiin ja tarkkaavaisuuteen
+- Oppimisstrategioiden soveltaminen eri oppiaineissa
+- Metakognitio ja stressinhallinta (yhteys PS4-moduuliin)

@@ -1,166 +1,189 @@
 # TUNTISUUNNITELMA: Oppimisen sosiaalisuus
 
-**Moduuli:** PS1 - Toimiva ja oppiva ihminen | **Kesto:** 75 min | **Työtapa:** Luokkaopetus
-**Kohderyhmä:** Lukion 2. vuosi, kevät | **Opiskelijamäärä:** ~20-25
+**Moduuli:** PS1 – Toimiva ja oppiva ihminen | **Aihe-ID:** 16 | **Kesto:** 75 min | **Työtapa:** Luokkaopetus
 
 ---
 
 ## TAVOITTEET
 
-**Moduulikohtaiset tavoitteet:**
-- Opiskelija ymmärtää oppimisen biopsykososiaalisena kokonaisuutena ja tunnistaa sosiaalisten tekijöiden merkityksen oppimisessa
-- Opiskelija osaa käyttää psykologista käsitteistöä (lähikehityksen vyöhyke, oppimiskulttuurit, mallioppiminen)
+**Moduulin yleiset tavoitteet:**
+- Ymmärtää ihmisen toimintaa biopsykososiaalisena kokonaisuutena
+- Hallita psykologisen käsitteistön täsmällinen käyttö
+- Kehittää kriittistä tiedonhallintaa
 
-**Tunnin tavoitteet:**
-- Opiskelija tunnistaa sosiaalisen vuorovaikutuksen merkityksen omassa oppimisessaan
-- Opiskelija ymmärtää Vygotskyn lähikehityksen vyöhykkeen teorian ja sen soveltamisen
-- Opiskelija osaa analysoida erilaisia oppimiskulttuureita ja niiden vaikutuksia
-- Opiskelija kehittää vuorovaikutusosaamistaan reflektoimalla ryhmädynamiikkaa
-
----
-
-## TUNNIN KULKU
-
-### 1. ALOITUS JA MOTIVOINTI (10 min)
-
-**Aktivoiva kysymys:** "Ajattele hetki, milloin olet viimeksi oppinut jotain uutta. Kuka tai ketkä olivat mukana tilanteessa?"
-
-- Opiskelijat jakavat pareittain (2 min) kokemuksiaan
-- Yhteinen keskustelu: Kerätään taululle esimerkkejä → johdetaan teemaan oppimisen sosiaalisuudesta
-- **Tavoite:** Kytkeä aihe opiskelijan omaan kokemusmaailmaan ja herättää kiinnostus
-
-### 2. TEORIAOSUUS: Oppimisen sosiaalisuuden perusteet (20 min)
-
-**Lähikehityksen vyöhyke (Vygotsky):**
-- Esitellään käsite visuaalisella diagrammilla (PowerPoint/dokumenttikamera)
-- Konkreettinen esimerkki: Lapsi oppii pyöräilemään tukipyörien ja aikuisen avulla
-- Keskustelu: Miten tämä näkyy lukio-opinnoissa? (vertaisoppiminen, opettajan ohjaus)
-
-**Oppimiskulttuurit:**
-- Esitellään 2-3 erilaista oppimiskulttuuria (esim. suomalainen vs. aasialainen, perinteinen vs. moderni)
-- Lyhyt video tai kuva-aineisto eri oppimisympäristöistä (3-4 min)
-
-**Mallioppiminen ja sosiaalinen vahvistaminen:**
-- Bandura: Oppiminen havainnoinnin kautta
-- Esimerkit: Sosiaalinen media, vaikuttajat, vertaisryhmät
-
-### 3. RYHMÄTYÖ: Oppimiskulttuurien analyysi (25 min)
-
-**Tehtävänanto:**
-Ryhmät (4-5 henkilöä) saavat analysoitavaksi yhden oppimiskulttuurin:
-1. Suomalainen lukiokulttuuri
-2. Verkkopohjainen oppimisyhteisö (esim. Discord, Reddit)
-3. Urheilujoukkue/harrastusryhmä
-4. Perinteinen käsityöläisyhteisö (oppipoika-mestari)
-
-**Analyysikysymykset:**
-- Miten oppiminen tapahtuu tässä kulttuurissa?
-- Millainen on lähikehityksen vyöhykkeen rooli?
-- Miten sosiaalinen vuorovaikutus tukee oppimista?
-- Mitkä ovat kulttuurin vahvuudet ja rajoitukset?
-
-**Tuotos:** A3-paperi tai digitaalinen esitys (Padlet/Flinga)
-
-### 4. RYHMIEN ESITYKSET JA YHTEENVETO (15 min)
-
-- Jokainen ryhmä esittelee analyysinsä (2-3 min/ryhmä)
-- Opettaja kokoaa yhteen keskeiset havainnot ja kytkee ne teoriaan
-- Nostetaan esiin yhtäläisyyksiä ja eroja eri oppimiskulttuurien välillä
-
-### 5. REFLEKTIO JA SOVELTAMINEN (5 min)
-
-**Henkilökohtainen pohdinta (kirjallinen):**
-"Miten voit hyödyntää oppimisen sosiaalisuutta omissa opinnoissasi? Anna yksi konkreettinen esimerkki."
-
-- Vapaaehtoiset jakavat ajatuksiaan
-- Opettaja korostaa metakognition merkitystä
+**Tunnin spesifiset tavoitteet – Opiskelija:**
+- Ymmärtää sosiaalisen vuorovaikutuksen ja ympäristön keskeisen roolin oppimisessa
+- Tutustuu Vygotskyn lähikehityksen vyöhykkeen teoriaan ja sen soveltamiseen
+- Tunnistaa erilaisia oppimiskulttuureita ja niiden vaikutusta oppimiseen
+- Kehittää vuorovaikutusosaamista ja ryhmädynamiikan ymmärrystä
+- Reflektoi omaa oppimistaan sosiaalisissa konteksteissa
 
 ---
 
-## MENETELMÄT
+## TUNNIN KULKU (75 min)
 
-- **Dialoginen opetus:** Keskustelu ja yhteinen tiedon rakentaminen
-- **Aineistopohjainen analyysi:** Oppimiskulttuurien tarkastelu
-- **Ryhmätyöskentely:** Vuorovaikutusosaamisen harjoittelu
-- **Reflektiivisyys:** Oman oppimisen tarkastelu
-- **Visuaaliset materiaalit:** Teorian havainnollistaminen
+### 1. JOHDANTO (10 min)
 
----
+**Menetelmä:** Interaktiivinen keskustelu + videofragmentti
 
-## MATERIAALIT
+- **Avaus (2 min):** "Milloin olet oppinut jotain parhaiten? Yksin vai yhdessä muiden kanssa?" → Opiskelijat nostavat käsiä, muutama lyhyt kommentti.
+- **Videofragmentti (3 min):** Lyhyt video (esim. YouTube-klippi tai opettajan omaksi kuvattu sketssi) ryhmätyöstä, jossa näkyy vuorovaikutus ja oppiminen. Esim. opiskelijat ratkaisevat ongelmaa yhdessä, keskustelevat, auttavat toisiaan.
+- **Tehtävä (5 min):** Opiskelijat kirjoittavat muistiinpanoihin: "Mitä näit videossa? Miten ryhmän jäsenet auttoivat toisiaan oppimaan?" → Pari-share (opiskelijat jakavat ajatuksensa parin kanssa).
 
-- PowerPoint-esitys (lähikehityksen vyöhyke, oppimiskulttuurit)
-- Lyhyt video oppimisympäristöistä (3-4 min, esim. YouTube)
-- A3-paperit ja tussit TAI digitaalinen alusta (Padlet/Flinga)
-- Ryhmätyöohjeet (tulostettu tai digitaalinen)
-- Reflektiolomake tai Wilma-tehtävä
+**Tavoite:** Herätä mielenkiinto, aktivoida ennakkotiedot, luoda yhteys omaan kokemukseen.
 
 ---
 
-## ARVIOINTI
+### 2. KÄSITTEELLINEN PERUSTA (15 min)
 
-**Formatiivinen arviointi tunnin aikana:**
-- Havainnointi: Ryhmätyöskentelyn aktiivisuus ja vuorovaikutus
-- Suullinen palaute: Esitysten sisältö ja käsitteiden käyttö
-- Reflektiotekstin tarkastelu (ei arvosanaa, mutta palaute)
+**Menetelmä:** Opettajan selitys + interaktiivinen visualisointi
 
-**Summatiivinen arviointi (jatkossa):**
-- Käsitteiden hallinta: Lähikehityksen vyöhyke, oppimiskulttuurit, mallioppiminen
-- Soveltaminen: Kyky analysoida oppimistilanteita sosiaalisuuden näkökulmasta
-- Kriittinen arviointi: Eri oppimiskulttuurien vahvuuksien ja rajoitusten tunnistaminen
+- **Oppimisen sosiaalisuuden määritelmä (3 min):** Opettaja esittelee käsitteen:
+  - Oppiminen ei tapahdu vain yksilön päässä, vaan sosiaalisissa konteksteissa
+  - Vuorovaikutus, yhteistyö ja kulttuuriset normit muokkaavat oppimista
+  - Ihmiset oppivat toisiltaan ja yhdessä
 
-**Arviointikriteerit (numeroarvosana 4-10):**
-- Psykologisen käsitteistön täsmällinen käyttö
-- Kyky analysoida oppimista biopsykososiaalisena kokonaisuutena
-- Teorian soveltaminen käytännön tilanteisiin
+- **Vygotskyn lähikehityksen vyöhyke (ZPD) (8 min):**
+  - **Määritelmä:** Etäisyys sen välillä, mitä lapsi osaa tehdä yksin, ja mitä hän osaa tehdä aikuisen tai kokeneemman vertaisensa kanssa.
+  - **Visuaalinen esitys:** Opettaja piirtää taululle kolme ympyrää (itsenäinen osaaminen → lähikehityksen vyöhyke → liian vaikea).
+  - **Konkreettinen esimerkki:** Opiskelija oppii matematiikkaa. Yksin: yksinkertaiset laskut. ZPD:ssä: opettaja ohjaa monimutkaisempien tehtävien ratkaisussa. Liian vaikea: yliopistotason matematiikka ilman tukea.
+  - **Soveltaminen:** Opettaja kysyy: "Miten opettaja tai vertaisesi voi auttaa sinua ZPD:ssä?" → Opiskelijat antavat esimerkkejä (kysymysten esittäminen, mallin näyttäminen, kannustaminen).
+
+- **Sosiaalisen vuorovaikutuksen muodot oppimisessa (4 min):**
+  - Mallioppiminen (observation learning)
+  - Yhteistyöoppiminen (collaborative learning)
+  - Vertaisopetus (peer teaching)
+  - Keskustelu ja dialogi
+
+**Tavoite:** Rakentaa teoreettinen pohja, jota myöhemmin sovelletaan.
+
+---
+
+### 3. OPPIMISKULTTUURIT (12 min)
+
+**Menetelmä:** Ryhmätyö + plenumi
+
+- **Johdanto (2 min):** Oppimiskulttuurit ovat erilaisia tapoja ja normeja, jotka ohjaavat oppimista tietyissä yhteisöissä tai kulttuureissa. Esim. joissain kulttuureissa korostetaan yksilöllisiä saavutuksia, toisissa yhteisöllisyyttä.
+
+- **Ryhmätyö (8 min):** Luokka jaetaan 4–5 ryhmään. Jokaiselle ryhmälle annetaan eri oppimiskulttuurin skenaario:
+  1. **Perinteinen luokkahuone:** Opettaja johtaa, opiskelijat kuuntelevat, vastaukset yksilöllisiä.
+  2. **Yhteisöllinen oppiminen:** Opiskelijat työskentelevät ryhmissä, jakavat tietoa, yhdessä ratkaisevat ongelmia.
+  3. **Digitaalinen oppimisympäristö:** Opiskelijat oppivat verkossa, itsenäisesti, mutta voivat myös yhteistyössä.
+  4. **Mentorointikulttuuri:** Kokeneemmat opiskelijat opettavat nuoremmille, vertaisopetus.
+  5. **Tutkiva oppiminen:** Opiskelijat tutkivat, esittävät kysymyksiä, löytävät vastauksia yhdessä.
+
+  **Tehtävä:** Ryhmä saa kuvakortin tai tekstin, joka kuvaa yhtä oppimiskulttuuria. Ryhmä keskustelee: "Mitä hyviä puolia tässä kulttuurissa on? Mitä haasteita? Miten se vaikuttaa oppimiseen?"
+
+- **Plenumi (2 min):** Kukin ryhmä esittelee lyhyesti (30 sekuntia) omansa. Opettaja korostaa, että eri kulttuurit sopivat eri tilanteisiin ja opiskelijoille.
+
+**Tavoite:** Konkretisoida oppimiskulttuurien käsite, kehittää vuorovaikutusosaamista.
+
+---
+
+### 4. SOVELTAVA HARJOITUS: OMAT OPPIMISKOKEMUKSET (18 min)
+
+**Menetelmä:** Reflektiivinen kirjoittaminen + pari-share + plenumi
+
+- **Yksilöllinen reflektio (5 min):** Opiskelijat kirjoittavat vastaukset seuraaviin kysymyksiin:
+  1. Muista tilanne, jolloin opit jotain uutta yhdessä muiden kanssa. Mitä tapahtui?
+  2. Kuka tai ketkä auttoivat sinua? Miten he auttoivat?
+  3. Miten tämä liittyy Vygotskyn lähikehityksen vyöhykkeeseen?
+  4. Millainen oppimiskulttuuri oli kyseessä?
+
+- **Pari-share (5 min):** Opiskelijat jakavat kirjoituksensa parin kanssa. Pari kuuntelee ja esittää kysymyksiä.
+
+- **Plenumi (8 min):** Opettaja pyytää vapaaehtoisia jakamaan kokemuksensa (3–4 opiskelijaa). Opettaja korostaa yhteisiä teemoja:
+  - Sosiaalisen tuen merkitys
+  - Eri roolien merkitys (opettaja, vertainen, mentori)
+  - Kulttuurin vaikutus oppimiseen
+  - Luottamuksen ja turvallisuuden merkitys
+
+**Tavoite:** Yhdistää teoria omaan kokemukseen, kehittää itsetuntemusta ja reflektiivisyyttä.
+
+---
+
+### 5. KRIITTINEN ANALYYSI: OPPIMISEN SOSIAALISUUS KÄYTÄNNÖSSÄ (12 min)
+
+**Menetelmä:** Tapaustutkimus + ryhmäkeskustelu
+
+- **Tapaus (2 min):** Opettaja esittelee tapauksen (teksti tai video):
+  - *"Markus on uusi opiskelija. Hän on ujo ja epävarma. Ensimmäisellä oppitunnilla hän istuu yksin. Opettaja järjestää ryhmätyön. Markuksen ryhmässä on kolme ystävällistä opiskelijaa. He kysyvät Markukselta mielipidettä, kannustavat häntä, selittävät asioita. Tunnin lopussa Markus osallistuu aktiivisesti."*
+
+- **Analyysi (10 min):** Luokka keskustelee:
+  1. Mitä sosiaalisen vuorovaikutuksen muotoja näet tapauksessa? (Mallioppiminen, kannustus, vertaisopetus)
+  2. Miten ryhmä auttoi Markusta hänen ZPD:ssään? (Turvallinen ympäristö, ohjaus, kannustus)
+  3. Millainen oppimiskulttuuri ryhmässä vallitsi? (Yhteisöllinen, turvallinen, kannustava)
+  4. Mitä olisi voinut tapahtua, jos Markus olisi jäänyt yksin? (Eristäytyminen, oppimisen vaikeutuminen, itseluottamuksen heikkeneminen)
+
+**Tavoite:** Kehittää kriittistä ajattelua, yhdistää teoria käytäntöön, pohtia sosiaalisen ympäristön merkitystä.
+
+---
+
+### 6. YHTEENVETO JA REFLEKTIO (8 min)
+
+**Menetelmä:** Opettajan yhteenveto + yksilöllinen reflektio
+
+- **Opettajan yhteenveto (3 min):**
+  - Oppiminen on sosiaalinen prosessi
+  - Vygotskyn ZPD auttaa ymmärtämään, miten ohjaus ja tuki edistävät oppimista
+  - Oppimiskulttuurit vaihtelevat, ja ne vaikuttavat oppimisen tapaan ja tuloksiin
+  - Vuorovaikutus, luottamus ja kannustus ovat keskeisiä
+
+- **Yksilöllinen reflektio (5 min):** Opiskelijat vastaavat muistiinpanoihinsa:
+  1. Mitä uutta opit tänään oppimisen sosiaalisuudesta?
+  2. Miten voit hyödyntää tätä tietoa omassa oppimisessasi?
+  3. Miten voit tukea muiden oppimista sosiaalisesti?
+
+**Tavoite:** Vahvistaa oppimista, kannustaa soveltamiseen, kehittää itsetuntemusta.
+
+---
+
+## MATERIAALIT JA VÄLINEET
+
+- Taulu ja liitutaulu tai smartboard
+- Videofragmentti (3 min): Ryhmätyöskentely ja vuorovaikutus
+- Kuvakortteja tai tekstejä oppimiskulttuurien skenaarioista (4–5 kpl)
+- Muistiinpanopaperit ja kynät
+- Tapaustutkimuksen teksti tai video
 
 ---
 
 ## ERIYTTÄMINEN
 
-**Tuki tarvittaessa:**
-- Ryhmätyössä selkeät roolit (kirjuri, esittäjä, ajankäyttäjä)
-- Analyysikysymykset jaettuna pienempiin osiin
-- Mahdollisuus käyttää äidinkieltä tai visuaalisia esitystapoja
-
-**Syventävä haaste:**
-- Lisätehtävä: "Vertaile kahta oppimiskulttuuria tutkimusartikkelin avulla"
-- Pohdi: "Miten digitalisaatio muuttaa oppimisen sosiaalisuutta?"
-- Kytke Vygotskyn teoria muihin oppimisen teorioihin (esim. konstruktivismi)
-
-**Hybridiopetus (tarvittaessa):**
-- Etäopiskelijat osallistuvat Zoom-yhteyden kautta
-- Digitaaliset ryhmätyöt (breakout rooms, Padlet)
+- **Vahvemmat oppijat:** Pyydetään johtamaan ryhmäkeskustelua, esittämään syvempiä kysymyksiä, yhdistämään teoriaa muihin psykologian käsitteisiin (esim. motivaatio, itseluottamus).
+- **Heikommat oppijat:** Tarjotaan valmiita vastausvaihtoehtoja reflektio-kysymyksiin, ryhmitetään tukevien vertaisten kanssa, annetaan enemmän aikaa kirjoittamiseen.
+- **Kielellisesti tukea tarvitsevat:** Visualisoidaan käsitteet, käytetään yksinkertaista kieltä, tarjotaan sanastoa.
 
 ---
 
-## KOTITEHTÄVÄ / JATKOTEHTÄVÄ
+## ARVIOINTI
 
-**Valinnainen syventävä tehtävä:**
-Havainnoi ja analysoi yhtä omaa oppimistilannettasi seuraavan viikon aikana:
-- Missä tilanteessa opit jotain uutta?
-- Kuka tai ketkä olivat mukana?
-- Miten sosiaalinen vuorovaikutus vaikutti oppimiseesi?
-- Oliko kyseessä lähikehityksen vyöhyke?
+**Formatiivinen arviointi (tunnin aikana):**
+- Havainnointi: Osallistuuko opiskelija keskusteluihin? Ymmärtääkö hän käsitteitä?
+- Pari-share: Kuinka syvällisiä ajatuksia opiskelija jakaa?
+- Ryhmätyö: Osallistuuko ryhmätyöhön? Kuunteleeko muita?
 
-Palauta lyhyt analyysi (200-300 sanaa) Wilmaan.
+**Summatiivinen arviointi (myöhemmin):**
+- Kirjallinen tehtävä: Opiskelija kirjoittaa esseen omasta oppimiskokemuksesta Vygotskyn teorian valossa.
+- Ryhmäprojekti: Opiskelijat suunnittelevat oppimisympäristön, joka tukee sosiaalista oppimista.
 
----
-
-## YHTEYDET LAAJA-ALAISEEN OSAAMISEEN
-
-- **Vuorovaikutusosaaminen:** Ryhmädynamiikan tunnistaminen ja yhteistyötaidot
-- **Hyvinvointiosaaminen:** Sosiaalisen tuen merkitys oppimisessa
-- **Globaali- ja kulttuuriosaaminen:** Erilaisten oppimiskulttuurien ymmärtäminen
+**Arviointikriteerit:**
+- Käsitteellinen ymmärrys: Ymmärtääkö opiskelija ZPD:n, oppimiskulttuurit ja sosiaalisen vuorovaikutuksen merkityksen?
+- Soveltaminen: Pystyykö opiskelija yhdistämään teorian omiin kokemuksiin ja käytännön tilanteisiin?
+- Kriittinen ajattelu: Pystyykö opiskelija pohtimaan sosiaalisen ympäristön vaikutusta oppimiseen?
+- Vuorovaikutusosaaminen: Osallistuuko opiskelija rakentavasti ryhmätyöhön ja keskusteluihin?
 
 ---
 
-## JATKOPOLKU
+## LIITTYMISET LAAJA-ALAISEEN OSAAMISEEN
 
-**Seuraavat tunnit PS1-moduulissa:**
-- Metakognitio ja oppimisstrategiat
-- Tavoiteorientaatiot ja pystyvyysuskomukset
+- **Vuorovaikutusosaaminen:** Ryhmädynamiikan ja sosiaalisen identiteetin tunnistaminen, yhteistyö, kuuntelu.
+- **Hyvinvointiosaaminen:** Turvallisen oppimisympäristön merkitys, itseluottamus, kannustus.
+- **Eettisyys:** Toisten kunnioittaminen, osallisuus, tasa-arvo oppimisessa.
 
-**Yhteys muihin moduuleihin:**
-- PS2: Kiintymyssuhteiden merkitys kehitykselle (sosiaalinen perusta)
-- PS5: Ryhmädynamiikka ja sosiaalinen identiteetti (syventävä tarkastelu)
+---
+
+## JATKO
+
+- **Seuraavalla tunnilla:** Oppimisstrategiat ja metakognitio – miten opiskelija voi itse säädellä oppimistaan sosiaalisissa konteksteissa.
+- **Kotitehtävä:** Opiskelijat havainnointivat omaa oppimistaan seuraavan viikon ajan ja kirjoittavat lyhyen raportin sosiaalisista tekijöistä, jotka vaikuttivat heidän oppimiseensa.

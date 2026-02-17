@@ -1,113 +1,136 @@
-# TUNTISUUNNITELMA: Motiivit
+# TUNTISUUNNITELMA: MOTIIVIT
 
-**Moduuli:** PS1 - Toimiva ja oppiva ihminen  
-**Kesto:** 75 min | **Ryhmä:** Lukion 2. vuosi | **Työtapa:** Vierailu
+**Moduuli:** PS1 – Toimiva ja oppiva ihminen  
+**Aihe:** Motiivit osana ihmisen psyykkistä toimintaa  
+**Kesto:** 75 minuuttia  
+**Työtapa:** Vierailu  
+**Kohderyhmä:** 1. vuoden opiskelijat (syksy)
 
 ---
 
 ## TAVOITTEET
 
-**Moduulikohtaiset tavoitteet:**
-- Opiskelija ymmärtää motiivit osana ihmisen biopsykososiaalista toimintaa
-- Opiskelija tunnistaa erilaisia motivaatioteorioita ja niiden sovelluksia
-- Opiskelija osaa analysoida motiivien yhteyttä oppimiseen ja tavoiteorientaatioihin
-
-**Laaja-alainen osaaminen:**
-- Hyvinvointiosaaminen: Itsetuntemus ja omien motiivien tunnistaminen
-- Vuorovaikutusosaaminen: Motiivien rooli sosiaalisessa toiminnassa
-
----
-
-## TUNNIN KULKU
-
-### Valmistautuminen (ennen vierailua, 10 min)
-- **Orientaatio:** Lyhyt kertaus motiivien perusteoriasta (Maslow'n tarvehierarkia, sisäinen/ulkoinen motivaatio)
-- **Vierailijan esittely:** Työelämän edustaja (esim. urheiluvalmentaja, yrittäjä, opinto-ohjaaja) kertoo motivaatiosta omassa työssään
-- **Tehtävänanto:** Opiskelijat saavat havainnointitehtävän vierailua varten
-
-### Vierailijaluento ja keskustelu (40 min)
-- **Vierailijan puheenvuoro (20 min):** Käytännön esimerkkejä motivaatiosta työelämässä
-  - Miten motivaatio vaikuttaa suoritukseen?
-  - Sisäisen ja ulkoisen motivaation tasapaino
-  - Tavoitteiden asettaminen ja pystyvyysuskomukset
-- **Vuorovaikutteinen keskustelu (20 min):**
-  - Opiskelijoiden kysymykset vierailijalle
-  - Yhteydet psykologisiin teorioihin
-  - Esimerkkejä ei-tietoisista motivaatiotekijöistä
-
-### Reflektio ja analysointi (20 min)
-- **Pienryhmätyö (10 min):** Opiskelijat analysoivat 3-4 hengen ryhmissä:
-  - Mitä motivaatioteorioita tunnistitte vierailijan puheesta?
-  - Miten tavoiteorientaatiot ja pystyvyysuskomukset näkyivät esimerkeissä?
-  - Yhteydet omaan oppimismotivaatioon
-- **Yhteenveto (10 min):** Ryhmät jakavat havaintojaan, opettaja kokoaa keskeiset oivallukset
-
-### Päätös (5 min)
-- Kiitos vierailijalle
-- Kotitehtävä: Reflektioessee omista motiiveista ja tavoiteorientaatioista (1-2 sivua)
+Opiskelija
+- **Ymmärtää** motiivien merkityksen ihmisen psyykkisessä toiminnassa ja käyttäytymisen ohjaajina
+- **Tunnistaa** motiivien biopsykososiaalisen luonteen (biologiset, psyykkiset ja sosiokulttuuriset tekijät)
+- **Osaa** erottaa erilaisia motiivityyppejä (biologiset, psyykkiset, sosiaaliset) ja niiden ilmenemismuodot
+- **Ymmärtää** motiivien yhteyden tunteisiin, oppimiseen ja ei-tietoisiin prosesseihin
+- **Soveltaa** käsitteitä (tavoiteorientaatiot, pystyvyysuskomukset, metakognitio) omaan elämäänsä ja havaintoihinsa
+- **Kehittää** itsetuntemusta omien motiivien tunnistamisessa ja reflektoinnissa
 
 ---
 
-## MENETELMÄT
+## TUNNIN KULKU (75 min)
 
-- **Vierailuluento:** Autenttinen yhteys teorian ja käytännön välillä
-- **Havainnointi:** Opiskelijat tunnistavat motivaatioteorioita käytännön esimerkeistä
-- **Reflektiivinen keskustelu:** Oman kokemusmaailman kytkeminen teoriaan
-- **Ryhmäanalyysi:** Kriittinen tiedonkäsittely ja vertaisoppiminen
+### 1. JOHDANTO JA ORIENTAATIO (10 min)
+- **Tervetulo ja konteksti:** Opettaja esittelee vierailun tarkoituksen ja yhdistää sen PS1-moduulin tavoitteisiin
+- **Aktivointi:** Nopea brainstorm: "Mikä sai sinut tänään heräämään ja tulemaan kouluun?" → Motiivien konkreettinen esimerkki omasta elämästä
+- **Tavoitteiden läpikäynti:** Mitä opimme tänään motiiveista?
+
+### 2. MOTIIVIEN PERUSTIETO (15 min)
+- **Luento/keskustelu:** Motiivit käyttäytymisen liikkeellepanevia voimia
+  - Biologiset motiivit (nälkä, jano, uni, seksuaalisuus)
+  - Psyykkiset motiivit (uteliaisuus, itsensä toteuttaminen, kompetenssi)
+  - Sosiaaliset motiivit (yhteenkuuluvuus, arvostus, valta)
+- **Biopsykososiaalinen näkökulma:** Esimerkki (esim. ruokahalun synty) osoittaa, miten biologiset, psyykkiset ja sosiokulttuuriset tekijät vaikuttavat yhdessä
+- **Visuaalinen tuki:** Kaavio tai malli motiivien eri tasoista
+
+### 3. MOTIIVIT JA TUNTEET (10 min)
+- **Vuorovaikutus:** Miten tunteet ja motiivit liittyvät toisiinsa?
+  - Tunteet laukaisevat motiiveja (esim. pelko → pakoon juoksemisen motivaatio)
+  - Motiivien toteutuminen synnyttää tunteita (esim. onnistumisen ilo)
+- **Konkreettinen esimerkki:** Opiskelija kokeesta → ahdistus (tunne) → oppimisen motivaatio (motiivi) → onnistumisen ilo (tunne)
+
+### 4. MOTIIVIT JA OPPIMINEN (15 min)
+- **Tavoiteorientaatiot:**
+  - Oppimiseen suuntautunut motivaatio (haluamme oppia ja kehittyä)
+  - Suoritukseen suuntautunut motivaatio (haluamme näyttää osaamista)
+  - Pohdinta: Kumpi motivoi sinua enemmän? Miksi?
+  
+- **Pystyvyysuskomukset:**
+  - Usko omaan kykyyn vaikuttaa motivaatioon ja sinnikkyteen
+  - Esimerkki: "Uskon, että pystyn oppimaan psykologiaa" vs. "En ole hyvä psykologiassa"
+  
+- **Metakognitio:**
+  - Oman oppimisen tiedostaminen ja säätely
+  - Kysymykset: Miten oppii parhaiten? Mitä strategioita käyttää?
+
+### 5. EI-TIETOINEN JA MOTIIVIT (8 min)
+- **Lyhyt selitys:** Ei-tietoisia prosesseja, jotka ohjaavat käyttäytymistä ilman tietoista harkintaa
+- **Esimerkki:** Mitksi valitsemme tietyt ystävät? Miksi jokin ruoka houkuttelee enemmän kuin toinen?
+- **Yhteys:** Ei-tietoinen vaikuttaa motiiveihin, vaikka emme sitä tiedostaisikaan
+
+### 6. RYHMÄTEHTÄVÄ: MOTIIVIEN ANALYYSI (12 min)
+- **Pienryhmät (3–4 henkilöä):** Jokaiselle ryhmälle tapausesimerkki tai skenario:
+  - Esim. 1: Nuori opiskelija lopettaa harrastuksensa, vaikka oli aiemmin innostunut
+  - Esim. 2: Urheilija harjoittelee intensiivisesti huolimatta loukkaantumisesta
+  - Esim. 3: Opiskelija valitsee vaikean kurssin, vaikka helpompi riittäisi
+  
+- **Tehtävä:** Analysoi tapausta motiivien näkökulmasta
+  - Mitkä motiivit ovat mukana?
+  - Miten biopsykososiaaliset tekijät vaikuttavat?
+  - Mitä tunteita liittyy tilanteeseen?
+  
+- **Esittäminen:** Jokainen ryhmä esittelee tuloksensa (2 min/ryhmä)
+
+### 7. REFLEKTIO JA ITSETUNTEMUS (5 min)
+- **Yksilöllinen pohdinta:** Kirjoita muistiin
+  - Mikä on sinulle tärkein motiivi tällä hetkellä?
+  - Miten se vaikuttaa päivittäisiin valintoihisi?
+  - Miten voisit käyttää tätä tietoa hyödyksesi oppimisessa?
+  
+- **Vapaaehtoinen jakaminen:** Muutama opiskelija jakaa ajatuksiaan
+
+### 8. YHTEENVETO JA SULKEMINEN (5 min)
+- **Opettaja kokoaa:** Motiivit ovat monimutkaisia, biopsykososiaalisia ilmiöitä, jotka ohjaavat käyttäytymistä
+- **Yhteys jatkoon:** Seuraavalla tunnilla syvennymme oppimisen psykologiaan ja siihen, miten motiivit vaikuttavat oppimiseen
+- **Kotitehtävä:** Havainnoi omia motiivejasi seuraavien 3 päivän aikana ja kirjoita lyhyt reflektio (½ sivua)
 
 ---
 
-## MATERIAALIT
+## MENETELMÄT JA MATERIAALIT
 
-- **Ennakkomateriaali:** Lyhyt artikkeli motivaatioteorioista (jaettu viikkoa aiemmin)
-- **Havainnointilomake:** Strukturoitu pohja vierailun analysointiin
-- **Vierailijan esitysmateriaali:** PowerPoint tai muu visuaalinen tuki
-- **Digitaalinen työtila:** Peda.net tai vastaava ryhmätöiden jakamiseen
-
----
-
-## ARVIOINTI
-
-**Formatiivinen arviointi:**
-- Aktiivinen osallistuminen keskusteluun ja ryhmätyöhön
-- Kysymysten laatu ja teorian soveltaminen käytäntöön
-- Opettajan havainnointi ryhmätyöskentelystä
-
-**Summatiivinen arviointi:**
-- Kotitehtävän reflektioessee (arvioidaan osana moduulin kokonaisarvosanaa)
-- Arviointikriteerit: Psykologisen käsitteistön käyttö, teorian ja käytännön yhdistäminen, kriittinen pohdinta
+| Menetelmä | Materiaali |
+|-----------|-----------|
+| Luento/keskustelu | Diaesitys, kaaviot motiivien tasoista |
+| Brainstorm | Liitutaulu/whiteboard |
+| Ryhmätyöskentely | Tapausesimerkit (printattu tai digitaalinen) |
+| Reflektio | Muistikirja tai digitaalinen dokumentti |
+| Visuaalinen tuki | Kuvat, videoklipit (max 2 min) motiivien ilmenemisestä |
 
 ---
 
 ## ERIYTTÄMINEN
 
-**Tuki tarvittaessa:**
-- Selkeä havainnointilomake strukturoi tehtävää
-- Mahdollisuus työskennellä parin kanssa
-- Vierailijan esimerkit konkretisoivat abstrakteja käsitteitä
-
-**Syventävä haaste:**
-- Yhteyksien etsiminen useampiin motivaatioteorioihin
-- Kriittinen arviointi teorioiden rajoituksista
-- Esseen laajentaminen tutkimuskirjallisuuden avulla
-
-**Hybridiopetus:**
-- Etäopiskelijat voivat osallistua videoyhteyden kautta
-- Nauhoitettu vierailu katsottavissa jälkikäteen
+- **Haastavampi:** Ryhmille, jotka haluavat syvemmän analyysin, voidaan antaa tutkimusartikkeli motivaatiosta
+- **Kevyempi:** Tapausesimerkit voidaan yksinkertaistaa tai antaa valmiita vastausvaihtoehtoja
+- **Digitaalinen:** Opiskelijat voivat dokumentoida reflektionsa digitaalisesti (esim. Padlet, OneNote)
 
 ---
 
-## YHTEYDET MUIHIN SISÄLTÖIHIN
+## ARVIOINTI
 
-- **PS1 Tunteet:** Motiivien ja tunteiden vuorovaikutus
-- **PS1 Oppiminen:** Tavoiteorientaatiot ja metakognitio
-- **PS2 Kehittyvä ihminen:** Motivaation kehitys eri elämänvaiheissa
-- **PS5 Yksilöllinen ihminen:** Persoonallisuuden yhteys motivaatioon
+**Formatiivinen (prosessin aikana):**
+- Osallistuminen brainstormiin ja ryhmäkeskusteluun
+- Ryhmätyön laatu ja analyysin syvyys
+- Reflektiokirjoituksen ajatuksellinen taso
+
+**Summatiivinen (jatko):**
+- Kotitehtävän reflektio
+- Seuraavien tuntien tehtävät, joissa sovelletaan motiivien käsitteitä
 
 ---
 
-## JATKOTOIMENPITEET
+## LAAJA-ALAINEN OSAAMINEN
 
-- Seuraavalla tunnilla: Motivaatioteorioiden syventäminen (Deci & Ryan: itsemääräämisteoria)
-- Mahdollisuus vierailla työpaikalla tai oppilaitoksessa (pidempi ekskursio)
-- Yhteistyö opinto-ohjaajan kanssa: Motivaatio ja urasuunnittelu
+- **Hyvinvointiosaaminen:** Itsetuntemus omista motiiveista, resilienssin yhteys motivaatioon
+- **Vuorovaikutusosaaminen:** Ryhmätyö, toisten motiivien ymmärtäminen
+- **Eettisyys:** Erilaisten motiivien arvostaminen, ei moraalinen tuomitseminen
+
+---
+
+## HUOMIOITA VIERAILUSTA
+
+- Vierailu voi olla esim. Oulun yliopiston psykologian laitoksella tai avoimessa yliopistossa, jossa asiantuntija kertoo motivaatiotutkimuksesta
+- Vaihtoehtoisesti: Vierailu voi olla virtuaalinen (Zoom-yhteys asiantuntijaan)
+- Vierailu konkretisoi opetusta ja lisää opiskelijan motivaatiota psykologian opiskeluun

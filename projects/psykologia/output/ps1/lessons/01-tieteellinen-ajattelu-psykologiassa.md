@@ -1,154 +1,213 @@
-# TUNTISUUNNITELMA: Tieteellinen ajattelu psykologiassa
+# TUNTISUUNNITELMA: TIETEELLINEN AJATTELU PSYKOLOGIASSA
 
-**Moduuli:** PS1 - Toimiva ja oppiva ihminen | **Kesto:** 75 min | **Vuosikello:** 1. vuosi syksy  
-**Kohderyhmä:** Keskikokoinen lukio, n. 300 opiskelijaa | **Työtapa:** Luokkaopetus
+**Moduuli:** PS1 – Toimiva ja oppiva ihminen  
+**Kesto:** 75 minuuttia  
+**Kohderyhmä:** 1. vuoden opiskelijat (syksy)  
+**Työtapa:** Luokkaopetus
 
 ---
 
 ## TAVOITTEET
 
-**Moduulikohtaiset tavoitteet:**
-- Opiskelija ymmärtää psykologian tieteenalana ja erottaa tieteellisen tiedon arkipsykologiasta
-- Opiskelija osaa arvioida psykologisen tiedon luotettavuutta ja pätevyyttä kriittisesti
-- Opiskelija tunnistaa ihmisen toiminnan biopsykososiaalisena kokonaisuutena
-
-**Laaja-alainen osaaminen:**
-- Monilukutaito: kriittinen tiedonarviointi
-- Eettisyys: tutkimuseettiset periaatteet
-- Globaali- ja kulttuuriosaaminen: tiedon universaalisuus vs. kulttuurisidonnaisuus
+Tunnin jälkeen opiskelija:
+- **Ymmärtää** psykologian tieteenä ja sen erottamisen arkipsykologiasta
+- **Tunnistaa** tieteellisen ajattelun periaatteet ja niiden merkityksen
+- **Osaa** tarkastella ihmisen toimintaa biopsykososiaalisesta näkökulmasta
+- **Kehittää** kriittisen tiedonhallinnan taitoja
+- **Ymmärtää** tutkimuseettisten periaatteiden merkityksen
 
 ---
 
 ## TUNNIN KULKU
 
-### 1. ALOITUS JA MOTIVOINTI (10 min)
+### 1. AVAUS (10 min)
 
-**Aktivoiva kysymys:** "Miksi ihmiset uskovat horoskooppeihin tai persoonallisuustesteihin sosiaalisessa mediassa?"
+**Menetelmä:** Interaktiivinen keskustelu + reflektio
 
-- Opiskelijat jakavat ajatuksiaan pareittain (2 min)
-- Yhteinen keskustelu: arkipsykologia vs. tieteellinen tieto
-- **Tavoite:** Herättää kiinnostus ja kytkös omaan kokemusmaailmaan
+- **Herättelykysymys:** "Miksi ihmiset tekevät sitä, mitä tekevät? Mistä tiedämme, että vastaus on oikea?"
+- Opiskelijat pohtivat pareittain (2 min), sitten plenaarinen keskustelu (3 min)
+- **Opettajan johdanto:** Esitellään psykologian tieteellinen lähestymistapa vs. arkikäsitykset
+  - Esimerkki: "Ihmiset sanovat, että käytämme vain 10 % aivoista" → Mitä tiede sanoo?
+- **Tunnin tavoitteiden ja rakenteen esittely** (2 min)
 
-### 2. PSYKOLOGIA TIETEENÄ (20 min)
-
-**Opettajajohtoinen osuus + vuorovaikutus:**
-
-- **Mitä on tiede?** Järjestelmällinen, toistettava, kriittinen tiedon tuottaminen
-- **Psykologian erityispiirteet:**
-  - Biopsykososiaalinen näkökulma (esimerkki: stressi)
-  - Luonnontieteellinen, yhteiskuntatieteellinen ja käyttäytymistieteellinen lähestymistapa
-  
-**Konkreettinen esimerkki:** Marshmallow-testi (Walter Mischel)
-- Alkuperäinen tutkimus 1960-luvulla
-- Uudemmat replikaatiot ja kritiikki
-- Mitä tämä kertoo tieteellisestä prosessista?
-
-**Materiaali:** Lyhyt video tai infograafi biopsykososiaalisesta mallista
-
-### 3. TIETEELLISEN AJATTELUN TYÖPAJA (30 min)
-
-**Ryhmätyö (3-4 hengen ryhmät):**
-
-Jokaiselle ryhmälle jaetaan yksi seuraavista "väitteistä":
-1. "Aivojen käyttö vain 10% kapasiteetista"
-2. "Oppimistyylit (visuaalinen, auditiivinen, kinesteettinen)"
-3. "Vasemman/oikean aivopuoliskon dominanssi"
-4. "Musiikin kuuntelu tekee älykkäämmäksi (Mozart-efekti)"
-
-**Tehtävä (20 min):**
-- Arvioikaa väitettä: Onko se tieteellisesti tuettu?
-- Etsikää tietoa (puhelimet/tabletit sallittu)
-- Miettikää: Miten erottaa luotettava lähde epäluotettavasta?
-- Valmistakaa 2 min esitys
-
-**Kriteerit arviointiin:**
-- Lähteen alkuperä (vertaisarvioitu tutkimus, populaarilähde, somepostaus?)
-- Tutkimuksen koko ja toistettavuus
-- Yksimielisyys tiedeyhteisössä
-
-**Ryhmien esitykset (10 min):** Jokainen ryhmä esittää lyhyesti
-
-### 4. TUTKIMUSETIIKKA JA KRIITTINEN AJATTELU (10 min)
-
-**Yhteinen reflektio:**
-- Miksi tutkimusetiikka on tärkeää? (esim. Stanford Prison Experiment)
-- Helsingin julistuksen periaatteet lyhyesti
-- Miten kriittinen ajattelu suojaa harhaanjohtavalta tiedolta?
-
-**Interaktiivinen elementti:** Nopea äänestys Mentimeterillä tai käden nostolla:
-- "Kuinka usein tarkistat tiedon lähteen ennen sen jakamista?"
-- "Oletko koskaan muuttanut mielipidettäsi tutkimustiedon perusteella?"
-
-### 5. YHTEENVETO JA KOTITEHTÄVÄ (5 min)
-
-**Keskeiset oivallukset:**
-- Psykologia = tieteellinen, systemaattinen ihmisen toiminnan tutkimus
-- Kriittinen ajattelu on taito, jota voi harjoitella
-- Biopsykososiaalinen malli auttaa ymmärtämään ihmisen monimutkaisuutta
-
-**Kotitehtävä:**
-Etsi yksi mielenkiintoinen psykologinen tutkimus (esim. Oulun yliopiston sivuilta tai Google Scholar). Kirjoita 200 sanaa:
-- Mitä tutkittiin ja miten?
-- Mitkä olivat päätulokset?
-- Arvioi tutkimuksen luotettavuutta (otoskoko, menetelmä, julkaisupaikka)
+**Materiaalit:** Liitutaulu/smartboard, herättelykysymys näkyvissä
 
 ---
 
-## MENETELMÄT
+### 2. PSYKOLOGIA TIETEENÄ (15 min)
 
-- **Aktivoiva aloitus:** Kytkös arkikokemukseen
-- **Opettajajohtoinen osuus:** Käsitteiden selkeä esittely
-- **Ryhmätyö:** Aktiivinen tiedonhaku ja kriittinen arviointi
-- **Esitykset:** Vertaisoppiminen
-- **Reflektio:** Metakognitiivinen pohdinta
+**Menetelmä:** Opettajajohtoiset selitykset + visuaaliset apuvälineet
+
+**Sisältö:**
+- **Psykologian määritelmä:** Ihmisen käyttäytymisen ja psyykkisten prosessien tieteellinen tutkimus
+- **Tieteellisen tiedon ominaisuudet:**
+  - Järjestelmällinen tutkimus
+  - Toistettavuus
+  - Kriittinen arviointi
+  - Eettisyys
+
+**Biopsykososiaalinen malli:**
+- Visuaalinen esitys (kolme päällekkäistä ympyrää):
+  - **Biologinen:** Aivot, hermosto, hormonit, perimä
+  - **Psyykkinen:** Ajatukset, tunteet, motivaatio, oppiminen
+  - **Sosiaalinen:** Kulttuuri, ihmissuhteet, yhteiskunta, ympäristö
+- **Konkreettinen esimerkki:** Ahdistuneisuus → Miten sitä selitetään eri näkökulmista?
+
+**Ero arkipsykologiaan:**
+- Taulukko: Tieteellinen tieto vs. Arkikäsitykset
+  - Esim. "Stressiä lievitetään shokolaadilla" vs. "Stressin fysiologiset mekanismit"
+
+**Materiaalit:** PowerPoint/smartboard, biopsykososiaalisen mallin kaavio, vertailutaulukko
 
 ---
 
-## MATERIAALIT
+### 3. TUTKIMUSMENETELMÄT JA KRIITTINEN AJATTELU (20 min)
 
-- **Diaesitys:** Biopsykososiaalinen malli, tieteellisen tiedon kriteerit
-- **Väitekortteja** ryhmätöihin (tulostettuina tai digitaalisesti)
-- **Video:** Marshmallow-testi (YouTube, 3-5 min)
-- **Tabletit/tietokoneet** tai opiskelijoiden omat puhelimet tiedonhakuun
-- **Mentimeter** tai vastaava äänestystyökalu (valinnainen)
+**Menetelmä:** Aineistopohjainen työskentely + pienryhmätyö
 
-**Verkkolähteet:**
-- Oulun yliopiston psykologian osasto (tutkimusesimerkkejä)
-- Google Scholar (tutkimusten hakuun)
-- Peda.net PS1 -materiaalit
+**Sisältö:**
+
+**A) Tutkimusmenetelmien yleiskuva (8 min):**
+- Kokeellinen tutkimus (syy-seuraus)
+- Havainnointi
+- Haastattelut
+- Kyselyt
+- Pitkittäis- ja poikittaistutkimukset
+
+**B) Kriittisen arvioinnin kriteerit (7 min):**
+- Luotettavuus (reliabiliteetti)
+- Pätevyys (validiteetti)
+- Otoksen koko ja edustavuus
+- Tutkimuseettika (suostumus, yksityisyys, hyöty)
+
+**C) Pienryhmätyö – Tutkimuskritiikin harjoittelu (5 min):**
+
+Jaetaan luokka 4–5 hengen ryhmiin. Jokaiselle ryhmälle annetaan **lyhyt tutkimustiivistelmä** (esim. "Kahvein vaikutus muistiin" tai "Sosiaalisen median vaikutus itsetuntoon"):
+
+*Ryhmän tehtävä:*
+- Tunnistaa tutkimusmenetelmä
+- Arvioida: Onko tutkimus luotettava? Miksi/miksi ei?
+- Pohtia: Mitä eettisiä näkökohtia tulee ottaa huomioon?
+
+Ryhmät valmistelevat 1–2 minuutin vastauksen.
+
+**Materiaalit:** Tutkimustiivistelmät (painettu tai digitaalinen), arviointilomake
 
 ---
 
-## ARVIOINTI
+### 4. TUTKIMUSESIMERKIT KÄYTÄNNÖSSÄ (15 min)
 
-**Formatiivinen arviointi tunnilla:**
-- Havainnointi ryhmätyöskentelystä: Osallistuvatko kaikki? Käytetäänkö kriittistä ajattelua?
-- Ryhmien esitysten laatu: Tunnistetaanko luotettavat lähteet?
-- Kysymysten ja kommenttien taso keskusteluissa
+**Menetelmä:** Opettajajohtoiset esimerkit + interaktiivinen analyysi
 
-**Summatiivinen arviointi:**
-- Kotitehtävä arvioidaan asteikolla: erinomainen/hyvä/tyydyttävä/täydennettävä
-- Kriteerit: Tutkimuksen kuvaus, kriittinen analyysi, lähteiden käyttö
+**Esimerkki 1: Klassinen kokeellinen tutkimus**
+- **Pavlovin kokeilu** (ehdollistuminen)
+  - Mikä oli tutkimuskysymys?
+  - Miten tutkimus toteutettiin?
+  - Mitä opimme ihmisestä?
+  - Eettisiä huomioita?
 
-**Palaute opiskelijoille:** Kirjallinen palaute kotitehtävästä viikon sisällä
+**Esimerkki 2: Nykyaikainen tutkimus**
+- **Sosiaalisen median vaikutus nuorten hyvinvointiin** (esim. Instagram-tutkimus)
+  - Biopsykososiaalinen näkökulma
+  - Metodologiset haasteet
+  - Tutkimuseettika (erityisesti alaikäiset)
+
+**Opiskelijoiden osallistuminen:**
+- Opettaja esittää kysymyksiä: "Mitä tämä tutkimus kertoo ihmisestä?"
+- Opiskelijat pohtivat ja vastaavat
+
+**Materiaalit:** Tutkimusesimerkkien diat, mahdollisesti lyhyt video (2–3 min)
+
+---
+
+### 5. REFLEKTIO JA YHTEENVETO (10 min)
+
+**Menetelmä:** Yksilöllinen reflektio + plenaarinen keskustelu
+
+**Yksilöllinen tehtävä (3 min):**
+Opiskelijat kirjoittavat lyhyesti (3–4 lausetta):
+- "Mikä on psykologian tieteellisen lähestymistavan suurin ero arkipsykologiaan?"
+- "Miksi tutkimusetiikka on tärkeää?"
+
+**Plenaarinen yhteenveto (4 min):**
+- Opettaja kokoaa tunnin keskeiset ajatukset
+- Muutama vapaaehtoinen opiskelija jakaa reflektionsa
+- Linkitys seuraavaan tunnin aiheeseen (esim. "Seuraavalla tunnilla tutkimme, miten ihmiset oppivat")
+
+**Kotitehtävä (ilmoitetaan):**
+- Lue oppikirjan luku psykologian tieteestä
+- Etsi yksi uutinen, joka käsittelee psykologiaa → Pohdi: Onko se tieteellisesti perusteltu?
+
+**Materiaalit:** Reflektiolomake (painettu tai digitaalinen)
 
 ---
 
 ## ERIYTTÄMINEN
 
-**Tuki tarvittaessa:**
-- Selkeät kirjalliset ohjeet ryhmätyöhön
-- Opettaja kiertää ryhmissä ja tukee tiedonhakua
-- Väitteet valittu eri vaikeusasteisiksi
-
-**Haastetta kaipaaville:**
-- Lisäkysymys: "Miten tämä tutkimus voitaisiin toistaa paremmin?"
-- Kotitehtävässä voi vertailla kahta tutkimusta samasta aiheesta
-
-**Hybridiopetus:** Materiaali ja tehtävät saatavilla myös Peda.netissä etäopiskelijoille
+| Taso | Menetelmä |
+|------|-----------|
+| **Syventävä** | Opiskelijat, jotka haluavat syventää: Tutkimusartikkelin lukeminen ja analyysi (esim. PubMed-artikkelit) |
+| **Tukea tarvitsevat** | Strukturoidut kysymykset tutkimusten analysoinnissa, pienryhmätyö vertaistuella |
+| **Kielellinen tuki** | Käsitteistö näkyvissä, sanasto saatavilla, pienryhmissä mahdollisuus selittää omin sanoin |
 
 ---
 
-## YHTEYS SEURAAVAAN TUNTIIN
+## ARVIOINTI
 
-Seuraavalla tunnilla syvennytään **tutkimusmenetelmiin** tarkemmin (havainnointi, kysely, kokeellinen tutkimus). Tämän tunnin kotitehtävä toimii siltana: opiskelijat ovat jo tutustuneet yhteen tutkimukseen ja sen menetelmään.
+| Arviointimuoto | Kohde | Menetelmä |
+|---|---|---|
+| **Formatiivinen** | Osallistuminen keskusteluun, pienryhmätyön laatu | Havainnointi, opettajan palaute |
+| **Summatiivinen** | Tutkimuskriittisyyden kehittyminen | Reflektiolomake, kotitehtävä |
+| **Itsearviointi** | Omien tavoitteiden saavuttaminen | Reflektio tunnin lopussa |
+
+---
+
+## MATERIAALIT JA VÄLINEET
+
+- **Digitaaliset:** PowerPoint/smartboard, mahdollisesti lyhyt video (2–3 min)
+- **Painetut:** Tutkimustiivistelmät (4–5 kpl), reflektiolomakkeet, arviointilomakkeet
+- **Muut:** Liitutaulu, värikynnät ryhmätyöhön
+
+---
+
+## HUOMIOITAVAA
+
+- **Osallistava ilmapiiri:** Kannusta opiskelijoita kysymään ja pohtimaan
+- **Konkreettisuus:** Käytä esimerkkejä, joita opiskelijat tunnistavat omasta elämästään
+- **Aika:** Varmista, että pienryhmätyölle on riittävästi aikaa (älä jää kiinni teoriaan)
+- **Jatko:** Tämä tunti luo perustan koko PS1-moduulille – palaa näihin periaatteisiin myöhemmillä tunneilla
+
+---
+
+## LIITTEET (mallit)
+
+### Reflektiolomake
+```
+Nimi: ________________  Päivä: ________________
+
+1. Mikä on psykologian tieteellisen lähestymistavan suurin ero arkipsykologiaan?
+   ___________________________________________________________________
+
+2. Miksi tutkimusetiikka on tärkeää?
+   ___________________________________________________________________
+
+3. Mitä haluaisit vielä tietää psykologian tieteestä?
+   ___________________________________________________________________
+```
+
+### Tutkimustiivistelmä (esimerkki)
+```
+TUTKIMUS: Kahvein vaikutus muistiin
+
+Tutkijat halusivat selvittää, parantaako kahvi muistia. 
+100 opiskelijaa jaettiin kahteen ryhmään:
+- Ryhmä A: Juoi kahvia ennen muistitehtävää
+- Ryhmä B: Juoi vettä ennen muistitehtävää
+
+Tulokset: Ryhmä A muisti keskimäärin 15 % enemmän.
+
+TEHTÄVÄ:
+- Mikä on tutkimusmenetelmä?
+- Onko tutkimus luotettava? Miksi/miksi ei?
+- Mitä eettisiä näkökohtia tulee ottaa huomioon?
+```

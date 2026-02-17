@@ -1,172 +1,202 @@
 # TUNTISUUNNITELMA: Ihmisen biopsykososiaalinen kokonaisuus
 
-**Moduuli:** PS1 - Toimiva ja oppiva ihminen | **Kesto:** 75 min | **Työtapa:** Työpaja  
-**Kohderyhmä:** Lukion 1. vuosi, kevät | **Opiskelijamäärä:** ~20-25
+**Moduuli:** PS1 – Toimiva ja oppiva ihminen | **Aihe-ID:** 2 | **Kesto:** 75 min | **Työtapa:** Työpaja
 
 ---
 
 ## TAVOITTEET
 
-**Moduulikohtaiset tavoitteet:**
-- Opiskelija ymmärtää ihmisen toiminnan biopsykososiaalisena kokonaisuutena
-- Opiskelija osaa tunnistaa psyykkisiä, biologisia ja sosiokulttuurisia tekijöitä arkielämän tilanteissa
-- Opiskelija hahmottaa näiden tekijöiden keskinäisen riippuvuuden ja vuorovaikutuksen
+**Moduulin yleiset tavoitteet:**
+- Opiskelijat hahmottavat ihmisen toiminnan biopsykososiaalisena kokonaisuutena
+- Opiskelijat ymmärtävät psyykkisten, biologisten ja sosiokulttuuristen tekijöiden keskinäisen riippuvuuden
+- Opiskelijat kehittävät kriittistä tiedonhallintaa ja reflektiivisyyttä
 
-**Laaja-alainen osaaminen:**
-- Hyvinvointiosaaminen: Itsetuntemuksen kehittäminen
-- Vuorovaikutusosaaminen: Ryhmätyötaidot ja toisten näkökulmien ymmärtäminen
-- Globaali- ja kulttuuriosaaminen: Yksilöiden välisen erilaisuuden arvostaminen
-
----
-
-## TUNNIN KULKU
-
-### 1. ALOITUS JA ORIENTOINTI (10 min)
-
-**Aktivoiva aloitus:**
-- Näytä kuva tai video arkisesta tilanteesta (esim. opiskelija valmistautuu kokeeseen, urheilija kilpailutilanteessa)
-- Kysymys: "Mitkä tekijät vaikuttavat tämän henkilön toimintaan ja suoriutumiseen?"
-- Opiskelijat kirjaavat ajatuksiaan post-it-lapuille (1-2 min yksilötyö)
-
-**Tavoitteiden esittely:**
-- Esittele tunnin tavoite: ymmärtää ihmisen toiminta kolmen toisiinsa vaikuttavan ulottuvuuden kautta
-- Lyhyt katsaus biopsykososiaaliseen malliin (käsitteiden esittely)
-
-### 2. TYÖPAJA OSA 1: Kolme näkökulmaa (25 min)
-
-**Ryhmäjako ja tehtävänanto:**
-- Jaa opiskelijat 3-4 hengen ryhmiin
-- Jokaiselle ryhmälle annetaan tapausesimerkki (esim. "Matti on huomannut, että hänen keskittymiskykynsä on heikentynyt viime viikkoina")
-
-**Ryhmätyö:**
-Jokainen ryhmä analysoi tapausta kolmesta näkökulmasta:
-
-1. **Psyykkinen näkökulma** (10 min)
-   - Mitä sisäisiä prosesseja tilanteeseen liittyy? (motiivit, tunteet, ajatukset)
-   - Miten metakognitio tai pystyvyysuskomukset vaikuttavat?
-   - Materiaalit: Tukikortit keskeisistä käsitteistä
-
-2. **Biologinen näkökulma** (10 min)
-   - Mitkä fyysiset tekijät voivat vaikuttaa? (uni, ravinto, aivojen toiminta)
-   - Miten aivojen plastisuus liittyy tilanteeseen?
-   - Materiaalit: Yksinkertaistettu infograafi aivojen toiminnasta
-
-3. **Sosiokulttuurinen näkökulma** (10 min)
-   - Miten sosiaalinen ympäristö vaikuttaa? (perhe, ystävät, koulu)
-   - Mitä kulttuurisia tekijöitä on havaittavissa?
-   - Materiaalit: Esimerkkejä erilaisista oppimiskulttuureista
-
-**Työkalut:** Fläppipaperi, tussit, tukikortit käsitteistä
-
-### 3. TYÖPAJA OSA 2: Vuorovaikutuksen visualisointi (20 min)
-
-**Luova tehtävä:**
-- Ryhmät luovat visuaalisen esityksen (mind map, kaavio tai piirros) siitä, miten kolme näkökulmaa vaikuttavat toisiinsa heidän tapauksessaan
-- Painotus: Nuolet ja yhteydet näkökulmien välillä
-- Konkreettiset esimerkit vuorovaikutuksesta
-
-**Ohjaus:**
-- Kierrä ryhmissä ja esitä syventäviä kysymyksiä
-- Kannusta kriittiseen ajatteluun: "Voiko yhden tekijän muutos vaikuttaa muihin?"
-
-### 4. JAKAMINEN JA REFLEKTIO (15 min)
-
-**Galleriakävely:**
-- Ryhmät kiinnittävät työnsä seinälle
-- Opiskelijat kiertelevät ja tutustuvat muiden töihin (5 min)
-- Post-it-palaute: Jokainen kirjoittaa yhden havainnon tai kysymyksen toiselle ryhmälle
-
-**Yhteinen keskustelu:**
-- 2-3 ryhmää esittelee lyhyesti työnsä (2 min/ryhmä)
-- Keskustelua: Mitä yhtäläisyyksiä ja eroja analyyseissa oli?
-- Opettajan yhteenveto: Biopsykososiaalisen mallin merkitys psykologiassa
-
-### 5. PÄÄTÖS JA KOTITEHTÄVÄ (5 min)
-
-**Henkilökohtainen reflektio:**
-- Opiskelijat kirjoittavat lyhyen pohdinnan (3-5 lausetta):
-  "Valitse yksi oma arkinen toimintosi (esim. harrastus, opiskelutapa). Analysoi sitä biopsykososiaalisesta näkökulmasta."
-
-**Ennakointitehtävä seuraavalle tunnille:**
-- Tuo tunnille esimerkki uutisesta tai ilmiöstä, jota voisi tarkastella biopsykososiaalisesti
+**Tunnin spesifiset tavoitteet:**
+Opiskelija osaa:
+- Määritellä ja erottaa toisistaan biopsykososiaalisen mallin kolme ulottuvuutta
+- Antaa konkreettisia esimerkkejä kunkin näkökulman vaikutuksesta ihmisen toimintaan
+- Analysoida ilmiöitä usean näkökulman kautta samanaikaisesti
+- Ymmärtää näiden ulottuvuuksien keskinäisen vuorovaikutuksen merkityksen
 
 ---
 
-## MENETELMÄT JA MATERIAALIT
+## TUNNIN KULKU (75 min)
 
-**Opetusmenetelmät:**
-- Työpajatyöskentely ja ryhmäoppiminen
-- Tapausanalyysi ja ongelmalähtöinen oppiminen
-- Visualisointi ja luova ilmaisu
-- Vertaisoppiminen (galleriakävely)
-- Reflektiivinen kirjoittaminen
+### 1. JOHDANTO JA AKTIVOINTI (10 min)
 
-**Materiaalit:**
-- Tapausesimerkit (3-4 erilaista, tulostettuina)
-- Tukikortit psykologisista käsitteistä
-- Infograafit aivojen toiminnasta ja oppimisesta
-- Fläppipaperiarkkit ja tussit
-- Post-it-laput
-- Digipohja (esim. Padlet) varasuunnitelmana
+**Menetelmä:** Interaktiivinen keskustelu + visuaalinen esittely
 
-**Digitaaliset työkalut (valinnainen):**
-- Mentimeter aloitukseen (ajatuskartta)
-- Padlet galleriakävelyyn
-- Canva visualisointeihin
+- **Opettaja esittelee tuntisuunnitelman ja tavoitteet** (2 min)
+- **Herättelykysymys:** "Miksi joku ihminen jaksaa juosta maratonin, kun toinen ei jaksa käydä liikuntasalilla?" (3 min)
+  - Opiskelijat pohtivat pareittain (1 min)
+  - Nopea kierros: muutama opiskelija jakaa ajatuksensa (2 min)
+- **Opettaja johdattelee:** "Vastaukset liittyvät psyykkisiin, biologisiin ja sosiokulttuurisiin tekijöihin – tämä on biopsykososiaalinen näkökulma!" (2 min)
+
+**Materiaali:** Taulu/PowerPoint, herättelykysymys näkyvissä
 
 ---
 
-## ARVIOINTI
+### 2. KÄSITTEISTÖN OPETTAMINEN (15 min)
 
-**Formatiivinen arviointi tunnin aikana:**
-- Havainnointi ryhmätyöskentelystä: Osallistuvatko kaikki? Käytetäänkö käsitteitä oikein?
-- Kysymykset ja ohjaus: Ymmärtävätkö opiskelijat näkökulmien vuorovaikutuksen?
-- Galleriakävelyn palautteet: Millaista ymmärrystä työt osoittavat?
+**Menetelmä:** Opettajajohtoisesti strukturoitu opetus + visuaalinen malli
 
-**Arviointikriteerit (PS1-moduulin tavoitteet):**
-- **Käsitteellinen ymmärrys:** Osaako tunnistaa ja nimetä biopsykososiaalisen mallin osa-alueet?
-- **Analyysitaidot:** Kykyä eritellä ihmisen toimintaan vaikuttavia tekijöitä
-- **Synteesi:** Ymmärtääkö tekijöiden keskinäisen riippuvuuden ja vuorovaikutuksen?
-- **Soveltaminen:** Kyky kytkeä teoria konkreettisiin esimerkkeihin
+- **Opettaja esittelee biopsykososiaalisen mallin kolme ulottuvuutta** (10 min)
 
-**Kotitehtävän arviointi:**
-- Palautetaan seuraavalla tunnilla
-- Arvioidaan ymmärryksen syventymistä (ei numeroarvosanaa, vaan kehittävä palaute)
+| **ULOTTUVUUS** | **KESKEISET TEKIJÄT** | **ESIMERKKI** |
+|---|---|---|
+| **PSYYKKINEN** | Motiivit, tunteet, uskomukset, oppiminen, ei-tietoinen | Opiskelija haluaa oppia psykologiaa, koska pitää ihmisistä |
+| **BIOLOGINEN** | Aivot, hermosto, hormonit, genetiikka, uni, fyysinen kunto | Uni vaikuttaa muistiin ja oppimiskykyyn |
+| **SOSIOKULTTUURINEN** | Perhe, ystävät, kulttuuri, yhteiskunta, arvot, oppimisympäristö | Opiskelija oppii parhaiten ryhmässä, koska hänen kulttuurissaan yhteisöllisyys on tärkeää |
+
+- **Keskinäinen riippuvuus:** Opettaja piirtää mallin, jossa kolme ulottuvuutta ovat vuorovaikutuksessa (5 min)
+  - Esimerkki: Stressi (psyykkinen) → stressihormonit (biologinen) → sosiaalisen tuen hakeminen (sosiokulttuurinen)
+
+**Materiaali:** PowerPoint-kalvo, taulu, biopsykososiaalisen mallin kaavio
+
+---
+
+### 3. TYÖPAJA: CASE-ANALYYSIT (40 min)
+
+**Menetelmä:** Pienryhmätyöskentely + aineistopohjainen analyysi
+
+**Ryhmien muodostaminen:** 4–5 hengen ryhmät (6–8 ryhmää)
+
+**Tehtävä:** Jokainen ryhmä saa yhden case-esimerkin ja analysoi sitä biopsykososiaalisen mallin avulla.
+
+**Case-esimerkit:**
+
+1. **Nuori ja oppimisen vaikeudet**
+   - "Mikko on 16-vuotias, joka kamppailee matematiikan kanssa. Hän nukkuu vain 5 tuntia yössä, koska pelaa pelejä myöhään. Hänen perheensä ei arvosta koulutusta, mutta hänen ystävänsä opiskelevat ahkerasti."
+
+2. **Urheilija ja suorituskyky**
+   - "Aino on juoksija, joka on harjoitellut kovasti, mutta kilpailuissa hän hermostuu ja epäonnistuu. Hänen vanhempansa odottavat voittoa, ja hän pelkää pettymystä."
+
+3. **Nuoren mielenterveys**
+   - "Jani tuntee olonsa usein alakuloiseksi. Hän istuu paljon sisällä, ei liiku, ja hänen ystävänsä ovat muuttaneet pois. Hän on myös perinyt masennusalttiuden vanhemmiltaan."
+
+4. **Oppimisstrategia ja kulttuurinen tausta**
+   - "Fatima on uusi opiskelija, joka on muuttanut toisesta maasta. Hän on älykäs, mutta oppii paremmin yhteistyössä kuin yksin, mikä poikkeaa hänen uuden koulunsä opetuskulttuurista."
+
+5. **Motivaatio ja tavoitteet**
+   - "Kalle on kiinnostunut videopelien kehityksestä, mutta hänen vanhempansa haluavat hänen opiskelevansa lääketiedettä. Hän on stressaantunut ja väsynyt."
+
+6. **Uni ja oppiminen**
+   - "Liisa on opiskelijoiden johtaja ja osallistuu moniin aktivititeetteihin. Hän on väsynyt, mutta ei halua luopua mistään. Hänen aivoissaan uni on tärkeä oppimiselle."
+
+**Työpajan vaiheet:**
+
+- **Ryhmille jaetaan case-esimerkit ja analyysityökalut** (2 min)
+- **Ryhmät analysoivat casea seuraavan rakenteen mukaan** (25 min):
+  - Mitkä **psyykkiset tekijät** vaikuttavat tilanteeseen?
+  - Mitkä **biologiset tekijät** vaikuttavat tilanteeseen?
+  - Mitkä **sosiokulttuuriset tekijät** vaikuttavat tilanteeseen?
+  - Miten nämä tekijät **vuorovaikuttavat** keskenään?
+  - Mitä **ratkaisuja** voitaisiin ehdottaa, jotka ottavat huomioon kaikki kolme ulottuvuutta?
+
+- **Ryhmät valmistelevat 2–3 minuutin esityksen** (10 min)
+- **Esitykset ja palaute** (3 min per ryhmä, nopea kierros)
+
+**Materiaali:** Tulostetut case-esimerkit, analyysityökalut (A3-paperi tai digitaalinen pohja), värikynnät
+
+---
+
+### 4. YHTEENVETO JA REFLEKTIO (10 min)
+
+**Menetelmä:** Opettajajohtoisesti strukturoitu yhteenveto + yksilöllinen reflektio
+
+- **Opettaja kokoaa keskeiset havainnot esityksistä** (3 min)
+  - Korostaa, miten kaikissa caseissa näkyi kolmen ulottuvuuden vuorovaikutus
+  - Antaa konkreettisia esimerkkejä siitä, miten yhden ulottuvuuden muutos vaikuttaa muihin
+
+- **Reflektio-tehtävä:** Opiskelijat kirjoittavat 3–5 minuutin ajan vastauksen (5 min):
+  - "Valitse yksi case-esimerkki. Miten biopsykososiaalinen näkökulma auttoi sinua ymmärtämään tilannetta paremmin kuin vain yhden näkökulman kautta?"
+  - Vapaaehtoinen jakaminen (2 min)
+
+- **Kotitehtävä ja seuraavan tunnin esittely** (2 min)
+
+**Materiaali:** Reflektio-pohja (paperilla tai digitaalisesti)
+
+---
+
+## MENETELMÄT JA PEDAGOGISET RATKAISUT
+
+| **Menetelmä** | **Perustelut** |
+|---|---|
+| **Interaktiivinen johdanto** | Aktivoi opiskelijan oman kokemusmaailman ja herää kiinnostuksen |
+| **Strukturoitu opetus** | Selkeyttää käsitteistöä ja luo yhteisen ymmärryksen pohjan |
+| **Pienryhmätyöskentely** | Kehittää vuorovaikutusosaamista ja mahdollistaa syvemmän analyysin |
+| **Aineistopohjainen analyysi** | Tukee kriittistä tiedonhallintaa ja soveltamista |
+| **Reflektio** | Edistää itsetuntemusta ja oppimisen tietoisuutta |
+
+---
+
+## MATERIAALIT JA RESURSSIT
+
+- PowerPoint-esitys (biopsykososiaalinen malli, kaaviot)
+- Tulostetut case-esimerkit (6–8 kpl)
+- Analyysityökalut (A3-paperi tai digitaalinen pohja)
+- Värikynnät, tusselit
+- Taulu/liitutaulu
+- Reflektio-pohja (paperi tai digitaalinen)
+- Mahdollisesti: video biopsykososiaalisesta mallista (esim. 3–5 min YouTube-video, jos aikaa)
 
 ---
 
 ## ERIYTTÄMINEN
 
-**Tuki tarvittaessa:**
-- Selkeät tukikortit käsitteistä ja esimerkeillä
-- Opettajan aktiivinen kierto ja ohjaus
-- Mahdollisuus käyttää digitaalisia työkaluja paperisten sijaan
-- Ryhmäjako: Varmista heterogeeniset ryhmät
-
-**Syventävät tehtävät:**
-- Lisäkysymykset: "Miten biopsykososiaalinen malli eroaa pelkästään biologisesta selitysmallista?"
-- Haasta ryhmät löytämään tutkimusartikkeli, joka tukee heidän analyysiaan
-- Pyydä arvioimaan mallin rajoituksia
-
-**Joustavuus:**
-- Jos ryhmät etenevät eri tahtiin, nopeat voivat analysoida toisen tapauksen
-- Galleriakävely voidaan toteuttaa myös digitaalisesti (Padlet/Flinga)
+| **Taso** | **Tuki** |
+|---|---|
+| **Tarvitsee tukea** | Strukturoidumpi analyysityökalu, opettajan tuki ryhmässä, valmiit esimerkit |
+| **Perusosaaminen** | Annettu case-esimerkki ja analyysityökalu |
+| **Syventävä** | Oma case-esimerkki omasta elämästä, syvempi analyysi vuorovaikutuksista, yhteys tutkimukseen |
 
 ---
 
-## YHTEYDET MUIHIN SISÄLTÖIHIN
+## ARVIOINTI
 
-- **PS1 jatkossa:** Oppimisen psykologia, motiivit ja tunteet
-- **PS2:** Kehityspsykologia ja perimän-ympäristön vuorovaikutus
-- **PS4:** Mielenterveys biopsykososiaalisesta näkökulmasta
-- **Biologia:** Hermoston toiminta, geenit ja ympäristö
-- **Terveystieto:** Hyvinvoinnin kokonaisvaltaisuus
+**Formatiivinen arviointi (tunnin aikana):**
+- Opettaja havainnoi ryhmätyöskentelyä: ymmärtävätkö opiskelijat kolmen ulottuvuuden erottelun?
+- Esitysten laatu: ovatko analyyseissa näkyvissä kaikki kolme ulottuvuutta ja niiden vuorovaikutus?
+- Reflektio-vastaukset: ovatko opiskelijat ymmärtäneet biopsykososiaalisen näkökulman hyödyn?
+
+**Summatiivinen arviointi (myöhemmin):**
+- Seuraavissa tehtävissä ja kokeissa arvioidaan, kuinka hyvin opiskelijat soveltavat biopsykososiaalista näkökulmaa
+
+**Arviointiperusteet:**
+- Käsitteistön hallinta (psyykkinen, biologinen, sosiokulttuurinen)
+- Analyysitaidot (kolmen ulottuvuuden tunnistaminen)
+- Soveltaminen (vuorovaikutuksen ymmärtäminen)
 
 ---
 
-**Opettajan muistilista:**
-✓ Tulosta tapausesimerkit ja tukikortit  
-✓ Varaa fläppipaperiarkkit ja tussit  
-✓ Valmistele digityökalut (jos käytössä)  
-✓ Mieti ryhmäjaot etukäteen  
-✓ Varaa aikaa joustoon – työpajat voivat viedä enemmän aikaa!
+## LAAJA-ALAISEN OSAAMISEN INTEGROINTI
+
+- **Hyvinvointiosaaminen:** Opiskelijat ymmärtävät, miten psyykkiset, biologiset ja sosiokulttuuriset tekijät vaikuttavat hyvinvointiin
+- **Vuorovaikutusosaaminen:** Pienryhmätyöskentely ja esitykset kehittävät yhteistyötaitoja
+- **Eettisyys ja ympäristöosaaminen:** Case-esimerkit herättelevät pohtimaan arvoja ja yksilöiden erityistarpeita
+- **Globaali- ja kulttuuriosaaminen:** Case 4 (Fatima) käsittelee kulttuurista moninaisuutta ja akkulturaatiota
+
+---
+
+## KOTITEHTÄVÄ (EHDOTUS)
+
+"Valitse yksi päivittäinen tilanne omasta elämästäsi (esim. herätä aamulla, opiskelu, liikunta, ystävien kanssa oleminen). Analysoi sitä biopsykososiaalisen mallin avulla:
+- Mitkä psyykkiset tekijät vaikuttavat?
+- Mitkä biologiset tekijät vaikuttavat?
+- Mitkä sosiokulttuuriset tekijät vaikuttavat?
+- Miten ne vuorovaikuttavat?
+
+Kirjoita 1–2 sivua tai tee visuaalinen esitys (esim. mindmap)."
+
+---
+
+## HUOMIOITAVAA
+
+- **Aika:** Työpaja on aktiivinen, joten aikataulusta on pidettävä kiinni. Opettaja voi käyttää ajastinta.
+- **Ryhmien koko:** 4–5 hengen ryhmät ovat optimaalisia osallistumisen ja hallinnon kannalta.
+- **Turvallisuus:** Case-esimerkit on valittu niin, että ne ovat relevantteja mutta eivät liian henkilökohtaisia.
+- **Jatko:** Seuraavilla tunneilla voidaan syventää biopsykososiaalista näkökulmaa oppimisen, motiivien ja tunteiden yhteydessä.
+
+---
+
+**Opettajan valmistautuminen:** Tulostetut materiaalit, case-esimerkit, analyysityökalut, PowerPoint-esitys, ajastin, ryhmien muodostamisen suunnitelma.

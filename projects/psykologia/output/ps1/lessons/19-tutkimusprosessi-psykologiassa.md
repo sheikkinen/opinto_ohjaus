@@ -1,144 +1,171 @@
 # TUNTISUUNNITELMA: Tutkimusprosessi psykologiassa
 
-**Moduuli:** PS1 - Toimiva ja oppiva ihminen | **Kesto:** 75 min | **Vuosikello:** 1. vuosi syksy | **Työtapa:** Vierailu
+**Moduuli:** PS1 – Toimiva ja oppiva ihminen  
+**Kesto:** 75 minuuttia  
+**Työtapa:** Vierailu (asiantuntija-alustus + interaktiivinen työskentely)  
+**Kohderyhmä:** 1. vuoden opiskelijat (syksy)  
+**Paikka:** Luokkahuone + vierailevan asiantuntijan esitystila
 
 ---
 
 ## TAVOITTEET
 
-**Moduulikohtaiset tavoitteet:**
-- Opiskelija ymmärtää psykologian tieteenä ja osaa erottaa tieteellisen tiedon arkipsykologiasta
-- Opiskelija hahmottaa psykologisen tutkimusprosessin vaiheet ja periaatteet
-- Opiskelija tunnistaa tutkimuseettisiä näkökohtia ja osaa arvioida tutkimusten luotettavuutta
-
-**Laaja-alainen osaaminen:**
-- Eettisyys ja ympäristöosaaminen (tutkimuseettiset periaatteet)
-- Hyvinvointiosaaminen (kriittinen ajattelu)
-- Vuorovaikutusosaaminen (kysymysten esittäminen, aktiivinen kuuntelu)
+Tunnin jälkeen opiskelija:
+- **Ymmärtää** psykologian tieteellisen luonteen ja erottaa tieteellisen tiedon arkipsykologiasta
+- **Hallitsee** tutkimusprosessin pääaskeleet: kysymyksenasettelusta tulosten tulkintaan
+- **Tunnistaa** tutkimuseettisten periaatteiden (tietoinen suostumus, luottamuksellisuus, vahingon välttäminen) merkityksen
+- **Kehittää** kriittisen tiedonhallinnan taitoja tutkimusten luotettavuuden ja pätevyyden arvioinnissa
+- **Reflektoi** omaa ajatteluaan ja sitä, miten tieteellinen tieto eroaa jokapäiväisestä ajattelusta
 
 ---
 
 ## TUNNIN KULKU
 
-### Valmistelu ennen vierailua (5 min)
-- **Orientaatio:** Kerrataan lyhyesti, mitä psykologia tieteenä tarkoittaa
-- **Vierailijan esittely:** Tutkija/asiantuntija paikallisesta yliopistosta tai tutkimuslaitoksesta
-- **Tehtävänanto:** Opiskelijat saavat "Tutkijan haastattelu" -lomakkeen, johon merkitään:
-  * 2-3 kysymystä tutkimusprosessista
-  * Havainnot tutkimuseettisistä näkökohdista
-  * Yksi asia, joka yllätti tai kiinnosti erityisesti
+### 1. JOHDANTO (5 min)
+**Tavoite:** Herätä mielenkiinto ja kontekstualisoida aihe
 
-### Vierailijan esitys (30 min)
-**Vierailija käsittelee:**
-- Oma tutkimuspolku ja nykyinen tutkimus
-- Konkreettinen esimerkki tutkimusprosessista:
-  * Tutkimuskysymyksen muotoilu
-  * Aineistonkeruu ja menetelmät
-  * Tulosten analysointi ja tulkinta
-- Tutkimusetiikan käytännön sovellukset
-- Haasteet ja onnistumiset tutkimustyössä
-
-### Vuorovaikutteinen keskustelu (25 min)
-- **Opiskelijoiden kysymykset** (15 min): Lomakkeeseen valmistellut kysymykset
-- **Teemakeskustelu** (10 min):
-  * Miten tieteellinen tieto eroaa arkipsykologiasta?
-  * Miksi tutkimusetiikka on tärkeää?
-  * Miten tutkimustuloksia tulisi tulkita kriittisesti?
-
-### Reflektio ja yhteenveto (15 min)
-- **Pienryhmätyö** (8 min): 3-4 hengen ryhmissä
-  * Mitä opittiin tutkimusprosessista?
-  * Mitkä eettiset periaatteet nousivat esiin?
-  * Miten tämä liittyy PS1-moduulin sisältöihin?
-- **Yhteinen purku** (7 min): Ryhmät jakavat yhden keskeisen oivalluksen
+- **Opettaja:** Tervehdys ja tunnin tavoitteiden esittely
+- **Aktivointi:** "Mitä mieltä olette väitteestä: 'Ihmiset käyttävät vain 10 % aivoistaan'? Mistä tiesitte tämän?" 
+  - Opiskelijat nostavat käsiä, muutama kommentti
+  - Opettaja: "Tämä on arkipsykologia. Tutkijat ovat osoittaneet sen vääräksi. Tänään tutustumme siihen, miten tieteellinen tieto rakentuu."
 
 ---
 
-## MENETELMÄT
+### 2. VIERAILEVAN ASIANTUNTIJAN ALUSTUS (20 min)
+**Tavoite:** Autenttisuus ja motivaatio tutkimusprosessin merkityksestä
 
-- **Vierailuluento:** Autenttinen kokemus tutkijan työstä
-- **Aktiivinen kuuntelu:** Strukturoitu havainnointilomake
-- **Dialoginen oppiminen:** Kysymys-vastaus -vuorovaikutus
-- **Vertaisoppiminen:** Pienryhmäreflektio
-- **Kriittinen ajattelu:** Tutkimusten luotettavuuden arviointi
+**Vierailija:** Psykologian tutkija tai opiskelijatutkija yliopistosta (esim. Oulun yliopisto)
 
----
+**Sisältö:**
+- Lyhyt esittely: "Kuka olen ja mitä tutkin?"
+- **Tutkimusprosessin vaiheet käytännössä:**
+  - Tutkimuskysymyksen muodostaminen (esim. "Vaikuttaako unen puute nuorten keskittymiskykyyn?")
+  - Aiemman tutkimuksen kartoitus
+  - Tutkimussuunnitelman tekeminen
+  - Aineiston kerääminen
+  - Tulosten analysointi ja tulkinta
+- **Konkreettinen esimerkki:** Vierailija näyttää omaa tai kollegansa tutkimusta (esim. video, infografiikka, lyhyt tutkimusraportti)
+- **Tutkimusetiikka käytännössä:** "Miten suojasimme tutkittavien yksityisyyttä? Mitä lupaa tarvitsimme?"
 
-## MATERIAALIT
-
-**Opettajan valmistelemat:**
-- "Tutkijan haastattelu" -lomake (A4, tulostettuna)
-- Taustamateriaalit vierailijasta ja tutkimuksesta (jaettu etukäteen)
-- Muistiinpanovälineet
-
-**Vierailijan materiaalit:**
-- Esitysmateriaali (PowerPoint/Prezi)
-- Mahdolliset konkreettiset esimerkit (kyselylomakkeet, kuvia tutkimustilanteista)
-
-**Digitaaliset työkalut:**
-- Projektori ja äänentoisto
-- Mahdollinen etäyhteys (jos vierailu toteutetaan hybridinä)
+**Vuorovaikutus:** Opiskelijat voivat esittää 2–3 kysymystä
 
 ---
 
-## ARVIOINTI
+### 3. INTERAKTIIVINEN TYÖSKENTELY: TUTKIMUSPROSESSIN JÄLJITTÄMINEN (30 min)
 
-**Formatiivinen arviointi:**
-- Opettajan havainnointi: Opiskelijoiden kysymysten laatu ja aktiivisuus
-- Pienryhmäkeskustelujen seuraaminen: Ymmärryksen syvyys
-- Suullinen palaute: Välitön kommentointi reflektioissa
+**Tavoite:** Syvällisempi ymmärrys ja kriittinen ajattelu
 
-**Jatkotehtävä (summatiivinen elementti):**
-- **Esseemuotoinen pohdinta** (palautus viikon sisällä, 1-2 sivua):
-  * Kuvaa tutkimusprosessin vaiheet vierailijan esimerkin pohjalta
-  * Analysoi, mitkä eettiset periaatteet olivat keskeisiä
-  * Pohdi, miten tieteellinen tieto eroaa arkipsykologiasta
-  * Arvioi kriittisesti yhden tutkimuksen osa-alueen luotettavuutta
+**Työtapa:** Pienryhmätyöskentely (3–4 henkilön ryhmät)
 
-**Arviointikriteerit:**
-- Psykologisen käsitteistön täsmällinen käyttö
-- Tutkimusprosessin vaiheiden ymmärtäminen
-- Eettisten näkökohtien tunnistaminen
-- Kriittisen ajattelun osoittaminen
+**Materiaali:** Jokainen ryhmä saa **lyhyen tutkimusraportin abstraktin** (1–2 sivua) tai **videon tutkimuksesta** (esim. TED-talk psykologiasta tai lyhyt dokumentti)
+
+**Esimerkkitutkimukset:**
+- Klassinen tutkimus (esim. Milgramin auktoriteettitutkimus tai Zimbarden vankilatutkimus)
+- Moderni tutkimus (esim. sosiaalisen median vaikutus nuorten itsetuntoon)
+- Tutkimus, joka herättää eettisiä kysymyksiä
+
+**Tehtävä – Tutkimusprosessin kartoitus:**
+
+Ryhmät täyttävät **työarkin** (A3-paperi tai digitaalinen):
+
+| Vaihe | Mitä tehtiin? | Miksi tämä on tärkeää? |
+|-------|---------------|------------------------|
+| **Tutkimuskysymys** | | |
+| **Aiempi tutkimus** | | |
+| **Menetelmä** | | |
+| **Osallistujat** | | |
+| **Eettiset näkökohdat** | | |
+| **Tulokset** | | |
+
+**Lisäkysymykset ryhmille:**
+- Oliko tutkimus luotettava? Miksi/miksi ei?
+- Mitä rajoituksia tutkimuksella oli?
+- Mitä eettisiä kysymyksiä herää?
+
+---
+
+### 4. PLENAARINEN KESKUSTELU (15 min)
+
+**Tavoite:** Yhteinen oppiminen ja kriittinen reflektio
+
+- **Ryhmät esittelevät** lyhyesti (2 min/ryhmä) tutkimuksensa ja keskeisiä havaintojaan
+- **Opettaja ja vierailija** kommentoivat ja syventävät
+- **Yhteinen pohdinta:**
+  - "Miten tieteellinen tutkimus eroaa arkipsykologiasta?"
+  - "Miksi tutkimusetiikka on tärkeää?"
+  - "Miten arvioimme tutkimuksen luotettavuutta?"
+
+---
+
+### 5. YHTEENVETO JA REFLEKTIO (5 min)
+
+**Tavoite:** Oppimisen konsolidointi ja jatko-opinnot
+
+- **Opettaja:** Tunnin pääpisteet:
+  - Psykologia on tieteenala, joka perustuu järjestelmälliseen tutkimukseen
+  - Tutkimusprosessissa on selkeät vaiheet
+  - Etiikka ja kriittinen arviointi ovat keskeisiä
+  
+- **Reflektio (kirjallinen tai suullinen):**
+  - "Mikä oli sinulle uutta tänään?"
+  - "Miten tämä muuttaa käsitystäsi psykologiasta?"
+
+- **Jatko:** "Seuraavalla tunnilla perehdymme syvemmin tutkimusmenetelmiin ja siihen, miten kokeellinen tutkimus toimii."
+
+---
+
+## MATERIAALIT JA VÄLINEET
+
+| Materiaali | Määrä | Huomio |
+|-----------|-------|--------|
+| Tutkimusraportin abstraktit tai videot | 4–5 erilaista | Eri vaikeustasot, eri aiheet |
+| Työarkit (A3 tai digitaaliset) | Ryhmien lukumäärän mukaan | Valmistettu etukäteen |
+| Liitutaulu/smartboard | 1 | Keskustelujen dokumentointi |
+| Projektori/näyttö | 1 | Videon/esityksen näyttäminen |
+| Kynät, värikyniä | Ryhmien mukaan | Visuaalinen työskentely |
 
 ---
 
 ## ERIYTTÄMINEN
 
-**Tuki tarvittaessa:**
-- Lomakkeessa valmiit kysymyspohjat eri tasoisille opiskelijoille
-- Mahdollisuus työskennellä parin kanssa haastattelulomakkeen täyttämisessä
-- Opettajan tuki kysymysten muotoilussa ennen esittämistä
-
-**Syventävä haaste:**
-- Lisäkysymykset tutkimusmenetelmien yksityiskohdista
-- Vertailu eri tutkimusparadigmojen välillä
-- Jatkotehtävässä syvempi metodologinen analyysi
-
-**Kielellinen tuki:**
-- Keskeiset termit kirjattuna taululle/dioille
-- Mahdollisuus esittää kysymyksiä suomeksi tai englanniksi
-- Sanasto jaettuna etukäteen
+- **Haastavammat opiskelijat:** Saavat analysoida metodologisesti vaativampaa tutkimusta tai pohtia syvempiä eettisiä dilemmoita
+- **Tukea tarvitsevat:** Saavat yksinkertaisemman tutkimuksen ja strukturoidumman työarkin, mahdollisesti opettajan tuki ryhmässä
+- **Kiinnostuneet:** Voivat jatkaa tutkimukseen liittyvää pohdintaa tai tutustua alkuperäiseen tutkimusraporttiin
 
 ---
 
-## KOTIINLÄHTÖ
+## ARVIOINTI
 
-**Kiitokset vierailijalle** - Opiskelijan edustaja kiittää vierailijaa
+**Formatiivinen arviointi (tunnin aikana):**
+- Osallistuminen keskusteluihin
+- Ryhmätyön laatu ja yhteistyö
+- Kriittisen ajattelun näyttäminen työarkin täytössä
 
-**Kotitehtävä:**
-- Esseemuotoinen pohdinta (deadline viikon päästä)
-- Lue oppikirjasta tutkimusmenetelmät-luku (valmistautuminen seuraavalle tunnille)
-
-**Seuraava tunti:**
-- Syvennetään tutkimusmenetelmiä: kokeellinen tutkimus, havainnointi, kyselyt
-- Pohditaan, miten eri menetelmät soveltuvat erilaisiin tutkimuskysymyksiin
+**Summatiivinen arviointi (myöhemmin):**
+- Tutkimusprosessin ymmärrys seuraavissa tehtävissä
+- Kyky arvioida tutkimusten luotettavuutta ja eettisyyttä
 
 ---
 
-## HUOMIOT OPETTAJALLE
+## LAAJA-ALAINEN OSAAMINEN
 
-- **Vierailijan briefaus:** Lähetä etukäteen tiedot opiskelijoiden taustoista ja moduulin tavoitteista
-- **Varasuunnitelma:** Jos vierailu peruuntuu, korvaava tehtävä: TED-talk psykologisesta tutkimuksesta + strukturoitu analyysi
-- **Yhteys yliopistoon:** Oulun yliopiston psykologian laitos, mahdollinen yhteistyötaho
-- **Ajankäyttö:** Varmista, että aikaa jää opiskelijoiden kysymyksille (vähintään 15 min)
+- **Eettisyys ja ympäristöosaaminen:** Tutkimusetiikan periaatteet, vastuullinen tiedonhankinta
+- **Hyvinvointiosaaminen:** Kriittinen ajattelu, tiedon luotettavuuden arviointi
+- **Vuorovaikutusosaaminen:** Ryhmätyöskentely, kuuntelu, rakentava keskustelu
+
+---
+
+## HUOMIOITA VIERAILEVAN ASIANTUNTIJAN KANSSA
+
+- **Etukäteen sopiminen:** Varmista vierailijan saapumisaika, tekninen tuki, materiaalit
+- **Yhteiset tavoitteet:** Keskustele opettajan kanssa tunnin tavoitteista ja vierailijan roolista
+- **Palaute:** Kerää opiskelijoilta palaute vierailusta (lyhyt kysely)
+
+---
+
+## JATKO-OPINNOT
+
+Seuraavalla tunnilla syvennytään:
+- Tutkimusmenetelmiin (kokeellinen, havainnointi, haastattelu)
+- Muuttujien käsitteeseen ja hypoteesin muodostamiseen
+- Tilastollisiin perusteisiin (PS3-moduulissa syvemmin)

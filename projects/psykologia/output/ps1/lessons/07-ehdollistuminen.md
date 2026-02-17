@@ -1,194 +1,200 @@
-# TUNTISUUNNITELMA: Ehdollistuminen
+# TUNTISUUNNITELMA: EHDOLLISTUMINEN
 
-**Moduuli:** PS1 - Toimiva ja oppiva ihminen | **Kesto:** 75 min | **Työtapa:** Työpaja  
-**Kohderyhmä:** 1. vuoden lukiolaiset (syksy) | **Opiskelijamäärä:** ~20-25
+**Moduuli:** PS1 – Toimiva ja oppiva ihminen | **Aihe:** Ehdollistuminen | **Kesto:** 75 min | **Työtapa:** Työpaja
 
 ---
 
 ## TAVOITTEET
 
-**Moduulikohtaiset tavoitteet:**
-- Opiskelija ymmärtää ehdollistumisen keskeisenä oppimisen mekanismina
-- Opiskelija osaa erottaa klassisen ja välineellisen ehdollistumisen toisistaan
-- Opiskelija kykenee tunnistamaan ehdollistumisen ilmiöitä omassa arjessaan
-- Opiskelija kehittää kriittistä ajattelua analysoimalla ehdollistumistutkimuksia
+**Moduulin tavoitteet:**
+- Ymmärtää ihmisen oppimista psyykkisestä, biologisesta ja sosiokulttuurisesta näkökulmasta
+- Hallita keskeisen psykologisen käsitteistön (klassinen ja välineellinen ehdollistuminen)
+- Perustella väitteensä tieteenalan näkökulmista
 
-**Laaja-alainen osaaminen:**
-- Hyvinvointiosaaminen: Ymmärrys tapojen muodostumisesta ja tunteiden säätelystä
-- Vuorovaikutusosaaminen: Sosiaalisen oppimisen tunnistaminen
-
----
-
-## TUNNIN KULKU
-
-### 1. ALOITUS JA MOTIVOINTI (10 min)
-
-**Herättelyvideo:** Pavlovin koiran klassinen koe (3 min)
-
-**Pohdintakysymykset pareittain:**
-- Miksi suusi vetistyy, kun näet lempiruokasi?
-- Miksi tietty musiikki voi tuoda vahvoja muistoja?
-- Miten olet oppinut välttämään epämiellyttäviä tilanteita?
-
-**Tavoitteen asettaminen:** "Tänään tutkimme, miten aivojemme oppimismekanismit toimivat automaattisesti."
+**Tunnin tavoitteet – Opiskelija:**
+- Määrittelee klassisen ja välineellisen ehdollistumisen ja erottaa niiden väliset erot
+- Tunnistaa ehdollistumisen ilmiöitä omasta arjestaan ja tutkimusaineistoista
+- Soveltaa ehdollistumisen teoriaa käytännön tilanteisiin (esim. tapojen muodostuminen, pelkojen kehittyminen)
+- Arvioi kriittisesti tutkimusten (esim. Pavlovin kokeilu) luotettavuutta ja eettisyyttä
 
 ---
 
-### 2. TEORIAOSUUS: KLASSINEN EHDOLLISTUMINEN (15 min)
+## TUNNIN KULKU (75 min)
 
-**Opettajan esitys visualisointien kanssa:**
+### 1. JOHDANTO JA AKTIVOINTI (10 min)
 
-**Pavlovin tutkimus:**
-- Ehdoton ärsyke (ruoka) → Ehdoton reaktio (syljeneritys)
-- Neutraali ärsyke (kello) + Ehdoton ärsyke → Ehdoton reaktio
-- Ehdollinen ärsyke (kello) → Ehdollinen reaktio (syljeneritys)
+**Menetelmä:** Interaktiivinen keskustelu + video-impulssi
 
-**Käytännön esimerkit:**
-- Fobioiden syntyminen (Little Albert -tutkimus)
-- Mainonta ja brändit
-- Tunnemuistot ja hajut
-
-**Kriittinen tarkastelu:** Little Albert -tutkimuksen eettisyys
+- **Aloitus (2 min):** Opettaja esittää arkipäivän tilanteen: *"Kun kuulet koululle menevän kellon äänen, mitä tapahtuu? Entä kun näet suosikkiruokaasi?"* Opiskelijat pohtivat pareittain.
+- **Video-impulssi (5 min):** Lyhyt video klassisen ehdollistumisen periaatteesta (esim. Pavlovin kokeilu animaationa, 2–3 min) tai opettajan demonstraatio (esim. valo + ääni -yhdistelmä).
+- **Käsitteistön esittely (3 min):** Opettaja kirjoittaa taululle: **ehdollinen ärsyke, ehdoton ärsyke, ehdollinen reaktio, ehdoton reaktio**. Opiskelijat kirjoittavat muistiinpanoihin.
 
 ---
 
-### 3. TYÖPAJA 1: KLASSINEN EHDOLLISTUMINEN (15 min)
+### 2. TIETOPOHJAN RAKENTAMINEN (15 min)
 
-**Pienryhmätyö (3-4 hlö/ryhmä):**
+**Menetelmä:** Ohjattu opetus + aineistopohjainen analyysi
 
-**Tehtävä:** Analysoikaa annettua tapausesimerkkiä
-- Ryhmä 1-2: Koiran pelko lapsuudessa
-- Ryhmä 3-4: Tenttiahdistuksen kehittyminen
-- Ryhmä 5-6: Positiivinen mielleyhtymä musiikkiin
+**Klassinen ehdollistuminen (8 min):**
+- Opettaja selittää Pavlovin kokeita käyttäen visuaalista kaaviota (taulu/diaesitys):
+  - Neutraali ärsyke (kello) + ehdoton ärsyke (ruoka) → ehdoton reaktio (syljeneritys)
+  - Toistamisen jälkeen: neutraali ärsyke (kello) → ehdollinen reaktio (syljeneritys)
+- **Opiskelijaesimerkki:** Opettaja kysyy: *"Miten hammashoitajan vastaanottoon meneminen voi laukaista pelkoa?"* Opiskelijat analysoivat klassisen ehdollistumisen kautta.
 
-**Ryhmien tulee tunnistaa:**
-1. Ehdoton ärsyke ja reaktio
-2. Neutraali ärsyke
-3. Ehdollinen ärsyke ja reaktio
-4. Miten ehdollistuminen tapahtui?
-
-**Purku:** Jokainen ryhmä esittelee analyysinsä (2 min/ryhmä)
-
----
-
-### 4. TEORIAOSUUS: VÄLINEELLINEN EHDOLLISTUMINEN (10 min)
-
-**Skinnerin operantti ehdollistuminen:**
-
-**Vahvistaminen:**
-- Positiivinen vahvistaminen (lisätään jotain miellyttävää)
-- Negatiivinen vahvistaminen (poistetaan jotain epämiellyttävää)
-
-**Rangaistus:**
-- Positiivinen rangaistus (lisätään jotain epämiellyttävää)
-- Negatiivinen rangaistus (poistetaan jotain miellyttävää)
-
-**Esimerkit:**
-- Pelillistäminen ja pisteet
-- Sosiaalinen media ja tykkäykset
-- Tapojen muodostuminen
+**Välineellinen ehdollistuminen (7 min):**
+- Opettaja esittelee B. F. Skinnerin mallia:
+  - **Vahvistaminen:** Käyttäytyminen + palkkio → käyttäytyminen lisääntyy
+  - **Rangaistus:** Käyttäytyminen + negatiivinen seuraus → käyttäytyminen vähenee
+- **Opiskelijaesimerkki:** Kotitehtävien tekeminen → hyvä arvosana (vahvistaminen) vs. pelaaminen → vanhempien huomautus (rangaistus)
 
 ---
 
-### 5. TYÖPAJA 2: VÄLINEELLINEN EHDOLLISTUMINEN (20 min)
+### 3. TYÖPAJA-AKTIVITEETIT (40 min)
 
-**Käytännön harjoitus: "Oma ehdollistumissuunnitelma"**
+**Menetelmä:** Ryhmätyöskentely + kokeellinen tutkimus + aineistoanalyysi
 
-**Yksilötyö (10 min):**
-Opiskelijat suunnittelevat, miten voisivat käyttää välineellistä ehdollistumista:
-- Uuden hyvän tavan luomiseen (esim. säännöllinen liikunta)
-- Ei-toivotun tavan vähentämiseen (esim. puhelimen liiallinen käyttö)
+Opiskelijat jaetaan 3–4 hengen ryhmiin. Jokainen ryhmä saa yhden seuraavista tehtävistä:
 
-**Suunnitelmaan sisältyy:**
-1. Tavoitekäyttäytyminen
-2. Valittu vahvistamis-/rangaistustyyppi
-3. Konkreettinen palkkio/seuraus
-4. Arvio toteutettavuudesta
+**TEHTÄVÄ 1: Klassinen ehdollistuminen – Tutkimusanalyysi (10 min)**
+- Ryhmä saa Pavlovin kokeista kertovan tutkimusraportin (lyhennelty versio).
+- Tehtävät:
+  - Tunnista tutkimuksesta: ehdollinen ärsyke, ehdoton ärsyke, reaktiot
+  - Pohdi: Mitä eettisiä kysymyksiä tutkimukseen liittyy? (Eläinten käyttö tutkimuksessa)
+  - Voitaisiinko tutkimus toistaa ihmisillä? Miksi/miksi ei?
+- **Tuotos:** Ryhmä täyttää työskentelyn tulokset A3-paperille visuaalisesti (kaavio + vastaukset).
 
-**Parijakaminen (10 min):** Opiskelijat jakavat suunnitelmansa parin kanssa ja antavat palautetta
+**TEHTÄVÄ 2: Välineellinen ehdollistuminen – Käytännön soveltaminen (10 min)**
+- Ryhmä saa kolme arkipäivän skenaariota:
+  1. Lapsi ei halua harjoitella pianoa
+  2. Opiskelija laiminlyö kotitehtävät
+  3. Työntekijä tulee usein myöhässä
+- Tehtävät:
+  - Suunnittele välineellisen ehdollistumisen perusteella ratkaisut (vahvistaminen/rangaistus)
+  - Pohdi: Mitkä ratkaisut olisivat tehokkaimpia pitkällä aikavälillä?
+  - Arvioi: Mitä muita tekijöitä (biologisia, psyykkisiä, sosiaalisia) vaikuttaa käyttäytymiseen?
+- **Tuotos:** Ryhmä tekee taulukon: Skenaario → Ehdollistumisen ratkaisu → Muut vaikuttavat tekijät.
 
----
+**TEHTÄVÄ 3: Ehdollistuminen omassa elämässä – Reflektiivinen analyysi (10 min)**
+- Ryhmä pohtii omia kokemuksiaan:
+  - Millä tavoin ehdollistuminen näkyy opiskelussanne? (esim. tietty paikka → keskittyminen)
+  - Millä tavoin ehdollistuminen vaikuttaa tunteisiinne? (esim. paikka → ahdistus/ilon tunne)
+  - Miten voitte käyttää ehdollistumisen tietoa hyväksi omassa hyvinvoinnissanne?
+- **Tuotos:** Ryhmä tekee "ehdollistumisen päiväkirjaa" – lyhyitä esimerkkejä omasta elämästä klassisen ja välineellisen ehdollistumisen näkökulmasta.
 
-### 6. SYNTEESI JA REFLEKTIO (5 min)
+**TEHTÄVÄ 4: Kokeellinen tutkimus – Pieni demonstraatio (10 min)**
+- Ryhmä suunnittelee pienen kokeellisen tutkimuksen ehdollistumisesta:
+  - Esim. väri + ääni -yhdistelmä ja sen vaikutus reaktioihin
+  - Tai: Palkkion vaikutus tehtävän suorittamiseen
+- Tehtävät:
+  - Määrittele riippumaton muuttuja (ärsyke/palkkio) ja riippuva muuttuja (reaktio)
+  - Kirjoita tutkimuskysymys
+  - Suunnittele tutkimuksen kulku (vaiheet)
+  - Pohdi: Mitä eettisiä näkökohtia tutkimukseen liittyy?
+- **Tuotos:** Ryhmä tekee tutkimussuunnitelman A4-paperille.
 
-**Yhteinen keskustelu:**
-- Miten klassinen ja välineellinen ehdollistuminen eroavat?
-- Kumpi on tietoisempaa oppimista?
-- Voiko ehdollistumista "purkaa"?
-
-**Biopsykososiaalinen näkökulma:**
-- Biologinen: Aivojen palkitsemisjärjestelmä
-- Psyykkinen: Odotukset ja motiivit
-- Sosiaalinen: Kulttuuriset normit ja sosiaalinen ympäristö
-
----
-
-## MENETELMÄT
-
-- **Visualisointi:** Videot, kaaviot, esimerkit
-- **Aktiivinen oppiminen:** Työpajat, pari- ja ryhmätyöt
-- **Reflektiivisyys:** Yhteys omaan kokemusmaailmaan
-- **Kriittinen ajattelu:** Tutkimusten eettinen arviointi
-- **Soveltaminen:** Käytännön suunnitelman laatiminen
-
----
-
-## MATERIAALIT
-
-- **Digitaaliset:** Pavlovin koira -video, PowerPoint-esitys
-- **Fyysiset:** Tapausesimerkkikortit, suunnittelupohjat
-- **Verkkolähteet:** Wikipedia-artikkelit klassisesta ja välineellisestä ehdollistumisesta
-- **Oppikirja:** Lukion psykologia PS1 (tukimateriaalina)
+**Työpajan toteutus:**
+- Jokainen ryhmä työskentelee 10 minuuttia omalla tehtävällään
+- Opettaja kiertää ryhmissä, antaa palautetta ja ohjaa tarvittaessa
+- Ryhmät voivat käyttää tietokoneita/tabletteja lähteisiin pääsyyn (esim. Wikipedia-artikkelit, Quizlet-kortit)
 
 ---
 
-## ARVIOINTI
+### 4. TULOSTEN ESITTÄMINEN JA KESKUSTELU (8 min)
 
-**Formatiivinen arviointi tunnin aikana:**
-- Havainnointi ryhmätöiden aikana
-- Suulliset vastaukset keskusteluissa
-- Palaute ehdollistumissuunnitelmista
+**Menetelmä:** Ryhmäesitykset + luokkatyöskentely
 
-**Summatiivinen arviointi (myöhemmin):**
-- Ehdollistuminen osana PS1-moduulin koetta
-- Arvioidaan: käsitteiden hallinta, analyysitaidot, soveltaminen
+- Jokainen ryhmä esittelee tuloksensa lyhyesti (1–2 min):
+  - Tehtävä 1: Tutkimusanalyysin kaavio
+  - Tehtävä 2: Yksi skenaario ja sen ratkaisu
+  - Tehtävä 3: Yksi esimerkki omasta elämästä
+  - Tehtävä 4: Tutkimuskysymys ja muuttujat
+- Opettaja ja muut opiskelijat esittävät lyhyitä kysymyksiä/kommentteja
 
-**Itsearviointikysymykset (kotitehtävä):**
-1. Tunnistanko ehdollistumisen ilmiöitä omassa arjessani?
-2. Osaan selittää eron klassisen ja välineellisen ehdollistumisen välillä?
-3. Voinko soveltaa tietoa käytännössä?
+---
+
+### 5. YHTEENVETO JA REFLEKTIO (2 min)
+
+**Menetelmä:** Opettajan johtama keskustelu
+
+- Opettaja kokoaa keskeiset käsitteet:
+  - **Klassinen ehdollistuminen:** Ärsykkeiden välinen mielleyhtymä (Pavlov)
+  - **Välineellinen ehdollistuminen:** Seurausten kautta oppiminen (Skinner)
+  - **Soveltaminen:** Ehdollistuminen näkyy oppimisessa, tunteiden säätelyn ja tapojen muodostumisessa
+- Opiskelijat pohtivat: *"Mitä uutta opit ehdollistumisesta? Miten voit käyttää tätä tietoa?"*
+
+---
+
+## MATERIAALIT JA RESURSSIT
+
+| Materiaali | Määrä | Huomio |
+|-----------|-------|--------|
+| Video: Pavlovin kokeilu (animaatio) | 1 | YouTube tai oppikirjan liitemateriaalit |
+| A3-paperi | 3–4 | Ryhmätyöskentelyn tuotoksille |
+| A4-paperi | 3–4 | Tutkimussuunnitelmille |
+| Värikynnät/tusselit | 1 sarja | Visualisointiin |
+| Tietokone/tabletit | 3–4 | Lähdeaineistoihin pääsy |
+| Tutkimusraportin lyhennelmä (Pavlov) | 1 kpl/ryhmä | Jaetaan tulostettuna tai digitaalisesti |
+| Skenaariot (Tehtävä 2) | 1 kpl/ryhmä | Jaetaan tulostettuna |
+
+**Digitaaliset lähteet:**
+- https://fi.wikipedia.org/wiki/Klassinen_ehdollistuminen
+- https://fi.wikipedia.org/wiki/Välineellinen_ehdollistuminen
+- https://quizlet.com/fi/870186855/ (Psykologian teorioita ja tutkimuksia)
 
 ---
 
 ## ERIYTTÄMINEN
 
-**Tuki tarvittaessa:**
-- Selkeät, konkreettiset esimerkit
-- Visuaaliset tukimateriaalit
-- Mahdollisuus työskennellä opettajan kanssa pienryhmässä
-- Yksinkertaistetut tapausesimerkit
-
-**Haastetta kaipaaville:**
-- Lisätehtävä: Tutki Watson & Raynerin Little Albert -tutkimusta ja arvioi sen eettisyyttä
-- Pohdi: Miten ehdollistuminen liittyy mainonnan psykologiaan?
-- Suunnittele monimutkaisempi käyttäytymisen muutosohjelma
-
-**Hybridiopetus:** Materiaali saatavilla verkossa, mahdollisuus osallistua etänä
+| Taso | Mukauttaminen |
+|------|---------------|
+| **Syventävä** | Tehtävä 4 (kokeellinen tutkimus) vaatii syvempää ymmärrystä tutkimusmenetelmistä. Ryhmä voi laajentaa tutkimussuunnitelmaa ja pohtia tilastollisia analyysejä. |
+| **Perusopetus** | Tehtävät 1–3 sopivat kaikille. Opettaja tarjoaa tarvittaessa enemmän ohjausta ja esimerkkejä. |
+| **Tukea tarvitsevat** | Opettaja voi yhdistää opiskelijan vahvemmaksi ryhmäksi tai tarjota valmiita kaavioita/malleja, joita täydennetään. |
 
 ---
 
-## KOTITEHTÄVÄ
+## ARVIOINTI
 
-**Havainnointi (vapaaehtoinen):**
-Tunnista ja kirjaa ylös 2-3 esimerkkiä ehdollistumisesta omasta arjestasi viikon aikana. Analysoi, kumpi ehdollistumisen tyyppi on kyseessä ja miksi.
+**Formatiivinen arviointi (tunnin aikana):**
+- Opettaja havainnoi ryhmätyöskentelyä ja antaa suullista palautetta
+- Ryhmätyön tuotokset (A3-paperit, taulukot, tutkimussuunnitelmat) kerätään ja kommentoidaan
+- Esitykset antavat tietoa ymmärtämisen tasosta
 
-**Valmistautuminen seuraavaan tuntiin:** Muisti ja oppimisstrategiat
+**Summatiivinen arviointi (myöhemmin):**
+- Ehdollistumisen käsitteiden hallinta (esim. lyhyt kirjoitus tai testi)
+- Soveltamiskyky (esim. tapaustutkimus, jossa analysoidaan ehdollistumista)
+- Kriittinen ajattelu (esim. tutkimusten eettisyys ja luotettavuus)
+
+**Arviointikriteerit:**
+- **Hyvä (8–9):** Opiskelija määrittelee käsitteet täsmällisesti, tunnistaa ehdollistumisen eri muodoissa ja soveltaa niitä uusiin tilanteisiin. Arvioi kriittisesti tutkimuksia.
+- **Tyydyttävä (6–7):** Opiskelija ymmärtää klassisen ja välineellisen ehdollistumisen perusperiaatteet ja tunnistaa niitä joissain tilanteissa.
+- **Heikko (4–5):** Opiskelija tunnistaa ehdollistumisen ilmiön, mutta sekoittaa käsitteitä tai soveltaa niitä vain ohjauksella.
+
+---
+
+## LAAJA-ALAINEN OSAAMINEN
+
+| Alue | Toteutus tunnilla |
+|------|-------------------|
+| **Hyvinvointiosaaminen** | Ehdollistumisen yhteys tapojen muodostumiseen, stressinhallintaan ja tunnesäätelyyn (Tehtävä 3) |
+| **Vuorovaikutusosaaminen** | Ryhmätyöskentely, esitykset, vertaispalautteen antaminen |
+| **Eettisyys** | Tutkimusetiikka (Tehtävät 1 ja 4): eläinten käyttö tutkimuksessa, ihmisten oikeudet |
+
+---
+
+## JATKO JA YHTEYDET
+
+- **Seuraava tunti:** Muisti ja sisäiset mallit (oppimisen jatkuminen)
+- **Yhteys muihin moduuleihin:** PS2 (kehitys ja kiintymyssuhteet), PS4 (tunteiden säätely ja resilienssi)
+- **Kotitehtävä (valinnainen):** Opiskelijat dokumentoivat yhden ehdollistumisen esimerkin omasta elämästään ja kirjoittavat lyhyen analyysin (½ sivua)
 
 ---
 
 ## OPETTAJAN MUISTIINPANOT
 
-- Varmista, että kaikilla ryhmillä on riittävästi aikaa
-- Kannusta opiskelijoita jakamaan henkilökohtaisia kokemuksia turvallisessa ilmapiirissä
-- Korosta eettisiä näkökulmia historiallisissa tutkimuksissa
-- Yhdistä teoria käytäntöön konkreettisten esimerkkien kautta
+✓ Valmistele video etukäteen ja testaa tekniikka  
+✓ Tulosta/jaa aineistot ryhmille hyvissä ajoin  
+✓ Varaa riittävästi tilaa ryhmätyöskentelylle (esim. pöydät sivuun)  
+✓ Ajoita ryhmätyö tarkasti (10 min/tehtävä)  
+✓ Valmistele esimerkkejä omasta elämästä (esim. kahvinkuppi → herätys)  
+✓ Huomio: Tehtävä 4 vaatii enemmän ohjausta – ole valmis auttamaan tutkimussuunnitelmassa
