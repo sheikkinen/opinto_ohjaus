@@ -67,8 +67,8 @@ def render_templates(state: dict) -> dict:
     vars_data = {
         "project_dir": str(project_dir),
         "school_context": state.get("school_context", ""),
-        "hours_per_module": state.get("hours_per_module", 18),
-        "lesson_duration": state.get("lesson_duration", 75),
+        "hours_per_module": int(state.get("hours_per_module", 18)),
+        "lesson_duration": int(state.get("lesson_duration", 75)),
     }
     vars_file = project_dir / "vars.yaml"
     vars_file.write_text(
