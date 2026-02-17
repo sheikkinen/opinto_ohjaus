@@ -607,6 +607,56 @@ def test_copied_graphs_use_correct_prompts_dir(tmp_path):
         assert path.exists(), f"Prompt {prompt} not resolvable from copied graph"
 
 
+# ---------------------------------------------------------------------------
+# Test G18: Vuosikello slot matching with full module names (startswith)
+# ---------------------------------------------------------------------------
+
+
+@pytest.mark.req("REQ-YG-069")
+def test_vuosikello_startswith_matching(tmp_path):
+    """load_data matches vuosikello slots by prefix, not exact match.
+
+    LLM-generated vuosikello often returns full names like
+    'PS1: Toimiva ja oppiva ihminen' instead of bare 'PS1'.
+    The startswith match ensures correct filtering.
+    """
+    import json
+
+    from projects.opinto_ohjaus.nodes.load_data import load_data
+
+    module = "ps1"
+    out_dir = tmp_path / "output" / module
+    out_dir.mkdir(parents=True)
+
+    topics = {"topics": [
+        {"id": "t1", "title": "Topic 1", "one_line_description": "d1", "module": "PS1"},
+        {"id": "t2", "title": "Topic 2", "one_line_description": "d2", "module": "PS1"},
+    ]}
+    augmented = ["aug1", "aug2"]
+    # Vuosikello slots with full module names (LLM output format)
+    vuosikello = {"slots": [
+        {"year": 1, "semester": "syksy", "module": "PS1: Toimiva ja oppiva ihminen", "focus_areas": ["psych-basics"]},
+        {"year": 2, "semester": "kevät", "module": "PS2: Kehittyvä ihminen", "focus_areas": ["development"]},
+        {"year": 3, "semester": "syksy", "module": "PS3: Tietoa käsittelevä ihminen", "focus_areas": ["cognition"]},
+    ]}
+
+    (out_dir / "topics.json").write_text(json.dumps(topics), encoding="utf-8")
+    (out_dir / "augmented_topics.json").write_text(json.dumps(augmented), encoding="utf-8")
+    (out_dir / "vuosikello.json").write_text(json.dumps(vuosikello), encoding="utf-8")
+
+    state = {"module": module, "project_dir": str(tmp_path), "lesson_duration": 75}
+    result = load_data(state)
+
+    items = result["lesson_items"]
+    assert len(items) == 2
+
+    # Both topics should be assigned PS1's slot (Y1 syksy), not random others
+    for item in items:
+        assert item["vuosikello_slot"]["year"] == 1, f"Expected year 1 for PS1, got {item['vuosikello_slot']['year']}"
+        assert item["vuosikello_slot"]["semester"] == "syksy", f"Expected syksy for PS1, got {item['vuosikello_slot']['semester']}"
+        assert "psych-basics" in item["vuosikello_slot"]["focus_areas"]
+
+
 @pytest.mark.req("REQ-YG-069")
 def test_generate_edge_dag():
     """Generate edges: START→load→generate→save→END."""

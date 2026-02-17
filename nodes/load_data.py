@@ -9,23 +9,6 @@ import json
 from pathlib import Path
 
 
-def _assign_vuosikello_slot(topic: dict, slots: list[dict], module: str) -> dict:
-    """Assign a vuosikello slot based on topic's module and research sections."""
-    module_slots = [s for s in slots if s.get("module", "").upper() == module.upper()]
-    if not module_slots:
-        module_slots = slots
-
-    # Distribute topics across available slots round-robin
-    # Caller sets _slot_index for distribution
-    idx = topic.get("_slot_index", 0)
-    slot = module_slots[idx % len(module_slots)]
-    return {
-        "year": slot.get("year", 1),
-        "semester": slot.get("semester", "syksy"),
-        "focus_areas": slot.get("focus_areas", []),
-    }
-
-
 SESSION_TYPES = ["luokkaopetus", "työpaja", "pienryhmä", "vierailu", "verkko"]
 
 
@@ -45,7 +28,10 @@ def load_data(state: dict) -> dict:
 
     slots = vuosikello.get("slots", [])
     module_upper = state.get("module", "OP1").upper()
-    module_slots = [s for s in slots if s.get("module", "").upper() == module_upper]
+    module_slots = [
+        s for s in slots
+        if s.get("module", "").upper().startswith(module_upper)
+    ]
     if not module_slots:
         module_slots = slots
 
