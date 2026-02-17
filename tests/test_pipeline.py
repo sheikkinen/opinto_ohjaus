@@ -482,6 +482,53 @@ def test_save_lessons_uses_project_dir(tmp_path):
     assert len(list(lessons_dir.glob("*.md"))) >= 1
 
 
+# ---------------------------------------------------------------------------
+# Test G12-G14: Missing project_dir raises KeyError (fail-fast contract)
+# ---------------------------------------------------------------------------
+
+
+@pytest.mark.req("REQ-YG-069")
+def test_load_data_fails_without_project_dir():
+    """load_data raises KeyError when project_dir is missing from state."""
+    from projects.opinto_ohjaus.nodes.load_data import load_data
+
+    with pytest.raises(KeyError, match="project_dir"):
+        load_data({"module": "test"})
+
+
+@pytest.mark.req("REQ-YG-069")
+def test_save_preparation_fails_without_project_dir():
+    """save_preparation raises KeyError when project_dir is missing from state."""
+    from projects.opinto_ohjaus.nodes.save_preparation import save_preparation
+
+    with pytest.raises(KeyError, match="project_dir"):
+        save_preparation({"module": "test"})
+
+
+@pytest.mark.req("REQ-YG-069")
+def test_save_lessons_fails_without_project_dir():
+    """save_lessons raises KeyError when project_dir is missing from state."""
+    from projects.opinto_ohjaus.nodes.save_lessons import save_lessons
+
+    with pytest.raises(KeyError, match="project_dir"):
+        save_lessons({"module": "test"})
+
+
+# ---------------------------------------------------------------------------
+# Test G15: vars.yaml includes project_dir
+# ---------------------------------------------------------------------------
+
+
+@pytest.mark.req("REQ-YG-069")
+def test_vars_yaml_includes_project_dir():
+    """vars.yaml must include project_dir for pipeline execution."""
+    import yaml
+
+    vars_file = PROJECT_DIR / "vars.yaml"
+    data = yaml.safe_load(vars_file.read_text(encoding="utf-8"))
+    assert "project_dir" in data, "vars.yaml must include project_dir"
+
+
 @pytest.mark.req("REQ-YG-069")
 def test_generate_edge_dag():
     """Generate edges: START→load→generate→save→END."""
