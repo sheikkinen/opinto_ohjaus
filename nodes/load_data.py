@@ -33,7 +33,10 @@ def load_data(state: dict) -> dict:
         if s.get("module", "").upper().startswith(module_upper)
     ]
     if not module_slots:
-        module_slots = slots
+        raise ValueError(
+            f"No vuosikello slots match module '{module_upper}'. "
+            f"Available: {[s.get('module', '') for s in slots]}"
+        )
 
     lesson_items = []
     for i, topic in enumerate(topics):

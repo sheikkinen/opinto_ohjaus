@@ -657,6 +657,40 @@ def test_vuosikello_startswith_matching(tmp_path):
         assert "psych-basics" in item["vuosikello_slot"]["focus_areas"]
 
 
+# ---------------------------------------------------------------------------
+# Test G19: No module match raises ValueError (Commandment 6 — no silent fallback)
+# ---------------------------------------------------------------------------
+
+
+@pytest.mark.req("REQ-YG-069")
+def test_vuosikello_no_match_raises(tmp_path):
+    """load_data raises ValueError when no vuosikello slots match the module.
+
+    Previously fell back to all slots silently, producing plausible but
+    wrong output. Commandment 6: raise, never substitute everything.
+    """
+    import json
+
+    from projects.opinto_ohjaus.nodes.load_data import load_data
+
+    module = "ps9"
+    out_dir = tmp_path / "output" / module
+    out_dir.mkdir(parents=True)
+
+    topics = {"topics": [{"id": "t1", "title": "T", "one_line_description": "d"}]}
+    augmented = ["aug"]
+    vuosikello = {"slots": [
+        {"year": 1, "semester": "syksy", "module": "PS1: Foo"},
+    ]}
+
+    (out_dir / "topics.json").write_text(json.dumps(topics), encoding="utf-8")
+    (out_dir / "augmented_topics.json").write_text(json.dumps(augmented), encoding="utf-8")
+    (out_dir / "vuosikello.json").write_text(json.dumps(vuosikello), encoding="utf-8")
+
+    with pytest.raises(ValueError, match="No vuosikello slots match module 'PS9'"):
+        load_data({"module": module, "project_dir": str(tmp_path), "lesson_duration": 75})
+
+
 @pytest.mark.req("REQ-YG-069")
 def test_generate_edge_dag():
     """Generate edges: START→load→generate→save→END."""
