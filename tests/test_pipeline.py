@@ -529,6 +529,84 @@ def test_vars_yaml_includes_project_dir():
     assert "project_dir" in data, "vars.yaml must include project_dir"
 
 
+# ---------------------------------------------------------------------------
+# Test G16: render_templates copies graph files to project_dir
+# ---------------------------------------------------------------------------
+
+
+@pytest.mark.req("REQ-YG-069")
+def test_render_templates_copies_graphs(tmp_path):
+    """render_templates copies prepare.yaml and generate.yaml to project_dir.
+
+    This is required because both graphs use prompts_relative: true,
+    which resolves prompts relative to the graph file location.
+    Without copying, a new subject's prompts/ would be ignored.
+    """
+    from projects.opinto_ohjaus.nodes.render_templates import render_templates
+
+    state = {
+        "subject_summaries": {
+            "subject_profile": "Test profile.",
+            "pedagogical_context": "Test context.",
+            "lesson_template": "Test template.",
+        },
+        "project_dir": str(tmp_path),
+        "school_context": "Test",
+        "hours_per_module": 18,
+        "lesson_duration": 75,
+    }
+
+    render_templates(state)
+
+    # Graph copies must exist in project_dir
+    assert (tmp_path / "prepare.yaml").exists(), "prepare.yaml not copied to project_dir"
+    assert (tmp_path / "generate.yaml").exists(), "generate.yaml not copied to project_dir"
+
+
+@pytest.mark.req("REQ-YG-069")
+def test_copied_graphs_use_correct_prompts_dir(tmp_path):
+    """Copied graphs resolve prompts from project_dir/prompts/, not the source."""
+    import yaml
+
+    from projects.opinto_ohjaus.nodes.render_templates import render_templates
+
+    state = {
+        "subject_summaries": {
+            "subject_profile": "Test profile.",
+            "pedagogical_context": "Test context.",
+            "lesson_template": "Test template.",
+        },
+        "project_dir": str(tmp_path),
+        "school_context": "Test",
+        "hours_per_module": 18,
+        "lesson_duration": 75,
+    }
+
+    render_templates(state)
+
+    # Verify both copied graphs have prompts_relative: true and prompts_dir: prompts
+    for graph_name in ("prepare.yaml", "generate.yaml"):
+        graph_data = yaml.safe_load((tmp_path / graph_name).read_text(encoding="utf-8"))
+        assert graph_data.get("prompts_relative") is True, (
+            f"{graph_name} must have prompts_relative: true"
+        )
+        assert graph_data.get("prompts_dir") == "prompts", (
+            f"{graph_name} must have prompts_dir: prompts"
+        )
+
+    # The rendered prompts must be findable from the copied graph's location
+    from yamlgraph.utils.prompts import resolve_prompt_path
+
+    for prompt in ("list-topics", "extract-vuosikello", "extract-and-augment-topic", "generate-lesson-plan"):
+        path = resolve_prompt_path(
+            prompt,
+            prompts_dir=Path("prompts"),
+            graph_path=tmp_path / "prepare.yaml",
+            prompts_relative=True,
+        )
+        assert path.exists(), f"Prompt {prompt} not resolvable from copied graph"
+
+
 @pytest.mark.req("REQ-YG-069")
 def test_generate_edge_dag():
     """Generate edges: START→load→generate→save→END."""

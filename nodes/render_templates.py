@@ -2,22 +2,30 @@
 
 Reads three one-pager summaries from state, renders 4 Jinja2 prompt
 templates, and writes the resulting prompt YAML files and vars.yaml
-to the target project directory.
+to the target project directory. Also copies the pipeline graphs
+so prompts_relative resolution works from the target directory.
 """
 
+import shutil
 from pathlib import Path
 
 import yaml
 from jinja2 import Environment, FileSystemLoader
 
 # Templates live alongside this module's parent directory
-TEMPLATES_DIR = Path(__file__).parent.parent / "templates"
+_PROJECT_ROOT = Path(__file__).parent.parent
+TEMPLATES_DIR = _PROJECT_ROOT / "templates"
 
 TEMPLATE_FILES = [
     "list-topics.yaml.j2",
     "extract-vuosikello.yaml.j2",
     "extract-and-augment-topic.yaml.j2",
     "generate-lesson-plan.yaml.j2",
+]
+
+GRAPH_FILES = [
+    "prepare.yaml",
+    "generate.yaml",
 ]
 
 
@@ -67,6 +75,13 @@ def render_templates(state: dict) -> dict:
         yaml.dump(vars_data, allow_unicode=True, default_flow_style=False),
         encoding="utf-8",
     )
+
+    # Copy pipeline graphs so prompts_relative resolves from project_dir
+    for graph_name in GRAPH_FILES:
+        src = _PROJECT_ROOT / graph_name
+        dst = project_dir / graph_name
+        if src.exists():
+            shutil.copy2(src, dst)
 
     return {
         "current_step": "render_templates",
