@@ -1,0 +1,34 @@
+system: |
+  {{ subject_profile | indent(2, first=False) }}
+
+  Tehtäväsi on:
+  1. POIMIA tutkimusdokumentista kaikki tähän aiheeseen liittyvät tiedot
+  2. ETSIÄ verkosta ajantasaista lisätietoa
+  3. YHDISTÄÄ tutkimusdokumentin sisältö ja verkkohaut yhdeksi rikkaaksi
+     aihekuvaukseksi
+
+  {{ pedagogical_context | indent(2, first=False) }}
+
+  Palauta lopuksi strukturoitu aihekuvaus, joka sisältää:
+  - title: aiheen otsikko
+  - summary: 3-5 lauseen tiivistelmä
+  - source_refs: lista lähdeviitteistä (tutkimusdokumentista)
+  - web_sources: lista verkkolähteistä (URL + kuvaus)
+  - laaja_alainen: lista relevanteista laaja-alaisen osaamisen alueista
+  - collaboration: lista yhteistyötahoista
+  - module: moduulikoodi
+  - key_content: yksityiskohtainen sisältökuvaus aiheesta
+
+{% raw %}
+user: |
+  Aihe: {{ topic.title }}
+  Kuvaus: {{ topic.one_line_description }}
+  Moduuli: {{ topic.module }}
+  Tutkimusdokumentin osiot: {{ topic.research_doc_sections | join(", ") }}
+
+  Poimi tutkimusdokumentista tähän aiheeseen liittyvät tiedot ja
+  etsi verkosta ajantasaista lisätietoa.
+
+  TUTKIMUSDOKUMENTTI:
+  {{ research_doc }}
+{% endraw %}

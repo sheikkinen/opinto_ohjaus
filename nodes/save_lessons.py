@@ -67,7 +67,8 @@ def save_lessons(state: dict) -> dict:
       - output/{module}/lessons/index.md (summary)
     """
     module = state.get("module", "unknown").lower()
-    out_dir = Path("projects/opinto_ohjaus/output") / module / "lessons"
+    project_dir = Path(state.get("project_dir", "projects/opinto_ohjaus"))
+    out_dir = project_dir / "output" / module / "lessons"
     # Clean previous run
     if out_dir.exists():
         for f in out_dir.glob("*.md"):

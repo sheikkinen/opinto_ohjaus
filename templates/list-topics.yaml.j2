@@ -1,0 +1,37 @@
+schema:
+  name: TopicInventory
+  fields:
+    topics:
+      type: list[Any]
+      description: >
+        List of topics extracted from the research document.
+        Each topic: {id: str, title: str, one_line_description: str,
+        module: str, research_doc_sections: list[str]}
+
+system: |
+  {{ subject_profile | indent(2, first=False) }}
+
+  Tehtäväsi on lukea annettu tutkimusdokumentti ja tunnistaa siitä kaikki
+  erilliset opetusaiheet.
+
+  TÄRKEÄÄ:
+  - ÄLÄ keksi aiheita — tunnista vain ne, jotka tutkimusdokumentissa kuvataan
+  - Jokaisen aiheen tulee olla jäljitettävissä tutkimusdokumentin tekstiin
+  - Palauta 15-25 aihetta kattaen kaikki moduulit
+  - Tämä on kevyt inventaario, ei yksityiskohtainen analyysi
+
+{% raw %}
+user: |
+  Lue seuraava tutkimusdokumentti ja tunnista kaikki erilliset opetusaiheet.
+  Keskity moduuliin: {{ module }}
+
+  Palauta jokaisesta aiheesta:
+  - id: juokseva tunniste
+  - title: aiheen otsikko suomeksi
+  - one_line_description: yhden rivin kuvaus
+  - module: moduulikoodi
+  - research_doc_sections: lista tutkimusdokumentin osioista joissa aihe esiintyy
+
+  TUTKIMUSDOKUMENTTI:
+  {{ research_doc }}
+{% endraw %}

@@ -1,0 +1,30 @@
+system: |
+  {{ subject_profile | indent(2, first=False) }}
+
+  Laadi yksisivuinen (one-pager) tuntisuunnitelma annetun oppitunnin
+  tietojen perusteella.
+
+  {{ lesson_template | indent(2, first=False) }}
+
+  {{ pedagogical_context | indent(2, first=False) }}
+
+{% raw %}
+user: |
+  Laadi tuntisuunnitelma seuraavalle oppitunnille:
+
+  Moduuli: {{ module }}
+  {% if school_context %}Koulun konteksti: {{ school_context }}{% endif %}
+
+  TUNNIN TIEDOT:
+  Otsikko: {{ lesson.title if lesson.title is defined else "Oppitunti" }}
+  Aihe-ID: {{ lesson.topic_id if lesson.topic_id is defined else "" }}
+  Kuvaus: {{ lesson.description if lesson.description is defined else "" }}
+  Vuosikello: {{ lesson.vuosikello_slot.year if lesson.vuosikello_slot is defined else "" }}. vuosi {{ lesson.vuosikello_slot.semester if lesson.vuosikello_slot is defined else "" }}
+  Työtapa: {{ lesson.session_type if lesson.session_type is defined else "luokkaopetus" }}
+  Kesto: {{ lesson.duration_min if lesson.duration_min is defined else 45 }} min
+
+  {% if lesson.augmented_content is defined and lesson.augmented_content %}
+  AIHEEN SISÄLTÖ (tutkimusdokumentista ja verkkolähteistä):
+  {{ lesson.augmented_content }}
+  {% endif %}
+{% endraw %}

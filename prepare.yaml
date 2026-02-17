@@ -30,6 +30,7 @@ state:
   hours_per_module: int
   lesson_duration: int
   research_doc: str
+  project_dir: str
 
 nodes:
   list_topics:

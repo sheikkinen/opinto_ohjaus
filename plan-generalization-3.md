@@ -1,4 +1,4 @@
-# Plan: Generalized Lukio Lesson Plan Pipeline — Template Approach
+# Plan: Generalized Lukio Lesson Plan Pipeline
 
 ## In / Out
 
@@ -7,17 +7,17 @@
 
 ## Key insight
 
-The original prompts were authored by a thinking model (claude-sonnet-4-5) in an
-interactive session. That model performed two distinct tasks simultaneously:
+The original prompts contain domain knowledge at three levels:
 
-1. **Extract domain knowledge** — subject, modules, assessment, sources, methods
-2. **Author YAML prompt files** — correct format, Jinja2 variables, schemas
+1. **Subject profile** — expert role, subject name, module codes/names/descriptions
+2. **Pedagogical context** — sources, collaboration partners, competence areas, methods
+3. **Lesson template** — section structure, assessment model, special themes
 
-These tasks have different complexity. Extraction is factual; a cheap model
-handles it. YAML authoring is format-sensitive; better handled by pre-validated
-templates. Separating them makes the pipeline cheaper, more robust, and debuggable.
+These are naturally documents, not structured fields. The LLM summarizes the
+research doc into three one-pagers. A Python node slots them into prompt
+templates as text blocks. No schema mapping, no field iteration.
 
-## Approach: extraction + templates
+## Approach: summarize + slot
 
 ```
 research_doc.md + basic params
@@ -25,8 +25,8 @@ research_doc.md + basic params
         ▼
 ┌──────────────────────────────────────────────┐
 │  bootstrap.yaml  (NEW)                       │
-│  Step 1: Extract domain profile (LLM)        │
-│  Step 2: Render prompt templates (Python)     │
+│  Step 1: Summarize into 3 one-pagers (LLM)   │
+│  Step 2: Slot into prompt templates (Python)  │
 │  → project_dir/vars.yaml                     │
 │  → project_dir/prompts/*.yaml                │
 └──────────────────────────────────────────────┘
@@ -42,53 +42,52 @@ research_doc.md + basic params
 └──────────────────────────────────────────────┘
 ```
 
-### Step 1: Extract domain profile
+### Step 1: Summarize into 3 one-pagers
 
-Single LLM call with structured output (Pydantic schema). The model reads the
-research document and returns a `DomainProfile`:
+Single LLM call with structured output. Any model with structured output
+support works (gemini-flash, haiku, sonnet).
+
+**Required input:**
+- `research_doc` — the Gemini Deep Research markdown document
+
+**Required output** — `SubjectSummaries` schema with 3 text fields:
 
 ```yaml
 schema:
-  name: DomainProfile
+  name: SubjectSummaries
   fields:
-    subject_name:
+    subject_profile:
       type: str
-      description: "Oppiaineen nimi (esim. terveystieto)"
-    expert_role:
+      description: >
+        Aineprofiili moduuleittain. Sisältää:
+        - Oppiaineen nimi
+        - Asiantuntijarooli (esim. "lukion terveystiedon opettaja")
+        - Jokainen moduuli: koodi, nimi, kuvaus, keskeiset aiheet
+          (esim. "TE1: Terveys voimavarana — terveyttä edistävät tekijät...")
+    pedagogical_context:
       type: str
-      description: "Asiantuntijarooli system-promptiin (esim. lukion terveystiedon opettaja)"
-    modules:
-      type: list
-      description: "Moduulit: [{code, name, description, key_topics}]"
-    assessment_model:
+      description: >
+        Pedagoginen konteksti. Sisältää:
+        - Keskeiset verkkolähteet URL-listana (oph.fi aina mukana)
+        - Yhteistyötahot (esim. terveydenhoitaja, TE-toimisto)
+        - Laaja-alaisen osaamisen alueet
+        - Sopivat opetusmenetelmät
+    lesson_template:
       type: str
-      description: "Arviointimalli (esim. 'numeroarviointi 4-10' tai 'suoritusmerkintä S/H')"
-    key_sources:
-      type: list[str]
-      description: "Keskeiset verkkolähteet (oph.fi aina mukana)"
-    laaja_alainen:
-      type: list[str]
-      description: "Relevanttien laaja-alaisen osaamisen alueet"
-    collaboration_partners:
-      type: list[str]
-      description: "Yhteistyötahot (esim. terveydenhoitaja, TE-toimisto)"
-    teaching_methods:
-      type: list[str]
-      description: "Sopivat opetusmenetelmät"
-    lesson_sections:
-      type: list
-      description: "Tuntisuunnitelman osiot: [{name, description}]"
-    special_themes:
-      type: str
-      description: "Aineen erityinen koko-koulu-näkökulma (esim. 'Koko koulu ohjaa')"
+      description: >
+        Tuntisuunnitelman rakenne markdown-muodossa. Sisältää:
+        - Osioiden nimet ja kuvaukset (esim. Tavoitteet, Tunnin kulku, Menetelmät)
+        - Arviointimalli (esim. "suoritusmerkintä S/H" tai "numeroarviointi 4-10")
+        - Aineen erityisnäkökulma (esim. "Koko koulu ohjaa")
 ```
 
-This is factual extraction. A fast model (gemini-flash, haiku) handles it.
+The schema descriptions are the contract. They tell the LLM what structure
+and content each one-pager must contain.
 
-### Step 2: Render prompt templates
+### Step 2: Slot into prompt templates
 
-Python node reads the `DomainProfile` and renders 4 Jinja2 templates into
-complete prompt YAML files. Templates live in `templates/` (not `prompts/`):
+Python node reads the three one-pagers and renders 4 Jinja2 templates.
+Templates live in `templates/`:
 
 ```
 templates/
@@ -98,48 +97,102 @@ templates/
 └── generate-lesson-plan.yaml.j2
 ```
 
-Example template fragment (`generate-lesson-plan.yaml.j2`):
+Each template uses `{{ subject_profile }}`, `{{ pedagogical_context }}`,
+`{{ lesson_template }}` as text block insertions:
 
 ```yaml
+# templates/generate-lesson-plan.yaml.j2
 system: |
-  Olet {{ expert_role }}.
+  {{ subject_profile }}
 
-  Laadi yksisivuinen (one-pager) tuntisuunnitelma lukion {{ subject_name }}-kurssille.
+  Laadi yksisivuinen (one-pager) tuntisuunnitelma.
 
-  ## RAKENNE
-  {% for section in lesson_sections %}
-  ### {{ section.name }}
-  {{ section.description }}
-  {% endfor %}
+  {{ lesson_template }}
 
-  ## ARVIOINTI
-  {{ assessment_model }}
-
-  ## {{ special_themes | upper }}
-  Huomioi {{ special_themes | lower }} -näkökulma suunnitelmassa.
-
-  ## LÄHTEET
-  {% for source in key_sources %}
-  - {{ source }}
-  {% endfor %}
+  {{ pedagogical_context }}
 ```
 
-No YAML generation by the LLM. Templates are pre-validated. Format risk is zero.
+No field iteration. No schema mapping. Three text blocks, four templates.
+Templates are pre-validated YAML — format risk is zero.
 
-## Why templates over generation
+## Template / one-pager pairs
 
-| | Generation (plan v2) | Templates (this plan) |
-|---|---|---|
-| Model requirement | Strong (sonnet-4-5) | Weak (flash/haiku) |
-| Format risk | LLM may produce broken YAML | Zero — templates are pre-validated |
-| Domain nuance | LLM makes holistic choices | Structured fields, some judgment |
-| Debuggability | Opaque — regenerate entire prompt | Fix one field in profile |
-| Cost per bootstrap | High (200K context, strong model) | Low (extraction only) |
-| Template evolution | Regenerate all prompts | Update template, re-render |
+### list-topics.yaml.j2 ← subject_profile
 
-The generation approach mirrors how the original session worked: Claude authored
-complete prompts. But that was a constraint of the interactive process, not a
-design principle. The extraction + template split is the natural decomposition.
+**Purpose:** Identify all teaching topics from the research document for one module.
+
+**One-pager provides:**
+- Subject name and expert role (system prompt identity)
+- Module codes, names, and descriptions (e.g. "OP1: Minä opiskelijana —
+  lukioon kiinnittyminen, opiskelutaidot, HOPS")
+- The `{% if module %}` conditional content: what to focus on per module
+
+**Template keeps:**
+- Schema definition (`TopicInventory` with `topics: list[Any]`)
+- Pipeline variables: `{{ module }}`, `{{ research_doc }}`
+- Instruction structure: "tunnista 15-25 aihetta", "palauta id, title, ..."
+
+**Key:** The subject profile must include per-module descriptions so the
+template can inject the right context when `{{ module }}` is set.
+
+### extract-vuosikello.yaml.j2 ← subject_profile
+
+**Purpose:** Extract the subject's yearly schedule from the research document.
+
+**One-pager provides:**
+- Expert role
+- Module codes (to map slots to modules)
+
+**Template keeps:**
+- Schema definition (`Vuosikello` with `slots: list[Any]`)
+- The 3-year × 2-semester structure (generic for all lukio subjects)
+- Pipeline variable: `{{ research_doc }}`
+- Instruction: "poimi vain se, mikä tutkimusdokumentissa kuvataan"
+
+**Key:** This is the most generic template. Only the expert role and module
+codes change between subjects. The vuosikello structure is universal.
+
+### extract-and-augment-topic.yaml.j2 ← subject_profile + pedagogical_context
+
+**Purpose:** Enrich each topic with research doc content and web search results.
+
+**One-pager provides:**
+- `subject_profile`: expert role, subject name
+- `pedagogical_context`: priority web sources (URL list), laaja-alainen
+  osaaminen categories, collaboration partners
+
+**Template keeps:**
+- Pipeline variables: `{{ topic.title }}`, `{{ topic.module }}`,
+  `{{ topic.research_doc_sections }}`, `{{ research_doc }}`
+- Output structure: title, summary, source_refs, web_sources, key_content
+- Instruction to search the web and combine with document content
+
+**Key:** The pedagogical context replaces hardcoded source lists (oph.fi,
+opintopolku.fi) and collaboration categories. Different subjects have
+different priority sources (e.g. THL for terveystieto, Arkisto for historia).
+
+### generate-lesson-plan.yaml.j2 ← subject_profile + pedagogical_context + lesson_template
+
+**Purpose:** Generate a complete one-pager lesson plan for one topic.
+
+**One-pager provides:**
+- `subject_profile`: expert role, subject header ("# OPINTO-OHJAUS" → "# TERVEYSTIETO")
+- `pedagogical_context`: sources, collaboration partners for the lesson
+- `lesson_template`: section structure (Tavoitteet, Tunnin kulku, Menetelmät...),
+  assessment model ("suoritusmerkintä S/H" vs "numeroarviointi 4-10"),
+  special theme ("Koko koulu ohjaa" vs subject-specific equivalent)
+
+**Template keeps:**
+- Pipeline variables: `{{ module }}`, `{{ school_context }}`,
+  `{{ lesson.title }}`, `{{ lesson.augmented_content }}`,
+  `{{ lesson.vuosikello_slot }}`, `{{ lesson.session_type }}`,
+  `{{ lesson.duration_min }}`
+- User prompt structure with lesson data injection
+
+**Key:** This template uses all three one-pagers. The lesson template one-pager
+is the most critical — it defines the entire output structure and tone.
+The current opinto-ohjaus version has ~30 lines of markdown structure that
+must be reproduced with equivalent depth for each new subject.
 
 ## What changes
 
@@ -151,28 +204,28 @@ Add `project_dir: str` to state in `prepare.yaml` and `generate.yaml`.
 
 ### 2. Create templates/ directory
 
-Convert the 4 opinto-ohjaus prompts into Jinja2 templates. Each template uses
-`DomainProfile` fields instead of hardcoded domain terms.
+Convert the 4 opinto-ohjaus prompts into Jinja2 templates with three
+slot variables: `subject_profile`, `pedagogical_context`, `lesson_template`.
 
-### 3. Add prompts/extract-domain-profile.yaml
+### 3. Add prompts/summarize-subject.yaml
 
-Extraction prompt with `DomainProfile` schema. Instructs the LLM to read the
-research document and return structured domain knowledge.
+Summarization prompt with `SubjectSummaries` schema. Instructs the LLM to
+read the research document and write three one-pager summaries.
 
 ### 4. Add nodes/render_templates.py
 
-Reads `DomainProfile` from state, renders 4 templates, writes prompt files
-and `vars.yaml` to `project_dir/`. The generated `vars.yaml` includes
+Reads the three one-pagers from state, renders 4 templates, writes prompt
+files and `vars.yaml` to `project_dir/`. The generated `vars.yaml` includes
 `project_dir` so subsequent pipeline steps pick it up via `--var-file`.
 
 ### 5. Add bootstrap.yaml
 
-Two nodes: `extract_profile` (LLM) → `render_templates` (Python).
+Two nodes: `summarize_subject` (LLM) → `render_templates` (Python).
 
 ### 6. Tests
 
 - Bootstrap graph lints and loads
-- Template rendering unit tests (mock profile → expected prompt output)
+- Template rendering unit tests (mock summaries → expected prompt output)
 - Existing 12 tests still pass
 
 ## Shared-graph pattern
@@ -193,7 +246,7 @@ projects/terveystieto/
 # 1. Gemini Deep Research
 # Query: "terveystieto, lukion opetussuunnitelma LOPS 2019"
 
-# 2. Bootstrap — extract profile + render templates
+# 2. Bootstrap — summarize + render templates
 mkdir -p projects/terveystieto
 yamlgraph graph run projects/opinto_ohjaus/bootstrap.yaml \
   --var research_doc=@projects/terveystieto/terveystieto-ops.md \

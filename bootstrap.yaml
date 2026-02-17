@@ -1,0 +1,46 @@
+name: opinto-ohjaus-bootstrap
+version: "1.0"
+description: >
+  Bootstrap phase: summarize research document into 3 one-pagers,
+  then render prompt templates for a new subject project.
+
+prompts_relative: true
+prompts_dir: prompts
+
+defaults:
+  temperature: 0.3
+
+tools:
+  render_templates:
+    type: python
+    module: projects.opinto_ohjaus.nodes.render_templates
+    function: render_templates
+    description: "Render prompt templates with subject summaries"
+
+state:
+  research_doc: str
+  project_dir: str
+  school_context: str
+  hours_per_module: int
+  lesson_duration: int
+
+nodes:
+  summarize_subject:
+    type: llm
+    prompt: summarize-subject
+    variables:
+      research_doc: "{state.research_doc}"
+    state_key: subject_summaries
+
+  render_templates:
+    type: python
+    tool: render_templates
+    state_key: output_dir
+
+edges:
+  - from: START
+    to: summarize_subject
+  - from: summarize_subject
+    to: render_templates
+  - from: render_templates
+    to: END

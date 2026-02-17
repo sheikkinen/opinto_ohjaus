@@ -29,6 +29,7 @@ state:
   school_context: str
   hours_per_module: int
   lesson_duration: int
+  project_dir: str
 
 nodes:
   load_data:

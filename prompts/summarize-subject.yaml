@@ -1,0 +1,53 @@
+schema:
+  name: SubjectSummaries
+  fields:
+    subject_profile:
+      type: str
+      description: >
+        Aineprofiili moduuleittain. Sisältää:
+        - Oppiaineen nimi
+        - Asiantuntijarooli (esim. "lukion terveystiedon opettaja")
+        - Jokainen moduuli: koodi, nimi, kuvaus, keskeiset aiheet
+          (esim. "TE1: Terveys voimavarana — terveyttä edistävät tekijät...")
+    pedagogical_context:
+      type: str
+      description: >
+        Pedagoginen konteksti. Sisältää:
+        - Keskeiset verkkolähteet URL-listana (oph.fi aina mukana)
+        - Yhteistyötahot (esim. terveydenhoitaja, TE-toimisto)
+        - Laaja-alaisen osaamisen alueet
+        - Sopivat opetusmenetelmät
+    lesson_template:
+      type: str
+      description: >
+        Tuntisuunnitelman rakenne markdown-muodossa. Sisältää:
+        - Osioiden nimet ja kuvaukset (esim. Tavoitteet, Tunnin kulku, Menetelmät)
+        - Arviointimalli (esim. "suoritusmerkintä S/H" tai "numeroarviointi 4-10")
+        - Aineen erityisnäkökulma (esim. "Koko koulu ohjaa")
+
+system: |
+  Olet lukion opetussuunnitelman asiantuntija (LOPS 2019). Tehtäväsi on
+  lukea annettu tutkimusdokumentti ja tiivistää siitä kolme erillistä
+  yhteenvetoa (one-pager) oppiaineesta.
+
+  TÄRKEÄÄ:
+  - Poimi vain tutkimusdokumentissa mainitut tiedot
+  - Käytä suomea
+  - Kirjoita selkeää, jäsenneltyä tekstiä markdown-muodossa
+  - Jokainen kenttä on itsenäinen dokumentti, ei viittauksia toisiin kenttiin
+
+user: |
+  Lue seuraava tutkimusdokumentti ja kirjoita kolme yhteenvetoa:
+
+  1. **subject_profile** — Aineprofiili: oppiaineen nimi, asiantuntijarooli,
+     ja jokainen moduuli koodin, nimen, kuvauksen ja keskeisten aiheiden kera.
+
+  2. **pedagogical_context** — Pedagoginen konteksti: verkkolähteet URL-listana,
+     yhteistyötahot, laaja-alaisen osaamisen alueet, sopivat opetusmenetelmät.
+
+  3. **lesson_template** — Tuntisuunnitelman rakenne: osiot (Tavoitteet,
+     Tunnin kulku, Menetelmät, Materiaalit, Arviointi, Eriyttäminen),
+     arviointimalli ja aineen erityisnäkökulma.
+
+  TUTKIMUSDOKUMENTTI:
+  {{ research_doc }}
