@@ -1,0 +1,85 @@
+name: opinto-ohjaus-prepare
+version: "1.0"
+description: >
+  Preparation phase: extract topics, vuosikello, and augment topics
+  with web search. Saves results to output/{module}/ as JSON files.
+
+prompts_relative: true
+prompts_dir: prompts
+
+defaults:
+  temperature: 0.3
+  max_map_items: 30
+
+tools:
+  websearch:
+    type: python
+    module: examples.shared.websearch
+    function: search_web
+    description: "Search the web for current information"
+
+  save_preparation:
+    type: python
+    module: projects.opinto_ohjaus.nodes.save_preparation
+    function: save_preparation
+    description: "Save preparation results to output files"
+
+state:
+  module: str
+  school_context: str
+  hours_per_module: int
+  lesson_duration: int
+  research_doc: str
+  project_dir: str
+
+nodes:
+  list_topics:
+    type: llm
+    prompt: list-topics
+    variables:
+      research_doc: "{state.research_doc}"
+      module: "{state.module}"
+    state_key: topic_inventory
+
+  extract_vuosikello:
+    type: llm
+    prompt: extract-vuosikello
+    variables:
+      research_doc: "{state.research_doc}"
+    state_key: vuosikello
+
+  extract_and_augment:
+    type: map
+    over: "{state.topic_inventory.topics}"
+    as: topic
+    node:
+      type: agent
+      tools: [websearch]
+      prompt: extract-and-augment-topic
+      state_key: augmented
+      max_iterations: 3
+      variables:
+        research_doc: "{state.research_doc}"
+        topic: "{state.topic}"
+    collect: augmented_topics
+    on_error: skip
+    max_items: 30
+
+  save_preparation:
+    type: python
+    tool: save_preparation
+    state_key: output_dir
+
+edges:
+  - from: START
+    to: list_topics
+  - from: START
+    to: extract_vuosikello
+  - from: list_topics
+    to: extract_and_augment
+  - from: extract_and_augment
+    to: save_preparation
+  - from: extract_vuosikello
+    to: save_preparation
+  - from: save_preparation
+    to: END

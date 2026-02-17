@@ -1,0 +1,125 @@
+{
+  "slots": [
+    {
+      "year": 1,
+      "semester": "syksy",
+      "module": "PS1: Toimiva ja oppiva ihminen",
+      "focus_areas": [
+        "Psykologia tieteenä",
+        "ei-tietoinen",
+        "motiivit",
+        "tunteet",
+        "oppimisen psykologia (ehdollistuminen, muisti, sisäiset mallit, oppimisstrategiat)",
+        "metakognitio",
+        "tavoiteorientaatiot",
+        "pystyvyysuskomukset",
+        "aivojen plastisuus",
+        "unen merkitys oppimiselle",
+        "oppimisen sosiaalisuus",
+        "erilaiset oppimiskulttuurit",
+        "ihmisen toiminta psyykkisestä, biologisesta ja sosiokulttuurisesta näkökulmasta"
+      ],
+      "key_activities": [
+        "Luoda perusta tieteelliselle ajattelulle",
+        "ymmärtää psykologisen tiedon rakentumista tutkimuksen kautta",
+        "tarkastella ihmisen toimintaa psyykkisestä, biologisesta ja sosiokulttuurisesta näkökulmasta"
+      ]
+    },
+    {
+      "year": 1,
+      "semester": "kevät",
+      "module": "PS2: Kehittyvä ihminen",
+      "focus_areas": [
+        "Identiteetin muodostuminen (sukupuoli-, seksuaali-, etninen ja kulttuuri-identiteetti)",
+        "kiintymyssuhteiden merkitys kehityksen perustana",
+        "hermoston muovautuvuus ja sen yhteys elinikäiseen kehitykseen",
+        "kehityspsykologian tutkimusmenetelmät (pitkittäis- ja poikittaistutkimukset, kaksostutkimukset, havainnointi, haastattelut)",
+        "kehityksen jatkuvuus",
+        "yksilölliset kehityspolkuja",
+        "perimän ja ympäristön monimutkainen vuorovaikutus"
+      ],
+      "key_activities": [
+        "Korostaa kehityksen jatkuvuutta",
+        "tarkastella yksilöllisiä kehityspolkuja",
+        "ymmärtää perimän ja ympäristön vuorovaikutusta"
+      ]
+    },
+    {
+      "year": 2,
+      "semester": "syksy",
+      "module": "PS3: Tietoa käsittelevä ihminen",
+      "focus_areas": [
+        "Havaitseminen (ensisijaisesti näönvarainen ja sen hermostollinen perusta)",
+        "Daniel Kahnemanin kaksoisprosessointiteoria",
+        "kognitiiviset vinoumat",
+        "heuristiikat",
+        "kieli korkeampana kognitiivisena toimintona",
+        "tarkkaavaisuus",
+        "muisti (eri osa-alueet ja hermostolliset verkostot)",
+        "kokeellinen tutkimus (suunnittelu ja toteutus)",
+        "ihmisen tiedonkäsittely ja sen biologinen perusta"
+      ],
+      "key_activities": [
+        "Syventyä ihmisen tiedonkäsittelyyn ja sen biologiseen perustaan",
+        "perehtyä ilmiöihin syvällisemmin"
+      ]
+    },
+    {
+      "year": 2,
+      "semester": "kevät",
+      "module": "PS4: Tunteet ja mielenterveys",
+      "focus_areas": [
+        "Emootioiden syntymekanismit (sisältäen sosiaalisen tiedonkäsittelyn hermostollisen perustan)",
+        "mielenterveyshäiriöt (yksi valittu häiriö: oireet, syyt, hoitomuodot kuten psykoterapiat)",
+        "resilienssi (psyykkinen sitkeys)",
+        "itsetuntemus",
+        "oman psyykkisen hyvinvoinnin ylläpitäminen",
+        "psyykkinen itsesäätely ja hyvinvointi"
+      ],
+      "key_activities": [
+        "Ymmärtää psyykkistä itsesäätelyä ja hyvinvointia",
+        "syventyä perusteellisemmin yhteen valittuun mielenterveyshäiriöön"
+      ]
+    },
+    {
+      "year": 3,
+      "semester": "syksy",
+      "module": "PS5: Yksilöllinen ja yhteisöllinen ihminen",
+      "focus_areas": [
+        "Persoonallisuus (temperamentti, piirteet kuten Big Five -malli, motivaatio, yksilölliset tulkinta- ja toimintatyylit)",
+        "älykkyys",
+        "luovuus",
+        "sosiaalinen identiteetti",
+        "ryhmädynamiikka",
+        "roolit",
+        "ryhmän toimintaa ohjaavat tekijät (kuten konformisuus)",
+        "kulttuurin ulottuvuudet",
+        "akkulturaatioprosessit",
+        "stereotypiat ja ennakkoluulot sekä niiden vähentämiskeinot"
+      ],
+      "key_activities": [
+        "Yhdistää persoonallisuuspsykologian ja sosiaalipsykologian kentät",
+        "ymmärtää yksilöllisiä eroja",
+        "ymmärtää ihmisen toimintaa ryhmän jäsenenä"
+      ]
+    },
+    {
+      "year": 3,
+      "semester": "kevät",
+      "module": "PS8 ja PS9: Psykologian abikurssit",
+      "focus_areas": [
+        "Kertaus kaikista valtakunnallisista moduuleista (PS1-PS5)",
+        "keskeiset psykologiset teoriat ja käsitteet",
+        "tutkimusmenetelmien kertaaminen",
+        "kriittinen ajattelu",
+        "psykologisen tiedon soveltaminen ylioppilaskokeessa"
+      ],
+      "key_activities": [
+        "Valmistautua ylioppilaskokeeseen",
+        "kerrata keskeisiä sisältöjä",
+        "harjoitella vastaustekniikkaa",
+        "analysoida aineistoja psykologisten teorioiden avulla"
+      ]
+    }
+  ]
+}

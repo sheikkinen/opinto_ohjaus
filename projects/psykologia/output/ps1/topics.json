@@ -1,0 +1,187 @@
+{
+  "topics": [
+    {
+      "id": "1",
+      "title": "Tieteellinen ajattelu psykologiassa",
+      "one_line_description": "Perusta tieteelliselle ajattelulle ja ymmärrykselle psykologisen tiedon rakentumisesta tutkimuksen kautta.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8",
+        "4"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Ihmisen biopsykososiaalinen kokonaisuus",
+      "one_line_description": "Ihmisen toiminnan tarkastelu psyykkisestä, biologisesta ja sosiokulttuurisesta näkökulmasta sekä näiden tekijöiden keskinäinen riippuvuus.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8",
+        "6"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Ei-tietoinen toiminta",
+      "one_line_description": "Mielen automaattisten ja tiedostamattomien prosessien käsittely 'ei-tietoisena' ilmiönä.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "2"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Motiivit",
+      "one_line_description": "Perustieto ihmisen motiiveista osana psyykkistä toimintaa.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Tunteet (PS1)",
+      "one_line_description": "Perustieto ihmisen tunteista osana psyykkistä toimintaa.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Oppimisen psykologia",
+      "one_line_description": "Oppimiseen vaikuttavien tekijöiden erittely ja ymmärtäminen.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Ehdollistuminen",
+      "one_line_description": "Oppimiseen vaikuttava ilmiö, jossa reaktio opitaan yhdistämään tiettyyn ärsykkeeseen.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Muistin toiminta (PS1)",
+      "one_line_description": "Perustieto muistin toiminnasta ja sen merkityksestä oppimisessa.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Sisäiset mallit",
+      "one_line_description": "Kognitiiviset rakenteet, jotka ohjaavat havaitsemista, ajattelua ja toimintaa.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Oppimisstrategiat",
+      "one_line_description": "Keinoja ja menetelmiä, joita käytetään oppimisen tehostamiseen.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Metakognitio",
+      "one_line_description": "Oman oppimisen ja ajattelun tiedostaminen ja säätely.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Tavoiteorientaatiot",
+      "one_line_description": "Yksilön pyrkimykset ja tavoitteet oppimistilanteissa.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Pystyvyysuskomukset",
+      "one_line_description": "Yksilön uskomukset omasta kyvystään suoriutua tehtävistä ja saavuttaa tavoitteita.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Aivojen plastisuus",
+      "one_line_description": "Aivojen kyky muovautua ja muuttua kokemusten ja oppimisen myötä.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Unen merkitys oppimiselle",
+      "one_line_description": "Unen rooli ja vaikutus oppimisprosesseihin ja muistin konsolidaatioon.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8"
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Oppimisen sosiaalisuus",
+      "one_line_description": "Sosiaalisen vuorovaikutuksen ja ympäristön vaikutus oppimiseen.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8"
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Erilaiset oppimiskulttuurit",
+      "one_line_description": "Kulttuuristen tekijöiden vaikutus oppimiskäytäntöihin ja -ympäristöihin.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8"
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Tieteellinen tieto vs. arkipsykologia",
+      "one_line_description": "Ero tieteellisen tiedon ja arkipsykologian välillä psykologiassa.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8"
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Tutkimusprosessi psykologiassa",
+      "one_line_description": "Yleiskuva psykologian tutkimusprosessista.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8"
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Tutkimuseettiset periaatteet",
+      "one_line_description": "Psykologisen tutkimuksen eettiset periaatteet, kuten tietoinen suostumus ja luottamuksellisuus.",
+      "module": "PS1",
+      "research_doc_sections": [
+        "8",
+        "21"
+      ]
+    }
+  ]
+}

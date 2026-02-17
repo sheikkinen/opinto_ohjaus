@@ -1,0 +1,4 @@
+project_dir: projects/psykologia
+school_context: "Keskikokoinen lukio, noin 300 opiskelijaa"
+hours_per_module: 18
+lesson_duration: 75

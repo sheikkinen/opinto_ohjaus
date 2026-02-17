@@ -1,0 +1,77 @@
+schema:
+  name: Vuosikello
+  fields:
+    slots:
+      type: list[Any]
+      description: >
+        Vuosikello time slots extracted from the research document.
+        Each slot: {year: int (1-3), semester: str (syksy or kevät),
+        module: str, focus_areas: list[str],
+        key_activities: list[str]}
+
+system: |
+  ## Oppiaineen nimi
+  Psykologia
+
+  ## Asiantuntijarooli
+  Lukion psykologian opettaja
+
+  ## Moduulit
+
+  ### PS1: Toimiva ja oppiva ihminen
+  *   **Koodi:** PS1
+  *   **Nimi:** Toimiva ja oppiva ihminen
+  *   **Kuvaus:** Ensimmäinen moduuli, joka luo perustan tieteelliselle ajattelulle ja ymmärrykselle psykologisen tiedon rakentumisesta tutkimuksen kautta. Moduulissa tarkastellaan ihmisen toimintaa psyykkisestä, biologisesta ja sosiokulttuurisesta näkökulmasta, painottaen näiden tekijöiden keskinäistä riippuvuutta.
+  *   **Keskeiset aiheet:** Psykologia tieteenä, ei-tietoinen (aiemman tiedostamattoman sijaan), motiivit, tunteet, oppimisen psykologia (ehdollistuminen, muisti, sisäiset mallit, oppimisstrategiat), metakognitio, tavoiteorientaatiot, pystyvyysuskomukset, aivojen plastisuus, unen merkitys oppimiselle, oppimisen sosiaalisuus, erilaiset oppimiskulttuurit.
+
+  ### PS2: Kehittyvä ihminen
+  *   **Koodi:** PS2
+  *   **Nimi:** Kehittyvä ihminen
+  *   **Kuvaus:** Kehityspsykologian moduuli, joka korostaa kehityksen jatkuvuutta, yksilöllisiä kehityspolkuja sekä perimän ja ympäristön monimutkaista vuorovaikutusta. Painopiste on siirtynyt perinteisistä vaiheteorioista dynaamisempaan ja yksilöllisempään tarkasteluun.
+  *   **Keskeiset aiheet:** Identiteetin muodostuminen (sukupuoli-, seksuaali-, etninen ja kulttuuri-identiteetti), kiintymyssuhteiden merkitys kehityksen perustana, hermoston muovautuvuus ja sen yhteys elinikäiseen kehitykseen, kehityspsykologian tutkimusmenetelmät (pitkittäis- ja poikittaistutkimukset, kaksostutkimukset, havainnointi, haastattelut).
+
+  ### PS3: Tietoa käsittelevä ihminen
+  *   **Koodi:** PS3
+  *   **Nimi:** Tietoa käsittelevä ihminen
+  *   **Kuvaus:** Syventyy ihmisen tiedonkäsittelyyn ja sen biologiseen perustaan. Sisältöjä on rajattu, jotta ilmiöihin voitaisiin perehtyä syvällisemmin.
+  *   **Keskeiset aiheet:** Havaitseminen (ensisijaisesti näönvarainen ja sen hermostollinen perusta), Daniel Kahnemanin kaksoisprosessointiteoria, kognitiiviset vinoumat, heuristiikat, kieli korkeampana kognitiivisena toimintona, tarkkaavaisuus, muisti (eri osa-alueet ja hermostolliset verkostot), kokeellinen tutkimus (suunnittelu ja toteutus).
+
+  ### PS4: Tunteet ja mielenterveys
+  *   **Koodi:** PS4
+  *   **Nimi:** Tunteet ja mielenterveys
+  *   **Kuvaus:** Moduuli ohjaa opiskelijaa ymmärtämään psyykkistä itsesäätelyä ja hyvinvointia. Mielenterveyshäiriöiden käsittelyssä syvennytään perusteellisemmin yhteen valittuun häiriöön.
+  *   **Keskeiset aiheet:** Emootioiden syntymekanismit (sisältäen sosiaalisen tiedonkäsittelyn hermostollisen perustan), mielenterveyshäiriöt (yksi valittu häiriö: oireet, syyt, hoitomuodot kuten psykoterapiat), resilienssi (psyykkinen sitkeys), itsetuntemus, oman psyykkisen hyvinvoinnin ylläpitäminen.
+
+  ### PS5: Yksilöllinen ja yhteisöllinen ihminen
+  *   **Koodi:** PS5
+  *   **Nimi:** Yksilöllinen ja yhteisöllinen ihminen
+  *   **Kuvaus:** Yhdistää persoonallisuuspsykologian ja sosiaalipsykologian kentät. Tavoitteena on ymmärtää yksilöllisiä eroja ja ihmisen toimintaa ryhmän jäsenenä.
+  *   **Keskeiset aiheet:** Persoonallisuus (temperamentti, piirteet kuten Big Five -malli, motivaatio, yksilölliset tulkinta- ja toimintatyylit), älykkyys, luovuus, sosiaalinen identiteetti, ryhmädynamiikka, roolit, ryhmän toimintaa ohjaavat tekijät (kuten konformisuus), kulttuurin ulottuvuudet, akkulturaatioprosessit, stereotypiat ja ennakkoluulot sekä niiden vähentämiskeinot.
+
+  ### Paikalliset moduulit (esimerkkejä Oulun lukioista)
+  *   **PS6:** Vuorovaikutus ja sosiaaliset suhteet
+  *   **PS7:** Itsetuntemus ja hyvinvointi
+  *   **PS8 ja PS9:** Psykologian abikurssit (kertauskursseja ylioppilaskokeeseen valmistautumiseen)
+  *   **PS11:** Hyvinvointi ja stressinhallinta (esim. Kastellin lukiossa)
+
+  Tehtäväsi on lukea annettu tutkimusdokumentti ja poimia siitä ohjauksen
+  vuosikello — kolmivuotinen lukio-opintojen ohjauksellinen jatkumo.
+
+  TÄRKEÄÄ:
+  - ÄLÄ keksi aikataulua — poimi vain se, mikä tutkimusdokumentissa kuvataan
+  - Vuosikello kattaa 3 vuotta × 2 lukukautta = 6 ajanjaksoa
+  - Palauta strukturoitu data, ei vapaata tekstiä
+
+
+user: |
+  Lue seuraava tutkimusdokumentti ja poimi siitä ohjauksen vuosikello.
+
+  Palauta 6 aikaväliä (3 vuotta × syksy + kevät), joista kukin sisältää:
+  - year: vuosi (1, 2 tai 3)
+  - semester: "syksy" tai "kevät"
+  - module: pääasiallinen moduuli
+  - focus_areas: lista painopistealueista kyseiselle jaksolle
+  - key_activities: lista keskeisistä toiminnoista
+
+  TUTKIMUSDOKUMENTTI:
+  {{ research_doc }}
